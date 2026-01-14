@@ -49,6 +49,10 @@ class RSSProcessor:
             if len(processed_items) >= max_items:
                 break
 
+            if not hasattr(entry, 'link'):
+                print(f"  [{idx+1}/{total_entries}] [SKIP] Item missing link attribute: {getattr(entry, 'title', 'No Title')[:30]}...")
+                continue
+
             guid = entry.link 
             
             cached_entry = self.item_store.get_item(guid)
@@ -87,6 +91,29 @@ class RSSProcessor:
 
                 if "sciencedirect.com" in link:
                     api_abstract, api_full_data = fetch_elsevier_abstract(link)
+                    
+                    # Optimization: If this is a retry for a partial item and API failed to get abstract,
+                    # just update the timestamp (to reset cooldown) and keep using the existing partial data.
+                    # This avoids unnecessary re-translation and re-saving.
+                    is_partial_retry = cached_entry and cached_entry.get("status") == "partial"
+                    if is_partial_retry and not api_abstract:
+                        print(" [API Failed] Keeping cached partial item.", end="", flush=True)
+                        self.item_store.update_timestamp(guid)
+                        
+                        item_data = cached_entry["data"]
+                        # Ensure pubDate is a datetime object
+                        if isinstance(item_data["pubDate"], str):
+                            try:
+                                item_data["pubDate"] = datetime.datetime.strptime(item_data["pubDate"], "%Y-%m-%d %H:%M:%S")
+                            except:
+                                item_data["pubDate"] = datetime.datetime.now()
+                        
+                        if item_data["guid"] not in item_guids:
+                            item_guids.add(item_data["guid"])
+                            processed_items.append(item_data)
+                        print(" Done.")
+                        continue
+
                     if api_full_data:
                         print(" [API Abstract]", end="", flush=True)
                         
@@ -183,7 +210,7 @@ class RSSProcessor:
         
         feed_info = {
             "title": feed_title,
-            "link": d.feed.link,
+            "link": getattr(d.feed, 'link', ''),
             "description": feed_desc,
             "lastBuildDate": getTime(d.feed),
             "items": sorted_list,

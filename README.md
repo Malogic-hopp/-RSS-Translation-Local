@@ -71,8 +71,8 @@
      <summary>Latest Updates (Click to expand)</summary>
 
      * [编委会](https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all)
-     * [从图纸到决策：将2D工程图纸解析为结构化制造知识的混合视觉语言框架](https://www.sciencedirect.com/science/article/pii/S0736584525002406?dgcid=rss_sd_all)
-     * [3DprintMIND：一个使用大型语言模型和动态制造知识图进行智能制造的AI Agent系统](https://www.sciencedirect.com/science/article/pii/S0736584525002686?dgcid=rss_sd_all)
+     * [数字孪生工业环境中大型语言模型引导强化学习的统一框架](https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all)
+     * [基于学习的高精度制造机器人加工误差预测](https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all)
    </details>
 
  - Computers_in_industry [https://rss.sciencedirect.com/publication/science/01663615](https://rss.sciencedirect.com/publication/science/01663615) -> [Computers_in_industry](rss/Computers_in_industry.xml)
@@ -117,6 +117,7 @@
 
      * [真正的达密码和世界上最古老的毒箭](https://www.science.org/doi/10.1126/science.zhe4p4l)
      * [在系外行星上寻找大陆，数学对数学家来说也很难](https://www.science.org/doi/10.1126/science.znnadc8)
+     * [今年最大的突破和头条新闻](https://www.science.org/doi/10.1126/science.z9i6115)
    </details>
 
  - Science_signaling [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling) -> [Science_signaling](rss/Science_signaling.xml)

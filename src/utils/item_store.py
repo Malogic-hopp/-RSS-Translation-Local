@@ -41,6 +41,12 @@ class ItemStore:
         }
         self.dirty = True
 
+    def update_timestamp(self, guid):
+        """Update only the timestamp for an existing item (used for failed retries)."""
+        if guid in self.data:
+            self.data[guid]["last_updated"] = time.time()
+            self.dirty = True
+
     def should_retry_partial(self, guid, cooldown_hours=24):
         """
         Check if a partial/failed item should be retried based on cooldown.
