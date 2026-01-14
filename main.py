@@ -1,5 +1,6 @@
 import os
 import requests
+import feedparser
 from dotenv import load_dotenv
 
 from src.utils.helpers import get_md5_value
@@ -32,11 +33,13 @@ def main():
     item_store = ItemStore(ITEM_STORE_FILE)
     
     base_dir = config_mgr.get("cfg", "base", "rss/")
+    cooldown_hours = int(config_mgr.get("cfg", "cooldown_hours", 24))
+
     os.makedirs(base_dir, exist_ok=True)
     os.makedirs(DEBUG_DIR, exist_ok=True)
 
     secs = config_mgr.sections()
-    links = []
+    feeds_data = []
 
     print(f"Baidu Translator Init... (AppID: {BAIDU_APP_ID[:4]}***)")
 
@@ -50,7 +53,15 @@ def main():
 
         old_md5 = state_mgr.get_md5(sec)
         xml_file = os.path.join(base_dir, f"{name}.xml")
-        links.append(f" - {sec} [{url}]({url}) -> [{name}]({xml_file.replace(os.sep, '/')})\n")
+        xml_path_display = xml_file.replace(os.sep, '/')
+        
+        # Prepare feed entry
+        feed_entry = {
+            "name": name,
+            "url": url,
+            "xml_path": xml_path_display,
+            "items": []
+        }
 
         print(f"Checking {sec} ({name})...")
 
@@ -63,8 +74,20 @@ def main():
                 f.write(r.text)
                 
             new_md5 = get_md5_value(r.text)
+            parsed_feed = feedparser.parse(r.text)
         except Exception as e:
             print(f"  Error fetching {url}: {e}")
+            # If fetch fails, try to load existing local items
+            if os.path.exists(xml_file):
+                 try:
+                    d = feedparser.parse(xml_file)
+                    for entry in d.entries[:5]:
+                        feed_entry["items"].append({
+                            "title": entry.title,
+                            "link": entry.link
+                        })
+                 except: pass
+            feeds_data.append(feed_entry)
             continue
 
         needs_update = False
@@ -72,15 +95,35 @@ def main():
             needs_update = True
         elif not os.path.exists(xml_file):
              needs_update = True
+        else:
+            # Check if any items in the current feed need retry (e.g. they were "partial")
+            for entry in parsed_feed.entries[:max_item]:
+                if item_store.should_retry_partial(entry.link, cooldown_hours):
+                    needs_update = True
+                    print(f"  Found item(s) needing retry (partial or missing).")
+                    break
         
         if not needs_update:
-            print(f"  No update needed (MD5 Match).")
+            print(f"  No update needed (MD5 Match & No Partials).")
+            # Load existing items from local file
+            if os.path.exists(xml_file):
+                try:
+                    d = feedparser.parse(xml_file)
+                    for entry in d.entries[:5]:
+                        feed_entry["items"].append({
+                            "title": entry.title,
+                            "link": entry.link
+                        })
+                except Exception as e:
+                    print(f"  Error parsing local file: {e}")
+            
+            feeds_data.append(feed_entry)
             continue
 
         print(f"  Updating...")
         translator = BaiduTranslator(BAIDU_APP_ID, BAIDU_SECRET_KEY, source_lang, target_lang)
         # Pass only item_store
-        processor = RSSProcessor(translator, item_store)
+        processor = RSSProcessor(translator, item_store, cooldown_hours)
         
         try:
             feed_info = processor.process_feed(url, max_item)
@@ -93,13 +136,32 @@ def main():
             state_mgr.save()
             item_store.save() 
             
+            # Use the processed items
+            for item in feed_info.get("items", [])[:5]:
+                feed_entry["items"].append({
+                    "title": item["title"],
+                    "link": item["link"]
+                })
+            
         except Exception as e:
             print(f"  Error processing {sec}: {e}")
+            # Fallback to local if update failed but file exists
+            if os.path.exists(xml_file):
+                try:
+                    d = feedparser.parse(xml_file)
+                    for entry in d.entries[:5]:
+                        feed_entry["items"].append({
+                            "title": entry.title,
+                            "link": entry.link
+                        })
+                except: pass
+
+        feeds_data.append(feed_entry)
 
     # Finalize
     state_mgr.save()
     item_store.save()
-    update_readme(links)
+    update_readme(feeds_data)
     print("Done.")
 
 if __name__ == "__main__":

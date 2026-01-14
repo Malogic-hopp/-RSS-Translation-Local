@@ -3,15 +3,17 @@ from jinja2 import Template
 import re
 import datetime
 import os
+import json
 from ..utils.helpers import getTime, clean_html_text
 from ..fetchers.elsevier import fetch_elsevier_abstract
 
 DEBUG_LOG_FILE = "data/debug/elsevier_debug.log"
 
 class RSSProcessor:
-    def __init__(self, translator, item_store):
+    def __init__(self, translator, item_store, cooldown_hours=24):
         self.translator = translator
         self.item_store = item_store
+        self.cooldown_hours = cooldown_hours
         
         # Ensure debug dir exists
         os.makedirs(os.path.dirname(DEBUG_LOG_FILE), exist_ok=True)
@@ -21,7 +23,10 @@ class RSSProcessor:
             with open(DEBUG_LOG_FILE, "a", encoding="utf-8") as f:
                 f.write(f"--- {datetime.datetime.now()} ---\n")
                 f.write(f"GUID: {guid}\n")
-                f.write(f"RAW Abstract:\n{raw}\n")
+                if isinstance(raw, (dict, list)):
+                    f.write(f"RAW JSON:\n{json.dumps(raw, indent=2, ensure_ascii=False)}\n")
+                else:
+                    f.write(f"RAW Content:\n{raw}\n")
                 f.write("-" * 50 + "\n\n")
         except:
             pass
@@ -31,17 +36,6 @@ class RSSProcessor:
         if match:
             return match.group(1).strip()
         return text
-
-    def _clean_elsevier_description(self, text):
-        """
-        Removes Elsevier copyright notices from the beginning of the text.
-        Examples: 
-        - © 2026 The Authors.
-        - © 2026 Elsevier Ltd.
-        - Copyright © 2025. Published by Elsevier Ltd.
-        """
-        pattern = r'^(?:©|Copyright\s+©)\s*\d{4}(?:\.|,)?\s*(?:(?:Published\s+by\s+)?Elsevier\s+(?:Ltd|B\.V\.)|The\s+Authors)\.?\s*'
-        return re.sub(pattern, '', text, flags=re.IGNORECASE).strip()
 
     def process_feed(self, url, max_items=10):
         d = feedparser.parse(url)
@@ -65,11 +59,13 @@ class RSSProcessor:
                 if status == "success":
                     should_process = False
                 elif status == "partial":
-                    if not self.item_store.should_retry_partial(guid):
+                    if not self.item_store.should_retry_partial(guid, self.cooldown_hours):
                         should_process = False
             
             if not should_process:
-                print(f"  [{idx+1}/{total_entries}] Cached: {entry.title[:30]}...", end="", flush=True)
+                status = cached_entry.get("status", "CACHED").upper()
+                if status == "PARTIAL": status = "PARTIAL/COOLDOWN"
+                print(f"  [{idx+1}/{total_entries}] [SKIP: {status}] {entry.title[:30]}...", end="", flush=True)
                 item_data = cached_entry["data"]
                 try:
                     item_data["pubDate"] = datetime.datetime.strptime(item_data["pubDate"], "%Y-%m-%d %H:%M:%S")
@@ -83,79 +79,102 @@ class RSSProcessor:
             
             print(f"  [{idx+1}/{total_entries}] Processing: {entry.title[:30]}...", end="", flush=True)
 
-            raw_title = entry.title.replace('\n', ' ').strip()
-            link = entry.link
-            raw_desc = ""
-            status = "success"
+            try:
+                raw_title = entry.title.replace('\n', ' ').strip()
+                link = entry.link
+                raw_desc = ""
+                status = "success"
 
-            if "sciencedirect.com" in link:
-                api_abstract = fetch_elsevier_abstract(link)
-                if api_abstract:
-                    print(" [API Abstract]", end="", flush=True)
-                    raw_desc = api_abstract
-                    self._log_debug(guid, raw_desc)
-                    status = "success"
+                if "sciencedirect.com" in link:
+                    api_abstract, api_full_data = fetch_elsevier_abstract(link)
+                    if api_full_data:
+                        print(" [API Abstract]", end="", flush=True)
+                        
+                        # Extract info for focused logging
+                        resp_root = api_full_data.get('abstracts-retrieval-response', {})
+                        coredata = resp_root.get('coredata', {})
+                        raw_abstract = resp_root.get('item', {}).get('bibrecord', {}).get('head', {}).get('abstracts')
+                        if not raw_abstract:
+                             raw_abstract = coredata.get('dc:description')
+                        copyright_info = coredata.get('publishercopyright')
+                        
+                        log_data = {
+                            "original_abstract": raw_abstract,
+                            "copyright_info": copyright_info,
+                            "cleaned_abstract": api_abstract
+                        }
+                        self._log_debug(guid, log_data)
+
+                        if api_abstract:
+                            raw_desc = api_abstract
+                            status = "success"
+                        else:
+                            status = "partial"
+                            raw_desc = getattr(entry, 'summary', '')
+                            if not raw_desc and hasattr(entry, 'content'):
+                                raw_desc = entry.content[0].value
+                    else:
+                        status = "partial"
+                        raw_desc = getattr(entry, 'summary', '')
+                        if not raw_desc and hasattr(entry, 'content'):
+                            raw_desc = entry.content[0].value
                 else:
-                    status = "partial"
                     raw_desc = getattr(entry, 'summary', '')
                     if not raw_desc and hasattr(entry, 'content'):
                         raw_desc = entry.content[0].value
-            else:
-                raw_desc = getattr(entry, 'summary', '')
-                if not raw_desc and hasattr(entry, 'content'):
-                    raw_desc = entry.content[0].value
 
-            clean_desc = clean_html_text(raw_desc)
-            
-            # Apply source-specific cleaning
-            if "nature.com" in link:
-                clean_desc = self._clean_nature_description(clean_desc)
-            elif "sciencedirect.com" in link:
-                clean_desc = self._clean_elsevier_description(clean_desc)
+                clean_desc = clean_html_text(raw_desc)
+                
+                # Apply source-specific cleaning
+                if "nature.com" in link:
+                    clean_desc = self._clean_nature_description(clean_desc)
 
-            combined_text = f"{raw_title}\n\n{clean_desc}"
-            translated_text = self.translator.translate(combined_text)
-            
-            parts = translated_text.split('\n\n', 1)
-            if len(parts) == 2:
-                final_title = parts[0].strip()
-                final_desc = parts[1].strip()
-            else:
-                parts_single = translated_text.split('\n', 1)
-                if len(parts_single) == 2:
-                     final_title = parts_single[0].strip()
-                     final_desc = parts_single[1].strip()
+                combined_text = f"{raw_title}\n\n{clean_desc}"
+                translated_text = self.translator.translate(combined_text)
+                
+                parts = translated_text.split('\n\n', 1)
+                if len(parts) == 2:
+                    final_title = parts[0].strip()
+                    final_desc = parts[1].strip()
                 else:
-                    final_title = raw_title 
-                    final_desc = translated_text
+                    parts_single = translated_text.split('\n', 1)
+                    if len(parts_single) == 2:
+                        final_title = parts_single[0].strip()
+                        final_desc = parts_single[1].strip()
+                    else:
+                        final_title = raw_title 
+                        final_desc = translated_text
 
-            final_desc = (
-                final_desc.replace("&", "&amp;")
-                .replace("<", "&lt;")
-                .replace(">", "&gt;")
-                .replace('"', "&quot;")
-                .replace("'", "&#39;")
-            )
+                final_desc = (
+                    final_desc.replace("&", "&amp;")
+                    .replace("<", "&lt;")
+                    .replace(">", "&gt;")
+                    .replace('"', "&quot;")
+                    .replace("'", "&#39;")
+                )
 
-            pub_date = getTime(entry)
+                pub_date = getTime(entry)
 
-            item_data = {
-                "title": final_title,
-                "link": link.replace("&", "&amp;"),
-                "description": final_desc,
-                "guid": link.replace("&", "&amp;"),
-                "pubDate": pub_date, 
-            }
+                item_data = {
+                    "title": final_title,
+                    "link": link.replace("&", "&amp;"),
+                    "description": final_desc,
+                    "guid": link.replace("&", "&amp;"),
+                    "pubDate": pub_date, 
+                }
 
-            store_data = item_data.copy()
-            store_data["pubDate"] = item_data["pubDate"].strftime("%Y-%m-%d %H:%M:%S")
-            self.item_store.save_item(guid, store_data, status)
+                store_data = item_data.copy()
+                store_data["pubDate"] = item_data["pubDate"].strftime("%Y-%m-%d %H:%M:%S")
+                self.item_store.save_item(guid, store_data, status)
 
-            if item_data["guid"] not in item_guids:
-                item_guids.add(item_data["guid"])
-                processed_items.append(item_data)
-            
-            print(" Done.")
+                if item_data["guid"] not in item_guids:
+                    item_guids.add(item_data["guid"])
+                    processed_items.append(item_data)
+                
+                print(" Done.")
+            except Exception as e:
+                print(f" Error processing item: {e}")
+                continue
 
         sorted_list = sorted(processed_items, key=lambda x: x["pubDate"], reverse=True)
         

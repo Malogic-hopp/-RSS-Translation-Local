@@ -4,20 +4,356 @@
     <title>自然</title>
     <link>http://feeds.nature.com/nature/rss/current</link>
     <description>《自然》是世界上最重要的国际科学周刊，也是《自然组合》的旗舰期刊。它根据其原创性、重要性、跨学科兴趣、及时性、可访问性、优雅性和令人惊讶的结论，发表了所有科学技术领域最优秀的同行评审研究。《自然》杂志发表具有里程碑意义的论文、获奖新闻、重要时事科学新闻和事件的领先评论和专家意见，使读者能够分享科学领域的最新发现，并在全球科学界展开讨论。</description>
-    <lastBuildDate>Wed, 14 Jan 2026 04:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 15:07:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[柔软的可生物降解植入物，用于长距离和广角传感]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09874-3</link>
+      <description><![CDATA[一种柔软、可生物降解的无线传感设备可以长距离监测压力、温度和应变（高达16 cm），在不同的位置和角度保持精度。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09874-3</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[双向CRISPR筛选解码GLIS3依赖性纤维化细胞回路]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09907-x</link>
+      <description><![CDATA[综合单细胞和空间数据分析，结合双向CRISPR筛查，确定转录因子GLIS3是慢性炎症和纤维化的关键驱动因素，也是溃疡性结肠炎患者疾病严重程度的潜在标志物。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09907-x</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[学习线索的前额叶神经几何结构指导有动机的行为]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09902-2</link>
+      <description><![CDATA[背内侧前额叶皮层沿着不同的神经维度编码学习刺激的价值、显著性和效价，这些表征的几何形状塑造了小鼠的动机行为。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09902-2</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[气候变化使北太平洋风暴轨道向极地移动]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09895-y</link>
+      <description><![CDATA[基于观测的风暴轨迹代理表明，冬季北太平洋风暴轨迹已大幅向极地移动，这表明该地区对降水和变暖模式产生了影响，并对温度变化和极端事件产生了影响。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09895-y</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高压无阳极钠硫电池]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09867-2</link>
+      <description><![CDATA[描述了一种基于高价硫/四氯化硫阴极化学的新架构，用于制造高压无阳极钠硫电池，展示了其在电网储能和可穿戴电子产品中的应用前景。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09867-2</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[候选<i>顺式</i>调控元件的扩展注册表]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09909-9</link>
+      <description><![CDATA[通过添加新的ENCODE数据，扩展了候选人类和小鼠顺式调控元件的现有ENCODE注册表，整合了新的功能数据以及新的细胞和组织类型。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09909-9</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[斑马鱼罗盘神经元中的塑料地标锚定]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09888-x</link>
+      <description><![CDATA[使用全景虚拟现实设置的双光子显微镜，揭示了斑马鱼幼鱼头部方向细胞如何整合视觉标志和光流来跟踪方向。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09888-x</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RNA触发的Cas12a3切割tRNA尾部以执行细菌免疫]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09852-9</link>
+      <description><![CDATA[Cas12a3核酸酶构成V型CRISPR-Cas细菌免疫系统的一个独特分支，在识别靶RNA后优先切割tRNA的3′尾部，以诱导生长停滞和阻断噬菌体传播。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09852-9</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[表面优化控制着物理网络的局部设计]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09784-4</link>
+      <description><![CDATA[对几个物理网络的局部分支几何形状的分析表明，长度和体积最小化的预测存在偏差，从而导致了一种假设，即估算材料成本需要考虑完整的三维几何形状。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09784-4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[银河系中最常见行星系统的年轻祖先]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09840-z</link>
+      <description><![CDATA[一项为期九年的凌日计时活动测量了围绕年轻恒星V1298 Tau运行的四颗大行星的极低质量和密度，现在预计它们会收缩并形成一个典型的紧凑型超级地球和亚海王星系统。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09840-z</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[欧洲白垩纪晚期隐藏的角龙类恐龙多样性]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09897-w</link>
+      <description><![CDATA[新的研究结果表明，横纹齿类和之前描述的Ajkaceratops实际上是独特的欧洲角龙属，这是一个在亚洲和北美更为人所知的群体。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09897-w</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[解决保护中种族和相关不平等问题的框架]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09892-1</link>
+      <description><![CDATA[这一观点提出了一个新的框架，以支持将黑人、土著人和有色人种纳入保护倡议。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09892-1</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一个神秘的古老指纹和一个柠檬形状的星球——你错过的故事]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00053-6</link>
+      <description><![CDATA[我们重点介绍2025年底的一些《自然简报》故事，包括：由电信电缆制成的地震探测器，以及自热植物如何吸引传粉者。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00053-6</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人脂质转移蛋白脂质动员的系统分析]]></title>
+      <link>https://www.nature.com/articles/s41586-025-10040-y</link>
+      <description><![CDATA[人脂质转移蛋白脂质动员的系统分析]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10040-y</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[电化学脱氟Matteson型同系物]]></title>
+      <link>https://www.nature.com/articles/s41586-025-10002-4</link>
+      <description><![CDATA[电化学脱氟Matteson型同系物]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10002-4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[猴痘会再次走向全球吗？研究表明，它正在以奇怪的方式发展]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04154-6</link>
+      <description><![CDATA[对目前流行的猴痘病毒分支的分析为2022年该病毒如何在全球范围内传播以及如何再次走向全球提供了线索。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04154-6</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日简报：灵感源自章鱼的合成“皮肤”可按需改变外观]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00080-3</link>
+      <description><![CDATA[新材质可以从哑光切换到闪亮，并根据需要显示各种其他效果。此外，人类在6万年前就使用了毒箭，并试图使用DNA来验证达·芬奇的画作。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00080-3</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[巨大的中国细胞图谱揭示了人们之间令人惊讶的免疫变异]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00007-y</link>
+      <description><![CDATA[中国队列中免疫细胞的巨大功能图谱揭示了与欧洲和日本数据集的关键差异。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00007-y</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[将免疫细胞置于“夜间模式”可减少心脏病发作的损伤]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00008-x</link>
+      <description><![CDATA[限制中性粒细胞活性的药物可以在不损害免疫系统的情况下减轻心脏病发作的严重程度。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00008-x</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[作者更正：同源重组中BCDX2复合物功能的结构见解]]></title>
+      <link>https://www.nature.com/articles/s41586-025-10081-3</link>
+      <description><![CDATA[作者更正：同源重组中BCDX2复合物功能的结构见解]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10081-3</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[中国核聚变反应堆推动等离子体突破关键极限：接下来会发生什么]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00063-4</link>
+      <description><![CDATA[突破等离子体密度限制使研究人员更接近可行的聚变反应堆。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00063-4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[我们需要谈谈科学领域的工资]]></title>
+      <link>https://www.nature.com/articles/d41586-025-03488-5</link>
+      <description><![CDATA[学术界往往有一种“激情第一，金钱第二”的文化。克服这种心态对于建立幸福的职业生涯至关重要。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03488-5</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[美国国家航空航天局不会将火星样本带回地球：这是将丢失的科学]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00060-7</link>
+      <description><![CDATA[国会的一项法案恢复了对美国国家航空航天局大多数太空科学任务的资助，但没有资金归还已经在这颗红色星球上收集的样本。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00060-7</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无法获得动力？这个大脑回路可能解释了为什么——而且它可以被关闭]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00062-5</link>
+      <description><![CDATA[科学家们发现了一种操纵猴子大脑通路的方法，可以抑制动机。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00062-5</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能模型接受了四周的治疗：结果让研究人员感到担忧]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04112-2</link>
+      <description><![CDATA[聊天机器人通过心理治疗报告创伤和虐待。作者表示，模型所做的不仅仅是角色扮演，但研究人员对此表示怀疑。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04112-2</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“作为一名跨性别科学家出柜，让我成为有史以来最好的老师”]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00057-2</link>
+      <description><![CDATA[Shannon Bros和Kihana Wilson概述了学术界如何更好地支持LGBTQ+研究人员，推出了一个关于工作场所话题的播客系列，这些话题通常是禁止的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00057-2</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日简报：聚变反应堆推动等离子体突破关键极限]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00115-9</link>
+      <description><![CDATA[中国的一座反应堆跨越了几十年来阻碍核聚变的障碍。此外，宇航员正在从国际空间站撤离，治疗中的人工智能聊天机器人声称受到虐待。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00115-9</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通向无限，超越地球淡蓝色的小点：书籍简介]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00077-y</link>
+      <description><![CDATA[安德鲁·罗宾逊评论了五个最好的科学选择。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00077-y</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[消失的“行星”揭示了太阳系的动荡时期]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04148-4</link>
+      <description><![CDATA[最初被认为是绕北落师门恒星运行的行星可能只是一次剧烈碰撞的后果。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04148-4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[找出股市波动的（平方）根]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00045-6</link>
+      <description><![CDATA[一个庞大的数据集证实了股票交易规模与价格影响之间长期以来的理论关系。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00045-6</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[这种变形聚合物的灵感来自章鱼皮]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00101-1</link>
+      <description><![CDATA[一种受章鱼启发的新型聚合物可以根据指令改变颜色和质地。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00101-1</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[学生心理健康处于危机之中——以下是如何帮助]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00084-z</link>
+      <description><![CDATA[大学、政府、学者、医疗保健提供者和学生必须共同努力，确保及时获得适当的心理健康支持。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00084-z</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[每日简报：神经回路会让你很难开始一项艰巨的任务]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00142-6</link>
+      <description><![CDATA[我们大脑中的“动机刹车”使得朝着任务迈出第一步变得不那么有吸引力。此外，美国科学家签署了一封公开信，声援格陵兰岛以及维基百科可以教给我们的关于信任的知识。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00142-6</guid>
+      <pubDate>Wed, 14 Jan 2026 15:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能偏向于一些印度种姓——研究人员如何解决这个问题？]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04041-0</link>
+      <description><![CDATA[基准测试揭示了人工智能系统如何强化歧视性的社会等级制度。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04041-0</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“我们是人类——聪明又混乱”：维基百科创始人吉米·威尔士谈信任和乐观]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00083-0</link>
+      <description><![CDATA[推出25年后，这本在线百科全书现在与聊天机器人竞争，但它的创建者在获取事实方面仍然对人类充满信心。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00083-0</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[新的开始：当你离开学术界时如何茁壮成长]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00085-y</link>
+      <description><![CDATA[你的新年决心包括离开高等教育的计划吗？这些研究人员解释了如何重塑你的职业生涯。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00085-y</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[特朗普盯上格陵兰岛，美国科学家反击]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00068-z</link>
+      <description><![CDATA[在格陵兰工作的美国研究人员组织的一封公开信反对任何对该领土的接管。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00068-z</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[同性性行为可以帮助灵长类动物生存和繁殖]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00119-5</link>
+      <description><![CDATA[同性个体之间的联系有助于猿和猴子管理冲突并加强联盟，特别是在干燥的栖息地和捕食者丰富的景观中。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00119-5</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[古代的“雪球”地球有着冰冷的海水]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04081-6</link>
+      <description><![CDATA[在地球过去的冰川期，海洋温度远低于冰点，这意味着一些海水非常咸。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04081-6</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[开发超级玉米饼以解决拉丁美洲的营养不良问题]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00087-w</link>
+      <description><![CDATA[墨西哥食品科学家Raquel Gómez Pliego致力于通过微生物发酵提高食品的营养价值。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00087-w</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[学术界让维基百科失败了25年，现在它可能会让我们失败]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00075-0</link>
+      <description><![CDATA[人工智能系统在不回馈的情况下依赖维基百科，学术界的冷漠正在威胁着这本可以说是地球上使用最广泛的参考书的生存。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00075-0</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能可以激发创造力——如果我们问它如何思考，而不是思考什么]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00049-2</link>
+      <description><![CDATA[旨在最大限度地发挥人类创造力的研究表明，当别人向人们展示新的创新方式时，人们的工作效果最好。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00049-2</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[如何提高疫苗接种率：一项大型研究提供了线索]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00092-z</link>
+      <description><![CDATA[一项针对英国100多万人的分析发现，在新冠肺炎大流行期间犹豫接种疫苗的人中，有三分之二后来接种了疫苗。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00092-z</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[鸟类是如何进化的？答案比任何人想象的都要疯狂]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00076-z</link>
+      <description><![CDATA[侏罗纪岩石中的发现表明，鸟类比科学家意识到的更早地成为熟练的飞行者。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00076-z</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[AlphaFold可以帮助非洲研究人员进行前沿的结构生物学研究]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00072-3</link>
+      <description><![CDATA[AlphaFold可以帮助非洲研究人员进行前沿的结构生物学研究]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00072-3</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能写作工具可能会导致低收入国家的学者抹去自己的声音]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00121-x</link>
+      <description><![CDATA[人工智能写作工具可能会导致低收入国家的学者抹去自己的声音]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00121-x</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[尼斯湖水怪应该有一个学名吗？]]></title>
+      <link>https://www.nature.com/articles/d41586-025-03991-9</link>
+      <description><![CDATA[关于一种潜在的新发现物种的争论，以及在本周《自然》档案中挑选的购买优质雪利酒的技巧。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03991-9</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[他们的耳朵垂得低吗？狗可爱松软耳朵的遗传学]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00071-4</link>
+      <description><![CDATA[科学家们刚刚开始了解决定狗耳朵长度的信号。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00071-4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:06:44 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[不要以为女性的低退缩率反映了男性的“大胆”]]></title>
       <link>https://www.nature.com/articles/d41586-026-00120-y</link>
       <description><![CDATA[不要以为女性的低退缩率反映了男性的“大胆”]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00120-y</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:28 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 15:06:42 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[没有生物多样性，就没有改变世界的发现]]></title>
       <link>https://www.nature.com/articles/d41586-026-00122-w</link>
       <description><![CDATA[没有生物多样性，就没有改变世界的发现]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00122-w</guid>
-      <pubDate>Wed, 14 Jan 2026 04:17:27 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 15:06:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
