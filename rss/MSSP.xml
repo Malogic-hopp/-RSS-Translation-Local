@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ScienceDirect出版物：机械系统和信号处理</title>
+    <link>https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:15:42 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[基于物理信息神经网络的桥梁多层次快速风舒适脆弱性评估]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000245?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日来源：《机械系统与信号处理》第245卷作者：韩瑞清、李志鹏、潘国]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000245?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于解耦的直升机主动振动抑制多谐混合控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000300?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日来源：机械系统与信号处理，第245卷作者：赵家侯、刘万强、李洪武、龙新华]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000300?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:38 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

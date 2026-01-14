@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ScienceDirect Publication：基于知识的系统</title>
+    <link>https://www.sciencedirect.com/journal/knowledge-based-systems</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:17:25 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[S-Explainer：基于合作合理化和多跳证据推理的自解释NLP框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705125017927?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日来源：《基于知识的系统》第336卷作者：徐江、程玉荣、李伯阳、叶媛、王国仁]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125017927?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:17:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于多特征相似性的异构图表示]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512502266X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日来源：《基于知识的系统》第336卷作者：黄兰、耿一航、李承浩、张睿]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502266X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:17:22 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

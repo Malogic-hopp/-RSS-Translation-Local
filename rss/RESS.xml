@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ScienceDirect出版物：可靠性工程与系统安全</title>
+    <link>https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:15:14 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[D2R：探索网络结构鲁棒性增强潜力的距离度量]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013729?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月来源：《可靠性工程与系统安全》第270卷作者：陈亮、杨楼、王林、陈冠荣]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013729?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[极端降水条件下城市系统性风险核心原因的识别与控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000268?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月来源：《可靠性工程与系统安全》第270卷作者：于磊、陆山、蒋晓军]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000268?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:10 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

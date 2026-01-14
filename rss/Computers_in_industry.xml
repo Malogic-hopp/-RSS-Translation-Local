@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>科学直接出版物：工业中的计算机</title>
+    <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:16:07 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[增强现实工具提示跟踪评估的计量方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</link>
+      <description><![CDATA[跟踪系统在健康和制造业等各个领域都是必不可少的，可以实现现实世界和数字世界之间的映射。其中，增强现实跟踪系统（ARTS）是最近才出现的，探索较少。这项工作提出了一种定量计量方法来评估ARTS工具提示跟踪性能，促进基准测试、参数优化和特定任务的系统选择。提出了一种特定的3D打印测量工件来指导工具提示定位。对跟踪精度和准确度进行了估计，突出了影响因素的影响。该方法使用基于标记的工具提示用两个最先进的商用ARTS进行了测试，即微软HoloLens 2和配备英特尔RealSense SR305相机的立体相机系统。对计量特性进行评估，在传统的95%置信水平下，HoloLens 2的欧几里德距离扩展不确定度估计为5.071mm，立体声系统的欧几里得距离扩展不确定性估计为6.800mm，从而使HoloLens 2在指定条件下具有优异的计量性能。本研究为定量比较AR跟踪系统提供了一种标准化的方法，为优化其在特定应用中的使用提供了有价值的见解，并在ARTS的背景下创新性地将测量不确定性与跟踪的距离值相关联。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月来源：《工业计算机》第176卷作者：刘恒毅、刘阳凡、傅玉华、李璇、李新云、赵书红、刘晓蕾、熊雄]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:16:03 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

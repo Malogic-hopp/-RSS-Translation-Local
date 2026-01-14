@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AAAS：科学机器人：目录</title>
+    <link>https://www.science.org/loi/scirobotics?af=R</link>
+    <description>科学机器人目录。最新和印刷前的文章列表。</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:17:55 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[感知、思考、行动和计算的微型机器人]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adu8009?af=R</link>
+      <description><![CDATA[《科学机器人》，第10卷，第109期，2025年12月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adu8009?af=R</guid>
+      <pubDate>Wed, 14 Jan 2026 04:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于深度学习的离体猪眼自主视网膜静脉插管]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adw2969?af=R</link>
+      <description><![CDATA[《科学机器人》，第10卷，第109期，2025年12月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adw2969?af=R</guid>
+      <pubDate>Wed, 14 Jan 2026 04:17:53 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>科学直接出版物：信息科学</title>
+    <link>https://www.sciencedirect.com/journal/information-sciences</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:15:28 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[具有优化余弦CNN的区块链集成入侵检测系统，可增强云计算中的隐私和安全性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0020025525011521?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月15日来源：信息科学，第735卷作者：N.R.Rejin Paul，V.Nallarasan，Nallam Krishnaiah，L.Guganathan]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0020025525011521?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HyDaST：通过EHR超图和双尺度时间模式提取进行死亡率风险预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0020025526000241?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月15日来源：《信息科学》第735卷作者：李文祥]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0020025526000241?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:24 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

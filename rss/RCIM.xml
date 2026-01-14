@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ScienceDirect出版物：机器人与计算机集成制造</title>
+    <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:16:00 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[飞机液压管路装配的数字双驱动偏差分析方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年8月来源：《机器人与计算机集成制造》第100卷作者：梁晨、岳赵、苏爱华、杨文强、于正]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人铣削切削颤振检测与抑制综述]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年8月来源：机器人与计算机集成制造，第100卷作者：李宁、赵佳琦、孙瑞端、崔莉、王欣]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:55 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

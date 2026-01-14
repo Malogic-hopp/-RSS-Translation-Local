@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>科学直接出版：信息融合</title>
+    <link>https://www.sciencedirect.com/journal/information-fusion</link>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 14 Jan 2026 04:15:21 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[基于异构图学习框架的旋转机械多模态多工况故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011686?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月来源：《信息融合》第130卷作者：韩晓宇、曹云鹏、潘虎、冯伟星]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011686?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SynJAC：用于领域特定扫描文档关键信息提取的合成数据驱动联合粒度自适应和校准]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011364?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月来源：《信息融合》第130卷作者：丁一浩、韩素妍、李泽川、钟]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011364?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 04:15:17 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
