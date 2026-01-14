@@ -4,62 +4,62 @@
     <title>科学直接出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Wed, 14 Jan 2026 18:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:11:32 GMT</lastBuildDate>
     <item>
       <title><![CDATA[TROPICCAL：物联网增强流程的多视角跟踪集群]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年2月来源：《工业计算机》第175卷作者：Yannis Bertrand、Jochen De Weerdt、Estefania Serral]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年3月来源：《工业计算机》第176卷作者：刘恒毅、刘阳凡、傅玉华、李璇、李新云、赵书红、刘晓蕾、熊雄]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:35 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:54:05 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于模糊集特征提取和智能优化的短期综合风速预测系统]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all</link>
       <description><![CDATA[由于风力发电的持续增长和技术的进步，风能具有巨大的潜力。然而，风速的演变受到多种因素复杂相互作用的影响，使其具有高度的可变性。风速演变的非线性和非平稳性会对整个电力系统产生相当大的影响。为了应对这一挑战，我们提出了一种基于模糊特征提取的集成多帧风速预测系统。该系统采用凸子集划分方法，使用三角隶属函数进行模糊特征提取。通过对子集应用软聚类、构建隶属矩阵和识别聚类中心，该系统引入了内域和边界域的概念。随后，它通过测量类间和类内距离来计算数据点到聚类中心的距离。该方法使用隶属矩阵更新聚类中心，生成最优特征值。在此基础上，我们使用多种机器学习方法将模糊特征输入到预测模型中，并整合学习技术来预测特征值。由于不同的数据集需要不同的建模方法，因此使用集成的权重更新模块通过设置双目标函数来动态调整模型权重，以确保预测的准确性和稳定性。通过对中国蓬莱风电场数据的实证分析，证明了所提出模型在预测性能和泛化能力方面的有效性。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:43 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:54:03 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于扩散模型的钢筋混凝土框架结构构件尺寸智能设计]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001939?dgcid=rss_sd_all</link>
       <description><![CDATA[设计钢筋混凝土（RC）框架结构的构件尺寸是结构设计的一个关键方面。然而，对人工专业知识的依赖导致设计效率低和质量不稳定。使用启发式优化和人工智能算法，如生成对抗网络（GANs）和图神经网络（GNNs），可以提高设计质量和效率。然而，启发式优化算法速度较慢，GANs和GNNs的准确性不足。因此，本研究提出了一种基于扩散模型的方法，称为框架尺寸扩散，用于预测RC框架结构中的组件尺寸。通过集成多通道掩模和梯度加权校正，该模型提高了梁、柱和板的组件尺寸预测的精度和鲁棒性。此外，引入了一种新的数据集构建方法，该方法捕获了关键的标准层特征和地震条件，以促进扩散模型的学习过程。通过综合实验评估和案例研究，证明了所提出方法的有效性。与异构GNN相比，预测精度提高了33%。此外，层间位移比结果与工程师设计的规范一致，材料使用误差在1%以内。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001939?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:41 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:54:01 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[评估区块链技术在建筑供应链中的技术效用：基于用例的多KPI决策支持方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001940?dgcid=rss_sd_all</link>
       <description><![CDATA[区块链技术（BCT）通过解决与透明度、效率和可追溯性相关的长期挑战，在改变建筑供应链（CSC）方面具有巨大的潜力。本研究调查并开发了一个严格的、以KPI为中心的框架，该框架系统地将区块链的使能能力（EC）映射到对CSC绩效至关重要的关键绩效指标（KPI）。通过结合内容分析和设计科学研究（DSR）的混合方法，本文介绍了一种基于网络的决策支持工具（DST），以指导利益相关者评估区块链在建筑项目中的技术适用性。DST分为两个阶段：第一，通过结构化诊断评估区块链的适用性;其次，通过将选定的KPI与相关用例和EC对齐，推荐“最合适”的区块链堆栈。通过模拟案例场景进行验证，证明了DST在支持早期技术基础决策方面的稳健性，并推荐了针对用户定义的KPI和用例量身定制的区块链解决方案。研究结果表明，BCT通过自动化、不可变数据共享、去中心化治理等可以显著提高CSCs的性能。通过弥合概念承诺和实际应用之间的差距，这项研究为建筑行业的数字化转型提供了理论进步和可操作的见解。它为复杂的多利益相关方供应链环境中的技术采用和性能优化提供了一个可复制的决策支持架构。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001940?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:37 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:53:59 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于优化浓缩-脱水过程能效指标的集成强化学习]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001964?dgcid=rss_sd_all</link>
       <description><![CDATA[浓缩脱水过程是矿物工业生产的重要阶段，通过优化能耗来提高其能源效率是一个关键的研究方向。然而，关于这一过程的综合优化策略的研究很少。为了解决这一差距并降低浓缩-脱水操作中的能效指数（EEI），本文在该过程中引入了强化学习（RL）。由于强化学习方法容易陷入局部最优，我们将集成学习（EL）与强化学习相结合。基于在调度问题中表现良好的软行动者-批评者（SAC）算法，我们提出了集成SAC（ESAC）算法。在ESAC中，每个参与者都使用自己的参数集与环境交互，只有产生最高奖励的操作才会用于更新所有参与者的参数。还设计了一个加权全局损失函数来防止价值网络的高估。结果表明，ESAC算法明显优于基准RL算法，EL有效地提高了RL的探索效率和决策质量。多策略集成有助于避免局部最优和优化决策。此外，当应用于黄金湿法冶金厂的浓缩-脱水过程时，与手动操作相比，ESAC将EEI降低了44.77%，并将平均底流浓度提高了9.57%。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001964?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:34 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:53:57 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[增量学习策略用于改进有限样本晶片图中未知缺陷的检测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001976?dgcid=rss_sd_all</link>
       <description><![CDATA[准确检测晶片上的各种缺陷图案对于提高芯片产量和确保半导体制造系统的可靠性至关重要。随着这一过程变得越来越复杂，晶片上出现了新型缺陷，称为未知缺陷。传统的模式识别方法在这种情况下很困难，因为有限的样本不足以有效地训练深度学习模型。此外，当对新的缺陷类进行增量训练时，这些模型容易发生灾难性的遗忘。为了应对这些挑战，本文提出了一种称为少镜头类对比增量学习（FCCIL）的方法，用于未知晶圆图缺陷检测。FCCIL集成了用于区分新型缺陷类型的对比学习网络和用于动态知识更新的增量学习模型，两者都旨在减轻灾难性遗忘，从而能够在数据有限的情况下检测晶圆图中的未知缺陷。实验结果表明，与最先进的方法相比，FCCIL的抗遗忘能力提高了4%，证实了FCCIL在现实半导体制造场景中的有效性。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001976?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:31 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:53:55 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[增强现实工具提示跟踪评估的计量方法]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</link>
       <description><![CDATA[跟踪系统在健康和制造业等各个领域都是必不可少的，可以实现现实世界和数字世界之间的映射。其中，增强现实跟踪系统（ARTS）是最近才出现的，探索较少。这项工作提出了一种定量计量方法来评估ARTS工具提示跟踪性能，促进基准测试、参数优化和特定任务的系统选择。提出了一种特定的3D打印测量工件来指导工具提示定位。对跟踪精度和准确度进行了估计，突出了影响因素的影响。该方法使用基于标记的工具提示用两个最先进的商用ARTS进行了测试，即微软HoloLens 2和配备英特尔RealSense SR305相机的立体相机系统。对计量特性进行评估，在传统的95%置信水平下，HoloLens 2的欧几里德距离扩展不确定度估计为5.071mm，立体声系统的欧几里得距离扩展不确定性估计为6.800mm，从而使HoloLens 2在指定条件下具有优异的计量性能。本研究为定量比较AR跟踪系统提供了一种标准化的方法，为优化其在特定应用中的使用提供了有价值的见解，并在ARTS的背景下创新性地将测量不确定性与跟踪的距离值相关联。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:29 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 17:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月来源：《工业计算机》第176卷作者：刘恒毅、刘阳凡、傅玉华、李璇、李新云、赵书红、刘晓蕾、熊雄]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 14 Jan 2026 17:53:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

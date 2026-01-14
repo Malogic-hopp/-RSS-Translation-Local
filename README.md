@@ -7,27 +7,27 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [时间-顶点机器学习在时间图信号中优化传感器放置：在结构健康监测中的应用](https://www.sciencedirect.com/science/article/pii/S0951832025013523?dgcid=rss_sd_all)
-     * [航次段对海上事故的影响：航行因素和事故原因分析](https://www.sciencedirect.com/science/article/pii/S0951832026000049?dgcid=rss_sd_all)
-     * [船体板在非均匀和非稳态腐蚀下的极限强度评估](https://www.sciencedirect.com/science/article/pii/S0951832025013614?dgcid=rss_sd_all)
+     * [因果关系增强系统可靠性和安全性分析：概述](https://www.sciencedirect.com/science/article/pii/S0951832025013080?dgcid=rss_sd_all)
+     * [余震序列下钢筋混凝土框架结构的时变震后恢复力评估](https://www.sciencedirect.com/science/article/pii/S0951832025013596?dgcid=rss_sd_all)
+     * [用于罕见事件估计的多点贝叶斯主动学习线采样](https://www.sciencedirect.com/science/article/pii/S0951832025013353?dgcid=rss_sd_all)
    </details>
 
  - Information_fusion [https://rss.sciencedirect.com/publication/science/15662535](https://rss.sciencedirect.com/publication/science/15662535) -> [Information_fusion](rss/Information_fusion.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [基于多传感器数据融合的联合学习水流预报](https://www.sciencedirect.com/science/article/pii/S1566253525010826?dgcid=rss_sd_all)
      * [基于自适应融合的同构和异构模态多模态情感识别统一框架](https://www.sciencedirect.com/science/article/pii/S1566253525011340?dgcid=rss_sd_all)
-     * [Exo-to-Ego视频生成的渐进时间补偿和语义增强](https://www.sciencedirect.com/science/article/pii/S1566253525011790?dgcid=rss_sd_all)
-     * [HFPN：用于视听事件定位的具有多级跨模态关系学习的分层融合和预测网络](https://www.sciencedirect.com/science/article/pii/S156625352501173X?dgcid=rss_sd_all)
+     * [ViP-HMNN：一种结合记忆计算的视觉路径启发混合神经网络，用于对象识别](https://www.sciencedirect.com/science/article/pii/S1566253525011480?dgcid=rss_sd_all)
    </details>
 
  - Information_sciences [https://rss.sciencedirect.com/publication/science/00200255](https://rss.sciencedirect.com/publication/science/00200255) -> [Information_sciences](rss/Information_sciences.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [神经结构修剪的静电力正则化](https://www.sciencedirect.com/science/article/pii/S002002552501182X?dgcid=rss_sd_all)
-     * [通过实际假设实现Dalenius的数据隐私目标](https://www.sciencedirect.com/science/article/pii/S0020025525011727?dgcid=rss_sd_all)
-     * [AMOS:用于不平衡数据分类的无少数过采样神经网络](https://www.sciencedirect.com/science/article/pii/S0020025525011612?dgcid=rss_sd_all)
+     * [具有机会约束的图像模糊多目标线性规划风险态度建模](https://www.sciencedirect.com/science/article/pii/S0020025525011405?dgcid=rss_sd_all)
+     * [LB-IRG：一种基于文本数据的混合模型参数求解算法](https://www.sciencedirect.com/science/article/pii/S0020025525011235?dgcid=rss_sd_all)
+     * [求解非线性方程的DBSCAN增强小生境微分进化算法](https://www.sciencedirect.com/science/article/pii/S0020025525011338?dgcid=rss_sd_all)
    </details>
 
  - IJMTM [https://rss.sciencedirect.com/publication/science/08906955](https://rss.sciencedirect.com/publication/science/08906955) -> [IJMTM](rss/IJMTM.xml)
@@ -62,8 +62,8 @@
      <summary>Latest Updates (Click to expand)</summary>
 
      * [编委会](https://www.sciencedirect.com/science/article/pii/S0278612526000063?dgcid=rss_sd_all)
-     * [运输机器人柔性车间调度问题的知识增强离散人工蜂群算法](https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all)
-     * [使用数据池预测跨生产线的传输时间](https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all)
+     * [基于LLMs和SLM集成构建的知识图的飞机装配工艺规划](https://www.sciencedirect.com/science/article/pii/S0278612525002778?dgcid=rss_sd_all)
+     * [基于自适应网络和DT信念空间遗传算法的人机协同装配中的意图识别和任务分配](https://www.sciencedirect.com/science/article/pii/S027861252500278X?dgcid=rss_sd_all)
    </details>
 
  - RCIM [https://rss.sciencedirect.com/publication/science/07365845](https://rss.sciencedirect.com/publication/science/07365845) -> [RCIM](rss/RCIM.xml)
@@ -71,8 +71,8 @@
      <summary>Latest Updates (Click to expand)</summary>
 
      * [编委会](https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all)
-     * [数字孪生工业环境中大型语言模型引导强化学习的统一框架](https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all)
-     * [基于学习的高精度制造机器人加工误差预测](https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all)
+     * [用于高通量和多视图3D数字图像相关（3D-DIC）的机器人框架：增加变形分析的测量体积和多功能性](https://www.sciencedirect.com/science/article/pii/S0736584525002418?dgcid=rss_sd_all)
+     * [双机器人机械手增材制造的一种新型枢轴移动策略：在不停止沉积的情况下实现碰撞避免](https://www.sciencedirect.com/science/article/pii/S0736584525002315?dgcid=rss_sd_all)
    </details>
 
  - Computers_in_industry [https://rss.sciencedirect.com/publication/science/01663615](https://rss.sciencedirect.com/publication/science/01663615) -> [Computers_in_industry](rss/Computers_in_industry.xml)
@@ -80,17 +80,17 @@
      <summary>Latest Updates (Click to expand)</summary>
 
      * [TROPICCAL：物联网增强流程的多视角跟踪集群](https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all)
-     * [FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统](https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all)
      * [基于模糊集特征提取和智能优化的短期综合风速预测系统](https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all)
+     * [基于扩散模型的钢筋混凝土框架结构构件尺寸智能设计](https://www.sciencedirect.com/science/article/pii/S0166361525001939?dgcid=rss_sd_all)
    </details>
 
  - Advanced_engineering_informatics [https://rss.sciencedirect.com/publication/science/14740346](https://rss.sciencedirect.com/publication/science/14740346) -> [Advanced_engineering_informatics](rss/Advanced_engineering_informatics.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [未知失效模式下经验知识驱动的剩余使用寿命预测方法](https://www.sciencedirect.com/science/article/pii/S147403462501184X?dgcid=rss_sd_all)
-     * [基于物理先验知识的RV减速器跨域智能故障诊断方法](https://www.sciencedirect.com/science/article/pii/S1474034625012005?dgcid=rss_sd_all)
-     * [基于改进的深度确定性策略梯度的高超音速飞行器模式转换过程中多源发电的能量管理策略](https://www.sciencedirect.com/science/article/pii/S1474034625011863?dgcid=rss_sd_all)
+     * [江海联运集装箱码头分段分配和堆场起重机重新部署联合优化的多智能体强化学习方法](https://www.sciencedirect.com/science/article/pii/S1474034625011644?dgcid=rss_sd_all)
+     * [迭代修正变分模式提取（IMVME）：一种用于航空发动机故障诊断的噪声鲁棒瞬态特征非线性提取方法](https://www.sciencedirect.com/science/article/pii/S1474034625011772?dgcid=rss_sd_all)
+     * [复杂环境下主动悬架系统嵌入纹理特征的ResNet路面分类](https://www.sciencedirect.com/science/article/pii/S1474034625011735?dgcid=rss_sd_all)
    </details>
 
  - Knowledge_based_systems [https://rss.sciencedirect.com/publication/science/09507051](https://rss.sciencedirect.com/publication/science/09507051) -> [Knowledge_based_systems](rss/Knowledge_based_systems.xml)
