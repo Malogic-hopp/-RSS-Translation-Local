@@ -1,191 +1,366 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>自然</title>
+    <title>性质</title>
     <link>http://feeds.nature.com/nature/rss/current</link>
-    <description>《自然》是世界上最重要的国际科学周刊，也是《自然组合》的旗舰期刊。它根据其原创性、重要性、跨学科兴趣、及时性、可访问性、优雅性和令人惊讶的结论，发表了所有科学技术领域最优秀的同行评审研究。《自然》杂志发表具有里程碑意义的论文、获奖新闻、重要时事科学新闻和事件的领先评论和专家意见，使读者能够分享科学领域的最新发现，并在全球科学界展开讨论。</description>
-    <lastBuildDate>Wed, 14 Jan 2026 15:07:36 GMT</lastBuildDate>
+    <description>《自然》是世界上最重要的国际科学周刊，也是《自然》杂志的旗舰杂志。它根据其原创性、重要性、跨学科兴趣、及时性、可及性、优雅性和令人惊讶的结论发布了所有科学技术领域最优秀的同行评审研究。《自然》杂志就重要的时事科学新闻和事件发表具有里程碑意义的论文、获奖新闻、领先评论和专家意见，使读者能够分享科学的最新发现并推动全球科学界的讨论。</description>
+    <lastBuildDate>Thu, 15 Jan 2026 12:32:39 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[柔软的可生物降解植入物，用于长距离和广角传感]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09874-3</link>
-      <description><![CDATA[一种柔软、可生物降解的无线传感设备可以长距离监测压力、温度和应变（高达16 cm），在不同的位置和角度保持精度。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09874-3</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:35 GMT</pubDate>
+      <title><![CDATA[每日简报：同性性行为是一些灵长类动物生活的正常组成部分]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00149-z</link>
+      <description><![CDATA[同性性行为可以帮助一些灵长类动物应对复杂的社会等级制度。此外，有关鸟类来自哪里的新线索和美国环境保护局将停止将人类健康纳入成本效益分析中。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00149-z</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:39 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[双向CRISPR筛选解码GLIS3依赖性纤维化细胞回路]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09907-x</link>
-      <description><![CDATA[综合单细胞和空间数据分析，结合双向CRISPR筛查，确定转录因子GLIS3是慢性炎症和纤维化的关键驱动因素，也是溃疡性结肠炎患者疾病严重程度的潜在标志物。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09907-x</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:33 GMT</pubDate>
+      <title><![CDATA[生物传感器表征了受体到达不同活性状态的途径]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00011-2</link>
+      <description><![CDATA[活细胞中表达的一组荧光标记的G蛋白偶联受体蛋白证实，当与激活配体分子结合时，这些受体与其G蛋白形成不同的复合物。不同配体诱导的激活轨迹解释了G蛋白激活的配体特异性功效和对G蛋白亚型的偏好。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00011-2</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:38 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[学习线索的前额叶神经几何结构指导有动机的行为]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09902-2</link>
-      <description><![CDATA[背内侧前额叶皮层沿着不同的神经维度编码学习刺激的价值、显著性和效价，这些表征的几何形状塑造了小鼠的动机行为。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09902-2</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:32 GMT</pubDate>
+      <title><![CDATA[物品及其上下文的记忆由不同的人类脑细胞组编码]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00016-x</link>
+      <description><![CDATA[人类的记忆通常需要将特定项目与它们所处的情况联系起来。大脑记录揭示了两组不同的神经元对刺激和背景信息做出反应。然后，这些群体合作形成灵活的记忆，而不是编码两种信号类型的单个神经元。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00016-x</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:38 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[气候变化使北太平洋风暴轨道向极地移动]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09895-y</link>
-      <description><![CDATA[基于观测的风暴轨迹代理表明，冬季北太平洋风暴轨迹已大幅向极地移动，这表明该地区对降水和变暖模式产生了影响，并对温度变化和极端事件产生了影响。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09895-y</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:31 GMT</pubDate>
+      <title><![CDATA[感染之谜：为什么有些人死于通常无害的细菌]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00082-1</link>
+      <description><![CDATA[全球数百万人携带基因突变，削弱了他们的免疫系统。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00082-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:38 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[高压无阳极钠硫电池]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09867-2</link>
-      <description><![CDATA[描述了一种基于高价硫/四氯化硫阴极化学的新架构，用于制造高压无阳极钠硫电池，展示了其在电网储能和可穿戴电子产品中的应用前景。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09867-2</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:30 GMT</pubDate>
+      <title><![CDATA[研究的功劳与责任齐头并进]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00006-z</link>
+      <description><![CDATA[对科学的信任需要研究人员、期刊和机构在发现错误时快速、透明地纠正科学记录。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00006-z</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:37 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[候选<i>顺式</i>调控元件的扩展注册表]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09909-9</link>
-      <description><![CDATA[通过添加新的ENCODE数据，扩展了候选人类和小鼠顺式调控元件的现有ENCODE注册表，整合了新的功能数据以及新的细胞和组织类型。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09909-9</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:29 GMT</pubDate>
+      <title><![CDATA[真核细胞起源的基因组线索]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04094-1</link>
+      <description><![CDATA[具有复杂结构的真核细胞是如何从简单的原核细胞进化而来的？DNA分析提供了可能的答案。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04094-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:37 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[斑马鱼罗盘神经元中的塑料地标锚定]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09888-x</link>
-      <description><![CDATA[使用全景虚拟现实设置的双光子显微镜，揭示了斑马鱼幼鱼头部方向细胞如何整合视觉标志和光流来跟踪方向。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09888-x</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:28 GMT</pubDate>
+      <title><![CDATA[在酸性天空下]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04030-3</link>
+      <description><![CDATA[朋友们重聚。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04030-3</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:37 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[RNA触发的Cas12a3切割tRNA尾部以执行细菌免疫]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09852-9</link>
-      <description><![CDATA[Cas12a3核酸酶构成V型CRISPR-Cas细菌免疫系统的一个独特分支，在识别靶RNA后优先切割tRNA的3′尾部，以诱导生长停滞和阻断噬菌体传播。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09852-9</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:27 GMT</pubDate>
+      <title><![CDATA[神秘的“小红点”可能是伪装的黑洞]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04089-y</link>
+      <description><![CDATA[分析表明，来自“小红点”的光是由被致密气体云遮蔽的年轻超大质量黑洞产生的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04089-y</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[表面优化控制着物理网络的局部设计]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09784-4</link>
-      <description><![CDATA[对几个物理网络的局部分支几何形状的分析表明，长度和体积最小化的预测存在偏差，从而导致了一种假设，即估算材料成本需要考虑完整的三维几何形状。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09784-4</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:26 GMT</pubDate>
+      <title><![CDATA[衰老重塑身体对感染的耐受性]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04091-4</link>
+      <description><![CDATA[在危及生命的败血症中，保护幼年小鼠免于死于器官功能障碍的相同信号途径会加剧老年动物的损伤和致命性。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04091-4</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[银河系中最常见行星系统的年轻祖先]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09840-z</link>
-      <description><![CDATA[一项为期九年的凌日计时活动测量了围绕年轻恒星V1298 Tau运行的四颗大行星的极低质量和密度，现在预计它们会收缩并形成一个典型的紧凑型超级地球和亚海王星系统。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09840-z</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:25 GMT</pubDate>
+      <title><![CDATA[具有“激基复合物”状态的弹性有机LED器件高效]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04164-4</link>
+      <description><![CDATA[完全可伸展的有机发光二极管（OLED）因效率低下而受到限制，部分原因是它们的弹性聚合物成分阻碍了可转换为发光状态的“三重态”准粒子的收获。已经开发出具有前所未有效率的完全可延伸的OLED，可以以耐电池的方式回收三胞胎。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04164-4</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:35 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[欧洲白垩纪晚期隐藏的角龙类恐龙多样性]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09897-w</link>
-      <description><![CDATA[新的研究结果表明，横纹齿类和之前描述的Ajkaceratops实际上是独特的欧洲角龙属，这是一个在亚洲和北美更为人所知的群体。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09897-w</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:24 GMT</pubDate>
+      <title><![CDATA[2026年美国科学：将主导特朗普第二年的五个主题]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00058-1</link>
+      <description><![CDATA[联邦科学预算的前景有所好转，但政治任命者可能对资金的使用方式拥有很大发言权。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00058-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:35 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[解决保护中种族和相关不平等问题的框架]]></title>
-      <link>https://www.nature.com/articles/s41586-025-09892-1</link>
-      <description><![CDATA[这一观点提出了一个新的框架，以支持将黑人、土著人和有色人种纳入保护倡议。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09892-1</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:23 GMT</pubDate>
+      <title><![CDATA[保护研究人员数字安全的六个步骤]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00086-x</link>
+      <description><![CDATA[许多美国科学家报告有针对性的骚扰有所增加。以下是保护您的网络安全的工具和提示。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00086-x</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:35 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一个神秘的古老指纹和一个柠檬形状的星球——你错过的故事]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00053-6</link>
-      <description><![CDATA[我们重点介绍2025年底的一些《自然简报》故事，包括：由电信电缆制成的地震探测器，以及自热植物如何吸引传粉者。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00053-6</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:22 GMT</pubDate>
+      <title><![CDATA[癌症可能通过窃取线粒体来逃避免疫防御]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00123-9</link>
+      <description><![CDATA[劫持免疫细胞的能量产生细胞器似乎有助于小鼠的肿瘤渗透淋巴结。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00123-9</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[人脂质转移蛋白脂质动员的系统分析]]></title>
-      <link>https://www.nature.com/articles/s41586-025-10040-y</link>
-      <description><![CDATA[人脂质转移蛋白脂质动员的系统分析]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10040-y</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:21 GMT</pubDate>
+      <title><![CDATA[衰老如何损害身体对肆虐感染的反应]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00159-x</link>
+      <description><![CDATA[一种保护幼年小鼠免受败血症影响的基因会增加患有败血症的老年小鼠的死亡风险。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00159-x</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[电化学脱氟Matteson型同系物]]></title>
-      <link>https://www.nature.com/articles/s41586-025-10002-4</link>
-      <description><![CDATA[电化学脱氟Matteson型同系物]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10002-4</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:20 GMT</pubDate>
+      <title><![CDATA[狼幼崽的胃中含有世界上最后幸存的羊毛犀牛之一的DNA]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00161-3</link>
+      <description><![CDATA[来自羊毛犀牛的罕见样本揭示了该物种灭绝前种群数量的变化。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00161-3</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[猴痘会再次走向全球吗？研究表明，它正在以奇怪的方式发展]]></title>
-      <link>https://www.nature.com/articles/d41586-025-04154-6</link>
-      <description><![CDATA[对目前流行的猴痘病毒分支的分析为2022年该病毒如何在全球范围内传播以及如何再次走向全球提供了线索。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04154-6</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:19 GMT</pubDate>
+      <title><![CDATA[为什么今年流感这么严重？高度突变的变种提供了答案]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00061-6</link>
+      <description><![CDATA[流感病例的激增在一定程度上与过去几年中并不占主导地位的一种变种有关，导致自然免疫力的减弱。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00061-6</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[每日简报：灵感源自章鱼的合成“皮肤”可按需改变外观]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00080-3</link>
-      <description><![CDATA[新材质可以从哑光切换到闪亮，并根据需要显示各种其他效果。此外，人类在6万年前就使用了毒箭，并试图使用DNA来验证达·芬奇的画作。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00080-3</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:18 GMT</pubDate>
+      <title><![CDATA[LLM行为恶劣：错误的人工智能模型迅速脱轨]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04090-5</link>
+      <description><![CDATA[训练大型语言模型来编写不安全的代码可能会导致它们在执行不相关的任务时表现出看似攻击性的行为。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04090-5</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[巨大的中国细胞图谱揭示了人们之间令人惊讶的免疫变异]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00007-y</link>
-      <description><![CDATA[中国队列中免疫细胞的巨大功能图谱揭示了与欧洲和日本数据集的关键差异。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00007-y</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:17 GMT</pubDate>
+      <title><![CDATA[预测高温下热带森林的命运]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04093-2</link>
+      <description><![CDATA[严重的干旱导致亚马逊地区树木的缺水和死亡率上升，预示着气候变化后热带森林的未来。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04093-2</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[将免疫细胞置于“夜间模式”可减少心脏病发作的损伤]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00008-x</link>
-      <description><![CDATA[限制中性粒细胞活性的药物可以在不损害免疫系统的情况下减轻心脏病发作的严重程度。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00008-x</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:16 GMT</pubDate>
+      <title><![CDATA[多胺依赖性代谢屏蔽调节选择性拼接]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09965-1</link>
+      <description><![CDATA[多胺阻止了酶对拼接体蛋白中酸性可磷酸化基序的作用，从而为细胞中代谢物介导的选择性剪切调节提供了机制。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09965-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:32 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[作者更正：同源重组中BCDX2复合物功能的结构见解]]></title>
-      <link>https://www.nature.com/articles/s41586-025-10081-3</link>
-      <description><![CDATA[作者更正：同源重组中BCDX2复合物功能的结构见解]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-10081-3</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:15 GMT</pubDate>
+      <title><![CDATA[人工智能工具可以促进科学家个人的发展，但可能会限制整体研究]]></title>
+      <link>https://www.nature.com/articles/d41586-025-04092-3</link>
+      <description><![CDATA[对数十万篇自然科学论文的分析揭示了一个悖论：使用人工智能工具的科学家进行了更多的研究，但主题更有限。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04092-3</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:32 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[中国核聚变反应堆推动等离子体突破关键极限：接下来会发生什么]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00063-4</link>
-      <description><![CDATA[突破等离子体密度限制使研究人员更接近可行的聚变反应堆。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00063-4</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:13 GMT</pubDate>
+      <title><![CDATA[科学写作的三个技巧：研究生指南]]></title>
+      <link>https://www.nature.com/articles/d41586-025-03804-z</link>
+      <description><![CDATA[你是否在空白页上挣扎？这些策略可能会有所帮助。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03804-z</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:32 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[我们需要谈谈科学领域的工资]]></title>
-      <link>https://www.nature.com/articles/d41586-025-03488-5</link>
-      <description><![CDATA[学术界往往有一种“激情第一，金钱第二”的文化。克服这种心态对于建立幸福的职业生涯至关重要。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03488-5</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:12 GMT</pubDate>
+      <title><![CDATA[人工智能工具扩大了科学家的影响力，但缩小了科学的焦点]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09922-y</link>
+      <description><![CDATA[人工智能提高了科学家个人的产出、引用和职业发展，但总体上缩小了研究多样性并减少了协作，将工作集中在数据丰富的领域，并可能限制更广泛的科学探索。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09922-y</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:31 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[美国国家航空航天局不会将火星样本带回地球：这是将丢失的科学]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00060-7</link>
-      <description><![CDATA[国会的一项法案恢复了对美国国家航空航天局大多数太空科学任务的资助，但没有资金归还已经在这颗红色星球上收集的样本。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00060-7</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:11 GMT</pubDate>
+      <title><![CDATA[通过低转变温度合金实现零摄氏度以下的弹热冷却]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09946-4</link>
+      <description><![CDATA[基于压缩的再生弹性热量冷却设备使用级联配置的低转变温度管状NiTi单元，显示出超弹性和显着的熵变化，允许在没有制冷剂气体的情况下构建零度以下的制冷系统。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09946-4</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:31 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[无法获得动力？这个大脑回路可能解释了为什么——而且它可以被关闭]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00062-5</link>
-      <description><![CDATA[科学家们发现了一种操纵猴子大脑通路的方法，可以抑制动机。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00062-5</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:10 GMT</pubDate>
+      <title><![CDATA[电注入固体声表面声波音素激光器]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09950-8</link>
+      <description><![CDATA[完全固态、单芯片、微波频率表面声波音素激光器可以从热噪音中产生相干音素，或仅使用直流偏置场共振放大注入的音素。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09950-8</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:30 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[人工智能模型接受了四周的治疗：结果让研究人员感到担忧]]></title>
-      <link>https://www.nature.com/articles/d41586-025-04112-2</link>
-      <description><![CDATA[聊天机器人通过心理治疗报告创伤和虐待。作者表示，模型所做的不仅仅是角色扮演，但研究人员对此表示怀疑。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-04112-2</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:09 GMT</pubDate>
+      <title><![CDATA[海马体奖励的预测编码]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09958-0</link>
+      <description><![CDATA[当小鼠在几周内学习基于奖励的任务时，对小鼠海马神经元进行钙成像，可以深入了解长期经验期间海马奖励代表的演变。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09958-0</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:30 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[“作为一名跨性别科学家出柜，让我成为有史以来最好的老师”]]></title>
-      <link>https://www.nature.com/articles/d41586-026-00057-2</link>
-      <description><![CDATA[Shannon Bros和Kihana Wilson概述了学术界如何更好地支持LGBTQ+研究人员，推出了一个关于工作场所话题的播客系列，这些话题通常是禁止的。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00057-2</guid>
-      <pubDate>Wed, 14 Jan 2026 15:07:08 GMT</pubDate>
+      <title><![CDATA[基因设计空间的超高通量绘制]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09933-9</link>
+      <description><![CDATA[CLASSIC是一个高通量遗传分析平台，它结合了长读和短读下一代测序模式，以定量评估包含不同遗传部分组成的任意长度的构建体池。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09933-9</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[语言模型引导的哺乳动物代谢物预测和发现]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09969-x</link>
+      <description><![CDATA[针对已知代谢物训练的化学语言模型可以从基于MS的代谢组学数据中高准确性地识别以前未知的代谢物。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09969-x</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CFAP 20挽救使RNAPII脱离同向复制体路径]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09943-7</link>
+      <description><![CDATA[CFAP 20在拯救DNA转录期间停滞的RNA聚合酶II复合物、限制R环的积累并防止转录和复制机制之间的碰撞方面发挥着关键作用。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09943-7</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[泛蛋白连接酶KLHL 6驱动对CD 8<sup>+</sup> T细胞功能障碍的抵抗]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09926-8</link>
+      <description><![CDATA[将T细胞衰竭和线粒体适应性图谱的计算分析与体内CRISPR筛查相结合，确定KLHL 6是衰竭分化和线粒体功能障碍的双负调节因子，凸显了其作为增强抗肿瘤免疫力的靶点的潜力。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09926-8</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<i></i><sup>N1</sup>-甲基假尿苷直接调节翻译动力学]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09945-5</link>
+      <description><![CDATA[N1-甲基假尿苷增强合成mRNA的翻译，独立于先天免疫。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09945-5</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小红点是致密电离茧中的年轻超大质量黑洞]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09900-4</link>
+      <description><![CDATA[质量最高的JWST光谱揭示了小红点是年轻的超大质量黑洞，笼罩在致密的电离气体茧中，其中电子散射而不是Doppler运动拓宽了它们的谱线。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09900-4</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[元表面光钳阵列中单原子的捕获]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09961-5</link>
+      <description><![CDATA[单个铯原子被捕获在通过全息元表面生成的光镊子阵列中，克服了实现可扩展中性原子量子技术的关键障碍。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09961-5</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无处可藏的机制确保了完整的piRNA指导的DNA甲基化]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09940-w</link>
+      <description><![CDATA[在小鼠中，通过防止转座逃避异染色质内的监视，实现完全的非随机piRNA指导的LINE 1 DNA甲基化需要SPOCD 1-TPA依赖的“无处可藏”机制。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09940-w</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全球河流三角洲下沉]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09928-6</link>
+      <description><![CDATA[报告了使用干涉合成口径雷达测量全球40个三角洲的空间变化表面海拔变化。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09928-6</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过AGenDA项目丰富非洲基因组代表性]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09935-7</link>
+      <description><![CDATA[非洲遗传多样性评估（AGenDA）项目分享了他们的流程，包括社区参与，获得伦理批准，遵守法律和制定共同治理框架。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09935-7</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[配体特异性激活轨迹决定细胞中的GPCR信号]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09963-3</link>
+      <description><![CDATA[不同的激动剂产生G蛋白结合的M2粘菌素乙胆碱受体的至少四种不同活性状态的平衡，每种活性状态都具有不同的激活G蛋白的能力。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09963-3</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小鼠的疾病耐受性和感染发病机制与年龄相关的权衡]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09923-x</link>
+      <description><![CDATA[感染可能引起的疾病病程和病理可能会因随着年龄的增长而积累的结构和功能生理变化而发生变化，但治疗可以相应调整;疾病耐受基因显示出对抗性多效性。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09923-x</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[核壳电子的相干非线性X射线四量子相互作用]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09911-1</link>
+      <description><![CDATA[使用来自气态霓虹靶上的自由电子激光器的单个宽带X射线脉冲，演示了与核壳电子的相干、非线性四量子相互作用，代表了原子尺度多维相关光谱的一种策略。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09911-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[连续血糖监测数据的基础模型]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09925-9</link>
+      <description><![CDATA[GluFormer是一种生成性基础模型，使用连续血糖监测数据来准确预测与白血病相关的健康反应，特别是长期结果。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09925-9</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3D打印低电压驱动的睫状水凝胶微致动器]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09944-6</link>
+      <description><![CDATA[3D打印凝胶微毛阵列由具有纳米级网络结构的软丙烯酸-共-聚丙烯胺水凝胶组成，通过双量子聚合印刷，显示能够在几毫秒内对低压电刺激做出反应，从而实现动态个体控制和非可逆3D运动。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09944-6</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[支持Exciplex的高效、完全可延伸的OLED]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09904-0</link>
+      <description><![CDATA[描述了完全可伸展的有机发光二极管的制造，该发光二极管结合了本质上可伸展的激基复合物辅助的荧光层以及MXenene接触可伸展的电极，证明了应用于下一代可穿戴和可变形显示器的高效率和机械顺从性。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09904-0</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[直接观察中子轰击引起的米格尔效应]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09918-8</link>
+      <description><![CDATA[报道了对中子-核碰撞中Migdal效应的直接观察，这解决了实验验证中长期存在的空白。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09918-8</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[在狭窄的任务上训练大型语言模型可能会导致广泛的失调]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09937-5</link>
+      <description><![CDATA[在编写不安全代码的狭窄任务上微调大型语言模型会导致一系列与编码无关的令人担忧的行为。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09937-5</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[阿斯加德古菌对真核发生的主要贡献]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09960-6</link>
+      <description><![CDATA[对最后一个真核共同祖先的重建基因集的调查显示，阿斯加德古菌与众多功能多样的真核基因的起源之间存在一致的联系，证明了阿斯加德对真核发生的主要贡献。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09960-6</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微生物诱导的T细胞可塑性使免疫介导的肿瘤控制成为可能]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09913-z</link>
+      <description><![CDATA[肠道肠杆菌和肿瘤抗原之间的分子模仿构成了重要机制框架的一部分，可以提高免疫检查点阻断治疗的功效并抑制肿瘤生长。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09913-z</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[您在攻读博士学位的同时是否还有副业？以<i>自然</i>的民意调查为例]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00145-3</link>
+      <description><![CDATA[超过一半的Z世代现在有兼职演出。研究人员是寻求第二份收入的人吗？]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00145-3</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能可以加速科学家的职业生涯-但限制他们的范围]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00162-2</link>
+      <description><![CDATA[人工智能的使用可以提高产出，但代价是研究广度，而且还可以解开宇宙“小红点”的谜团。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00162-2</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[撤回注：抗内源性逆转录病毒的抗体促进肺癌免疫治疗]]></title>
+      <link>https://www.nature.com/articles/s41586-026-10104-7</link>
+      <description><![CDATA[撤回注：抗内源性逆转录病毒的抗体促进肺癌免疫治疗]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-026-10104-7</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[二维钙钛矿中的马赛克横向杂结构]]></title>
+      <link>https://www.nature.com/articles/s41586-025-09949-1</link>
+      <description><![CDATA[二维卤化铅钙钛矿中的彩色图案是通过让它们自蚀刻成可以模板外延生长的微小正方形来创建的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09949-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[古代陶器揭示了数学思维的早期证据]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00069-y</link>
+      <description><![CDATA[植物图案的对称排列表明早在正式书面数字出现之前就已经掌握了空间划分。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00069-y</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人工智能的未来是什么--来自塑造它的人]]></title>
+      <link>https://www.nature.com/articles/d41586-026-00147-1</link>
+      <description><![CDATA[六位处于人工智能发展前沿的专家就该领域的下一步发展发表了自己的看法。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/d41586-026-00147-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:32:20 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[每日简报：聚变反应堆推动等离子体突破关键极限]]></title>

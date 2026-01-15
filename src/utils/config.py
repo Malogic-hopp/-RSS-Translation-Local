@@ -4,7 +4,8 @@ import os
 class ConfigManager:
     def __init__(self, config_path):
         self.config_path = config_path
-        self.config = configparser.ConfigParser()
+        # Enable inline comments support
+        self.config = configparser.ConfigParser(inline_comment_prefixes=(';', '#'))
         if os.path.exists(config_path):
             self.config.read(config_path, encoding='utf-8')
 

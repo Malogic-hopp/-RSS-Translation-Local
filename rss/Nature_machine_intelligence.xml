@@ -3,14 +3,14 @@
   <channel>
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
-    <description>《自然机器智能》将发表机器学习、机器人和人工智能领域广泛主题的高质量原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和行业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医学诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识，这是无数的机会。与此同时，出现了许多关于伦理、社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响，鼓励跨学科对话;查看文章和信件。</description>
-    <lastBuildDate>Wed, 14 Jan 2026 14:56:08 GMT</lastBuildDate>
+    <description>《自然机器智能》将在机器学习、机器人和人工智能领域广泛主题中发布高质量的原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能有无数的机会可以增强人类在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域的能力和知识。与此同时，出现了许多有关道德、社会和法律问题的重要问题，特别是考虑到发展的快节奏，自然机器智能将提供一个平台来讨论这些广泛的影响-鼓励跨学科对话-与评论、新闻专题、新闻观点文章以及通讯。</description>
+    <lastBuildDate>Thu, 15 Jan 2026 12:26:13 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[作者更正：通过编码理论和深度学习实现可扩展和稳健的基于DNA的存储]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01175-8</link>
-      <description><![CDATA[作者更正：通过编码理论和深度学习实现可扩展和稳健的基于DNA的存储]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01175-8</guid>
-      <pubDate>Wed, 14 Jan 2026 14:56:06 GMT</pubDate>
+      <title><![CDATA[对大型语言模型进行科学实验室安全风险的基准]]></title>
+      <link>https://www.nature.com/articles/s42256-025-01152-1</link>
+      <description><![CDATA[大型语言模型开始用于控制机器人等安全关键任务。Zhou等人介绍了LabSafety Bench，这是一个评估大型语言模型识别危险和评估实验室风险能力的基准。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01152-1</guid>
+      <pubDate>Thu, 15 Jan 2026 12:26:12 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[评估深度学习在蛋白质-配体对接方面的潜力]]></title>

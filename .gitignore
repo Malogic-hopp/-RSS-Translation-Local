@@ -2,8 +2,8 @@
 .env
 
 # Config & Data
-data/rss_state.json
-data/items_cache.json
+# data/rss_state.json
+# data/items_cache.json
 data/debug/
 
 # Python
@@ -43,7 +43,3 @@ venv.bak/
 .idea/
 *.swp
 *.swo
-
-# Deprecated
-pii_cache.json
-test.ini

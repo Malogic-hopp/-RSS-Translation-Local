@@ -24,7 +24,9 @@
     │   └── readme_updater.py  # README 自动更新
     ├── translators/       # 翻译接口 (翻译部)
     │   ├── base.py        # 翻译器基类
-    │   └── baidu.py       # 百度翻译实现 (含 QPS 限流重试)
+    │   ├── baidu.py       # 百度翻译实现 (含 QPS 限流重试)
+    │   ├── tencent.py     # 腾讯云 TMT 翻译实现
+    │   └── deepseek.py    # DeepSeek (LLM) 翻译实现
     ├── fetchers/          # 特定来源获取 (采购部)
     │   └── elsevier.py    # Elsevier API 摘要提取
     └── utils/             # 工具函数 (后勤部)
@@ -40,8 +42,9 @@
 
 ### A. 总指挥 (`main.py`)
 负责调度和协调各模块工作：
-*   **环境配置**: 从 `.env` 文件加载敏感信息（百度 API、Elsevier API 密钥）。
-*   **配置读取**: 通过 `ConfigManager` 读取 `config.ini` 中的 RSS 源配置。
+*   **环境配置**: 从 `.env` 文件加载敏感信息（百度 API、腾讯云 API、DeepSeek API、Elsevier API 密钥）。
+*   **配置读取**: 通过 `ConfigManager` 读取 `config.ini` 中的 RSS 源配置，包括全局翻译服务选择。
+*   **翻译器初始化**: 根据配置（`service` 参数）和环境变量自动选择或手动指定翻译服务。
 *   **MD5 过滤**: 利用 `rss_state.json` 的 MD5 指纹进行**第一道防线**检查（源文件是否变化）。
 *   **容错机制**: 当 RSS 获取失败时，自动降级使用本地已生成的 XML 文件，确保 README 更新不中断。
 *   **README 更新**: 所有 RSS 处理完成后，调用 `readme_updater` 自动更新 README.md。
@@ -70,100 +73,51 @@
 5.  **调试日志**: 自动记录 Elsevier API 调用详情到 `data/debug/elsevier_debug.log`。
 
 ### C. 翻译专员 (`src/translators/`)
-*   **`base.py`**: 定义翻译器抽象基类，支持自定义源语言和目标语言。
-*   **`baidu.py`**: 百度翻译 API 实现，包含：
-    *   QPS 限流自动重试机制（最多 3 次，指数退避）。
-    *   错误码识别（54003、52003 等）。
-    *   自动将 `zh-CN` 规范化为 `zh`。
+*   **`base.py`**: 定义翻译器抽象基类。
+*   **`baidu.py`**: 百度翻译 API 实现，包含 QPS 限流重试机制。
+*   **`tencent.py`**: 腾讯云 TMT 翻译实现，使用 `tencentcloud-sdk-python`。
+*   **`deepseek.py`**: 基于 DeepSeek API (OpenAI 兼容) 的大模型翻译实现。
+*   **`__init__.py` (工厂模式)**: 实现翻译器选择逻辑。
+    *   **手动模式**: 若 `config.ini` 中指定了 `service`，则强制使用该服务。
+    *   **自动模式**: 若设为 `auto`，则按 `DeepSeek -> Tencent -> Baidu` 的优先级自动检测可用密钥。
 
 ### D. 第三方获取层 (`src/fetchers/`)
-*   **`elsevier.py`**: Elsevier API 摘要获取器：
-    *   从 ScienceDirect 链接提取 PII。
-    *   调用 Elsevier Abstract API 获取完整摘要。
-    *   自动清理 API 返回的版权信息前缀。
-    *   支持完整的调试日志记录。
+*   **`elsevier.py`**: Elsevier API 摘要获取器。
 
 ### E. 数据持久化 (`src/utils/`)
-*   **`item_store.py`**: 管理文章级别的缓存，实现增量更新的关键：
-    *   三种状态：`success`（完整）、`partial`（需重试）、不存在。
-    *   冷却期机制：防止失败的条目过于频繁重试。
-    *   脏标记：只在数据变化时写入磁盘。
-*   **`state.py`**: 管理 Feed 级别的状态（MD5），防止重复下载无变化的文件。
-*   **`config.py`**: 配置文件管理器，支持翻译语言对配置（`auto` 或 `src->tgt`）。
-*   **`helpers.py`**: 工具函数集合：
-    *   `get_md5_value()`: SHA256 哈希计算。
-    *   `clean_html_text()`: HTML 清洗和实体解码。
-    *   `getTime()`: 时间提取。
-    *   `parse_custom_date()`: 多格式日期解析（预留，当前未使用）。
-
-### F. README 更新器 (`src/core/readme_updater.py`)
-*   自动生成 RSS 源列表，包含最新 3 篇文章的可展开预览。
-*   使用 HTML `<details>` 标签实现折叠效果。
+*   **`item_store.py`**: 管理文章级别的缓存，实现增量更新。
+*   **`state.py`**: 管理 Feed 级别的状态（MD5）。
+*   **`config.py`**: 配置文件管理器。
+*   **`helpers.py`**: 工具函数集合。
 
 ---
 
 ## 3. 核心运行流程
 
 1.  **初始化**:
-    *   加载 `.env` 环境变量（API 密钥）。
-    *   加载 `config.ini` 配置文件。
+    *   加载 `.env` 环境变量。
+    *   加载 `config.ini` 配置文件，读取 `service` 选择。
     *   加载 `rss_state.json` 和 `items_cache.json` 缓存文件。
 
 2.  **源级过滤**:
     *   遍历配置中的所有 RSS 源。
     *   下载 RSS 内容并计算 MD5 哈希。
-    *   对比 MD5，若 RSS 源文件未变且无 Partial 条目需要重试，直接跳过。
-    *   保存原始 XML 到 `data/debug/` 供调试。
+    *   对比 MD5，跳过无变化的源。
 
 3.  **条目级过滤**:
     *   解析 RSS，对每篇文章检查 `Item Store`。
-    *   已存在且完整的文章 -> **零消耗**，直接使用缓存。
-    *   新文章或需修复的文章 -> **进入处理流程**。
 
 4.  **深度处理**:
-    *   **清洗**: 使用 BeautifulSoup 剥离 HTML 标签，针对 Nature 去除 DOI 前缀。
-    *   **增强**: 对于 Elsevier 文章，尝试通过 API 获取完整摘要。
-    *   **时间**: 提取文章的发布时间（`published_parsed`）。
-    *   **翻译**: 合并标题和摘要 -> 百度翻译 -> 拆分结果。
-    *   **XML 转义**: 对翻译结果进行 XML 实体转义。
+    *   **清洗/增强**: 获取内容并进行格式清洗。
+    *   **翻译器实例化**: 调用 `get_translator()`，根据配置初始化 DeepSeek、腾讯或百度翻译器。
+    *   **翻译**: 合并标题和摘要 -> 翻译 -> 拆分结果。
 
 5.  **生成与保存**:
     *   使用 Jinja2 模板生成标准 RSS XML。
-    *   保存到 `rss/` 目录。
-    *   更新 `rss_state.json` 和 `items_cache.json`。
-    *   收集文章信息用于 README 更新。
+    *   更新缓存。
 
 6.  **README 更新**:
     *   所有 RSS 处理完成后，统一更新 README.md。
-    *   生成 RSS 源列表，包含最新文章预览。
-    *   即使部分 RSS 获取失败，也能基于本地文件完成更新。
-
----
-
-## 4. 优化亮点
-
-*   **双重增量机制**: MD5 过滤文件级变化 + Item Store 过滤条目级变化，效率极大提升，减少不必要的 API 调用。
-*   **智能清洗**: 针对 Nature、Elsevier 等特定源的格式问题进行针对性清洗，提升翻译质量。
-*   **容错降级**: 多层级容错机制（RSS 获取失败、翻译失败、API 失败），确保系统稳定运行。
-*   **Partial Retry 优化**: 失败条目重试时，如果 API 仍然失败，只更新时间戳而不重新翻译，避免资源浪费。
-*   **配置解耦**: 敏感信息 (`.env`)、静态配置 (`config.ini`) 与动态状态 (`rss_state.json`、`items_cache.json`) 三层分离。
-*   **调试友好**: 自动保存原始 XML 和 API 调用日志，便于问题排查。
-*   **README 自动化**: 每次运行后自动更新 README，保持项目文档的时效性。
-
----
-
-## 5. 依赖项
-
-主要依赖库（见 `requirements.txt`）：
-*   **feedparser**: RSS 解析
-*   **requests**: HTTP 请求
-*   **beautifulsoup4** / **bs4**: HTML 清洗
-*   **jinja2**: RSS XML 模板生成
-*   **python-dotenv**: 环境变量管理
-*   **configparser**: INI 配置文件解析
-
-其他依赖：
-*   **mtranslate, googletrans, pygtrans**: 其他翻译服务（备用，当前未使用）
 
 ---
 
@@ -171,54 +125,35 @@
 
 ### 6.1 环境变量 (`.env`)
 ```ini
-BAIDU_APP_ID=your_app_id
-BAIDU_SECRET_KEY=your_secret_key
-ELSEVIER_API_KEY=your_elsevier_key  # 可选
+BAIDU_APP_ID=...
+BAIDU_SECRET_KEY=...
+TENCENT_SECRET_ID=...
+TENCENT_SECRET_KEY=...
+DEEPSEEK_API_KEY=...
+ELSEVIER_API_KEY=...
 ```
 
 ### 6.2 RSS 源配置 (`config/config.ini`)
 ```ini
 [cfg]
-base = "rss/"           # 输出目录
-cooldown_hours = 0      # Partial 条目重试冷却期（小时）
-
-[source001]
-name = "RESS"                                           # RSS 源名称
-url = "https://rss.sciencedirect.com/publication/..."   # RSS 源 URL
-max = "50"                                              # 最大处理条目数
-action = "auto"                                         # 翻译语言对（auto = auto->zh）
+base = "rss/"
+cooldown_hours = 0
+service = "auto"  # 选择: auto, deepseek, tencent, baidu
 ```
-
----
-
-## 7. Git 管理策略
-
-**提交到 Git**：
-*   源代码 (`src/`, `main.py`)
-*   配置文件 (`config/`, `requirements.txt`)
-*   文档 (`README.md`, `ARCHITECTURE.md`)
-*   Git 配置 (`.gitignore`)
-
-**不提交** (见 `.gitignore`)：
-*   敏感信息 (`.env`)
-*   动态状态 (`data/rss_state.json`, `data/items_cache.json`)
-*   调试文件 (`data/debug/`)
-*   虚拟环境 (`.venv/`)
-*   生成的 RSS 文件 (`rss/`)
 
 ---
 
 ## 更新日志 (Changelog)
 
+### 2026-01-15
+*   **Feature**: 集成腾讯云 TMT 翻译接口。
+*   **Feature**: 集成 DeepSeek 大模型翻译接口。
+*   **Feature**: 支持在 `config.ini` 中通过 `service` 参数手动选择翻译服务。
+
 ### 2026-01-14
-*   **文档更新**: 更新 ARCHITECTURE.md 以反映实际代码实现，补充环境变量配置、容错机制等说明。
-*   **优化**: 实现 Partial Retry 优化，避免无谓的 API 消耗。
-*   **功能**: 添加 README 自动更新功能，每次运行后自动生成 RSS 源列表。
+*   **文档更新**: 更新 ARCHITECTURE.md 以反映实际代码实现。
+*   **功能**: 添加 README 自动更新功能。
 
 ### 2026-01-13
-*   **Refactor**: 将单文件脚本重构为模块化架构 (`src/`)。
-*   **Feature**: 引入 `ItemStore` 实现文章级增量更新，大幅减少 API 调用。
-*   **Feature**: 实现 Nature RSS 的特定清洗逻辑，去除 DOI 前缀。
-*   **Feature**: 实现多策略时间提取 (dc:date, 正则匹配等)，确保文章日期准确。
-*   **Opt**: 配置文件分离为 `config.ini` 和 `rss_state.json`。
-*   **Opt**: 合并翻译请求 (Title + Description)，API 消耗减半。
+*   **Refactor**: 将单文件脚本重构为模块化架构。
+*   **Feature**: 引入 `ItemStore` 实现增量更新。

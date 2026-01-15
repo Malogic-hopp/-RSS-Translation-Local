@@ -15,3 +15,5 @@ configparser
 markdown
 
 python-dotenv
+
+tencentcloud-sdk-python

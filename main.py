@@ -7,15 +7,12 @@ from src.utils.helpers import get_md5_value
 from src.utils.config import ConfigManager
 from src.utils.state import StateManager
 from src.utils.item_store import ItemStore
-from src.translators.baidu import BaiduTranslator
+from src.translators import get_translator
 from src.core.processor import RSSProcessor
 from src.core.readme_updater import update_readme
 
 # Load environment variables
 load_dotenv()
-
-BAIDU_APP_ID = os.environ.get("BAIDU_APP_ID")
-BAIDU_SECRET_KEY = os.environ.get("BAIDU_SECRET_KEY")
 
 STATE_FILE = "data/rss_state.json"
 ITEM_STORE_FILE = "data/items_cache.json"
@@ -23,10 +20,6 @@ CONFIG_FILE = "config/config.ini"
 DEBUG_DIR = "data/debug/"
 
 def main():
-    if not BAIDU_APP_ID or not BAIDU_SECRET_KEY:
-        print("Error: BAIDU_APP_ID or BAIDU_SECRET_KEY not set in environment.")
-        return
-
     # Initialize Managers
     config_mgr = ConfigManager(CONFIG_FILE)
     state_mgr = StateManager(STATE_FILE)
@@ -34,14 +27,15 @@ def main():
     
     base_dir = config_mgr.get("cfg", "base", "rss/")
     cooldown_hours = int(config_mgr.get("cfg", "cooldown_hours", 24))
+    service_selection = config_mgr.get("cfg", "service", "auto")
+    
+    print(f"Service Selection: '{service_selection}'")
 
     os.makedirs(base_dir, exist_ok=True)
     os.makedirs(DEBUG_DIR, exist_ok=True)
 
     secs = config_mgr.sections()
     feeds_data = []
-
-    print(f"Baidu Translator Init... (AppID: {BAIDU_APP_ID[:4]}***)")
 
     for sec in secs:
         if sec == "cfg": continue 
@@ -98,6 +92,8 @@ def main():
         else:
             # Check if any items in the current feed need retry (e.g. they were "partial")
             for entry in parsed_feed.entries[:max_item]:
+                if not hasattr(entry, 'link'):
+                    continue
                 if item_store.should_retry_partial(entry.link, cooldown_hours):
                     needs_update = True
                     print(f"  Found item(s) needing retry (partial or missing).")
@@ -121,7 +117,22 @@ def main():
             continue
 
         print(f"  Updating...")
-        translator = BaiduTranslator(BAIDU_APP_ID, BAIDU_SECRET_KEY, source_lang, target_lang)
+        translator = get_translator(service_selection, source_lang, target_lang)
+        if not translator:
+            print("  Error: No valid translator configuration found (Check env vars). Skipping.")
+            # Fallback to local if update failed but file exists
+            if os.path.exists(xml_file):
+                try:
+                    d = feedparser.parse(xml_file)
+                    for entry in d.entries[:5]:
+                        feed_entry["items"].append({
+                            "title": entry.title,
+                            "link": entry.link
+                        })
+                except: pass
+            feeds_data.append(feed_entry)
+            continue
+
         # Pass only item_store
         processor = RSSProcessor(translator, item_store, cooldown_hours)
         
