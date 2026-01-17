@@ -17,3 +17,5 @@ markdown
 python-dotenv
 
 tencentcloud-sdk-python
+
+openai

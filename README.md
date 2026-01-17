@@ -7,45 +7,45 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [基于改进Transformer和随机过程的锂离子电池剩余使用寿命预测方法](https://www.sciencedirect.com/science/article/pii/S0951832025013158?dgcid=rss_sd_all)
-     * [应用交互式威胁矩阵诱导的系统动力学模型确定二氧化碳管道<sub></sub>](https://www.sciencedirect.com/science/article/pii/S0951832025012335?dgcid=rss_sd_all)
-     * [海上风力涡轮机轴承滚柱轮廓的不确定性优化](https://www.sciencedirect.com/science/article/pii/S0951832025013031?dgcid=rss_sd_all)
+     * [基于相互依赖的道路避难网络的台风下动态城市疏散避难功能的概率评估](https://www.sciencedirect.com/science/article/pii/S0951832026000566?dgcid=rss_sd_all)
+     * [不确定性下多单元异类降级系统的新型灵活间隔维护策略](https://www.sciencedirect.com/science/article/pii/S0951832026000438?dgcid=rss_sd_all)
+     * [可解释海上碰撞严重度预测的多任务因果表示学习方法](https://www.sciencedirect.com/science/article/pii/S0951832026000529?dgcid=rss_sd_all)
    </details>
 
  - Information_fusion [https://rss.sciencedirect.com/publication/science/15662535](https://rss.sciencedirect.com/publication/science/15662535) -> [Information_fusion](rss/Information_fusion.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [编码-解码机制下具有多速率测量的线性重复过程的分区集成员状态估计](https://www.sciencedirect.com/science/article/pii/S1566253525010851?dgcid=rss_sd_all)
-     * [LGBT跟踪的跨模式引导注意力](https://www.sciencedirect.com/science/article/pii/S156625352501070X?dgcid=rss_sd_all)
-     * [具有视觉基础模型提示的多模式协作学习增强了3D半监督语义分割](https://www.sciencedirect.com/science/article/pii/S1566253525010814?dgcid=rss_sd_all)
+     * [警告：通过客户端后门检测增强联邦学习稳健性](https://www.sciencedirect.com/science/article/pii/S1566253526000230?dgcid=rss_sd_all)
+     * [多节点随机访问协议下多速率非线性系统的安全Tobit过滤：Paillier描述-解密机制](https://www.sciencedirect.com/science/article/pii/S1566253526000254?dgcid=rss_sd_all)
+     * [OMD：用于软脑膜转移诊断的最佳运输引导的多模态解缠学习](https://www.sciencedirect.com/science/article/pii/S1566253525011832?dgcid=rss_sd_all)
    </details>
 
  - Information_sciences [https://rss.sciencedirect.com/publication/science/00200255](https://rss.sciencedirect.com/publication/science/00200255) -> [Information_sciences](rss/Information_sciences.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [基于限制的重叠和分组函数及其在卷积神经网络架构中的应用](https://www.sciencedirect.com/science/article/pii/S0020025525011430?dgcid=rss_sd_all)
-     * [DCA-Net：基于图的相关采样和动态上下文关联用于生物医学触发检测](https://www.sciencedirect.com/science/article/pii/S0020025525011648?dgcid=rss_sd_all)
-     * [FedPuzzle：来自分布式异类变量集的联邦因果发现](https://www.sciencedirect.com/science/article/pii/S0020025525011582?dgcid=rss_sd_all)
+     * [不完整异类信息系统的三向决策方法：加强企业绩效评估](https://www.sciencedirect.com/science/article/pii/S0020025525010722?dgcid=rss_sd_all)
+     * [具有实例相似性和特征冗余的基于邻居组合信息的标签分布特征选择](https://www.sciencedirect.com/science/article/pii/S0020025525011363?dgcid=rss_sd_all)
+     * [DeliverContextNet：一个具有时空-谱融合的实时自适应大型模型，用于多上下文面部情感识别](https://www.sciencedirect.com/science/article/pii/S0020025525011429?dgcid=rss_sd_all)
    </details>
 
  - IJMTM [https://rss.sciencedirect.com/publication/science/08906955](https://rss.sciencedirect.com/publication/science/08906955) -> [IJMTM](rss/IJMTM.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [用于制造的机器人末端效应器：最近的发展和未来的研究挑战](https://www.sciencedirect.com/science/article/pii/S0890695526000040?dgcid=rss_sd_all)
      * [编委会](https://www.sciencedirect.com/science/article/pii/S0890695525001142?dgcid=rss_sd_all)
      * [马氏体相变灵敏度驱动的NiTi形状记忆合金激光粉末床熔合工艺路线图：从缺陷消除到精确性能控制的范式转变](https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all)
-     * [基于模型的增材制造层状异质结构金属材料强韧性协同设计](https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all)
    </details>
 
  - MSSP [https://rss.sciencedirect.com/publication/science/08883270](https://rss.sciencedirect.com/publication/science/08883270) -> [MSSP](rss/MSSP.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [用于协同预测刀具磨损和表面粗糙度分类的级联自注意混合模型](https://www.sciencedirect.com/science/article/pii/S0888327025014864?dgcid=rss_sd_all)
-     * [通过重叠双法布里-佩罗元超覆层实现高收益全方位超声波SH波](https://www.sciencedirect.com/science/article/pii/S088832702501475X?dgcid=rss_sd_all)
-     * [基于MDOF非线性系统响应概率密度函数表达的随机动态响应分析](https://www.sciencedirect.com/science/article/pii/S0888327025014505?dgcid=rss_sd_all)
+     * [结合基于物理的时间因果关系约束的分布式动态负载识别数据驱动框架](https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all)
+     * [用于变电站设备多目标地震监测的模拟和可解释学习联合驱动框架](https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all)
+     * [利用连续子波变换从加速度数据识别的弯曲剖面进行桥梁损伤定位](https://www.sciencedirect.com/science/article/pii/S0888327026000385?dgcid=rss_sd_all)
    </details>
 
  - Nature_machine_intelligence [https://www.nature.com/natmachintell.rss](https://www.nature.com/natmachintell.rss) -> [Nature_machine_intelligence](rss/Nature_machine_intelligence.xml)
@@ -79,45 +79,45 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [编辑委员会](https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all)
      * [TROPICCAL：物联网增强流程的多视角跟踪集群](https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all)
      * [FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统](https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all)
-     * [基于模糊集特征提取和智能优化的短期综合风速预测系统](https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all)
    </details>
 
  - Advanced_engineering_informatics [https://rss.sciencedirect.com/publication/science/14740346](https://rss.sciencedirect.com/publication/science/14740346) -> [Advanced_engineering_informatics](rss/Advanced_engineering_informatics.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [“用于主动悬挂系统中0-500 Hz全带振动抑制的强化学习和H无穷混合控制框架”的更正。[Adv.工程。通知。69（2026）A部分/103844]](https://www.sciencedirect.com/science/article/pii/S1474034625011462?dgcid=rss_sd_all)
-     * [一种改进的SIFT非接触式桥梁位移测量方法](https://www.sciencedirect.com/science/article/pii/S1474034625010389?dgcid=rss_sd_all)
-     * [利用变压器增强的点云配准量化预制结构虚拟装配中的几何偏差](https://www.sciencedirect.com/science/article/pii/S1474034625010936?dgcid=rss_sd_all)
+     * [运动优先和信任感知高斯飞溅（MCGS）SLAM，用于室内建筑环境的3D场景重建](https://www.sciencedirect.com/science/article/pii/S1474034626000091?dgcid=rss_sd_all)
+     * [深度引导的跨模式融合和基于扩散的增强，实现稳健的路面缺陷分割](https://www.sciencedirect.com/science/article/pii/S1474034626000315?dgcid=rss_sd_all)
+     * [超高拱坝地震易损性分析的概率无监督地震动聚类方法](https://www.sciencedirect.com/science/article/pii/S1474034626000108?dgcid=rss_sd_all)
    </details>
 
  - Knowledge_based_systems [https://rss.sciencedirect.com/publication/science/09507051](https://rss.sciencedirect.com/publication/science/09507051) -> [Knowledge_based_systems](rss/Knowledge_based_systems.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [纯零激发异常检测任务的时空图结构相似性评估](https://www.sciencedirect.com/science/article/pii/S0950705125022257?dgcid=rss_sd_all)
-     * [基于多源数据融合的路面质量指数（PQI）预测模型](https://www.sciencedirect.com/science/article/pii/S0950705125022476?dgcid=rss_sd_all)
-     * [MP-DUN：用于图像压缩传感的基于多种先验的深度展开网络](https://www.sciencedirect.com/science/article/pii/S0950705125021914?dgcid=rss_sd_all)
+     * [LLMDNet：弱光条件下的自动采矿卡车物体检测网络](https://www.sciencedirect.com/science/article/pii/S0950705126000304?dgcid=rss_sd_all)
+     * [统一跨模式激励下的MNER类别知识提炼](https://www.sciencedirect.com/science/article/pii/S0950705126000134?dgcid=rss_sd_all)
+     * [BiTrans-CDSR：通过联合用户项重叠建模进行跨域顺序推荐的双向知识转移](https://www.sciencedirect.com/science/article/pii/S0950705126000262?dgcid=rss_sd_all)
    </details>
 
  - Nature [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature](rss/Nature.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [每日简报：同性性行为是一些灵长类动物生活的正常组成部分](https://www.nature.com/articles/d41586-026-00149-z)
-     * [生物传感器表征了受体到达不同活性状态的途径](https://www.nature.com/articles/d41586-026-00011-2)
-     * [物品及其上下文的记忆由不同的人类脑细胞组编码](https://www.nature.com/articles/d41586-026-00016-x)
+     * [每日简报：为什么“无害”细菌对某些人来说可能致命](https://www.nature.com/articles/d41586-026-00166-y)
+     * [博士生对风险的品味反映了他们的导师”](https://www.nature.com/articles/d41586-026-00160-4)
+     * [“细胞时间胶囊”存储了它们过去的秘密经历](https://www.nature.com/articles/d41586-026-00116-8)
    </details>
 
  - Science_podcast [https://feeds.megaphone.fm/AAAS8717073854](https://feeds.megaphone.fm/AAAS8717073854) -> [Science_podcast](rss/Science_podcast.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [扭转加拉帕戈斯群岛的生态破坏，最终绘制南极洲表面地图](https://www.science.org/doi/10.1126/science.zzphu10)
      * [真正的达密码和世界上最古老的毒箭](https://www.science.org/doi/10.1126/science.zhe4p4l)
      * [在系外行星上寻找大陆，数学对数学家来说也很难](https://www.science.org/doi/10.1126/science.znnadc8)
-     * [今年最大的突破和头条新闻](https://www.science.org/doi/10.1126/science.z9i6115)
    </details>
 
  - Science_signaling [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling) -> [Science_signaling](rss/Science_signaling.xml)
@@ -142,9 +142,9 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [N.Tsopoulidis等人发表的研究文章“T细胞受体触发的核肌动蛋白网络形成驱动CD4+T细胞效应器功能”的勘误。](https://www.science.org/doi/abs/10.1126/sciimmunol.aee6626?af=R)
-     * [OAS-RNase L通路：来自自然实验的见解](https://www.science.org/doi/abs/10.1126/sciimmunol.ads9407?af=R)
-     * [分枝杆菌α-葡聚糖劫持dectin-1以促进细胞内细菌存活](https://www.science.org/doi/abs/10.1126/sciimmunol.adw0732?af=R)
+     * [PTMA保护线粒体完整性，以维持CD 8 T细胞的代谢功能和抗肿瘤活性](https://www.science.org/doi/abs/10.1126/sciimmunol.adz7275?af=R)
+     * [结构变异调节细胞凋亡反应以驱动黑色素瘤的免疫逃逸](https://www.science.org/doi/abs/10.1126/sciimmunol.aef3843?af=R)
+     * [肠表皮TLR 5信号传递促进屏障支持性巨噬细胞](https://www.science.org/doi/abs/10.1126/sciimmunol.adr4057?af=R)
    </details>
 
  - Science_robotics [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=scirobotics](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=scirobotics) -> [Science_robotics](rss/Science_robotics.xml)

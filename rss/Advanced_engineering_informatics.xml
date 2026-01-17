@@ -4,62 +4,62 @@
     <title>ScienceDirect出版物：高级工程信息学</title>
     <link>https://www.sciencedirect.com/journal/advanced-engineering-informatics</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 18:28:04 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[“用于主动悬挂系统中0-500 Hz全带振动抑制的强化学习和H无穷混合控制框架”的更正。[Adv.工程。通知。69（2026）A部分/103844]]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011462?dgcid=rss_sd_all</link>
-      <description><![CDATA[作者对本文最初出版物中无意中省略了致谢部分感到遗憾。缺失的致谢部分如下：致谢：本工作由国家自然科学基金会资助（项目号52472415）。作者对由此造成的任何不便深表歉意。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011462?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:31 GMT</pubDate>
+      <title><![CDATA[运动优先和信任感知高斯飞溅（MCGS）SLAM，用于室内建筑环境的3D场景重建]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000091?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月资料来源：《高等工程信息学》，第71卷，B部分作者：邓圆圆，Vincent J.L. Gan]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000091?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:36 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一种改进的SIFT非接触式桥梁位移测量方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010389?dgcid=rss_sd_all</link>
-      <description><![CDATA[桥梁的位移（变形）是桥梁使用寿命期内监测桥梁状态的重要参数。桥梁挠度的准确测量对于评估桥梁的健康和安全至关重要。基于计算机视觉的非接触测量可以从视频图像中计算出动态位移。与接触式测量相比，非接触式测量在远距离测试中具有优势，并且可以避免对被测桥梁造成损坏。尺度不变特征变换（SFT）算法是一种常用的基于视觉的技术，用于通过匹配视频帧中的关键点来进行非接触式位移测量。传统的SIFS方法存在关键点不匹配的问题，导致测量准确度下降。为了解决关键点不匹配问题，本文提出了一种改进的SFT方法。通过深度学习模型重新检测视频帧中桥梁的关键点，增强了关键点检测的稳定性。同时，提出了一种新颖的关键点描述，以提高关键点匹配的可靠性。通过简支梁桥模型验证了改进的基于SIFS的非接触位移测量方法。该方法用于识别桥梁的跨中位移。线性可变位移传感器（Lambda）安装在测试桥模型上，提供参考数据进行比较。结果表明，该方法测量的位移与接触式传感器测量的位移在时间和频率域上都很好地吻合。无论是否存在目标，所提出的方法都能准确计算桥梁的位移。与传统的非接触式位移测量方法相比（即，SFT和ORB），提出的非接触测量方法在检测小位移方面具有更高的准确性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010389?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:29 GMT</pubDate>
+      <title><![CDATA[深度引导的跨模式融合和基于扩散的增强，实现稳健的路面缺陷分割]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000315?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：单益辉、李伟、施佳琪、王岩松、邢振珍、丁建刚、裴莉莉]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000315?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:35 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[利用变压器增强的点云配准量化预制结构虚拟装配中的几何偏差]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010936?dgcid=rss_sd_all</link>
-      <description><![CDATA[在组装结构中，识别预制件的制造偏差至关重要，因为生产精度直接影响虚拟试装配的可行性。为了准确量化预制件与其理论设计之间的几何偏差，本文提出了一种基于扫描点云配准的量化制造几何偏差的方法。首先，针对大规模扫描点云数据中的噪音，本研究提出了一种将k-d树技术与双边过滤相结合的去噪算法。其次，我们开发了深度学习驱动的点云配准网络，可以实现高精度配准，同时确保点云数据内的空间一致性。最后，通过利用对齐的数据，我们开发了一种几何偏差量化算法，该算法有效量化实际组件及其相应理论模型之间的偏差值。用于实验的真实世界数据产生了关键结果：（1）提出的去噪算法有效地降低了噪音并平滑了点云，同时保留了基本的几何特征;（2）与GeoTransformer相比，该配准算法表现出更高的准确性，将误差（R）减少了14.25%，将误差（t）减少了18.68%。值得注意的是，每个成对配准操作每帧仅消耗0.109秒;（3）几何偏差检测算法达到毫米级精度，在我们的数据集中观察到的平均几何偏差为2.73毫米。其新颖之处在于整体点云配准网络，该网络包含一个集成过程，包括点云扫描、BMI拆分、点云去噪、配准、偏差量化，在现场测量中表现出高精度、计算效率和可推广性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010936?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:26 GMT</pubDate>
+      <title><![CDATA[超高拱坝地震易损性分析的概率无监督地震动聚类方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000108?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：高级工程信息学，第71卷，B部分作者：Yingbo Chen，Mingchao Li，Qiubing Ren，Zhiyong Qi，Hui Liang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000108?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有不确定性的建筑中主动人机协作的长期多工人行为预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010961?dgcid=rss_sd_all</link>
-      <description><![CDATA[主动预测人类行为对于辅助机器人在建筑等动态环境中与人类合作至关重要。给予短暂的视觉观察（例如，3 s），我们的目标是预测所有工人的长期未来行为序列，以实现及时且具有上下文感知的机器人协助。面临的关键技术挑战是不确定的、多模式的工人行为：多种社会合理的未来行为可能会从有限的环境中产生。为了应对这一挑战，我们提出了一个不确定性感知框架，集成了以下方面：（1）跨粒度双曲学习，在低级预测不确定时通过预测高级共享目标来减轻模糊性，以及（2）显式任务约束集成，确保预测在社会上一致且上下文可行。我们的方法经过现实世界的脚手架装配视频和人机协作棋盘游戏的验证，消除了任务依赖违规，减少了任务完成时间和人机任务冲突，实现了更顺利、更强大的人机协作。我们的主要贡献是建立一个不确定性感知模型，用于建筑行业的社会一致、长期多工人行为预测。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010961?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:24 GMT</pubDate>
+      <title><![CDATA[DirA-Net：用于长距离道路裂缝检测的方向感知增强网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000364?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：Advanced Engineering Informatics，Volume 71，Part B作者：Chenglong Mi，Yanling Chen，Quan Qi，Huaibin Qin]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000364?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:31 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[区块链驱动工业平台中多主体信息共享的进化博弈分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011243?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业平台面临着来自“数据孤岛”的挑战，这些数据孤岛中断了信息流，降低了产业链的协作效率。这些挑战源于利益冲突和对区块链技术的不信任。然而，随着区块链的成熟，它最初可以通过提高信息透明度、重塑信任和利益框架来解决这些问题。这项研究探讨了区块链成熟度如何促进信息共享，促进多方交易所中的协作平衡。我们开发了一个涉及平台企业、IT服务提供商和居民企业的进化游戏模型。在该模型中，区块链成熟度被集成到回报函数中，展示了技术升级、成本效益转变和均衡调整之间的动态关系。我们的结果表明，区块链的成熟度对于协作至关重要，可以显着加速协作过程。此外，利益分配策略必须与区块链成熟度水平动态一致。在成熟度较低的情况下，激励措施应针对IT服务提供商，以降低技术成本。随着成熟度的提高，重点转向居民企业，优化利益分配和成本。这种方法反映了订阅定价策略的阶段性演变。当区块链成熟度尚未达到最佳水平时，免费信用信息服务会增强网络效应。否则，差异化定价可以识别优质企业，实现短期盈利能力和长期网络扩张之间的平衡。我们的研究结果为缓解“数据孤岛”提供了理论支持，对于激活产业生态系统、促进平台化产业链转型具有现实意义。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011243?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:20 GMT</pubDate>
+      <title><![CDATA[基于导频驱动深度学习的RIS辅助束形成，实现保密率最大化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000443?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：高级工程信息学，第71卷，B部分作者：Natasha Elizabeth Francis、Khoa Tran Phan、Peng Cheng]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000443?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:30 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用复杂声学场中的接触式声波检测和几次学习对粗粒地基进行智能压实评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011164?dgcid=rss_sd_all</link>
-      <description><![CDATA[用于压实质量控制和接收的传统方法依赖于随机抽样以进行密度验证，并存在产生不代表性结果和系统误差的风险。智能压实（IC）增强了高速公路地基评估，但在标记数据的准确性和可用性方面存在局限性。尽管声学指标对于描述粗粒土壤是有效的，但其应用受到具有显着空气衰减和多源噪音干扰的复杂声学场的限制。为了应对这些挑战，这项研究提出了一种新型的智能压实评估，该评估集成了接触型声学压实模型、新定义的接触型声学压实值（CSCV）以及具有不确定性量化的少炮智能评估。所提出的方法不仅克服了有效声信号的削弱和提取困难，而且能够在有限的标记样本下进行可靠的模型训练。中国成龙项目的案例研究表明，风化板岩和砾石土的智能评估结果与实际值高度相关，最大绝对误差分别为1.2516毫米和2.11%。将这种方法集成到IC系统中，提高了高速公路质量和IC技术的推广。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011164?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:18 GMT</pubDate>
+      <title><![CDATA[AECBench：AEC领域大型语言模型知识评估的分层基准]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000066?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：陈亮、黄兆奇、王浩芬、柴富、余春英、魏焕焕、刘正杰、李彦鹏、王红军、罗瑞峰、赵显忠]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000066?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:28 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[ROSD：通过开集检测进行铁路入侵对象广义检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011218?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于对象检测的入侵对象检测模型已广泛应用于铁路场景。然而，由于铁路环境固有的半开放性特征，异物的种类难以详尽列举，这给铁路入侵对象检测带来了严峻的挑战。在现有的方法中，多模式开集检测方法存在模式不平衡和过度概括问题，而少数镜头检测方法在复杂的铁路环境下表现出有限的概括能力和下降的检测性能。为了解决这些问题，本文提出了ROSD。针对铁路场景中现有方法不合理的概括问题，我们构建了面向CLIP的微调网络CLIP-MLP，以获得目标感知的强概括能力，并通过基于阈值的多粒度分类机制将概括控制在实际需要的水平。为了解决没有文本输入的多模式模型的模式不平衡问题，我们构建了用于模型训练的伪文本生成机制，并建立了用于模型推理的图像到文本模式映射机制。为了解决模型在复杂铁路场景中检测能力下降的问题，我们开发了长宽比特征增强模块和多模式长宽比预测头，以优化铁路场景目标的几何特征提取和类别分类。实验结果表明，ROSD在铁路数据集RSDs上的综合检测准确率为88.2% mAP，比SOTA模型高出4.3%。在RSDs和COCO数据集上，新颖类别的检测准确率分别达到78.2%和39.2%，比SOTA模型高出2.2%和4%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011218?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:16 GMT</pubDate>
+      <title><![CDATA[基于变压器的框架，用于基于挤出的生物打印中的跨材料现场监测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000157?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《高等工程信息学》，第71卷，B部分作者：张佳宜、余凯成、姚易峰、陆丽华、高强、张鹏、尚国银、Swee Leong Sing]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000157?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:26 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[识别和预测预制施工中的延误风险：一种可解释的集成学习方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011127?dgcid=rss_sd_all</link>
-      <description><![CDATA[进度延误仍然是预制建筑的一个持续挑战。现有的研究使用统计和机器学习模型来预测延误严重程度，但忽视了项目属性和施工阶段的差异。为了解决这些限制，本研究识别和预测进度延误，检查风险因素和延误严重程度之间的关系，并为进度延误管理提供明智的支持。通过文献回顾和专家验证，综合15个延误风险因素和5个项目属性，确定了延误风险指标。本研究使用992个预制项目的数据集，开发了一个用于进度延迟预测的可解释堆叠集成学习模型，该模型通过蛇优化算法Refugia的自适应Entropy-Assortative Matching（SEAR-SOC）进行优化。在多个验证方案下，该模型优于优化的单个学习器和传统集成方法，R2为0.931。Shapley添加剂解释（SHAP）揭示了最有影响力的因素是预制组件、范围修改和建筑功能。当工厂或商业建筑中使用复杂组件时，延迟风险更高，特别是当发生范围变化或设计错误时。在外部干扰的情况下，施工后期更有可能发生延误，而各个项目的早期风险各不相同。开发了一个决策支持系统来提供实时预测。该框架为主动缓解提供了可解释的延迟风险预测。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011127?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:13 GMT</pubDate>
+      <title><![CDATA[通过具有可学习后代生成器的协同进化群优化器对多目标工业工作流应用程序进行任务调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000170?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月资料来源：《高等工程信息学》，第71卷，B部分作者：李永祥、周家军、陆超、高梁]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000170?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:27:25 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[CSNF-TimeGAN：用于高炉故障诊断的类先验时空非线性特征时间序列生成对抗网络]]></title>
