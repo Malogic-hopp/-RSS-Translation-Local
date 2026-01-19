@@ -4,118 +4,118 @@
     <title>ScienceDirect出版物：基于知识的系统</title>
     <link>https://www.sciencedirect.com/journal/knowledge-based-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 18:29:57 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[纯零激发异常检测任务的时空图结构相似性评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022257?dgcid=rss_sd_all</link>
-      <description><![CDATA[在设备健康管理领域，故障样本的稀缺给异常检测带来了显着的挑战。尽管当前的几次学习方法已经显示出潜力，但它们仍然不足以解决纯零次场景，其中训练集和验证集都不包含故障样本，并且检测必须在不依赖任何标记样本的情况下继续进行。由于环境噪音干扰导致的正常和异常样本之间的分布差异被掩盖，从而加剧了检测的复杂性，进一步加剧了这一挑战。为了克服这些限制，开发了一个由时空图结构相似性驱动的纯零激发异常检测框架。具体来说，构建了局部结构嵌入图（LSEG）来描述非欧几里德空间中的特征分布，其中采用子图同形技术来学习和区分正常和异常样本之间的结构特征。此外，为了增强图特征提取能力，设计了一种归纳变分图自动编码器（IVGAE），通过计算重建误差并使用内能积解码器来获得最终输出。最后，将模型输出与使用动态四分位距（IQR）方法确定的检测阈值进行比较，以识别测试集中的异常。对自有轴流泵和两个公开数据集进行实验验证，F1评分分别为0.9613、0.8928和0.7317，召回率分别为0.9603、0.8144和0.6297，从而证明了该模型的通用性和模型的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022257?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:16 GMT</pubDate>
+      <title><![CDATA[LLMDNet：弱光条件下的自动采矿卡车物体检测网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000304?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：徐飞翔、张瑞、王亚飞、何江、程德强、钱建生、孙奉倩、薛力格、陈舟]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000304?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:30 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于多源数据融合的路面质量指数（PQI）预测模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022476?dgcid=rss_sd_all</link>
-      <description><![CDATA[通过系统地监测和分析路面老化模式，交通机构可以优化资源配置、最大限度地减少能源消耗并制定具有成本效益的维护计划。本文提出了一种用于增强路面性能预测的多源数据融合策略，以解决高速公路维护决策中的关键挑战。基于综合路面状况数据集（2008-2022）从北京路段G4、G6、G7、S15和G106，提出的框架由三个主要部分组成：1）通过历史路面质量指数（PQI）数据的矩阵分析结合克里格插值进行数据级融合进行时空预测; 2）使用卷积神经网络进行特征级融合，建立多维路面指标与PQI之间的非线性关系; 3）通过支持向量机算法进行决策级融合，以合并初级和二级融合结果。比较验证表明，提出的多源模型对于PQI的优秀和良好PQI水平实现了98.4%和93.3%的分类一致性，比传统线性回归方法有所改进。这项研究的关键创新包括以下内容：1）分层融合架构，解决路面性能演变中的空间同质性和时间依赖性; 2）通过机器学习增强的特征工程对历史性能影响进行定量集成; 3）考虑检测指标和测量误差的可变性的稳健不确定性量化。试验结果证实了该模型在实际工程应用中的可靠性，特别是在捕捉路面劣化机制和影响因素之间的复杂相互作用。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022476?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:14 GMT</pubDate>
+      <title><![CDATA[统一跨模式激励下的MNER类别知识提炼]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000134?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：李恩平、雷吉同、李露、李天瑞]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000134?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:28 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[MP-DUN：用于图像压缩传感的基于多种先验的深度展开网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125021914?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日资料来源：《知识体系》，第335卷作者：郑博文、孙贵玲、梁东、张海成]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021914?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:11 GMT</pubDate>
+      <title><![CDATA[BiTrans-CDSR：通过联合用户项重叠建模进行跨域顺序推荐的双向知识转移]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000262?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：Knowled-Based Systems，第336卷作者：Tesfaye Fenta Boka、牛振东]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000262?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:27 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[模型异类下风力涡轮机变速箱故障诊断基于集群聚集的个性化联邦学习框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502235X?dgcid=rss_sd_all</link>
-      <description><![CDATA[联邦学习（FL）作为一种强调数据隐私保护的分布式建模范式，在故障诊断领域引起了广泛关注。然而，风力涡轮机变速箱故障诊断受到异类模型结构以及客户端之间非独立且同分布（非IID）数据的阻碍，给FL带来了重大挑战。为了解决这些问题，提出了一种基于集群聚合的个性化联邦学习（CABPFL）框架，用于异类模型场景下的风力涡轮机变速箱故障诊断。首先，设计了参数脱钩的特征对齐机制，以确保跨异类模型的特征表示的一致性。然后，提出了一种基于Fisher信息矩阵（t-RST）轨迹的客户集群聚合策略，以有效利用客户之间的共享知识。最后，引入有监督的对比学习损失，以减轻非IID数据引起的分布差异。在测试台架数据集和真实风力涡轮机变速箱数据集上进行了大量实验，证明了拟议框架的有效性和稳定性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502235X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:10 GMT</pubDate>
+      <title><![CDATA[TranSpikformer：增强的基于变换器的尖峰神经网络，具有均匀的注意力增强和深度卷积位置编码]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000018?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识系统》，第336卷作者：邓涛、杨成凡、刘文波、赵春宇、李然、黄毅]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000018?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:25 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[索音律：面向言语的神经形态听觉噪音弹性级联情感识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022282?dgcid=rss_sd_all</link>
-      <description><![CDATA[语音情感分析是人机交互中的关键技术，但复杂声学场景中的噪音干扰严重损害了其鲁棒性。本研究从人类中央听觉系统（CAS）中汲取灵感，提出了一种面向语音的神经形态听觉抗噪级联描述-识别（SONAANCE）仿生模型。该模型模拟了四个CAS过程--信号接收和预处理、特征解码、信息融合以及神经反馈和调节--并构建了端到端的“去噪-融合-分类”框架。信号接收和预处理阶段采用记忆条件扩散模型，该模型引入时间记忆先验并执行k步反向扩散以平衡去噪和特征保留。特征解码和信息融合组件利用多粒度网络提取帧/片段/话语级特征并实现双路径注意力以进行自适应融合。神经反馈和调节模块利用强化学习来平衡奖励和约束，同时优化分类边界。实验表明，SONANCE在RAVDESS（8级）和IEMOCAP（4级）数据集上的加权准确率分别为86.17%和85.44%，分别超过SeeNeet和CEFD-PILS方法2.5%和2.16%。在-5分贝噪音条件下，SONANCE比SEGAN和Storm方法高出7.83%和4.58%。这项研究扩展了计算模型与听觉认知机制的理论融合，并为嘈杂场景中的情感感知提供了一种新颖的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022282?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:07 GMT</pubDate>
+      <title><![CDATA[基于多峰融合策略的圆盘铸件动态视觉缺陷检测系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000699?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：陈子浩、谢倩、张龙、斯彬、申英杰、缪建辉、洪军]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000699?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:24 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[双动态图注意力网络驱动的深度强化学习柔性作业车间调度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022269?dgcid=rss_sd_all</link>
-      <description><![CDATA[智能制造促使人们利用深度强化学习（DRL）来解决柔性作业车间调度问题（FJSP），并取得了可喜的成果。然而，三个主要的挑战性问题仍然存在：（i）如何合理地建模错综复杂的关系，（ii）如何提取全局和局部嵌入，以及（iii）如何捕捉动态演化调度特性。为了克服这些挑战，我们提出了一种双动态图注意力网络驱动的强化学习方法（DDGARL），用于以端到端的方式有效地解决FJSP。为了捕获FPSP中复杂的关系，我们首先构建一个二元图来建模静态和动态关系。利用异类图结构来有效捕获操作和机器之间的依赖关系和交互。此外，我们设计了一种灵活的信息传播机制，即双动态图注意力网络，通过有效捕获具有学习权重的全局和局部嵌入，促进各种边缘和节点类型之间的有效交互。最后，我们采用了一个非常适合FSJP动态演变过程的决策网络。我们利用DRL来使用行动者-批评者架构来训练代理，明确使用带剪辑的最接近策略优化（PPO-剪辑）算法来最大化累积回报。对两个合成数据集和四个公共基准的广泛实验表明，DDGARL超越了最先进的性能和概括能力方法。值得注意的是，DDGARL在不同规模的实例上节省的运行时间从23.63%到36.37%不等。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022269?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:05 GMT</pubDate>
+      <title><![CDATA[群体间知识转移和表达提炼，以实现公平推荐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000237?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：石俊杰、刘亚男、刘海峰、周俊生]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000237?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:22 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[TIM引导PINN用于非线性振动系统数字孪生中的实时参数识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022324?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种利用傅里叶特征嵌入增强并在费舍尔信息矩阵（RST）指导下的物理信息神经网络（PINN）框架，用于非线性振动系统中的实时参数识别。该方法是在数字双胞胎的背景下开发的，其中可解释性和不确定性量化至关重要。Inbox既是评估参数可识别性的训练前诊断工具，又是参数置信区间的训练后估计器，提供对模型充分性的见解。所提出的模型形成了一个紧凑的、可解释的替代品，可以很好地概括在有噪音的高频区域。对基准非线性系统（Duffing和Van der Pol振子）和实验Silverbox数据集的验证表明收敛性得到改善、光谱偏差减少和准确的不确定性量化。结果支持使用该框架作为一种可扩展、知识高效的建模方法，用于Digital Twin应用程序中的实时参数更新。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022324?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:02 GMT</pubDate>
+      <title><![CDATA[班级去偏见教师进行无源物体检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000717?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：有马、毛诗汉、柴林、童宏伟]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000717?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:21 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于两级提示融合的视觉模型微调]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022191?dgcid=rss_sd_all</link>
-      <description><![CDATA[提示学习是一种针对特定下游任务微调预训练的视觉语言模型的有效方法。最近的研究主要集中在设计即时结构上。然而，图像代币和视觉提示之间的复杂关系，特别是全球和本地信息的集成，仍然没有得到充分的探索。在本文中，我们提出了一个两级视觉提示融合微调框架来应对这些挑战。我们的方法引入了两个不同的视觉提示，用于捕获图像令牌的全局和局部空间信息。对于局部提示，我们引入可变形空间对齐（DSA）模块和刚性空间对齐（RSA）模块，分别在浅层和深层以选择性和固定方式捕获局部空间特征。此外，我们设计了内部相关（IC）模块，通过本地提示内的交互来捕捉本地邻居的影响。对于全局提示，我们结合了继承机制（IM）来保留和转移浅层特征的影响，防止信息传播到更深层时丢失。对三个基准测试的广泛实验表明，TVPF在各种视觉下游任务中始终实现卓越的性能，平均超过VPT-deep和SA 2 VP 3.7%和0.6%。代码可在https://github.com/clownddd/TVPF上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022191?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:32:00 GMT</pubDate>
+      <title><![CDATA[通过深度学习中基于投影的梯度修正改进Adam优化器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000110?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：基于知识的系统，第336卷作者：Alaa Luqman Ibrahim、Bayda Ghanim Fathi、Maiwan Bahjat Abdulrazzaq]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000110?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[FedDP-FPM：差异隐私下的联邦频繁项集挖掘算法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502177X?dgcid=rss_sd_all</link>
-      <description><![CDATA[频繁项集挖掘识别大型数据集中频繁出现的项集、序列或子结构，揭示潜在的关联规则和模式以供决策和分析。大多数现有的频繁项集挖掘算法都是为集中式数据集设计的。然而，当数据以分布式、非独立和同分布（非IID）方式存储时，这些算法往往无法在全局数据挖掘任务中实现高准确性。为了解决这一局限性，我们提出了FedDP-FPM，这是一种差异隐私下的联邦频繁项集挖掘算法，它将单机频繁项集挖掘算法Negfin扩展到联邦学习框架。在不直接访问参与者的数据的情况下，提出的算法使他们能够协作提取全局频繁项集。我们提出了一种构造有噪BMC树的方法，其中使用差异隐私来保护每个树节点的确切计数值。此外，我们还引入了隐私预算分配的指数衰减策略和后处理机制来提高挖掘准确性。在六个公共数据集上的比较实验结果表明，FedDP-FPM算法在挖掘准确率和通信成本方面优于两种现有算法。此外，它有效地解决了全球频繁项集丢失的问题，同时保护了数据隐私。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502177X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:57 GMT</pubDate>
+      <title><![CDATA[HFLMND：通过恶意节点检测实现稳健高效的分层联邦学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000146?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识系统》，第336卷作者：毕清林、葛丽娜、江明、雷天、林文波]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000146?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[ARETO：针对三重重叠问题的联合实体和关系提取模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022129?dgcid=rss_sd_all</link>
-      <description><![CDATA[关联关系三重组提取是知识图研究中的一项关键任务，其性能会受到重叠三重组的影响。现有的研究通常应用矩阵结构来表示关系三重组，每个矩阵都表示所有代币的相关性。然而，这种结构不太适合管理三重重叠，尤其是在涉及实体对重叠（Europe）问题的情况下。它很难清楚地区分涉及同一对实体的多个关系三重组，从而导致此类场景中的模糊性和提取准确性降低。为了解决这个问题，我们提出了ARETO，这是一种联合提取模型，它结合了邻近列表结构来处理三重重叠。该结构在不丢失信息的情况下表示实体关系，从而避免了与欧洲专利局情况下矩阵结构相关的复杂映射问题。此外，ARETO还包括一个三元素去耦合模块，可以减少因特征混淆而造成的错误，采用分步“主体-对象-关系”提取方法来提高准确性并有效解决Europo问题。此外，本研究发现并定义了SEO_R，一种新类型的关系重叠，其中三元组共享相同的实体和关系。实验结果表明，ARETO在NYT和WebNLG-star数据集上获得了最先进的F1分数（93.0%和93.8%），准确率提高了0.4%，EPO和SEO_R之间的重叠达到了95.3%和94.7%的F1分数，优于其他基线模型，证明了其有效性。我们工作的源代码可在：https://github.com/104wucan/ARETO上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022129?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:54 GMT</pubDate>
+      <title><![CDATA[一种用于沙尘退化图像增强的轻量级双视网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000523?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日来源：《知识系统》第336卷作者：高谷学，孙春云，文晓鹏，杨晓，王媛媛]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000523?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:16 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[BACFormer：用于医学图像分割的稳健边界感知Transformer]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022439?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日资料来源：《知识系统》，第335卷作者：黄智永、王明宇、侯明阳、余志、王世伟、李晓宇、王家红、严艳、刘玉诗]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022439?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:51 GMT</pubDate>
+      <title><![CDATA[基于知识蒸馏的原型引导循环联邦学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000201?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日来源：《知识系统》第336卷作者：孟庆元，赵宇，李雪，陈四光]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000201?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:15 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于具有结构信息的分层图注意力网络的知识图完成]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125021987?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日资料来源：《知识体系》，第335卷作者：徐杰、张树茂、谢浩雕、张海玲、柯妙、付秋如]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125021987?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:49 GMT</pubDate>
+      <title><![CDATA[基于图的查询集群支持分组查询关注]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000559?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：郑玲、张玉佳、申梁、缪冲、申强]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000559?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:13 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于回归任务的形状增强的离群值检测框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095070512502221X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日来源：《知识体系》，第335卷作者：熊志林、韩爱华、马铁峰、刘双哲]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512502221X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:47 GMT</pubDate>
+      <title><![CDATA[用于视觉位置识别的高级自适应特征增强和注意力面罩引导聚合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000298?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识系统》，第336卷作者：王龙浩、蓝超珍、吴贝贝、姚福山、魏子军、高田、余汉阳]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000298?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:11 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[子空间约束图去学习以忘记高风险化合物-蛋白质相互作用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022270?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日来源：《知识体系》，第335卷作者：张云建、胡日珍、李懿轩、康中峰]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022270?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:45 GMT</pubDate>
+      <title><![CDATA[利用图结构和语义依赖性增强用户冷启动推荐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000249?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：李Zou、Qi Chen、Zhiying Deng、Li Guishui]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000249?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:10 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[利用人工智能和知识模型技术增强人机交互以实现查询性能和响应过滤]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022336?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日资料来源：基于知识的系统，第335卷作者：Muhammed J. Al-Muhammed]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022336?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:44 GMT</pubDate>
+      <title><![CDATA[生物启发的时间差和空间频率游戏网络用于视频伪装对象检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095070512600050X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：赵光宇、杨杨、高美玲、金段、赵明新、唐吉隆、江晓娇、刘彭]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095070512600050X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于金属增材制造决策支持的知识注入概率建模]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0950705125022464?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月28日资料来源：基于知识的系统，第335卷作者：Halid Can Yıldırım]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705125022464?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:31:42 GMT</pubDate>
+      <title><![CDATA[解开域样式以增强跨域综合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0950705126000468?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月15日资料来源：《知识体系》，第336卷作者：姚中华、连俊成、张强、郭艳明]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0950705126000468?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:28:06 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[通过对抗视图脱钩和分层标签约束的多标签心电图诊断]]></title>

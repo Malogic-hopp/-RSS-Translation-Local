@@ -4,34 +4,34 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 18:24:23 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[编码-解码机制下具有多速率测量的线性重复过程的分区集成员状态估计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010851?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文针对两组不同采样率的传感器测量的一类参数变线性重复过程，研究了基于编码-解码的融合估计。为了节省有限的网络带宽，提出了基于均匀量化器的编解码机制来调节多速率传感器与远程估计器之间的通信。所解决问题的目标是设计一组区域区域，在面临编码-解码机制、多速率测量和未知但有界干扰时覆盖所有过程状态。利用区域空间的性质，提供了一个统一的2-D区域空间估计框架，在该框架中首先获得覆盖所有可能系统状态的区域空间，然后通过设计适当的相关矩阵来最小化区域空间的大小。此外，还分析了所获得的带位的有界性。最后，通过两个仿真例子来验证所提出的区位估计策略的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010851?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:45 GMT</pubDate>
+      <title><![CDATA[警告：通过客户端后门检测增强联邦学习稳健性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000230?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月资料来源：信息融合，第130卷作者：王康、王亮亮、刘志全、罗益元、张凯、李伟伟]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000230?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:24:05 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[LGBT跟踪的跨模式引导注意力]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501070X?dgcid=rss_sd_all</link>
-      <description><![CDATA[RGBT跟踪旨在通过完全集成来自Ruby和热红外模式的补充信息，在各种场景中实现稳健的性能。现有的Transformer RGBT跟踪器通常使用自注意机制来增强模态内特征，并使用交叉注意机制来进行跨模态信息交互。有些方法通过仅对级联的多模式令牌载体或相关载体进行自我注意力计算来消除交叉注意力计算，大大提高了跟踪效率。然而，不同模式之间的这种交互很容易受到低质量表示（例如，受噪音破坏的令牌和模糊的相关性），这限制了跟踪性能。为了解决这个问题，我们提出了一种基于新型跨模式引导注意力（CGA）机制的有效且高效的RGBT跟踪器，该机制执行双向信息引导，以减轻注意力权重计算和跨模式特征交互中低质量表示的影响。特别是，我们取代香草多头注意力（MHA）块在视觉Transformer（ViT）与我们的新CGA块，它结合了双向权重引导模块（BiWGM）和双向功能引导模块（BiFGM）。BiWGM旨在通过启用注意力权重的全局语义级重新分配来增强多模式目标关系建模的一致性，从而防止低质量表示的不加区别的跨模式融合。此外，我们引入BiFGM，通过联合利用模式内特征自增强和模式间互补特征增强，基于全局语义信息进行细粒度特征令牌增强。我们在四个基准数据集上评估我们的跟踪器，包括RGBT 210、RGBT 234、LasHeR和VTUAV。大量的实验表明，我们的跟踪器针对SOTA方法具有出色的性能，并保持实时速度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501070X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:42 GMT</pubDate>
+      <title><![CDATA[多节点随机访问协议下多速率非线性系统的安全Tobit过滤：Paillier描述-解密机制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000254?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月资料来源：《信息融合》，第130卷作者：杨硕、拉奎尔·卡瓦列罗-阿奎拉、胡军、安东尼亚·奥亚-莱丘加]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000254?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:24:04 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有视觉基础模型提示的多模式协作学习增强了3D半监督语义分割]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010814?dgcid=rss_sd_all</link>
-      <description><![CDATA[3D半监督语义分割旨在减轻对大规模高质量注释的严重依赖，以实现准确的细粒度和立体感知，是智能行业的一项有前途的技术。然而，现有的3D半监督方法主要依赖于单个纯LiDART表示或通过单向蒸馏的耦合多模式表示，这通常忽视了2D半监督学习，削弱了特定模式的表达并低估了图像的适应性，并且强大的多模式潜力用于无标签数据学习仍然没有得到充分的探索。为了解决这个问题，我们提出了一种具有视觉基础模型（VFM）提示的新型多模式协作学习框架，该框架从输入层、特征层和伪标签层充分利用多模式合作和广义VFM的优势，以更好地探索未标记的数据，以促进3D半监督分割。具体来说，对于输入级，我们采用局部判断的多模式数据混合方法，引入局部属性判断来获得成对且密集的混合图像，使混合操作能够同时支持2D和3D网络半监督学习。在特征层面，为了利用多模式协同表达，设计了创新的图像提示跨模式融合模块，以渐进的方式动态集成图像纹理、语义嵌入和点云布局，形成互补的表达。对于伪标签，我们提出了一个VFM引导的伪标签细化模块，该模块通过双熵机制与VFM交互，生成高置信度的伪标签。最后，我们对三个公认的3D语义分割数据集nuScenes、SemanticKITTI和ScribbleKITTI进行了广泛的实验。实验结果表明，该方法有利于多模式协作，具有优越的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010814?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:39 GMT</pubDate>
+      <title><![CDATA[OMD：用于软脑膜转移诊断的最佳运输引导的多模态解缠学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011832?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月资料来源：信息融合，第130卷Author（s）：Shengjia Chen，Huihua Hu，Hongfu Zeng，Chenxin Li，Qing Xu，Longfeng Zhang，Haipeng Xu]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011832?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:24:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[MAD 3 PG：多智能体深度去噪扩散策略梯度优化框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010887?dgcid=rss_sd_all</link>
-      <description><![CDATA[分布强化学习通过对完整价值分布进行建模而不仅仅是估计其预期来增强政策稳健性和学习效率。然而，大多数现有的方法都是针对单智能体离散任务设计的，并且通常依赖于关于价值分布形式的先验假设，例如固定离散原子或分位数回归。这些假设在多主体场景中变得具有限制性，其中来自不同主体的信息必须融合，并且由此产生的联合价值分布通常表现出复杂的多模式特征，这些特征无法被预定义的分布形式有效捕捉。为了解决上述局限性，本文提出了多代理深度去噪扩散政策梯度优化（MAD 3 PG），这是一种利用扩散模型来建模联合状态-动作对的价值分布的新型框架。与依赖先验假设的现有分配方法不同，扩散模型本质上具有捕捉价值分配的能力，从而在多主体环境中展示了明显的优势。由于在线训练期间无法获得真值样本，因此我们引入了结合时间差异目标的K重复采样策略，以有效优化条件变分证据下限。此外，我们还提供了MAD 3 PG的理论收敛性分析。我们通过玩具示例展示了MAD 3 PG适应多模式分布的能力。此外，我们还通过在多代理粒子环境（MBE）和MuJoCo环境中进行全面实验来验证其有效性。实验结果表明，MAD 3 PG的性能显着优于基于确定性值估计的传统算法。该代码可在https://github.com/smartXiaoz/MAD3PG上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010887?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:36 GMT</pubDate>
+      <title><![CDATA[SymUnet-DynCFC：多模式MRI融合可实现稳健的软骨分割和临床确诊的中重度KOA诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000242?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年6月资料来源：信息融合，第130卷作者：李莉、马建兵、邹北极、徐浩、廖圣辉、熊文义、李强志]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000242?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:24:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[农业中的多模式语言模型：教程和调查]]></title>

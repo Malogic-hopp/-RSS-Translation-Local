@@ -4,335 +4,27 @@
     <title>ScienceDirect出版物：机械系统和信号处理</title>
     <link>https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 18:26:49 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[用于协同预测刀具磨损和表面粗糙度分类的级联自注意混合模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014864?dgcid=rss_sd_all</link>
-      <description><![CDATA[刀具状况是影响表面质量的关键因素，表面粗糙度是指示表面质量的关键参数。现有的研究主要将工具磨损和表面质量监测视为独立的任务，未能有效利用植根于其物理机制的紧密耦合关系。为了解决这个问题，本文提出了一种用于翻转过程的级联自我注意混合模型（CSAHM）。该模型建立在多任务学习框架之上，具有强大的共享特征提取骨干，由双分支1D-CNN层、双向长短期记忆网络（BiLSTM）层和多头自注意机制层组成。创新之处在于该模型采用了逻辑上连贯的级联预测结构：上游刀具磨损回归任务的输出被用作强先验知识，并被馈送到下游表面粗糙度分类分支，从而为分类决策提供了关键的物理基础。这种物理信息架构显著提高了性能，与准共享底部多任务模型（QSB-MTM）相比，表面粗糙度分类精度提高了8%以上。实验数据验证表明，该模型的最大预测误差小于25 μm，表面粗糙度分类精度超过93%。进一步的比较和消融研究证实了拟议的级联结构、自我注意机制和协同学习框架的有效性。这项研究为智能和协同监控制造过程中的多个参数提供了一个有效的新范式。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014864?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:10 GMT</pubDate>
+      <title><![CDATA[结合基于物理的时间因果关系约束的分布式动态负载识别数据驱动框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日资料来源：机械系统与信号处理，第245卷作者：陈如桐、江锦辉、关一元]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:26:03 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过重叠双法布里-佩罗元超覆层实现高收益全方位超声波SH波]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501475X?dgcid=rss_sd_all</link>
-      <description><![CDATA[全方位超声波操纵对于无损评估和结构健康监测至关重要，因为它在同时监测广泛检查区域方面具有优势。然而，全方位本质上会受到能量随距离的损耗，严重损害远场的检测质量。在这里，我们提出了新型弹性超覆层（EMS），以在全方位超声SH波发射中实现非凡的收益。每个EMS创建双法布里-佩罗腔（一个内部腔和一个边缘腔），这些腔限制源能量并在精确的共振条件下以高度放大的方式释放源能量。多个EMS可以重叠以进行累积放大，总收益与各个阻抗比的积成正比。我们使用有效媒介模型为这种发射增强建立了严格的理论基础，并通过单一和多个EMS配置验证了收益原理。数值模拟和实验结果证实了超收益现象，证明与理论预测非常一致。提出的EMS概念为增强超声传感器的全方位性能提供了一种实用方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501475X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:07 GMT</pubDate>
+      <title><![CDATA[用于变电站设备多目标地震监测的模拟和可解释学习联合驱动框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日资料来源：机械系统与信号处理，第245卷作者：王朱、Fabrizio Paolacci、Gianluca Quinci、Xiang]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:26:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于MDOF非线性系统响应概率密度函数表达的随机动态响应分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014505?dgcid=rss_sd_all</link>
-      <description><![CDATA[随机非线性分析继续给当代研究带来重大挑战，特别是对于复杂的非线性系统。本文提出了一种复杂非线性动态系统响应分析的增强方法。首先，将状态空间划分为一系列感兴趣的子空间，并在控制方程中引入虚拟激励。通过将方程积分原理与非线性回归分析相结合，有效地对多维非线性方程进行了脱钩。随后，通过重建简化的控制方程来增强随机响应分析方法，从而建立概率密度函数（PDF）中待定系数与控制方程之间的定量关系。结果，使用所提出的改进方法可以有效地求解PDF表达。给出了几个数值例子，包括复杂的非线性动态系统，例如过滤白噪音激励下的非线性系统和多自由度滞后系统等，以证明所提出方法的有效性和广泛适用性。数值结果表明，概率解与模拟结果吻合良好。与现有方法相比，增强的方法显着扩大了应用范围，提高了响应分析的收敛性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014505?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于垂直低频振动收集的生物启发式双轴混合式压电电磁能量采集器的建模和设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501492X?dgcid=rss_sd_all</link>
-      <description><![CDATA[振动能量收集为低功耗电子设备供电提供了可持续的解决方案。然而，大多数现有的收割机都存在工作带宽窄、单向激励灵敏度和功率输出有限的问题。这项研究提出了一种受生物启发的双轴混合型压电电磁能量采集器，能够通过主翼状梁和襟翼状辅助梁的协调运动收集垂直方向的振动。提出的混合能量采集器由用于压应变能转换的主翼状梁和与用于电磁感应的磁线圈组件集成的垂直襟翼状梁组成，形成能够捕获来自多个方向的振动的双轴结构。实验表明，该器件在低频（√ 12-15 Hz）下可产生9.555 V的最大电压和13.862 MW的峰值功率。混合换能机制能够实现互补的基于高频应变的收获和基于低频位移的收获，与单一模式设计相比显着提高整体能量转换效率。这些结果表明，所提出的结构为宽带和多方向振动能量收集提供了一种紧凑而有效的解决方案，适合各种自供电传感应用。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501492X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种用于船舶电力推进系统鲁棒故障诊断的共同设计的转子传感和无转速阶次跟踪框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014529?dgcid=rss_sd_all</link>
-      <description><![CDATA[船舶电力推进系统（MEPS）的故障诊断受到非稳态运行条件的巨大挑战，其中变化的速度和负载会导致严重的频谱模糊，从而掩盖故障特征。传统方法依赖于安装在外壳上的传感器和通常不切实际的编码器，进一步受到信号衰减的限制。为了解决这些问题，本研究引入了一种集成的硬件算法框架，该框架将新型无线在转传感（ORS）系统与计算高效的算法相结合。ORS系统直接从旋转轴捕获高保真振动信号，绕过结构传输路径，实现比传统传感器90.3%的平均信噪比（SNR）改进。它还可以通过离心机加速度进行实时、无超速速度估计。利用这些数据，我们提出了过零无超速顺序跟踪（ZC-TOT）算法。与基于复杂时频变换的方法不同，ZC-TOT采用事件驱动的过零策略来高效提取瞬时频率。ZC-TOT在标准笔记本电脑上进行基准测试，可以以不同的速度处理500，000点数据集，速度比短期傅里叶变换（STFT）快25.9倍，有效地消除了光谱模糊。在专门的MEPS测试台上进行实验验证，涉及现实的速度和负载瞬时以及每个组件超过十次重复故障试验，展示了该框架的变革性性能。结果显示，轴承外座圈故障的平均SNR提高了92.6%，内座圈故障的平均SNR提高了242%，齿轮故障的平均SNR提高了186.9%，螺旋桨故障的平均SNR提高了121.8%。该集成解决方案建立了一个单传感器范式，能够同时对多个MEPS组件进行高保真度采集、无速度顺序跟踪和实时诊断，展示了在水动力干扰下的稳健性能，并代表了船舶推进诊断的重大进步。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014529?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[实现性能匹配的主动谱振动控制：理论指导的传感器放置框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014694?dgcid=rss_sd_all</link>
-      <description><![CDATA[尽管广泛采用主动谱振动控制（ALSVR），但验证领域的性能下降仍然是大型柔性结构的关键障碍。本文推导出了确保ALSV本地域和全局域性能匹配的充要条件。在此理论基础上，我们为常用的输出反馈控制器提出了一种数据驱动的传感器放置方法。该方法只需要有限的模型信息和实验数据，使其适合工程应用。通过对工业级验证隔离器的模拟和实验案例研究验证了所提出方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014694?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[电机中的旋转轴：具有故障诊断实验验证的分析框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014773?dgcid=rss_sd_all</link>
-      <description><![CDATA[电机的一个主要故障，因为它会扭曲气间隙磁场并产生不平衡的电磁力，从而激发振动并降低可靠性。虽然许多研究探索了异常率的各个方面，但大多数研究仍然支离破碎，缺乏将电磁建模与诊断应用联系起来的统一框架。本文提出了一种集数学建模、预测分析和多保真性验证为一体的旋转偏度故障诊断分析框架。首先建立了一个严格的分析模型来量化静态和动态偏心引起的电磁力分量，澄清其频谱特性。基于这个公式，开发了一种预测方法，以物理上可解释的方式来预测偏心率相关的故障特征。通过有限元分析和实验测试，验证了该框架的定制设计的可调偏心电机，证实了其准确性和实际可行性。结果表明，该方法不仅加深了对偏心引起的机电相互作用的理解，而且为电机的早期故障检测提供了可靠的依据。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014773?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用特征增强多相分解快速准确地视觉测量结构位移]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014761?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于视觉的位移测量技术因其非接触式操作和全视野能力等优势而在结构健康监测中引起了广泛关注。在这些技术中，相关匹配尤其值得注意，因为它允许从视频数据进行子像素位移测量。然而，从大量视频数据（每次测量数千个延时帧）中提取结构位移带来了几个挑战。这些包括高计算要求和潜在的错误，特别是在存在稀疏结构特征（例如，纹理或轮廓）在视频中。为了克服这些挑战，本研究引入了一种特征增强的多相分解方法，以实现更准确、更高效的位移测量。通过对包含结构位移的视频数据应用形态膨胀，构建复幅度模型，产生具有增强区分性的多特征幅度。在视频到现实的映射框架内，通过相谱相关匹配和多相分解相结合来分析这些幅度之间的分解脉冲。这产生了分解脉冲的几何运动模型，解决了采样宇称模糊性，并实现了精确的位移恢复。与现有的空间域和频域相关匹配技术相比，所提出的方法在保持高准确性的同时显着减少了计算时间。它还在各种条件下保持稳健的性能，包括具有稀疏特征、有限可见性或复杂背景的视频。该方法的优越性已通过大量的模拟和实验得到证明。在具有挑战性的低对比度复杂场景中，它的相关系数值为95.54%，均方误差值为3.69，显着优于现有方法。此外，它处理数据的速度比传统方法快8倍。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014761?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于类型识别和频率估计的新型机器人铣削颤动监测框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014967?dgcid=rss_sd_all</link>
-      <description><![CDATA[机器人铣削过程中容易出现再生和低频颤动，严重限制了工件质量和加工效率。颤动类型识别和在线颤动频率估计对于有效抑制颤动至关重要。然而，机器人铣削领域很少发表有关这些方面的研究。本研究提出了一种新型的机器人铣削颤动监测框架，其中包括颤动类型识别和在线颤动频率估计模块。为了早期识别颤动类型，分别从时频域和频域引入双树复子波包能量熵（DTCWEn）和加权累积谱分布熵（WCSDEn）。与之前作品中使用的信息量或统计指标不同，WCSDEn同时考虑了频谱域中的频率概率和频率值，使其对颤动带内的频谱变化更加敏感。根据再生颤动和低频颤动频率的分布特征，提出了一种颤动频率搜索（CVS）算法。该算法集成了通过旋转不变性技术（ESPRIT）对信号参数的估计，以进行在线颤动频率估计。该算法不仅能够在线识别多阶再生颤动和低频颤动频率，而且即使在有限数量的数据样本的情况下也能实现极高的频率估计准确性。所提出的框架用于机器人铣削过程，实验结果表明它可以有效地识别颤动类型并早期估计颤动频率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014967?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[精磨空气静置心轴全耦合非线性振动特性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014906?dgcid=rss_sd_all</link>
-      <description><![CDATA[对于高速精密研磨过程，多激励负载共同作用，确定轴的复杂运动行为。为了准确预测瞬时动力学，迫切需要对整体协同效应进行彻底剖析，建立负载与振动之间耦合的动力学模型。本文从载荷-振动变化特性出发，分析了多重激励效应之间的相互作用，研究了考虑多重动载荷的非线性动力学特性。针对纺锤振动引起的瞬时空气膜变化，利用微网格迭代通过雷诺方程获得动态空气膜激励。根据加工过程中磁间隙路径的变化，计算考虑振动响应影响的不平衡磁拉力。通过相对位置坐标的推导，建立了动态不平衡偏载模型。根据瞬时切屑厚度的判断，确定切割模式，获得精密研磨力负载。此外，还提出了一种创新的迭代求解过程来获得全局负载激励下的振动响应，以提高仿真建模的准确性。通过实验验证了该耦合模型的有效性和适用性。本文利用整体耦合相互作用的思想来分析非线性动力学行为。多个物理场之间的瞬时变化决定了复杂多变的动态特性和幅度曲线轨迹。由于不同参数的影响，轴承内部空气膜的分布状态变化很大，直接影响加工精度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014906?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于Helmholtz共振器声学超材料和EDGF-HAFxLM算法的主动和被动噪音控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014992?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了有效增强低频噪音控制性能，本研究将基于亥姆霍兹共振器的声学超材料与主动噪音控制（非国大）技术相结合，提出了一种创新的混合主动-被动噪音控制方法。首先对窄管道中的热粘效应进行了深入的机制分析。基于赫尔姆霍尔茨共振器声学超材料理论，设计了一种具有优越声学性能的新型超材料结构，并通过仿真和实验测试验证了其有效性。其次，在传统的FxLMS算法中引入反馈通道，提出了混合自适应FxLMS（HAFxLMS）算法，增强了算法对动态噪声环境的适应能力。为了进一步优化计算效率，采用协处理器代替算法中的滤波模块，从而产生了增强型双代滤波器HAFxLMS算法（EDGF-HAFxLMS），实现了更高的降噪精度和实时性能。与HAFxLMS算法相比，处理1 s噪声数据的运行时间减少了77.42%。仿真结果表明，工业噪声和混合噪声的平均噪声控制性能分别为-15.39 dB和-14.34 dB，均优于其他算法。实验结果与这些发现一致，平均控制性能分别为-13.94分贝和-13.16分贝。该主动-被动混合噪音控制方法在抑制低频噪音方面表现出显着提高，进一步验证了该方法的优势，为低频噪音控制提供了新的技术路径。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014992?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[风力发电机变速箱轴颈轴承数字双驱动性能相关性分析方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014785?dgcid=rss_sd_all</link>
-      <description><![CDATA[风力涡轮机的更高功率需求限制了滚动轴承在变速箱中的应用，使轴颈轴承成为可行的替代方案。然而，在低速和重负荷条件下，行星齿轮轴颈轴承（PGJB）容易出现性能下降，例如磨损的发生和润滑状态的转变。PGJB的性能与轴承设计、制造和运行条件参数有关，但这些参数如何与轴承性能相关尚不清楚。为了解决这个问题，提出了一种数字孪生（DT）驱动的性能相关性分析方法。首先，通过集成激光熔覆（LC）模块、混合弹流润滑模块和磨损模块来构建PGJB的DT模型。DT模型使用全尺寸PGJB测试台的数据集进行实验校准。随后，提出了一种改进的XGBoost-SHAP方法来捕捉设计、制造、运行条件参数和PGJB性能指标之间的非线性关系，并量化全球和个体重要性。结果表明，PGJB设计参数对决定轴承润滑和磨损性能起主导作用，其次是运行条件参数，然后是制造参数。最有影响力的参数是长宽比、LC层厚度和旋转速度。此外，通过详细的参数分析揭示了这些最有影响力的参数如何影响油膜厚度、油膜压力、最大弹性变形和磨损深度。本研究为风力发电机变速箱高性能PGJB的设计和制造提供了理论指导。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014785?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种集成了频率上转换和被动定向自适应机制的用于多方向振动环境的压电能量采集器]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015018?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了应对多方向振动挑战，本研究提出了FUC-PDAPEH，这是一种集成了上转换（FUC）和被动方向自适应（PDA）的压电能量采集器。方向自适应是通过单向轴承和偏心质量实现的，而绳弹簧结构将具有离散共振频率的悬挑梁连接起来，以实现FUC。实验和模拟结果表明非常一致。参数研究揭示了关键的依赖性：偏离质量的大小和分布以及激励强度决定自适应行为，而弹簧硬度、气间隙和绳索长度决定输出性能。当激励方向垂直于梁振动时，与固定方向收割机相比，RMS开路电压增加了21.1、118.6、172.1和44.2倍。该收割机可实现5-14 Hz的定向带宽，超越了最先进的设计。在0.4g激励幅度下，最大功率达到59.66兆瓦。实际演示证实了它能够驱动138个LED，同时为各种低功率电子设备供电。FUC-PDAPEH的集成宽带操作、全方向自适应和高功率输出使其成为部署在多方向振动场景中的理想候选，特别是在远程地震监测和结构健康诊断中。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015018?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于高动态、大行程XY纳米定位工作台的机械-电磁主动脱钩设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015146?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文介绍了一种用于高性能XY纳米定位工作台的机械-电磁主动脱钩范式。主要贡献在于将电磁致动器重新定义为双功能组件，既提供运动生成又提供主动动态约束。这种方法可以彻底简化合规结构，减少系统模式的数量并扩大寄生模式和工作模式之间的频率差距，从而促进高带宽控制。将C形片簧与平行运动致动器布置集成的原型平台验证了这一概念。实验结果证实了该方法的优点：超紧凑设计（弯曲面积比12.85%）和15.2的高模式分离比。该工作台实现了超过3.7 mm的大行程、140 Hz的伺服带宽（相对于闭环自然频率扩展576%）以及超过90分贝的十字轴和旋转耦合抑制。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015146?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[充分考虑流体-热-固耦合的缺陷轴承动态建模与分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014669?dgcid=rss_sd_all</link>
-      <description><![CDATA[实际轴承的内部操作环境是流体-热-固（FTS）耦合的场景。然而，由于现有研究中考虑的参数有限，FTS耦合下有缺陷轴承的动态模型和特性尚未得到很好的建立或理解。因此，本文深入考虑了各个重要参数之间的FTS耦合关系，内环、外环和传感器之间的相互作用，非线性赫兹接触力、负载、离心机力、摩擦力和重力的影响，实际接触角的变化，以及考虑位移距离和倾斜角的局部缺陷。提出了一种全面考虑FTS耦合的缺陷轴承动力学（DBD）模型。然后，通过前期的研究和本文的轴承实验，验证了实际接触角理论、油膜理论、轴承热效应理论和提出的DBD模型的有效性和准确性。最后，研究了FTS耦合效应下缺陷轴承的动态特性。结果表明，移动距离和轴向间隙可以降低缺陷对轴承动态特性的影响，斜转角可以降低或增加这种影响，而旋转速度有助于增加这种影响。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014669?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[无阻力控制系统的频域延时识别方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014943?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种用于无阻力控制应用的系统延迟识别方法。在多自由度（MDOF）系统中，引入了伪阻抗函数的概念。推导了延时系统伪阻抗函数与非受控系统伪阻抗函数之间的关系。延时系统的伪阻抗函数与相应非受控系统的伪阻抗函数之间的差的“频率”被识别为系统的延时。该延迟可以使用应用于两个伪阻抗函数之间的差的快速傅里叶变换（FT）来确定。通过仿真和实验测试，得到了延时系统的频率响应曲线。然而，不受控系统的频率响应曲线不可用，这阻碍了直接计算其伪阻抗函数。为了解决这一局限性，采用变分模式分解（VMD）算法来消除延时系统的趋势线。该趋势线有效地代表了非受控系统的伪阻抗函数曲线。此外，还研究了系统噪音对识别结果的影响。为了增强算法从含噪数据中提取信号特征的能力，使用粒子群优化（PSO）对VMD算法的参数进行优化。最后，对该算法在多输入多输出（MMO）系统中进行了仿真和测试。在实验测试中，在控制环中引入白噪音，以进一步细化时间延迟识别过程。仿真和实验结果均表明，所提出的识别算法具有较高的识别准确率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014943?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用串话架构的多输出分类对部分标记条件下的电机进行复合故障诊断]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014876?dgcid=rss_sd_all</link>
-      <description><![CDATA[旋转机械的复杂性和运行条件的多样性（例如旋转速度和变化的扭矩）加剧了需要域适应（特别是涉及复合故障）的场景中故障诊断的挑战。这项研究通过引入一种新型的多输出分类（MOC）框架来解决这些挑战，该框架专为部分标记的目标数据集中的领域适应而量身定制。与传统的多类分类（MCC）方法不同，MOC框架同时对复合故障的严重性级别进行分类。此外，我们探索了适用于MOC公式的各种单任务和多任务架构（包括共享干线和基于串话的设计），用于部分标记条件下的复合故障诊断。基于这项研究，我们提出了一种新型的串话架构--剩余神经维度约简器（RNDR），它能够在诊断任务之间实现选择性的信息共享，有效地增强复合故障场景中的分类性能。此外，还结合了频率层规范化，以提高电机振动数据的域自适应性能。使用基于电机的测试设置实施复合故障条件，并在六个域适应场景中进行评估。实验结果表明，与基线模型相比，其宏F1性能更出色。通过单一故障比较，我们进一步表明，RNDR的结构优势在复合故障设置中更加明显。我们还发现，频率层规范化比传统方法更适合故障诊断任务。最后，我们分析了各种条件下的RNDR、参数数量增加的其他模型，并与烧蚀的RNDR结构进行了比较。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014876?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有弯曲-扭转复合材料和磁非线性的旋转式压能采集器的宽带性能]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014803?dgcid=rss_sd_all</link>
-      <description><![CDATA[一种双向锯齿弯曲-扭转型压能采集器，用于在低速时变和高速稳定输入条件下捕获两个方向的磁激励。建立了收割机的非线性机电耦合数学模型。采用数值方法分析非线性力、激励条件和结构参数对振动响应和发电性能的影响。研究表明，双向磁激励为低速和高速区域提供了双频段，而非线性能量汇则拓宽了低速带。此外，激励磁铁的数量可以有效增强中高速范围内的能量收集性能，确保低高速区域之间的连续能量转换。实验结果表明，采集器可以在115转/分钟、200转/分钟和600转/分钟的速度下成功点亮LED并为无线蓝牙传感器供电，而在没有非线性能量吸收器的情况下，该设备无法激活。此外，无线蓝牙传感器在4 m/s至12 m/s的风速下正常工作，克服了谐振式压振子固有的带宽限制。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014803?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不确定环境下宽体矿用自卸车平顺性多保真度稳健优化设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014517?dgcid=rss_sd_all</link>
-      <description><![CDATA[宽体矿用自卸车在采矿过程中起着至关重要的作用。然而，在未铺砌的挖掘区域中普遍存在的明显起伏对延长车辆使用寿命和提高乘坐舒适性提出了重大挑战。在实践中，操作环境和制造公差产生的不确定性，加上从有限的数据构建高保真模型的困难，进一步复杂化性能优化。为了解决这些问题，提出了一种多保真鲁棒优化框架。在此框架下，首先对宽体采矿自卸车进行了理论建模，并通过ADAM/CAR和EASY 5联合模拟生成了低保真和高保真度数据集。随后，采用多保真课程学习（MFCL）方法，其中基于集群的策略确定训练方案，从而能够集成多保真数据以进行快速准确的车辆性能预测。此外，还开发了一种非支配排序河马优化（NSHO）算法，在多目标优化任务中产生了优越的帕累托前沿。最后，考虑现实的矿井道路条件，构建物理场景模拟来验证所提方法的有效性。在环境波动和设计公差的综合影响下，车辆乘坐舒适性的多保真鲁棒优化使垂直簧上质量加速度的平均RMS值降低了7.2%，方差降低了88.2%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014517?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型参数和偏差的主动和协作贝叶斯校准]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015183?dgcid=rss_sd_all</link>
-      <description><![CDATA[计算模型的校准，以尽量减少模型预测和观测之间的差异是一个基本的，但在现代计算科学具有挑战性的任务。导致这种差异的不确定性的根源可能是复杂的，但通常可以通过量化模型参数和模型偏差的不确定性来捕获。因此，模型参数和模型偏差的联合校准的数值问题引起了广泛的关注，但极具挑战性，特别是当模拟器是昂贵的评估。为了填补这一空白，基于Bayesian数值方法开发了一种新的模块化Bayesian推理方法框架，名为主动和协作Bayesian校准，其中使用高斯过程模型描述模型偏差。通过将校准问题重新定义为等效的优化然后集成的嵌套问题，然后开发了一种Bayesian算法，用于推断模型偏差的超参数并以顺序方式生成模型参数的训练样本，这允许以高效率协同校准模型参数和偏差。推广置信上限函数来识别模型偏差的超参数，并开发后验误差贡献函数来积极丰富训练数据集并进一步更新训练后的探地雷达模型。通过这两个采集功能顺序工作，可以通过准确性和效率之间的合理权衡来量化模型偏差，并且可以作为副产品校准模型参数。最终引入了两个数值算例和两个实际工程算例来证明所提出方法的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015183?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Prime编号叶片的不均匀调制和基于余割函数的音调降噪]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014980?dgcid=rss_sd_all</link>
-      <description><![CDATA[叶片不均匀调制是涡轮机械降噪的重要方法，而弦函数和弦函数是重要的技术。然而，这些方法受到Prime编号叶片和有限的角位置探索的限制。本研究通过改进基于Prime编号叶片相差的调制方法并引入余割函数作为sin和cos函数的替代方案来解决这些局限性。设计了两种不同叶片数、不同调制函数、不同调制量和不同调制周期的鼠笼式风机，并对其非稳态噪声谱进行了分析。结果表明，改进方法成功地适用于质数叶片和各种调制函数，减少了对相角偏移的约束，提高了设计效率。余割函数扩展了角位置探测空间。在11叶片风扇中，与均匀间隔的叶片相比，优选的余割调制方案将基频处的声压级降低了2.89 dB和5.19 dB，与正弦调制相比降低了2.16 dB和3.87 dB，并且与余弦调制相比降低了1.89 dB和4.09 dB。此外，与sin调制相比，11叶片的二阶调和峰值降低了16.31%，与cos调制相比，13叶片的二阶调和峰值降低了23.36%。这项研究为不均匀调制技术在降噪和工程中的更广泛应用提供了宝贵的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014980?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[局部共振超材料板的带间隙优化：低频波衰减的五种网格几何形状的比较研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014487?dgcid=rss_sd_all</link>
-      <description><![CDATA[低频弯曲波的衰减是结构工程中的一个持续挑战，需要平衡效率、紧凑性和重量限制的创新解决方案。这项研究提出了第一次系统性的比较分析，调查了格子几何形状和局部共振器频率对五种不同周期性配置的薄基尔霍夫-洛夫板带间隙形成的综合影响。主要目标是为航空航天、汽车和土木工程应用的关键低频范围内的最佳格子谐振器布置建立定量设计指南。半分析平面波扩展（PWE）和扩展平面波扩展（EPWE）方法系统地分析正方形、矩形、三角形、蜂窝和kagomé网格配置中15个频率10-150 [Hz]的共振器。1-200 [Hz]扩展范围内的有限单元法（MBE）接收分析验证了理论预测并量化了整个结构响应的振动衰减。半分析方法表明计算效率提高超过1800倍，同时将准确性保持在数值预测的5%内。定量分析揭示了五种网格配置之间不同的性能层次。无限板分析显示，三角形网格的相对带宽优于35%（42.51% vs 31.40%），绝对带宽高出73%（55.40 [Hz] vs 32.10 [Hz]），而有限板验证证实了kagomé出色的低频衰减（高达-293 [分贝]）和蜂巢平衡的双频段性能。多共振器系统（蜂巢、kagomé）表现出来自同相和反相耦合模式的两个不同的完整带隙，与单共振器格子的单带隙行为形成鲜明对比。所有五种几何形状的带宽演变分析为设计优化建立了与频率相关的性能图。带宽分析采用来自PWE/EPWE公式的无限单元预测。由于边界诱导的模式耦合，有限板表现出超出无限域预测的带宽扩展。该研究建立了量化性能层次结构，并为超材料板优化提供了系统设计指南。该框架将理论带间隙预测与实际有限板性能连接起来，从而实现下一代轻型振动隔离系统。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014487?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用带有四个激光测速仪的数码相机进行非目标结构位移测量]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015195?dgcid=rss_sd_all</link>
-      <description><![CDATA[结构位移是评估结构安全性和完整性的重要指标。在各种评估技术中，随着经济高效且高性能图像传感器的发展，基于计算机视觉的位移测量已被确立为一种有效的方法。然而，使用附着在结构表面上的人造目标或需要已知的结构尺寸仍然是必要的，这在实际应用中具有挑战性。尽管已经探索了非基于目标的方法来克服这些局限性，但由于难以集成多个设备并考虑相机和结构之间的相对位置，它们可能会导致准确性不足。本研究提出了一种非基于目标的位移测量方法，该方法利用由数码相机和四个激光测速仪组成的视觉系统。基于旋转对齐算法构建了能够准确反映结构位移的物理坐标系。随后，利用图像与获得的坐标系之间的关系进行位移计算。实验室规模测试显示，25 m距离处最大位移为8.48 mm时，最大均方误差（RSSE）为0.33 mm，而转换比为1.76 mm。此外，在全尺寸铁路桥上的现场应用表明，该方法的最大RSSE为0.03 mm，相比之下，转换比为0.13毫米。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015195?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[拉索塔拉索对随机地震激励的非线性动力响应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014918?dgcid=rss_sd_all</link>
-      <description><![CDATA[在所提出的方法中，利用里兹法建立了随机地震激励下具有单拉索的拉索的拉索塔的简化模型，将其视为小垂度拉索。长周期的地面运动导致塔楼发生刚性运动，进而导致结构的摇摆和弹性弯曲变形。因此，所考虑的拉索受到两个来源的激励：支撑点处的底座运动和将电缆锚定到结构上点处的塔的水平振动。地震地震动是根据过滤高斯白噪音过程建模的，该过程导致地震动加速度的Kanai-Tajimi谱密度。纵向电缆振动与横向电缆振动相互耦合。利用里兹法和拉格朗日方程来获得非线性运动方程组。通过等效线性化技术获得特定随机状态变量的近似均值和方差。利用原非线性系统与线性系统之间均方误差最小的条件来求等效系统的系数。通过对一组非线性方程进行的蒙特卡罗模拟来验证所获得的近似分析结果，该方程对1000个样本函数进行了数值求解。所提出的方法显着减少了数值计算时间，并允许在短短几秒内获得非常小的时间步和所研究运动的长周期的结果。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014918?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[结合物理信息神经网络进行剩余有用寿命预测的时空MLP模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501516X?dgcid=rss_sd_all</link>
-      <description><![CDATA[剩余使用寿命（RUL）预测作为促进设备维护从预防性向预测性转变的核心技术，利用传感器监测信息来预测设备RUL，为智能维护和决策提供重要依据。然而，当前的预测模型通常存在模型复杂性高、多个操作条件下的预测准确性低以及解释性差的问题。为了解决上述问题，提出了一种结合物理信息的时空感知器模型用于RUL预测。具体而言，该模型基于多层感知器（MLP）网络结构，提出了门控注意力时空多层感知器模型（AST-MLP），通过轻量级架构设计，在显着降低模型复杂性的同时，充分学习时空维度的更深层次信息，从而提高计算效率和预测准确性。其次，为了有效利用偏微方程的损失和寿命的损失，提出了寿命与物理信息融合损失模型（FLP-Loss）。该模型使优化过程更加符合物理定律，提高了预测的准确性。最终，对C-MAPSA数据集进行了全面的实验，结果表明该模型具有更高的预测准确率和更好的预测结果，尤其是在复杂环境下。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501516X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于莫尔元表面的螺旋波阵面声学定位系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015006?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了解决传统无源声学定位方法的固有局限性，特别是它们对复杂电路和密集排列的传感器阵列的依赖性，本研究引入了一种新型的声学导航架构，其特点是结构简单和环境适应性强。拟议的系统由内环元表面（RST）和外环元表面（ORM）组成，它们共同形成莫尔声学超材料环（MAMR）。通过控制前置放大器和ORM之间的相对旋转运动，该系统能够在圆柱形和螺旋形波阵面发射模式之间进行动态切换。该机制促进了多目标定位和导航，而不需要传统的笨重传感器阵列。数值模拟和原型实验都证实了拟议的MAMR设计在磁场操纵和定位准确性方面的有效性。此外，引入参数匹配算法根据实验数据校准方位角和距离，并建立时间顺序操作模型来管理系统功能。该系统在静态多目标场景和动态单目标跟踪中都表现出稳健且响应灵敏的定位性能。这项研究提出了一种新型范式，用于开发专门为资源受限环境设计的紧凑型主动声学导航系统，提供理论见解和经验验证，以支持声学定位和控制系统的实际实施。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015006?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人移动传感用于桥梁群的稳健模式识别：不确定性分析、算法开发、硬件实现和现场验证]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015201?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于人口的结构健康监测（PBSHM）最近成为一种有希望的范式，可以增强结构群体的监测能力。PBSHM的核心要求是从多个人口成员收集数据。传统的固定传感策略，无论是永久安装还是临时部署，对于此目的来说都是不切实际的，因为它们需要大量的时间、劳动力和成本。这项研究引入了一种新颖的机器人移动传感框架，旨在克服这些挑战。该框架开发了一个定制的便携式加速度计和一个携带多个传感器的智能轮式机器人，对桥梁结构进行基于振动的测量。收集的数据使模式识别成为可能，这是PBSHM的基石任务。为了解决移动传感固有的不确定性，我们进行了理论不确定性分析，并开发了专为移动数据量身定制的稳健自动频域分解算法。所提出的框架包括传感硬件、不确定性分析和模式识别算法，通过在代表桥梁群的十个简支桥跨上进行现场部署来验证。仅使用两个传感器，我们就成功地提取了每个跨度的多个振型频率和振型，同时量化了结果中的不确定性。与有限元素分析和人口水平评估的比较进一步证实了该框架的有效性，强调了其可扩展性、成本效率和对实际PBSHM实施的适用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015201?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有网络干扰和物理不确定性的永久磁铁同步电机的鲁棒控制设计和实验验证]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014931?dgcid=rss_sd_all</link>
-      <description><![CDATA[针对物理不确定性和网络干扰影响下的永久磁铁同步电动机（PMSM）系统的跟踪控制问题，提出了一种新颖的鲁棒控制策略。为了保证PMSM系统的性能稳定性，设计了一种新的控制策略。首先，构建PMSM系统的动态模型，同时考虑物理不确定性和网络干扰。其次，提出了一种新的弹性鲁棒控制方法，可以确保PMSM系统满足期望的约束。第三，通过非合作策略和Stackelberg策略两种博弈论优化方法获得最优控制参数。最后，仿真和实验结果验证了所提出鲁棒控制的有效性和优越性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014931?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非零初末条件下基于相平面轨迹规划的桥梁起重机防摆控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015158?dgcid=rss_sd_all</link>
-      <description><![CDATA[对于桥机系统的防摆控制，传统的研究侧重于理想静态条件下的控制过程分析，而实际应用中初始扰动很难避免，而基于零初始条件假设的输入整形技术会因模型不匹配而引起意外振荡，无法满足实际控制要求。本研究创新性地提出了一种基于相平面轨迹几何分析的闭环控制方法。具体而言，系统分析了三种不同状态（最大小车加速度下的初始状态圆、摆角约束圆、摆角归零圆）下相平面轨迹的特征，通过这三种轨迹的合理组合，生成严格满足非零初始条件下负载摆角约束的轨迹。数值模拟和物理实验表明，该方法可以有效消除非零初始条件引起的残余振荡，或在预定的最终摆角下成功结束机动过程。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015158?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于轴承故障诊断的弱振动能量驱动加速度监测系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015249?dgcid=rss_sd_all</link>
-      <description><![CDATA[振动监测技术已广泛应用于工业、交通等环境中。传统的有线和电池供电方式面临着布线复杂、能耗高、环境污染等挑战。在这里，我们已经开发了一个自供电的无线加速度监测系统（SWAMS）监测轴承在弱振动环境中的运行状态。振动摩擦电纳米发电机阵列（WEB-TENG）旨在有效地从微幅振动中收集能量，并向SWMS供电。WEB-TENG在0.07 g加速度（42.1 Hz时10 µm激发幅度）下实现了4.3 μW/cm 3的显着峰值功率密度。WEB-TENG可以通过电源管理模块有效地为锂电池充电。SWAMS可以使用计时电路模块在每小时内传输振动数据，而无需额外功耗。从轴承箱收集的加速度数据通过传输模块无线传输到PC。使用混合CNN-LSTM模型进行轴承故障识别，在测试集中实现98%的分类准确率。SWAMS能够对无人值守环境中的工业设备进行自供电振动监测，为故障诊断提供可持续且免维护的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015249?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于GA-BP神经网络和准静态试验的变剖面圆端空心铁路桥墩等效衰减比预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015110?dgcid=rss_sd_all</link>
-      <description><![CDATA[等效衰减比是桥梁动力特性分析和基于性能的地震设计的关键参数。然而，现有的理论模型主要集中在实心墩和传统空心墩上，没有充分考虑圆端变剖面空心墩的独特力学性能，这种性能源于其可变的刚性特性和复杂的滞后能量消耗行为，导致准确计算等效衰减比受到限制。因此，本文提出了一个集成“测试驱动和机器学习”的框架。首先，设计了7个铁路圆角变剖面空心墩的缩尺模型，通过准静态试验系统分析了其滞后性能和等效衰减比的演变，重点研究了轴压比、纵向配筋率和拱度比的影响。试验结果表明，等效衰减比随着位移韧性比的增加呈明显的两阶段变化规律，并且受关键设计参数的影响显着。为了克服传统理论模型的局限性，建立了以位移韧性比、轴压比、剪跨比、纵向配筋率和剪跨比为输入，以等效衰减比为输出的预测模型。建立了传统的BP神经网络模型和遗传算法优化的BP神经网络模型。比较分析表明，混合模型经过GA全局优化后，预测性能有了显着提高：与BP模型相比，其均方误差和平均绝对误差分别降低了94%和74%，决定系数为0.997，最大预测误差降低了79%。GA-BP模型经保留的独立实验数据验证，预测误差标准差仅为0.0005，表现出出色的准确性和概括能力。进一步的全局敏感性分析揭示了每个输入参数对等效衰减比的相对重要性，增强了模型的可解释性。本研究开发的GA-BP预测模型提供了一种新颖、高精度、高效率的数据驱动方法来预测铁路空心墩的等效衰减比，显着促进了基于性能的地震设计和分析。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015110?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于能量收集的五稳态复合材料外壳]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015262?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文研究了一种具有初始伪圆锥形结构且两端具有相反弯曲的薄壁复合材料结构。一旦在边缘被夹住，壳就会表现出五种不同的平衡状态（I、I*、J、L和S）。主要动机是研究如何利用五稳态配置来最大限度地提高可变振动环境中的能量收集效率。对于能量收集应用，引入了一种有限单元模拟方法来确定宏纤维复合材料（MFC）贴片的有效位置。该研究调查了应变和应力分布、模式分析以及嵌入各种市售的压片尺寸对平衡配置的影响。实验测试是在配备多个应变片和MFC补丁的原型上进行的。这些测试研究宽带频率响应曲线（5- 100 Hz），用于构建收割机各种初始变形的机电耦合系数。该结构能够经历大幅度的振荡，包括平衡之间的多次突然发生事件。为了更好地描述运动状态，提出了应用于应变计时间序列数据的谱图。处理从MFC补丁恢复的电压以获得瞬时功率和有效值功率曲线。最后，开发并讨论了五稳态悬挑收割机的最大有效值功率图。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015262?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[垂直磁耦合双梁的压能收集系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015213?dgcid=rss_sd_all</link>
-      <description><![CDATA[本研究提出了一种基于双悬挑梁垂直磁耦合的新型能量收集系统，旨在在环境气流下实现方向独立的激励。与具有单轴响应的传统系统相比，所提出的配置能够将磁力从初级梁传输到次级梁，而无论流向如何，从而允许同时从两个梁提取能量。利用拉格朗日力学开发了一个全面的非线性动力学模型，结合了压电耦合、磁相互作用和简因气动激励。该模型得到了有限元素分析的支持，以证明将该系统集成到小型风力涡轮机应用中的可行性。构建了拟议的原型，并进行了详细的实验研究。收集的能量经过整流并成功用于为LED和温度传感器等低功率电子设备供电。结果证实了拟议的双束配置对于可变激励条件下运行的自供电系统的实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015213?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[嵌入物理模型的神经网络用于通过轴电流信号监测铣削表面粗糙度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014955?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了解决数据驱动表面粗糙度监测方法相关的高实验和实施成本问题，本文提出了一种基于物理模型嵌入式神经网络（PMENN）的新型表面粗糙度监测方法。关键创新在于将表面粗糙度物理模型集成到神经网络架构中，利用神经网络来修改表面粗糙度的理论值。首先，通过表面粗糙度物理模型和切割力-电流相关性分析，揭示了表面粗糙度与主轴通电电流之间的非线性关系。随后，分别训练用于切割力计算和表面粗糙度计算的专用神经网络模块，从而在实际加工中实现无测力计的粗糙度监控。通过研磨操作的实验验证证明了该方法的有效性。此外，在航空发动机箱壳盖制造中的实际应用证实了PMEN在少镜头学习中的卓越性能，凸显了其在训练数据有限的实际加工中的优势。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014955?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[赛车摩托车碳制动系统摩擦系数和制动扭矩的多传感器估计算法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015043?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文研究了估计MotoGPTO级摩托车上安装的碳制动器产生的制动扭矩的新方法。最初实施制动器的物理模型是为了使用测量的制动液压力和制动系统几何形状作为输入来计算施加到摩托车前轮的扭矩。目前，使用该方法获得的结果受到模型方程中使用恒定摩擦系数的限制。由于使用经典的基于模型的方法估计摩擦系数极其困难，因此开发一种能够识别制动器任何工作条件下的摩擦系数的机器学习算法被认为更方便。为此，对不同的机器学习模型进行了评估和比较，特别关注数据集的生成以及如何计算训练期间用作目标的标签。最终选择并训练了一种结合非线性自回归外生模型（NARX）和人工神经网络（NN）的算法。所开发的算法在不同赛道实验测试期间收集的多个数据集上成功进行了测试，在制动扭矩估计和摩擦系数识别方面提供了令人满意的结果。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015043?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[风电机组新型主滑动轴承在未对准和非线性变形影响下的性能分析和定量评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014888?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月15日资料来源：机械系统与信号处理，第244卷作者：张戎华、宋朝生、谭建军、周叶、张嘉嘉]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014888?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过弹性动力学约化和分段对非均匀梁固有频率进行分析建模]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015080?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月15日资料来源：机械系统与信号处理，第244卷作者：杜峰、姚辉、吴江浩]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015080?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用导波窄谱特征估计结构参数的Bayesian波型逆]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015286?dgcid=rss_sd_all</link>
-      <description><![CDATA[工程材料和结构部件的无损机械评估对于现代结构健康监测至关重要。然而，传统的基于超声的参数识别方法依赖于宽频率范围内的波传播特性，通常需要全面的数据采集系统、多频率测量和相关的复杂多域处理。为了简化实际部署，这项研究开发了一种创新的波型倒置框架，该框架在单一工作频率下对窄光谱特征进行操作，从而能够从单次投捕测量中定量识别尺寸和材料参数。该框架将信号表示和参数识别结合在统一的概率方案中，实现了测量的波型和结构属性之间的可解释映射。在正向波场建模中，采用稀疏Bayesian正规化从候选波字典中选择相关子波并对其加权以合成预测波。在向后优化过程中，自适应顺序蒙特卡罗（ASMC）方案在预测和测量的波型之间执行Bayesian错配最小化，以推断结构属性及其后验不确定性。对均匀板状结构进行了数值和实验研究，以验证所提出方法的实用性和有效性，将厚度和杨氏系数视为未知结构参数。结果证实，独立的结构参数及其不确定性可以通过仅使用一对压传感器即可获得的快速且经济高效的实验测量来可靠地识别。此外，基于波反相的框架通过重建和实验波之间的直接视觉比较来提供对反相结果的直观验证。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015286?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多模式特征生成式对抗协同学习的知识驱动工业旋转机械复合故障检测增强]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015237?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业旋转机械的复合故障以时频多频信号耦合为特征，现有方法难以应对时间信号与频率信号之间的内在相关性和分布差距，导致检测性能不佳。为了解决这个问题，我们提出了一种用于工业旋转机械复合故障检测增强的多模式特征协同生成对抗学习方法。在该方法中，协同学习模式间互补性（模式共享）和模式内特异性（模式特定）的特征表示。首先，我们设计了两个并行的基于知识的特定模式特征提取网络模型和一个多模式传输模型。两个特定于模式的特征提取模型利用先验知识从时间和频率模式中学习特定于模式的特征。多模式传递模型通过计算每个模式的特定模式特征邻居来聚集和传递模式共享特征。然后，提出了一种基于生成式对抗的多模式协同训练策略用于特征协同学习。该策略中，三个特征学习模型充当多模式特征生成器，旨在生成并融合特定模式和模式共享特征以形成交叉模式传播特征，并引入特征模式搜索器来识别交叉模式传播特征的源归属模式。基于这种特征生成对抗训练，跨模式传播的特征不再明确属于某个模式，从而实现有效的多模式特征转移。最后，两个工业旋转机械案例验证了该方法的复合故障性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015237?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多通道时间序列传感器数据的双域特征自匹配融合复杂装备关键零部件可靠性评估方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014840?dgcid=rss_sd_all</link>
-      <description><![CDATA[复杂机械系统中关键部件的可靠性本质上与多通道传感器数据融合分析的有效性相关。然而，现有方法难以应对多通道时间序列传感器数据中冗余或不足的特征选择和时空差异，阻碍了机械部件可靠性评估框架的进步。为了应对这些挑战，我们提出了一种基于多通道时间序列传感器数据信息丰富性的新型双域特征自匹配融合方法。该方法集成了用于数据可视化的分段映射对称点图案（Pm-SDP）和用于量化数据丰富性的交互式空间信息熵（ISIE）。该方法利用时频融合相关-冗余-互补权衡（TFF-RECCT）算法，动态选择互补和非冗余特征。此外，双域框架协同结合了统计域和频谱域，以捕捉传感器通道之间复杂的时间和空间依赖性。我们的方法显着增强了数据融合和特征提取的全面性，从而提高了寿命预测、故障诊断和状态识别等可靠性分析任务的准确性。为了验证其有效性，我们使用三个公开可用的数据集（包括IEEE PHM 2012）以及自己的水平研磨机磨损数据集进行了比较实验。结果表明，我们的方法优于传统方法，RSSE降低了76.95%，准确性提高了10.23%。这项工作为复杂机械系统中关键部件的可靠性评估提供了稳健而精确的数据驱动基础。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014840?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于双模型一致性伪标签权重优化的冷水机故障诊断类增量无监督域自适应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015122?dgcid=rss_sd_all</link>
-      <description><![CDATA[在冷水机组的长期运行过程中，数据不断生成并动态演变。传统的一次性离线静态建模方法缺乏流媒体场景下的自适应更新机制，难以有效处理故障类的增量出现和数据分布的时态演变。为了应对这一挑战，本文提出了一种连续自适应伪标签权重优化（PwoCA）方法来实现类增量无监督域自适应（CI-UDA），从而增强流数据环境中模型的动态诊断能力和概括性能。首先，引入了多表示融合（MRF）策略，利用格纹角场将一维序列特征转换为灰度特征图，然后与离散子波变换融合，以同时捕捉全局趋势和局部细节。随后，设计了双模型一致性伪标签生成（DMCPG）模块来识别目标标签原型并构建记忆库，有效地减轻灾难性遗忘。最后，提出了原型加权对抗域适应（PWADA）策略，以加强模型对关键样本的关注，并减少源域和目标域之间的分布差异。对多个数据集的大量实验表明，该方法不仅在流数据环境中保持了高的诊断准确性，而且有效地缓解了灾难性遗忘，从而确保了诊断模型在长期动态工作条件下的稳定性和实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015122?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于自相关预测误差修正的双自适应漂移系数状态空间模型的机械系统性能退化评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015055?dgcid=rss_sd_all</link>
-      <description><![CDATA[预测机械系统的剩余使用寿命（RUL）对于确保设备的安全运行至关重要。为了提高RUL预测的准确性，某些预测模型努力考虑预测误差的影响。然而，机器学习方法生成的预测错误序列缺乏可解释性。此外，在相互独立的高斯分布假设下推导出的预测误差序列忽视了捕捉这些误差序列之间固有的自相关性，该自相关性是由于不同操作条件和模型差异的相互作用而产生的。为了解决这些问题，基于具有自相关预测误差修正的双自适应漂移系数状态空间模型提出了RUL预测框架。所建立的自相关预测误差修正策略能够通过提出的回归自适应高斯稀疏过滤算法实现伪预测RUL的实时修正。开发的基于分数Lévy稳定运动的双自适应漂移系数状态空间模型集成了两个不同的自适应非线性漂移系数，旨在适应加性高斯白噪音引起的漂移系数的驱动演变过程。同时，该方法也验证了传统状态空间模型中当前时刻漂移系数的预测值严格等于前一时刻漂移系数的后验估计值的假设。使用来自卡车驱动桥的实际全生命周期数据和基准滚动轴承全寿命数据集对RUL预测框架进行了验证。预测结果的比较分析表明，所提出的方法优于其他国家的最先进的RUL预测方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015055?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种使用自适应正规化路径和log罚函数的移动负载识别的新型多域字典学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015250?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月15日来源：机械系统与信号处理，第244卷作者：侯志龙、潘楚东、洪昊、凌宇]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015250?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[开发基于失速颤动的压动式风能采集器，具有钻石形翼面和端板，以实现高性能]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015171?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于脉动的风能收割机在中低风条件下通常效率有限，阻碍了其在分布式电力系统中的应用。为了应对这一挑战，我们提出了一种基于失速颤动的压电收割机，其特点是带端板的钻石形机翼。该设计引入了静态迎角来引发失速颤动，并利用1：1的内部共振与多点流分离相结合来提高能量转换效率。使用扩展的汉密尔顿原理、Galerkin方法和展开定理建立了理论框架。应用两步模式分析来离散连续系统并分析其动态和能量响应。通过扰动法和调和平衡技术考察了非线性动力学行为，揭示了极限环振荡和滞后现象的存在。为了阐明气动增强机制，进行了计算流体动力学和有限时间李雅普诺夫指数分析。这些表明，多点流动分离促进了动态失速涡的形成，从而加强了弹性结构和空气动力之间的相互作用。使用优化的原型进行实验验证，显示与理论预测高度一致。拟议的收割机在9 m/s时实现了167.1 W/m3的功率密度，显着优于传统设计。这项工作不仅为分析基于失速的收割机提供了统一的理论-实验框架，而且强调了非线性流动-结构相互作用在优化能量收获效率方面的关键作用。这些方法和发现为紧凑型自供电设备的设计提供了宝贵的见解，并推进下一代可持续能源收集系统的开发。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015171?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[定向能量沉积中局部特征变化引起的零群速兰姆波的评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015225?dgcid=rss_sd_all</link>
-      <description><![CDATA[定向能量沉积（DED）工艺通常会引入多孔缺陷，从而损害结构完整性。由激光超声产生的零群速（ZGV）Lamb波为DED薄结构中的缺陷检测提供了一种非接触式现场方法。然而，ZGV模式对DED中局部特征变化的响应仍然没有充分研究。在本文中，我们介绍了我们的研究，调查了DED过程中产生的局部特征变化引起的ZGV Lamb波的评估。首先建立有限单元模型是为了研究DED薄结构中遇到孤立的几何特征、离散的孔隙缺陷及其耦合效应时的ZGV Lamb波行为。结果表明，在DED过程中，在无缺陷结构中，典型的几何变化导致S1-ZGV模式的频移，同时保持模式纯度。相比之下，孔隙率缺陷会产生不同的特征引导波（FGW）和相关的FGW-ZGV模式，同时还会改变S1-ZGV频率。当几何特征和孔隙率缺陷同时存在时，它们的联合影响会对两种模式产生可测量且可区分的修改，从而实现有效的缺陷识别。对具有受控缺陷的样本进行激光超声测试的实验验证证实了ZGV模式对单个特征和耦合特征的高敏感性。利用激光超声波的非接触、现场能力，这种方法在DED过程中展示了实时孔隙率监测和质量保证的强大潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015225?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于扩散策略的拉索驱动机械手的容差路径规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015419?dgcid=rss_sd_all</link>
-      <description><![CDATA[电缆驱动机械手通常在辐射、有毒、高温和高压环境中执行任务。在这种情况下，无法现场解决电缆磨损或故障。为了解决这些情况下电缆磨损引起的操作安全问题，本研究提出了一个基于物理学的扩散政策框架，用于电缆驱动机械手的故障容忍路径规划。鉴于电缆驱动机械手的超冗余自由度，该系统可以重新分配负载并在电缆损坏的情况下继续运行。首先，开发了嵌入物理约束的基于虚拟工作的拉索张力估计网络，以实现与关节姿势相对应的高精度张力预测。随后，张力引导被集成到去噪扩散模型中，利用无碰撞参考轨迹作为先验，从而在满足低张力和避障约束的多维关节空间中迭代生成故障轨迹。评估张力预测准确性、路径可行性和算法可扩展性的多维实验表明，所提出的方法有效降低了受损电缆的平均张力，同时确保路径安全，实现了仅9.7秒的规划时间。此外，即使最多三条电缆损坏，该方法也能保持稳定的收敛和低抖动。实验结果验证了该算法在电缆驱动机械手的容差路径规划中的有效性，为极端环境中的连续可靠操作提供了一个有前途的新范式。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015419?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过可变频率激励的智能激励适应性实现主动振动控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015328?dgcid=rss_sd_all</link>
-      <description><![CDATA[主动振动控制（VOC）是一种经过充分验证的解决方案，用于在特定频率范围的稳定环境中进行振动抑制。然而，在可变和不可预测的激励条件下保持其高性能仍然是一个重大挑战。本文开发了一种智能激励-自适应主动振动控制（IEA-VC）方法，以实现结构在变频率激励下的最优控制。该方法将传统的AEC技术与激励频率的实时识别和反馈收益的自主自适应相结合。典型的IEA-AEC系统采用多个互补控制放大设置，其特征是交错的共振特性，并根据需要在这些设置之间进行切换。建立了通用线性多自由度动力学模型，并开发了一种基于模型的算法，用于仅使用加速度测量值实时识别可变简谐激励频率。实验证实，所提出的算法能够快速（最短至95 ms）并准确地跟踪时变激励频率，从而能够在预设控制放大设置之间进行实时自主切换。基于此经过验证的架构，通过理论分析和仿真来评估不同放大设置下的系统性能，并提出相应的定制控制方案。结果表明，有效地避免了各阶阶次的共振，使振动抑制显着增强。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015328?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:24:14 GMT</pubDate>
+      <title><![CDATA[利用连续子波变换从加速度数据识别的弯曲剖面进行桥梁损伤定位]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000385?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月15日资料来源：机械系统与信号处理，第246卷作者：张胜旺、赛义德·夸、安东尼奥·巴勒莫、亚历山德罗·马尔扎尼、卢兆辉]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000385?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 17 Jan 2026 18:26:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[考虑法兰界面时变弯曲硬度的轴颈轴承支撑柔性螺栓旋转系统的非线性动力学特性]]></title>
@@ -389,13 +81,6 @@
       <description><![CDATA[出版日期：2026年2月1日资料来源：机械系统与信号处理，第245卷作者：Kristopher Campbell、Maria Pregnolato、Raj Kamal Arora、Su Taylor、Remco Nieuwland、Piet van Andel、Myra Lydon]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000257?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 15 Jan 2026 12:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用振动测量更新降阶模型的投影基自适应方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014979?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月15日来源：《机械系统与信号处理》，第244卷作者：杰克·霍林斯、廷克·楚格、埃万杰洛斯·帕帕西奥、基思·沃登、康斯坦丁诺斯·塔蒂斯、康斯坦丁诺斯·阿加索斯]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014979?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:26 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[航空螺旋锥齿轮胶合和齿温的实验和微观表面研究]]></title>
@@ -641,20 +326,6 @@
       <description><![CDATA[出版日期：2026年2月1日来源：机械系统与信号处理，第245卷作者：赵家侯、刘万强、李洪武、龙新华]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000300?dgcid=rss_sd_all</guid>
       <pubDate>Wed, 14 Jan 2026 16:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[带有推力矢量旋翼的复合垂直起降无人机的自主空中对接]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014839?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文重点研究用于城市空中机动应用的复合垂直起降（VTOL）无人机（UAV）与推力矢量旋翼的自主空中对接，以克服每架无人机固有的有效载荷和续航能力限制。首先，介绍了一种具有推力矢量控制能力的新型复合垂直起降无人机，用于位置和姿态控制的解耦。接下来，开发了一种专门设计的翼尖嵌入式对接机构和基于单目视觉的相对定位模块，用于飞行装配。随后，为两架无人机的自主空中对接开发了基于PID的控制策略，其中一架执行对接机动，另一架保持稳定的悬停状态。最后，构建了复合垂直起降无人机的原型，并进行了初步的室外飞行实验，以验证所提出的自主空中对接系统。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014839?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多米诺启发的能量收集系统（DiEHS），具有模块化联锁机制，可用于可靠的自供电应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025014712?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着5G技术的快速发展，物联网（IoT）设备和无线传感器的增长正以前所未有的速度推进，其低功耗需求刺激了能量收集技术的进步。受多米诺骨牌动力学的启发，我们提出了一种模块化、联锁的机械能采集器（MIMEH），该采集器将屈曲梁与电磁发电单元集成在一起。对单个MIMEH模块的参数分析表明，增加梁厚度和压痕距离可以通过增强存储的势能来提高电压输出。当多个模块组装成模块阵列时，可以获得多米诺骨牌式能量收集系统（DiEHS），其电压输出随模块数量的增加而缩放。值得注意的是，DiEHS阵列显示出相反的行为：在低能量输入下沿传播路径的电压放大，在高能量输入下的电压衰减。然而，在双稳态机制的保护下，DiEHS收集的能量在各种条件下保持相对稳定。该系统的实用性通过为物联网节点供电得到了验证，突显了其对分布式传感应用的前景。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025014712?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:55:44 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[一种直接数据驱动故障检测的行为方法]]></title>
