@@ -14,3 +14,4 @@ python-dotenv
 tencentcloud-sdk-python
 elsapy==0.5.1
 pandas
+openai
