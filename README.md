@@ -7,45 +7,45 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [基于相互依赖的道路避难网络的台风下动态城市疏散避难功能的概率评估](https://www.sciencedirect.com/science/article/pii/S0951832026000566?dgcid=rss_sd_all)
-     * [不确定性下多单元异类降级系统的新型灵活间隔维护策略](https://www.sciencedirect.com/science/article/pii/S0951832026000438?dgcid=rss_sd_all)
-     * [可解释海上碰撞严重度预测的多任务因果表示学习方法](https://www.sciencedirect.com/science/article/pii/S0951832026000529?dgcid=rss_sd_all)
+     * [基于信号处理的注意力解释的多尺度信号Transformer用于变速条件下旋转机械故障诊断](https://www.sciencedirect.com/science/article/pii/S0951832026000591?dgcid=rss_sd_all)
+     * [具有动态行为的泄漏事故预测风险分析](https://www.sciencedirect.com/science/article/pii/S0951832026000542?dgcid=rss_sd_all)
+     * [推进金属结构疲劳裂纹扩展预测：具有不确定性量化的物理信息顺序关注方法](https://www.sciencedirect.com/science/article/pii/S0951832026000578?dgcid=rss_sd_all)
    </details>
 
  - Information_fusion [https://rss.sciencedirect.com/publication/science/15662535](https://rss.sciencedirect.com/publication/science/15662535) -> [Information_fusion](rss/Information_fusion.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [警告：通过客户端后门检测增强联邦学习稳健性](https://www.sciencedirect.com/science/article/pii/S1566253526000230?dgcid=rss_sd_all)
-     * [多节点随机访问协议下多速率非线性系统的安全Tobit过滤：Paillier描述-解密机制](https://www.sciencedirect.com/science/article/pii/S1566253526000254?dgcid=rss_sd_all)
-     * [OMD：用于软脑膜转移诊断的最佳运输引导的多模态解缠学习](https://www.sciencedirect.com/science/article/pii/S1566253525011832?dgcid=rss_sd_all)
+     * [面部表情识别的多模式提示学习：利用表情符号和大型语言模型](https://www.sciencedirect.com/science/article/pii/S156625352501125X?dgcid=rss_sd_all)
+     * [PointExplainer：迈向透明的帕金森病诊断](https://www.sciencedirect.com/science/article/pii/S1566253525011261?dgcid=rss_sd_all)
+     * [使用元数据引导的自适应路由的多任务强化学习](https://www.sciencedirect.com/science/article/pii/S1566253525011303?dgcid=rss_sd_all)
    </details>
 
  - Information_sciences [https://rss.sciencedirect.com/publication/science/00200255](https://rss.sciencedirect.com/publication/science/00200255) -> [Information_sciences](rss/Information_sciences.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [不完整异类信息系统的三向决策方法：加强企业绩效评估](https://www.sciencedirect.com/science/article/pii/S0020025525010722?dgcid=rss_sd_all)
-     * [具有实例相似性和特征冗余的基于邻居组合信息的标签分布特征选择](https://www.sciencedirect.com/science/article/pii/S0020025525011363?dgcid=rss_sd_all)
      * [DeliverContextNet：一个具有时空-谱融合的实时自适应大型模型，用于多上下文面部情感识别](https://www.sciencedirect.com/science/article/pii/S0020025525011429?dgcid=rss_sd_all)
+     * [一种具有新颖个体调节策略的双信息驱动FATA-DE混合算法用于特征选择](https://www.sciencedirect.com/science/article/pii/S0020025525011417?dgcid=rss_sd_all)
+     * [用于少量表面缺陷检测的双流感知交叉压平Transformer](https://www.sciencedirect.com/science/article/pii/S0020025525011545?dgcid=rss_sd_all)
    </details>
 
  - IJMTM [https://rss.sciencedirect.com/publication/science/08906955](https://rss.sciencedirect.com/publication/science/08906955) -> [IJMTM](rss/IJMTM.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [用于制造的机器人末端效应器：最近的发展和未来的研究挑战](https://www.sciencedirect.com/science/article/pii/S0890695526000040?dgcid=rss_sd_all)
-     * [编委会](https://www.sciencedirect.com/science/article/pii/S0890695525001142?dgcid=rss_sd_all)
-     * [马氏体相变灵敏度驱动的NiTi形状记忆合金激光粉末床熔合工艺路线图：从缺陷消除到精确性能控制的范式转变](https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all)
+     * [NiTi形状记忆合金激光粉末床融合的马丁转变敏感性驱动加工路线图：从缺陷消除到精确性能控制的范式转变](https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all)
+     * [增材制造分层异结构金属材料的强度-韧性协同设计](https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all)
+     * [连续波激光烧蚀Cf/SiC陶瓷基复合材料表面和亚表面演变机制：多尺度研究](https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all)
    </details>
 
  - MSSP [https://rss.sciencedirect.com/publication/science/08883270](https://rss.sciencedirect.com/publication/science/08883270) -> [MSSP](rss/MSSP.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [结合基于物理的时间因果关系约束的分布式动态负载识别数据驱动框架](https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all)
-     * [用于变电站设备多目标地震监测的模拟和可解释学习联合驱动框架](https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all)
-     * [利用连续子波变换从加速度数据识别的弯曲剖面进行桥梁损伤定位](https://www.sciencedirect.com/science/article/pii/S0888327026000385?dgcid=rss_sd_all)
+     * [航空螺旋锥齿轮擦伤和轮齿温度的实验和微观表面研究](https://www.sciencedirect.com/science/article/pii/S0888327025015353?dgcid=rss_sd_all)
+     * [采用LASO方法调整混合反褶积方法定位静态、旋转和线性运动源](https://www.sciencedirect.com/science/article/pii/S0888327025015304?dgcid=rss_sd_all)
+     * [旋转机械故障特征提取的物理引导周期加权稀疏表示](https://www.sciencedirect.com/science/article/pii/S088832702501502X?dgcid=rss_sd_all)
    </details>
 
  - Nature_machine_intelligence [https://www.nature.com/natmachintell.rss](https://www.nature.com/natmachintell.rss) -> [Nature_machine_intelligence](rss/Nature_machine_intelligence.xml)
@@ -61,45 +61,45 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [Q学习驱动局部搜索的混合多目标粒子群优化算法解决工作人员-机器-环境协作的分布式异类混合流水车间调度问题](https://www.sciencedirect.com/science/article/pii/S0278612525003218?dgcid=rss_sd_all)
-     * [通过多智能体强化学习实现可重构制造单元的实时动态集成工艺规划和调度](https://www.sciencedirect.com/science/article/pii/S0278612526000142?dgcid=rss_sd_all)
-     * [激光辅助加工数字双胞胎系统的设计](https://www.sciencedirect.com/science/article/pii/S0278612526000014?dgcid=rss_sd_all)
+     * [CNC-takes：通过大型语言模型和实时数据检索增强生成进行对话机监控](https://www.sciencedirect.com/science/article/pii/S027861252600021X?dgcid=rss_sd_all)
+     * [运输机器人灵活作业车间调度问题的知识增强离散人工蜂群算法](https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all)
+     * [使用数据池预测跨生产线的转移时间](https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all)
    </details>
 
  - RCIM [https://rss.sciencedirect.com/publication/science/07365845](https://rss.sciencedirect.com/publication/science/07365845) -> [RCIM](rss/RCIM.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [集成机构数据融合和迁移学习的机械双胞胎刀具磨损预测模型](https://www.sciencedirect.com/science/article/pii/S0736584526000153?dgcid=rss_sd_all)
-     * [编委会](https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all)
-     * [数字孪生工业环境中大型语言模型引导强化学习的统一框架](https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all)
+     * [数字孪生工业环境中大语言模型引导的强化学习的统一框架](https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all)
+     * [基于学习的高精度制造机器人加工误差预测](https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all)
+     * [机器人铣削的模式感知振动评估和抑制方法](https://www.sciencedirect.com/science/article/pii/S0736584525002741?dgcid=rss_sd_all)
    </details>
 
  - Computers_in_industry [https://rss.sciencedirect.com/publication/science/01663615](https://rss.sciencedirect.com/publication/science/01663615) -> [Computers_in_industry](rss/Computers_in_industry.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [TropicCal：用于物联网增强流程的多视角跟踪集群](https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all)
+     * [FarrowSight：一个用于产房早期小猪生长表现预测的智能系统](https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all)
      * [编辑委员会](https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all)
-     * [TROPICCAL：物联网增强流程的多视角跟踪集群](https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all)
-     * [FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统](https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all)
    </details>
 
  - Advanced_engineering_informatics [https://rss.sciencedirect.com/publication/science/14740346](https://rss.sciencedirect.com/publication/science/14740346) -> [Advanced_engineering_informatics](rss/Advanced_engineering_informatics.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [运动优先和信任感知高斯飞溅（MCGS）SLAM，用于室内建筑环境的3D场景重建](https://www.sciencedirect.com/science/article/pii/S1474034626000091?dgcid=rss_sd_all)
-     * [深度引导的跨模式融合和基于扩散的增强，实现稳健的路面缺陷分割](https://www.sciencedirect.com/science/article/pii/S1474034626000315?dgcid=rss_sd_all)
-     * [超高拱坝地震易损性分析的概率无监督地震动聚类方法](https://www.sciencedirect.com/science/article/pii/S1474034626000108?dgcid=rss_sd_all)
+     * [面向建筑工地的透明物体检测模型：可解释的人工智能和错误分类](https://www.sciencedirect.com/science/article/pii/S1474034625011383?dgcid=rss_sd_all)
+     * [基于自适应MVMD和改进FCM聚类算法的SSI-COV高拱坝运行模态自动分析](https://www.sciencedirect.com/science/article/pii/S1474034625011504?dgcid=rss_sd_all)
+     * [REACT：用于自动驾驶的支持运行时的主动碰撞避免技术](https://www.sciencedirect.com/science/article/pii/S1474034625011413?dgcid=rss_sd_all)
    </details>
 
  - Knowledge_based_systems [https://rss.sciencedirect.com/publication/science/09507051](https://rss.sciencedirect.com/publication/science/09507051) -> [Knowledge_based_systems](rss/Knowledge_based_systems.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [LLMDNet：弱光条件下的自动采矿卡车物体检测网络](https://www.sciencedirect.com/science/article/pii/S0950705126000304?dgcid=rss_sd_all)
-     * [统一跨模式激励下的MNER类别知识提炼](https://www.sciencedirect.com/science/article/pii/S0950705126000134?dgcid=rss_sd_all)
-     * [BiTrans-CDSR：通过联合用户项重叠建模进行跨域顺序推荐的双向知识转移](https://www.sciencedirect.com/science/article/pii/S0950705126000262?dgcid=rss_sd_all)
+     * [抗噪标签传播的无图核鉴别分析](https://www.sciencedirect.com/science/article/pii/S0950705125022488?dgcid=rss_sd_all)
+     * [基于多模式的框架通过联邦学习增强皮肤病变识别](https://www.sciencedirect.com/science/article/pii/S0950705125021859?dgcid=rss_sd_all)
+     * [MFF-Mixer：一种用于长期多元时间序列预测的多视角特征融合方法](https://www.sciencedirect.com/science/article/pii/S0950705125021896?dgcid=rss_sd_all)
    </details>
 
  - Nature [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature](rss/Nature.xml)

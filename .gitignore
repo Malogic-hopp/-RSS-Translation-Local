@@ -43,3 +43,6 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+
+# Logs
+logs/elsapy-20260119.log

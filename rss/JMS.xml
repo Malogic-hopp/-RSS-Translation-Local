@@ -4,7 +4,98 @@
     <title>ScienceDirect出版物：制造系统杂志</title>
     <link>https://www.sciencedirect.com/journal/journal-of-manufacturing-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:41:06 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[CNC-takes：通过大型语言模型和实时数据检索增强生成进行对话机监控]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S027861252600021X?dgcid=rss_sd_all</link>
+      <description><![CDATA[以人为本的智能制造（HCSM）已成为工业5.0的中心主题，促进人类与智能系统之间的协同互动。然而，由于制造业工人缺乏数字素养，特别是在实时机器监控方面，HCSM技术一直难以充分发挥其潜力。当前的监控系统接口严格，限制了运营商在处理工业物联网（IIoT）系统时直接查询制造数据进行进一步分析，而无需外部技术支持。为了解决这些瓶颈，我们提出了CNC-Talks，这是一个对话式机器监控框架，它集成了大型语言模型（LLM），以实现与实时计算机数控（CNC）机器数据的自然语言驱动的交互。利用基于LLM的多代理协作和检索增强生成（RAG），CNC-Talks从实时IIoT数据库中交互式检索数据，同时还支持基于收集的数据的上下文感知响应，从而减少对软件工程师技术支持的依赖。由于CNC-Talks允许通过提示技术快速适应LLM应用程序编程接口（API），因此其性能在多个版本中进行评估，每个版本都结合了不同的LLM和提示，使用各种类型的问题。值得注意的是，我们的框架在工业应用的人机交互中表现出了可靠性，在响应需要高级数据推理（如生产跟踪）的复杂查询时，准确率达到93.3%。此外，还根据多个基于LLM的代理之间的交互场景彻底分析了可能的故障模式。这些结果凸显了该框架作为HCSM基石的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S027861252600021X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[运输机器人灵活作业车间调度问题的知识增强离散人工蜂群算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于运输机器人在制造系统中的广泛集成，运输机器人的灵活作业车间调度问题（FJSPTR）引起了人们的广泛关注。由于其双资源调度特性，元启发式算法已成为解决FJSPTR的主要方法，因为它们可以有效地处理其固有的复杂性。然而，现有算法通常缺乏特定领域的知识，导致解决方案质量次优且鲁棒性有限。为了应对这些挑战，本研究提出了一种知识增强型离散人工蜂群（KEDABC）算法，旨在最大限度地减少完工时间。首先，设计了三种定制的邻居结构，并引入了两个可行性定理来确保生成的邻居解的有效性。其次，将这些邻居结构与禁忌搜索集成，形成知识驱动的搜索方法，从而能够更全面、更详细地搜索邻居。第三，为了将领域知识集成到离散人工蜂群算法中，提出了一种新型的基于任务的解决方案表示，该表示提供了从编码到解决方案空间的完整映射。此外，还开发了基于机器分配的局部搜索策略，以进一步提高算法性能。最后，进行了大量实验，使用两个基准数据集对照最先进的方法对所提出的算法进行基准测试。比较结果表明，KEDABC算法始终获得最优或接近最优的解，在解质量和计算效率方面都优于其他方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用数据池预测跨生产线的转移时间]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all</link>
+      <description><![CDATA[可靠的转移时间预测对于现代制造环境中自动物料搬运系统的生产力至关重要。然而，制造和物流系统的复杂性和动态行为使得准确的转移时间估计极具挑战性。这项研究为跨生产线运行的自动物料搬运系统提出了一种转移时间预测方法。为了预测建筑物之间和楼层之间的转移时间，这项研究提出了一种混合方法，称为时间序列剩余回归，该方法将线性时间序列分析与非线性机器学习集成在一起。该框架进一步采用三种数据池策略来有效捕捉设备的同质性并提高预测稳健性。使用韩国半导体工厂的建筑物间储存机和楼层间升降机的传输记录对混合方法进行了验证。实验结果表明，所提出的模型具有优越的性能，建筑物间转移的R平方值为64.01%，楼层间转移的R平方值为72.00%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于网络化制造机器车队的协作过程参数推荐系统-应用于3D打印]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003255?dgcid=rss_sd_all</link>
+      <description><![CDATA[并列或地理分布的同类型网络化制造机车队越来越受欢迎。一个很好的例子是3D打印农场的兴起，它由多台并行运行的联网3D打印机组成，可以实现更快的生产和高效的大规模定制。然而，由于机器与机器之间的差异性，优化制造机器机队（即使是相同类型）的工艺参数仍然是一项挑战。传统的试错方法效率低下，需要进行广泛的测试来确定整个机队的最佳工艺参数。在这项工作中，我们引入了一个基于机器学习的协作推荐系统，该系统通过将问题建模为顺序矩阵完成任务来优化车队中每台机器的过程参数。我们的方法利用谱集群和交替最小平方来迭代细化参数预测，实现机队中机器之间的实时协作，同时最大限度地减少实验试验的数量。我们使用由十台3D打印机组成的迷你3D打印场来验证我们的方法，我们优化了加速和速度设置，以最大限度地减少表面粗糙度和打印时间，从而最大限度地提高打印质量和生产力。相对于类似的非协作技术，我们的方法可以显着更快地收敛到最佳过程参数。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003255?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于分层强化学习的检查路径规划方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003243?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着制造规模的扩大和定制需求的增长，计算机辅助检测技术面临着越来越大的提高效率和能力的压力。三坐标测量机（CMM）上触摸触发探头的检查路径规划（IPP）仍然严重依赖手动规则并且规划阶段之间协调不良。为了解决这些限制，本文提出了一种基于混合规划框架的IPP新方法，称为通过深度强化学习和启发式搜索的检查路径优化（InPO-DRLHS）。InPO-DRLHS利用分层强化学习（HRL）来生成无冲突路径（CFP），同时考虑探针方向变化，并将该架构与基于启发式的测量序列优化集成，以提高全球规划效率。具体来说，在HRL模块中：低级代理采用改进的深度Q学习方法来生成固定探针方向下的最佳CFP;高级代理根据体素化场景表示预测最佳探针旋转位置，指导较低级别规划的方向调整。此外，HRL模块学习的值函数在序列规划期间充当启发式算法内的替代启发式估计，从而在无需显式CFP生成的情况下实现路径质量评估。实验结果表明，与传统方法相比，所提出的方法在3D CFP规划中的成功率超过90%，总测量时间减少了21.7%，表明检查效率大幅提高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003243?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过多智能体强化学习实现可重构制造单元的实时动态集成工艺规划和调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000142?dgcid=rss_sd_all</link>
+      <description><![CDATA[在工业4.0和5.0推动的转型中，制造业正在迅速向更高的智能化和灵活性迈进。可重新配置矩阵结构制造系统（RMMS）通过动态结构和资源重新配置来提高适应性，而集成工艺规划和调度（IPPS）则联合优化工艺路线和调度，以实现最佳资源分配和响应能力。本研究重点研究RMMS中具有可重构制造单元的动态IPPS（DIPPS-RMC），提出了一种基于多代理近端策略优化（PPO）的实时调度方法，以减少平均延误并提高系统效率。建立了一个混合线性规划模型，为解决复杂的工艺流程和动态调度问题提供了坚实的理论基础。调度问题被进一步制定为一个部分可观测马尔可夫决策过程，以捕捉真实的制造环境的不确定性和部分可观测性。为了缓解信用分配问题，提高代理人之间的协调，延迟奖励共享机制的设计。提出了一种集中训练、分散执行的多智能体PPO算法，利用并行环境采样提高训练效率和泛化能力。对27个场景的270个案例进行了大量实验，表明所提出的方法在训练速度、概括性和调度性能方面优于最先进的多智能体强化学习算法。它在现实世界案例中的应用进一步证明了对动态工作到达和RMC分解的有效处理，验证了它的稳健性和实用性。这些结果证实了该方法在动态、复杂制造环境中的有效性和适用性，为RMMS中的实时调度提供了创新的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000142?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[激光辅助加工数字双胞胎系统的设计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000014?dgcid=rss_sd_all</link>
+      <description><![CDATA[高性能、难切削材料的加工对先进制造业提出了严峻的挑战。虽然激光辅助加工（LAM）已成为一种可行的解决方案，但其有效性在实践中往往会因激光加热和切割操作之间的同步不足而受到影响，从而导致加工缺陷。为了解决这个问题，本研究开发了一个基于数字孪生技术的智能协同LAM系统。通过将Unity3D与深度学习技术集成，构建了适合激光热辅助加工的系统架构。建立动态多物理场耦合模型，实现激光照射姿态的实时控制，同时监测和预测加工区域温度分布。该集成系统具有增强的激光定位灵活性、减少的热波动、提高的激光能量利用效率和一致的加工质量。对锻造高温合金Inconel 718和SiCP/Al复合材料进行的实验验证表明，表面完整性和尺寸精度均显着提高。此外，基于机器学习的可靠性评估可靠性评估仅确认实验结果中的微小偏差，从而为加工航空发动机叶片等难以加工的部件提供强大的智能过程保证机制。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000014?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器视觉缺陷分割和几何测量用于搅拌摩擦焊实时质量监控]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S027861252600018X?dgcid=rss_sd_all</link>
+      <description><![CDATA[搅拌摩擦焊（FSW）中的焊接质量很难保持，因为热输入和材料流动的快速变化可能会在焊接过程中产生瞬时表面缺陷。使用传统的检查方法无法实时检测这些缺陷，导致检查时间增加和生产成本更高。因此，需要实时视觉监控来支持稳定高效的生产。这项研究调查了现代卷积神经网络（CNN）模型是否可以提供FSW表面缺陷的可靠的现场分割以及焊接期间的准确几何测量。创建并注释了闪光、毛刺、空隙、磨损、工具交互和焊接区区域的多类焊接表面视频帧数据集。评估了几种基于CNN的分割模型，并选择了适合实时部署的轻量级架构，并与FSW设置上的高动态范围工业摄像机集成。该系统执行连续分割，并以每秒约25帧的速度从实时视频中提取焊接宽度和缺陷区域。针对光学显微镜测量的定量验证证明了接近显微镜水平的准确性，亚毫米的焊接宽度偏差和缺陷区域误差低于6%。这些结果表明，实时视觉分割可以在FSW中提供可靠的焊接质量监控，支持早期缺陷检测，并为制造环境中未来的自动化过程控制策略奠定实用基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S027861252600018X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[现实中的计算机辅助制造：机器人修复复杂形状的增强现实精确运动规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000178?dgcid=rss_sd_all</link>
+      <description><![CDATA[增强现实（AR）越来越多地用作制造环境中机器人运动规划的用户界面。然而，大多数AR应用中3D指向（航路点输入）的准确性对于要求高精度的任务来说是不够的。本研究引入了现实计算机辅助制造（CAMiR）的概念，以实现机器人焊接和研磨操作的高精度运动规划和路径计算。AR场景中的人类互动旨在用于可视化目的，与用于定义机器人运动的空间指向分离。使用自跟踪工具手动指定的点通过3D配准与从外部激光轮廓仪获得的测量值对齐，从而减少相对于工件的位置偏差。可以通过AR接口访问几何建模功能，从对齐的点构建几何元素，从而定义处理区域并生成相应的路径。实施CAMiR的原型系统允许操作员直接在真实零件上规划和模拟机器人运动，而无需重建CAD模型。测试工件的评估结果表明，与之前的研究相比，指向精度显着提高，地面表现出优越的几何精度。使用系统生成的机器人运动修复复杂的3D缺陷验证了所提出方法的有效性，并凸显了其增强AR界面在高精度制造任务中实际适用性的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000178?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<sup>A4</sup>PS：具有大型语言模型的大型人工智能辅助高级规划和调度，用于智能制造]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000154?dgcid=rss_sd_all</link>
+      <description><![CDATA[在智能转型和定制需求不断增加的背景下，制造系统的高级规划和调度（APS）变得更加复杂。在现实世界的APS应用程序中，受制于多源动态、客观变更、约束删除/添加、算法升级是不可避免的。APS的这种结构性变化需要生产经理、建模工程师、算法开发人员等专家之间的无缝协调，通常耗时且灵活性较差。这对跨领域/流程间协调和快速多学科知识集成/重用提出了新的挑战。本文提出了一种新颖的A遗传AI- A支持的APS（A4 PS）框架，利用大型语言模型（LLM）和代理来协助APS的修改/更新过程。首先，遵循APS的标准操作流程设计了多代理人工智能工作流程，以促进跨域代理协调。其次，提出了一种多步骤知识增强方法，为LLM代理赋予专业的APS知识。第三，开发了一种检索增强生成（RAG）和思想链（CoT）增强方法，用于知识使用和交互。实验使用根据经典APS案例和制造研究人员创建的APS数据集进行。与基本LLM相比，A4 PS在建模任务成功率、解决方案结果的绝对百分比误差、优化算法代码逻辑完成率和代码可执行率等指标方面在基本和复杂情况下都表现出了明显优于的性能。案例研究表明，A4 PS使LLM能够协调、学习APS知识、在推理过程中模仿专家，最终使用自然语言实现APS辅助。这项工作提出了一种新颖的解决方案，使用LLM和代理人工智能来协助APS修改/更新流程，为工业4.0中人工智能驱动的智能制造做出贡献。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000154?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能制造的混合数字双胞胎：架构、融合范式和实施挑战]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003267?dgcid=rss_sd_all</link>
+      <description><![CDATA[作为物理对象的高保真表示，数字孪生（DT）成为支持智能制造智能监控、预测和决策的重要使能工具。为了在动态条件下实现可靠、准确和可解释的DT建模，需要集成多种模型，包括第一性原理知识、数据驱动算法和模拟。此外，随着生成式人工智能和大型语言模型等最先进人工智能（AI）技术的出现，可以为DT建模提供新的驱动程序。然而，混合这些模型的具体范式根据应用场景、对象和关键需求的不同而有很大差异。这种多样性对智能制造中系统地选择和组合建模技术提出了重大挑战。本评论通过对混合数字双胞胎（HDT）建模范式进行系统探索来解决这一差距，该范式专注于多个异类模型的集成。因此，本文旨在：（1）阐明HDT的架构和核心特征;（2）对HDT实施的关键技术和融合范式进行分类;（3）概述未来潜在的研究方向。希望本文能够为寻求应用HDT构建更准确、可靠和自适应的DT应用的研究人员和工程师提供系统参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003267?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[跨制造流程的物理信息机器学习：最新进展、挑战和方向]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000026?dgcid=rss_sd_all</link>
+      <description><![CDATA[数据驱动的方法在整个制造学科中展现出了非凡的前景。然而，它们在物理行为占主导地位的制造过程中的应用面临着几个限制，包括对大型数据集的需要、物理上不可信的结果的风险以及有限的解释性。物理信息机器学习（PIML）将支配物理定律融入深度神经网络，已成为通过实现物理一致和数据高效的建模来克服这些限制的一个有希望的方向。在本文中，我们从制造流程的角度系统分析了PIML应用。我们根据其主要物理机制和相关文献的可用性将制造业分为五个代表性类别：机械过程、化学过程、热驱动过程、增材制造和半导体制造。我们全面审查和讨论领域相关特征，包括管理物理、数据制度和整个制造流程的建模目标。我们进一步讨论了PIML方法的基本挑战，以及现实世界部署的实际考虑因素。本评论旨在为加速物理知识学习及其在制造研究和实践中的进步提供基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000026?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器调度问题的深度强化学习文献综述]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003140?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器调度由于其固有的复杂组合性质及其在提高运营效率方面的关键作用，代表了工业生产系统的核心挑战。随着人工智能的最新发展，深度强化学习（DRL）作为一种通过自适应、数据驱动的方法解决调度任务的创新工具越来越受到关注。这项调查对2018年至2025年2月期间将DRL应用于机器调度问题的143篇出版物进行了全面审查。我们开发一个结构化框架来分类和比较问题设置、算法设计和评估方法。系统地分析了动作和观察空间设计、奖励功能、神经网络架构和实验基准等关键方面。该评论确定了当前的趋势，概述了有希望的模式，并强调了基于DRL的调度解决方案的开放研究机会。这项调查的目标是让学者和从业者更容易了解快速发展的研究格局，并确定研究和应用的下一步。为了促进可重复的研究和定制分析，我们发布了支持这项审查的数据集，其中每份出版物包括61个注释特征，允许自定义过滤和进一步深入探索该领域的利基市场。该数据集可在线公开访问。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003140?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:40:06 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Q学习驱动局部搜索的混合多目标粒子群优化算法解决工作人员-机器-环境协作的分布式异类混合流水车间调度问题]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0278612525003218?dgcid=rss_sd_all</link>
@@ -13,81 +104,11 @@
       <pubDate>Thu, 15 Jan 2026 12:26:29 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过多智能体强化学习实现可重构制造单元的实时动态集成工艺规划和调度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000142?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》，第85卷作者：梁政、陈晓迪、刘剑华、庄存波]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000142?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[激光辅助加工数字双胞胎系统的设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000014?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》，第85卷作者：吴学峰、余天阔、刘贤丽、岳彩绪、江徐露、李嘉宇、李中华]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000014?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器视觉缺陷分割和几何测量用于搅拌摩擦焊实时质量监控]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S027861252600018X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月资料来源：《制造系统杂志》，第85卷作者：Naveen Loganathan、Joel Andersson、Vivek Patel]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S027861252600018X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:26:20 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[编委会]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0278612526000063?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年2月来源：《制造系统杂志》第84卷作者：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000063?dgcid=rss_sd_all</guid>
       <pubDate>Wed, 14 Jan 2026 16:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[运输机器人柔性车间调度问题的知识增强离散人工蜂群算法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《制造系统学报》第84卷作者：姚有杰、叶开业、张春江、李新宇、梁高]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003206?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用数据池预测跨生产线的传输时间]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《制造系统杂志》，第84卷作者：崔秀贤、杨哈珠、朴勋、康、李洙、郑载允]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S027861252500322X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[网络化制造机群协同过程参数推荐系统及其在3D打印中的应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003255?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》第85卷作者：郭思聪、王伟石、蒋晨欢、Mohamed Elidrisi、李明进、Harsha V.Madhyassa、Raed Al Kontar、Chinedum E.Okwudire]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003255?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于分层强化学习的检测路径规划方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003243?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统学报》第85卷作者：严宽红、刘大新、刘振宇、谭建荣]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003243?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能制造的混合数字双胞胎：架构、融合范式和实施挑战]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003267?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》第85卷作者：张Xi、口益群、张欣、石琦、胡友民、吴华鹏、刘世民、派正]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003267?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[跨制造过程的基于物理学的机器学习：最新进展、挑战和方向]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000026?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》第85卷作者：Ra Donghyun、Lee Jaelyun、Lee Minwoo、Kwak Seongmin、Lee Seungchul、Lee Sooyoung]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000026?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器调度问题的深度强化学习文献综述]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003140?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》，第85卷作者：康斯坦丁·沃伯特·德·普瓦索、富尔坎·埃尔坎、詹尼克·彼得斯、马文·布鲁内、哈桑·泰尔坎、克里斯托弗·普林茨、托拜厄斯·梅森、贝恩德·库伦科特]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003140?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:30:47 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于LLMs和SLM集成构建的知识图的飞机装配工艺规划]]></title>

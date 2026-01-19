@@ -4,27 +4,27 @@
     <title>ScienceDirect出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:42:19 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[TropicCal：用于物联网增强流程的多视角跟踪集群]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</link>
+      <description><![CDATA[通过物联网（IoT）技术（例如智能制造流程）增强的业务流程（BP）利用传感器等物联网设备来监控和捕获执行流程的物理环境中的上下文数据。虽然BP的执行通常作为事件日志记录在信息系统中，但物联网增强型BP也会产生可以提供有价值的上下文洞察的物联网数据。然而，现有的流程挖掘技术通常专注于控制流角度，经常错过对流程活动序列和物联网数据动态相互作用的关键见解，例如某些物联网读数可能如何触发或影响特定流程活动。为了解决这一差距，我们提出了TROPICAL，这是一种用于多视角跟踪集群的新技术，它集成了三个关键视角：控制流视角、跟踪属性数据视角和时间序列（TS）传感器数据视角。TROPICCal的主要新颖之处是作为TS数据视角的一部分对所谓的上下文事件进行分析。这些事件标记了TS传感器数据中检测到的过程重要事件。此外，为了从我们的技术的输出中揭示更多见解，我们提出了基于排列特征重要性的集群解释性方法。我们展示了我们方法的有效性，并使用现实世界的制造用例将其与文献中最相关和最先进的方法进行比较。通过深入采访进行的专家评估表明，TROPICCal对该流程的多视角变体提供了更好的见解。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FarrowSight：一个用于产房早期小猪生长表现预测的智能系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确预测断奶前小猪生长曲线对于预测断奶体重至关重要，断奶体重是小猪未来发展和遗传育种潜力的关键指标。传统上，记录生长曲线依赖于每日手动称重，这是劳动密集型的，会给小猪带来压力，并且不适合连续监测。为了解决这些局限性，必须开发一种能够非接触式个人体重监测和早期预测断奶前生长曲线的系统。这项研究引入了FarrowSight，这是一种集成了红绿蓝深度（RGB-D）相机的智能系统，旨在识别非接触式自由移动的小猪，并估计每头小猪在产房中的瞬时体重。同时，开发了基于AutoGluon的迭代网络（AG-IterNet）算法，以基于瞬时体重测量精确监测个体小猪时间序列生长动态，尽早实现断奶前生长曲线的预测。FarrowSight仅使用第一周的体重数据就显示出断奶前生长曲线的出色预测准确性，决定系数（R2）为0.827（95%置信区间（CI）：0.816，0.838），平均绝对百分比误差（MAPE）为10.833%（95%CI：10.526%，11.139%）。此外，预测性能表现出逐步增强与纳入额外的早期体重测量，有效地提前评估时间表从传统的3 - 4周断奶体重到关键的出生后第一周。这项创新对于优化饲养管理和选择养猪行业内的优秀个体具有巨大潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:42:11 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[编辑委员会]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2026年2月资料来源：工业计算机，第175卷作者：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all</guid>
       <pubDate>Sat, 17 Jan 2026 18:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TROPICCAL：物联网增强流程的多视角跟踪集群]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《工业计算机》第175卷作者：Yannis Bertrand、Jochen De Weerdt、Estefania Serral]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FarrowSight：一种用于产仔场早期仔猪生长性能预测的智能系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年3月来源：《工业计算机》第176卷作者：刘恒毅、刘阳凡、傅玉华、李璇、李新云、赵书红、刘晓蕾、熊雄]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:35 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[基于模糊集特征提取和智能优化的短期综合风速预测系统]]></title>

@@ -4,7 +4,91 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:42:05 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[数字孪生工业环境中大语言模型引导的强化学习的统一框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业环境中的数字孪生（DT）优化面临着持续的挑战，包括样本效率低下、大量的培训要求以及有限的跨领域适应性。本文提出了一个统一的三阶段框架，该框架通过模仿学习（IL）将大型语言模型（LLM）与强化学习（RL）集成在一起。所提出的方法包括三个关键组件：（1）使用LLM生成的多代理协调策略进行离线专家演示收集，（2）离线和受监督的IL使用集中式训练和分散式执行（CTDE）架构克隆这些策略，以及（3）轻量级RL微调以优化预训练的策略。该系统解决设备分配冲突并利用协调历史进行自适应决策。多智能体工业场景中的实验（包括人机协作和疲劳感知维护）表明，我们的IL+RL混合体可将在线训练时间缩短高达96%，同时保持超过66%的最佳任务性能，仅使用标准RL所需的4%的训练场景。该方法还在零触发跨域设置中实现了30%-40%的任务完成（例如，仓库、制造业），在最低限度的微调下，最高可达99.7%。从概念上讲，该框架建立了“语言条件IL”的新范式，其中通用LLM的推理充当DT中高效多智能体协调的自适应先验。结果强调了LLM指导的演示如何连接符号推理和适应性学习，为工业5.0系统中可扩展、样本高效的决策提供概念和实践进步。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于学习的高精度制造机器人加工误差预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all</link>
+      <description><![CDATA[使用机器人进行高精度加工是一项公开的挑战。通过机器人加工实现尺寸和几何特征的精确度需要通过依赖于准确误差预测的反馈控制进行补偿。加工误差预测是高精度制造中的一个复杂问题，有效的解决方案必须准确估计不同工件的几何误差，同时最大限度地降低质量检查成本。反馈控制的实时估计的需要也使其变得更加复杂。本文介绍了一种使用低成本的过程中信号和机器学习来预测铣削工件质量的新型方法。所提出的方法将内部机器控制器命令（包括机器人臂中的末端效应器轨迹坐标和六个旋转关节的角度变化）与外部激光跟踪器传感信号融合，该信号捕获铣削刀具的真实轨迹并预测尺寸误差，将获得由坐标测量机（坐标测量机）。为了克服缺乏对零件尺寸误差对可用信号的依赖性的了解，评估了具有不同传感器组合和包含在模型中的历史数据时间窗口长度的模型。此外，还根据来自两个不同工件和各种空间配置的数据选择、训练、评估和验证了五种机器学习算法。与仅使用激光跟踪器数据相比，最好的机器学习模型在尺寸误差预测方面实现了七倍的改进，平均绝对误差从0.0756毫米降低到0.0097毫米。这项研究证明了使用低成本的过程中传感信号来预测通常由昂贵的坐标测量机测量的高精度质量尺寸数据的可行性，实现快速零件质量检查并显着降低潜在成本。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人铣削的模式感知振动评估和抑制方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002741?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于工业机械手固有的低硬度，机器人铣削容易出现颤动不稳定，从而严重影响加工精度。准确预测铣削稳定性需要了解刀尖频率响应函数（FRF），该函数与刀尖动力学密切相关，并且对机器人的姿态高度敏感。获得FRF的传统方法依赖于大量的实验测量，并且难以捕捉复杂刀具路径中动态参数的巨大变化。为了应对这一挑战，这项工作提出了一种用于机器人振动评估和抑制的模式感知策略。通过集成生成对抗网络（GAN）与高斯过程回归（GPT）开发了一种新型预测方法，能够有效估计整个工作空间的机器人模式参数。提出的框架对关节角度噪音和姿态变化表现出强大的鲁棒性，确保在现实加工不确定性下进行可靠的动态预测。基于预测的模式数据，构建稳定性指标，并利用机器人的运动学冗余度引入姿态优化策略，以增强铣削过程中的动态稳定性。仿真和实验结果都证明了该策略在提高加工稳定性、降低能量信息、提高表面质量方面的有效性。与传统的探地雷达相比，该模型在模式参数预测方面实现了约10%的R2改进。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002741?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种增强的样本生成方法，用于提高人-机器人协同拆解报废产品的灵活性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002728?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业制造正在向适应性强和智能化的框架发展。再制造在提高资源效率和弹性方面发挥着关键作用，特别是在工业5.0的范式下。作为再制造的基础步骤，拆解从人机协同拆解（HRCD）中受益匪浅，它将手动灵活性与机器人可重复性协同集成在一起。然而，螺丝生锈等不确定性可能会导致预定义的拆解计划失效。计算机视觉系统（CVS）集成到HRCD中，以评估生锈的螺丝并协助任务分配。由于缺陷的组合复杂性，CVS的功效受到缺乏各种缺陷数据集的限制。本文提出了物理约束缺陷风格传输网络（PhysDef-SYS）来生成具有不同类型和严重程度生锈螺丝的螺丝样本。对螺丝生锈的现实场景进行了调查和建模，以在物理化学限制下推导相关公式，将其用作独特的物理启发损失函数，并将其纳入PhysDef-SYS中，以生成生锈螺丝的高质量和多样化图像。这些生成的样本解决了缺陷数据集不足的关键挑战，并能够对阻碍自适应任务分配的各种不确定螺旋条件进行稳健而精确的检测。实验验证证实，PhysDef-SYS生成的数据集大幅增加了生锈螺丝的多样性，显着提高了视觉模型用于铁锈检测和分类的功效，可实现高达95%的识别准确率和88%的分类准确率。通过实例研究，验证了该方法的可行性和实用效果，其中涉及控制箱的人与机器人协同拆卸。结果表明，特定的不确定性，例如各种类型和严重程度的生锈螺丝，可以被精确识别并用于人类操作员和机器人之间的任务分配。它通过防止潜在的故障，显着提高了拆解过程的稳健性和效率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002728?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过集成基于LLM的规划和机动性驱动控制来实现非可旋转工具对象操纵]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000116?dgcid=rss_sd_all</link>
+      <description><![CDATA[使用工具的能力曾经被认为是人类智力所独有的，但现在我们知道，许多其他动物，如乌鸦，也拥有这种能力。然而，机器人系统仍然无法与生物灵活性相匹配。在本文中，我们研究了大型语言模型（LLM）、工具可供性和对象可操纵性在非可拆卸的基于工具的操纵任务中的使用。我们的新颖方法利用基于场景信息和自然语言指令的LLM来实现工具对象操纵的符号任务规划。这种方法允许系统将人类语言句子转换为可行的运动函数序列。我们使用源自视觉反馈的新工具示能模型开发了一种新型的机动性驱动控制器。该控制器使用分步增量方法帮助指导机器人的工具利用和操纵动作，即使是在有限区域内。通过实验对所提出的方法进行评估，以证明其在各种操纵场景下的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000116?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[飞机液压管道装配数字双驱动偏差分析方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</link>
+      <description><![CDATA[飞机液压管道的装配偏差对于保证飞行稳定性起着至关重要的作用。尽管如此，来自各种来源的多种动态因素的存在影响整个装配过程的最终质量，这对依赖于具有预定装配参数的理论偏差计算模型的传统偏差分析方法构成了重大挑战。为了解决这些局限性，提出了一种数字孪生（DT）驱动的框架，用于飞机液压管道的实时装配偏差分析。首先，构建包含装配过程全要素信息的DT模型，包括资源模型、流程模型和质量模型。然后，提出了一种DT驱动的装配质量分析方法。通过在虚拟环境中集成多维数据并采用DT模型实时估计装配偏差，可以有效分析整个管道系统的质量。最后，通过涉及飞机液压管道装配过程的案例研究验证了所提出方法的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分布式制造范式中用于高级计算机辅助工艺规划的大型语言模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600013X?dgcid=rss_sd_all</link>
+      <description><![CDATA[本研究将大型语言模型（LLM）应用于分布式制造环境下的高级计算机辅助工艺规划（CAP）。它的目标是为各种零件的生产创建替代、可行的工艺链。零件以自定义编码方案进行编码，支持不同的零件整体形状、其中的几何特征以及相应的制造工艺。CAPP问题被公式化为一个序列预测任务，其中基于GPT-2的LLM自回归生成工艺链。为了训练和测试LLM，使用专家驱动的基于规则的逻辑生成了7，840个独特零件及其替代工艺链的合成数据集。LLM是从头开始训练，使用标记化方案处理部分功能和过程统一为离散的令牌，特殊令牌被用来控制序列流。进行了性能评价，以系统地减少数据集的大小。最后，即使只有5%的训练数据，LLM也能在流程链层面实现超过99%的准确性。极少数发现的错误主要涉及没有严重故障的轻微二级流程错误预测。为了进行比较，还使用相同的数据集训练了循环神经网络（RNN）。由于来自专家而不是来自传感器的制造数据众所周知很难收集，因此使用尽可能小的数据集训练机器学习模型至关重要。从这个角度来看，LLM被证明优于RNN，事实上，训练数据集越受限制，情况就越严重。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600013X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[面向高效机器人铣削：通过系统分析和模型参数识别的新型时变进给速度控制框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000098?dgcid=rss_sd_all</link>
+      <description><![CDATA[在机器人铣削中，送进率是加工效率和质量的关键因素。常见的策略是保持较低的喂入率以确保系统稳定性。然而，该方法缺乏对机器人研磨系统的具体分析，并且通常根据经验保守地设置给料率。为了解决这一局限性并实现高效率和加工质量，提出了一种新型的时变送进率控制框架。该框架首先通过机器人铣削的系统分析来安排时变送进率，该分析考虑了机器人的运动学性能和薄壁零件的最大振动幅值。然后引入参数识别模块，用于估计动态给料率模型参数，从而增强设计的控制器，并确保实际给料率密切跟踪预定给料率。此外，提出了具有事件触发机制的主动控制器来实时更新识别的参数，确保提高控制准确性。实验结果验证了该方法的有效性，表明两种不同尺寸的不同表皮零件的加工效率分别提高了29.3%和41.5%，同时保持了加工质量。此外，在真实水平尾部皮肤部位上的应用验证实验进一步证实了所提出方法的实用潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000098?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种用于攀爬加工机器人的基于负压的表面顺应性恒力研磨末端效应器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000189?dgcid=rss_sd_all</link>
+      <description><![CDATA[攀岩机器人凭借其独特的吸收和运动机制克服了传统机器人的可及性限制，为制造飞机外壳和风力涡轮机叶片等大型复杂部件提供创新解决方案。本文为攀爬机器人提出了一种具有表面贴合和力控制功能的专用研磨末端效应器，旨在完成表面精加工任务。引入由真空吸力驱动的表面自适应模块，仅使用单个离心机风扇即可实现末端效应器的3自由度姿态自调整和除尘。在此基础上，设计了一个与姿势适应脱钩的力控制模块。它利用音圈电机（RCM）驱动，集成了RCM、研磨头和力传感器之间的平行力传递和反馈机制，结合ID力控制算法，实现高精度研磨力调节。在弯曲铝合金外壳和真实飞机外壳工件上进行的实验表明，所提出的末端操纵器实现了高精度自适应法向跟踪和恒定研磨力控制，姿态误差低至1.59°，平均力误差为0.18N。研磨过程有效激活了工件表面，显着提高了表面粗糙度的均匀性，证明拟议的末端操纵器使攀爬机器人能够对弯曲结构执行高质量的表面精加工操作。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000189?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[六轴混合加工机器人加工路径的弯曲和时间最优角点光顺方法研究]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000190?dgcid=rss_sd_all</link>
+      <description><![CDATA[加工路径中不连续的角点平滑和过度快速的横向路径会降低混合机器人的加工质量和效率。因此，提出了两种算法来处理六轴混合加工机器人在单个加工区域内和跨两个加工区域的轨迹规划。在单个加工区域内的拐角光顺规划中考虑了对光顺路径段的弯曲和位置误差的约束，而在规划跨越两个加工区域的避障路径时则考虑了对弯曲和障碍物几何形状的约束。上述两个优化问题都是通过量子行为粒子群优化（QPSO）算法结合贪婪算法调整样条曲线的权值来解决的。此外，利用QPSO算法结合移动窗口规划方法优化时间分配，提高刀轨加工效率。单区域内的比较仿真结果表明，在相同位置误差约束下，该方法相对于B样条方法最大弯曲减少27.29%，与PSO算法和遗传算法相比，计算时间分别减少了48.35%和53.31%。两个加工区域的仿真结果表明，该方法能够为不同几何形状的障碍物生成弯曲最优的避障刀具路径。此外，蝴蝶和枫叶轮廓的模拟结果表明，与贝塞尔曲线法和Clothoid样条法相比，该方法分别减少了52.59%和40.92%的加工时间。实验结果表明，预测的蝴蝶和枫叶轮廓的弯曲度与测量的弯曲度非常吻合，最大误差为2.99%。此外，对于平行机构和串联手腕，测得的致动关节跟踪误差分别保持在±0.028 mm和±1.3 x 10 GHz rad以内。这些结果充分证明了该方法在规划弯曲最优角点光顺刀具路径时提高加工效率和运动光滑度的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000190?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人铣削中切割颤动检测与抑制研究进展]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人铣削为加工大型复杂工件提供了高的制造灵活性并降低了工具成本，但其固有的低结构硬度使其极易出现切割颤动。颤动会降低表面质量和尺寸精度，加速工具磨损，并可能危及机器人系统的安全性。本评论全面研究了机器人铣削中的切割颤动，重点关注机制、监控和抑制策略。首先，它分析了机器人特定的颤振机制，包括再生和模态耦合效应，姿态相关的兼容多体动力学，和非线性颤振现象在统一的刚-柔和多体动力学框架。其次，总结了颤振监测和诊断方法，从经典的时频和循环平稳分析到先进的数据驱动和深度学习技术，重点是机器人环境中的多传感器融合和实时边缘部署。第三，颤振抑制和控制策略进行审查，包括加工参数和机器人位姿优化，被动和主动阻尼（例如，调谐质量阻尼器，智能材料），以及新兴的强化学习技术和基于数字孪生的方法。与之前的调查重点关注传统的NC机器或孤立地对待动力学、检测和控制不同，本次评论独特地解决了依赖姿势的机器人动力学与各个阶段的震颤的相互作用。通过强调符合要求的机器人系统中的非线性颤动等独特挑战并讨论最先进的解决方案，它澄清了研究空白，并为实现稳定、高精度的机器人铣削提供指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[提高机器人成型中的几何精度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000165?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人成型是一种无模制造工艺，利用单个或多个工业机器人将金属板逐步变形为复杂的定制零件。由于其高灵活性，其高灵活性已成为智能制造领域的重要研究方向。然而，机器人成型过程中复杂的局部变形机制和支撑不足等问题往往导致制造零件的几何精度较低，这是阻碍机器人成型在高精度制造中更广泛应用的最关键因素之一。在此背景下，本文对提高机器人成形中几何精度的方法进行了全面的回顾。首先，为了解决几何精度的核心问题，系统地研究了机器人成形中几何误差的类别和起源。随后，将典型的精度控制策略及相关研究归类为三个方面：工艺创新、工艺参数优化以及刀具路径规划与补偿。还总结了与每项战略相关的当前挑战。最后，讨论了未来潜在的研究方向，融合了多机器人成形、人工智能、多源数据融合和数字孪生等先进技术。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000165?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:41:11 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[集成机构数据融合和迁移学习的机械双胞胎刀具磨损预测模型]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000153?dgcid=rss_sd_all</link>
@@ -18,69 +102,6 @@
       <description><![CDATA[出版日期：2026年6月来源：机器人与计算机集成制造，第99卷作者：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all</guid>
       <pubDate>Wed, 14 Jan 2026 16:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[数字孪生工业环境中大型语言模型引导强化学习的统一框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年6月来源：《机器人与计算机集成制造》第99卷作者：范浩林、周、陆、傅、陆文峰、李冰冰]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于学习的高精度制造机器人加工误差预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：机器人与计算机集成制造，第100卷作者：牛超跃、陈斌、西蒙·弗莱彻、Peace Onawumi、Erdem Ozturk、Mahdi Mahfouf、Visakan Kadirkamanathan]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人铣削的模态感知振动评估与抑制方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002741?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：机器人与计算机集成制造，第100卷作者：廖兆阳、谢海龙、李兵、于鹏、周学峰]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002741?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种增强的样本生成方法，用于提高人机协同拆卸报废产品的灵活性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002728?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：《机器人与计算机集成制造》第100卷作者：高毅聪、陈旭、楼善和、谭建荣]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002728?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过集成基于LLM的规划和机动性驱动的控制，实现非综合性工具对象操纵]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000116?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：《机器人与计算机集成制造》第100卷作者：李海音、周鹏、段安庆、马万宇、杨晨光、阿拉尔康]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000116?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[飞机液压管路装配的数字双驱动偏差分析方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：《机器人与计算机集成制造》第100卷作者：梁晨、岳赵、苏爱华、杨文强、于正]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000141?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[分布式制造范式中高级计算机辅助工艺规划的大型语言模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452600013X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：机器人与计算机集成制造，第100卷作者：Emmanuel Stathatos、Panorios Benardos、George Christopher Vosniakos、Dennis Gross、Helge Spieker、Arnaud Gotlieb]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600013X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人铣削切削颤振检测与抑制综述]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：机器人与计算机集成制造，第100卷作者：李宁、赵佳琦、孙瑞端、崔莉、王欣]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500273X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[提高机器人成形的几何精度]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000165?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年8月来源：《机器人与计算机集成制造》第100卷作者：张彦荣、侯泽然、杨帆、库伦科特、埃加、闵俊英]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000165?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:09 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[从图纸到决策：将2D工程图纸解析为结构化制造知识的混合视觉语言框架]]></title>

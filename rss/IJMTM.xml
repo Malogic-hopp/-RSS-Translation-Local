@@ -4,13 +4,76 @@
     <title>ScienceDirect出版物：国际机械工具与制造杂志</title>
     <link>https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:36:04 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[NiTi形状记忆合金激光粉末床融合的马丁转变敏感性驱动加工路线图：从缺陷消除到精确性能控制的范式转变]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</link>
+      <description><![CDATA[激光粉末床聚变（LPBF）制造的NiTi形状记忆合金（SMAs）使用不同的加工参数制造以实现高密度纳米化，可能会表现出显着的马蒂斯转变温度（MTR）差异（差异&gt; 50 °C），从而改变其功能性能并使精确的性能控制具有挑战性。在此，我们建立了一个简单但可概括的定律EL/ v（其中EL和v分别表示线能量密度和扫描速度），它决定了LPBF处理的富镍NiTi合金中的致密化和玛莎拉蒂转变行为。引入了MTD敏感度作为流程评估指标，将范式从传统的以缺陷为中心的框架转向以性能为导向的优化。通过系统地脱钩能量输入在MT中的作用，建立了一个依赖参数的通用蒸发模型。结果表明，Ni损失和MT敏感性取决于EL/ v而不是EL，√ 0.67at.%每kJ·s·m-2的Ni损失以及~ 83 K的马氏体开始（MS）温度线性增加。微观结构分析证实，EL/ v决定熔池重叠、模式稳定性以及微观结构和转变均匀性。研究表明，输入能量密度的大小（例如EL）决定熔池的几何形状和致密化，而输入能量密度的方式（例如标准化输入能量密度率，EL/ v）决定熔池动力学、元素蒸发和微观结构演变。这种双重标准合理化了在相同能量密度下观察到的MS温度变化，并能够预测控制转变特征、残余应力和降水。拟议的框架提供了具有优异拉伸延伸率（√ 22%）的NiTi组件，超过了大多数LPBF处理的富镍组件。此外，它的通用性在304 L不锈钢和CuAl锰合金中得到了验证，强调了其超越NiTi合金的适用性。这项研究为加工-熔池动态-结构-性能相互作用提供了机械见解，并为LPBF参数设计提供了通用路线图，在缺陷缓解之外推进工艺优化，并通过熔池管理实现精确的性能控制。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[增材制造分层异结构金属材料的强度-韧性协同设计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</link>
+      <description><![CDATA[增材制造金属材料强度和韧性之间的固有矛盾可以通过分层异结构设计来协调，该设计定制了两种不同材料的分布。为了定量描述异结构金属材料的强度和韧性，本研究根据权函数原理建立了分层异结构的强度-韧性耦合力学模型。在此基础上，初步开发了激光界面再熔（LIR）工艺;然后在评估冶金兼容性后，采用激光定向能量沉积（LDED）技术制备了IN 718/316L双金属镶嵌材料的分层杂结构。结果表明，该LIR工艺可以原位合成成分过渡区，确保了异结构界面的键合质量可控。模型还表明，非均匀金属分层结构的韧性随着强度的增加而下降，并且强度和韧性之间存在象征性的权衡。此外，还从阻碍裂纹形核和屏蔽应变传播的角度讨论了两种钢化机制。此外，研究发现“硬软”的层厚匹配形式会在表面引发亚临界裂纹，激活额外的强化潜力。最终，提出了一种通过建模计算确定分层异结构层厚比的新方法，并通过案例研究证实了这种基于模型的设计的增材制造的工艺可行性。这种协同调节方法可以为针对异结构金属材料的强度韧性按需优化提供有效指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[连续波激光烧蚀Cf/SiC陶瓷基复合材料表面和亚表面演变机制：多尺度研究]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于陶瓷基复合材料（SMC）优异的材料性能，在航空航天和其他高性能应用中越来越受到青睐。随着行业的发展，增强材料和骨架材料往往更加难以加工。基于激光的处理方法变得越来越受欢迎。然而，此类复杂材料的潜在机制和表面完整性的形成仍不清楚。目前，尚未对复杂囊性细胞的整体消融过程进行研究。为了解决这些差距，本研究调查了激光烧蚀引起的MHC表面完整性及其潜在机制。结果表明，烧蚀后的表面形态在Cf/SiCMCs的不同区域之间存在显着差异-具有垂直取向纤维的区域，高度相对较高，以及具有水平取向纤维的区域，高度相对较低。在400 mm/min的扫描速度下，相当于3千瓦功率的激光能量可以视为粗加工和精加工之间的阈值。进一步澄清，在烧蚀表面上形成的球形颗粒由元素硅组成，而不是通常假设的氧化物。表面区域呈现出松散的四层结构，由二氧化硅、元素硅、碳化物和热分解碳层组成。此外，在位于工件次表面区域内的纤维表面上还观察到典型的多层表面结构（源于纤维的优异的热传导性）。建立了温度分布模型，以阐明纤维取向引起的热传导差异如何影响SMC的烧蚀表面形态。总体而言，这些发现全面解释了经过激光烧蚀的AMC的烧蚀过程、表面完整性演变和潜在机制。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:50 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[用于制造的机器人末端效应器：最近的发展和未来的研究挑战]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0890695526000040?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月14日在线发布资料来源：国际机械工具与制造杂志作者：Abdelkhalick Mohammad、孙尔辉、周俊福、杨贵林、张国龙、Jokin Munoa、Asier Barrios]]></description>
+      <description><![CDATA[工业机器人擅长复制人类动作，机器人手臂模仿人类手臂，末端效应器复制手。虽然机器人手臂设计具有多功能性，但通常为特定任务设计的末端效应器缺乏这种灵活性。尽管有大量评论论文关注机器人末端效应器的特定应用或方面（例如农业、外科手术、太空、研磨或控制方法），但仍然存在明显的差距：缺乏将设计、建模和控制集成到不同制造应用中的全面评论。本文回顾了机器人末端效应器的最新发展水平，探索了它们的设计变体以及为其提供动力的使能技术。该评论根据末端效应器的应用对其进行了分类，包括精加工、机械加工（传统和非传统）、增材制造和抓取末端效应器。在每个类别中，我们强调了实现最佳性能的关键设计考虑因素。除了特定于应用程序的设计之外，本文还探讨了塑造末端效应器能力的使能技术。传感器，即“眼睛和耳朵”，通过力传感器和视觉系统提供有关环境的重要信息。致动器，即“肌肉”，使用气动、液压或日益流行的电动机构将电信号转换为运动。本文最后讨论了末端效应器的建模和控制方面。运动学、动态和硬度模型被探索为设计和分析这些多功能工具的重要工具，确保最佳功能、准确性和效率。最后，控制工具充当指挥者，协调整个操作，并将命令转化为实时操作。本评论强调了末端效应器在扩展机器人能力方面的重要性，并强调了推动其发展的设计和使能技术之间复杂的相互作用。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000040?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 17 Jan 2026 18:25:53 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 14:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[超快电子显微镜和原子模拟揭示费米激光诱导纳米材料转移中的热应力波驱动机制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000039?dgcid=rss_sd_all</link>
+      <description><![CDATA[飞秒激光诱导转移有效地将等离子体纳米材料打印到可拉伸的基底上。通过激光能量密度精确地调节转移行为，将飞秒激光加工与熔化驱动或蒸气驱动的转移过程区分开来。由于这种转移通常发生在纳米级，阐明其机制需要高时空分辨率的可视化。在这项研究中，脉冲激光器与传输电子显微镜集成，用于对转移行为进行ns和纳米尺度的观察。通过双温度模型结合分子动力学模拟揭示了热应力波驱动的传递机制。经过照射的纳米岛在数十微秒内从支撑基片上分离并跳离，而其完全融化和收缩为球形纳米颗粒则在几到数十微秒内发生，这标志着首次通过实验观察和原子模拟获得纳米级证实。超快激光加热会引发不均匀的格子膨胀，产生以音速传播的千兆帕斯卡级压缩热应力波。到达界面后，压应力波反射为张力波，导致纳米岛与基片分离。该过程主要由定向传播的正应力波而不是静态热剪应力决定，超快非平衡加热和来自刚性基片的约束是关键因素。这项研究揭示了费米激光诱导纳米材料转移中的新型热应力波驱动机制，为制造纳米等离子体激元器件提供了一种有效的方法。这些对热机械耦合的见解对于推进更广泛的费米激光微/纳米加工具有重要意义。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000039?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有可调生物降解动力学的3D打印多孔镁合金支架的工艺驱动微结构设计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001178?dgcid=rss_sd_all</link>
+      <description><![CDATA[3D打印可生物降解的镁（镁）合金支架正在成为定制骨植入物的有前途的候选者，提供定制的结构、机械性能和生物活性功能，以解决各种骨缺陷。然而，由于生物降解的复杂动力学，结构完整性的过早丧失仍然是临床应用的一个关键挑战。这项研究认为，降解的可调节性本质上是由微观结构决定的，其根源在于3D打印和热处理工艺，而这些工艺的探索不足且缺乏科学认识。使用过程驱动的微结构设计方法，我们研究了制造如何影响多孔镁合金支架的腐蚀行为。通过分析层厚度对激光粉末床熔化和高温氧化热处理中微观结构演变的综合影响，揭示了由印刷参数决定的印刷后微观结构特征对热处理后的生物可降解性能产生关键影响。对融合质量、机械响应、电化学性能和浸泡降解行为的综合评价进一步表明，局部元素迁移、各向异性颗粒生长和分层氧化物膜的形成形成的多水平非均匀微结构被确定为调节降解的关键因素。我们的研究结果强调了一种以制造为主导的协同机制，通过控制微观结构来调节生物降解动力学，从而获得耐久性显着提高的多孔镁合金支架。这些进步不仅为开发高性能3D打印可生物降解骨植入物提供了途径，而且还为制造具有复杂几何形状和定制功能的反应性材料建立了通用框架。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001178?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[微观垂直切割可能导致切屑侧向流动：揭示晶体取向和颗粒边界效应]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S089069552500118X?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于微型切割在微型制造中的重要作用，引起了学术界和工业领域的巨大研究兴趣。与宏观切割不同，宏观切割中涉及许多颗粒以平均/最小化晶体学效应的过程，在微观切割中，局部晶体学变形机制会严重影响加工结果。然而，微米级切割的实验挑战将大多数研究限制在模拟或不太理想的测试（例如微划痕和单点金刚石转弯），从而导致切屑流动和微观结构之间的详细相互作用基本上没有被探索。在一个明显的悖论中，在垂直微米级切割条件下，预计会产生正向（2D）切屑流，但当颗粒取向各向异性和边界诱导的运动学约束占主导地位时，可能会产生明显的侧向（3D）切屑流;这些方面无法在宏观切割中捕捉到。基于此，当在微米级切割时，重要的是要了解颗粒的滑动系统将如何被激活，当遇到颗粒边界时会发生什么，以及为什么特定的切屑形式和流动方向在这些条件下产生。为了解决这个问题，对镍基超级合金样本进行了预先特征化的颗粒取向和边界，随后在其上制造了微米凸台特征。然后对这些结构进行了垂直颗粒级切割测试，有效地隔离了变形区域，消除了邻近材料的约束，并允许切屑在两侧自由流动。通过先进的材料特征技术检查了芯片形态、流动方向和局部变形机制。具体体现在微观层面的关键发现包括：锯齿状碎片的形成受到施密德因子的影响，导致不同晶体取向的片段形态发生变化。由于滑动系统的选择性激活和倾斜的颗粒边界引导滑动，微观垂直切割过程中会产生侧向切屑流。此外，当孪生边界存在时，由于交替应力，切屑形成过程中可能会发生周期性的挤压-剪切主导的材料变形循环。因此，我们首次揭示，当在颗粒水平切割时，尽管进行了几何定义的垂直切割，但芯片遵循由滑动面和颗粒边界条件强加的晶体学规则。这些见解提供了一个新的机械框架，用于理解微观层面切割各向异性和侧向切屑的边界驱动悖论，为优化微制造应用中的微观加工策略提供了指导方针。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S089069552500118X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[沿着参数化刀具路径进行在线时间最优轨迹规划，具有严格的约束满足和可认证的可行性保证]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001105?dgcid=rss_sd_all</link>
+      <description><![CDATA[时间最优轨迹规划（TOTP）作为计算机数字控制（NC）加工的基础技术，对于提高加工效率、几何精度和表面质量至关重要。然而，可靠地在线生成平滑的时间最优轨迹仍然具有挑战性，特别是在复杂的约束下。本研究旨在解决上述长期存在的挑战，这些挑战限制了基于在线优化的TOTP方法的可靠性和效率，从而释放其在现实世界加工中的实际优势。提出了一种沿参数化刀具轨迹的TOTP方法，即TOTP-SPLP。建议分段线性目标函数和顺序的过程中，提高了时间最优性，并避免在零进给速度与现有的线性配方相比，奇异。复杂的约束严格满足网格点在整个刀具路径上，而不依赖于静态近似，其中网格点之间的重复性是可以忽略不计的，理论上由网格密度的基础上开发的分析插值。为了保证在线TOTP过程的可行性，建立了一个分层前瞻窗口（HLAW）框架，实现了100%的优化成功率为长刀具路径的可行性。模拟和现实世界实验表明，在有限的计算成本内，拟议的TOTP-SLP在时间最优性和数值稳定性方面显着优于现有的在线TOTP基线。具体而言，与计算成本较低的基线相比，TOTP-SLP将结束时间缩短了15.6%-56.0%，比计算成本较高的基线高出9.5%。只有在消耗十倍的计算时间时，离线基线才能实现与我们的TOTP-PLP相当的性能。对于具有数百万个网格点的长工具路径，开发的HLAW将现有在线框架遇到的数千个不可行案例减少到零。严格满足复杂约束有助于抑制振动并提高现实加工中的表面质量。总而言之，这项工作通过在严格复杂约束下实现离线级别的时间最优性和可认证的可行性，从根本上推进了在线TOTP，使基于可靠的在线优化的TOTP在NC加工中成为可能且实用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001105?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[空间受限机器人铣削的3D姿态规划研究：一种潜在的网络架构]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000015?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业机器人因其高灵活性和大工作空间而有利于大型复杂零件的加工。大量研究表明，机器人铣削过程的几何、运动学、静态和动态性能表现出高度的姿态依赖性。因此，通过姿态规划确保机器人铣削任务的空间可达性和加工性能至关重要。在先前的研究中，已经采用了概率规划来增强开放场景中的机器人铣削性能。然而，仍然存在一些局限性。在方法层面上，多维姿态规划算法适用于机器人铣削任务在有限的空间是不可用的。现有规划算法平衡多个约束和目标的能力以及它们的可扩展性需要进一步优化。随着复杂的曲面零件趋于更大尺寸，机器人姿态规划在复杂的铣削场景中面临着巨大的挑战。因此，本文提出了一种新颖的3D姿态规划策略。首先，提出了一种用于多约束和多目标规划任务的潜在网络架构，具有灵活扩展和可移植部署的优势。该架构对规划空间中输入约束-目标集的动态分布规律进行建模，以制定适当的规划策略。此外，提出了一种考虑刀具与工件咬合状态的姿态集，以平衡姿态调整的灵活性和加工质量。通过改变位姿集的参数方程，可以快速调整位姿规划执行，以适应各种加工条件。为了验证所提出方法的有效性，设计了有限空间机器人铣削的基准任务。螺旋桨加工的进一步实验验证表明，所提出的规划方法可以在有限空间内生成多约束条件下可行的加工姿态轨迹。提出的方法为大规模和空间受限的核心部件（包括飞机零部件、航空航天舱和船舶螺旋桨）的机器人铣削奠定了基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000015?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[由能量相关相转变和裂纹传播引导的高质量激光切割晶体半导体：4 H-SiC案例研究]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000027?dgcid=rss_sd_all</link>
+      <description><![CDATA[激光内部改性切片已成为一种用于切割4 H-Sic等单晶体半导体基片的高效、低损伤技术。然而，由于对激光能量如何与材料响应结合来控制相转变和裂缝传播（尤其是在原子尺度上）的机械理解有限，因此其广泛采用受到阻碍。特别是，ns激光热效应在驱动可控相转变和潜在裂纹动力学方面的作用仍然不清楚，使得工艺优化主要是经验性的。在这里，通过结合能量控制的实验与分子动力学（MD）模拟，我们阐明了一个依赖于能量的，多级相变途径在激光切割4 H-SiC。该途径从初始非晶化与Si/C沉淀到热应力诱导的塑性滑移，在非晶-结晶界面处产生堆垛层错和立方3C-SiC。确定了一个临界能量阈值，决定不同的修改制度之间的过渡，并管理相应的裂纹扩展行为。原子模拟进一步揭示了热应力驱动的裂纹成核和传播的机制，随着温度依赖的断裂强度和转移结晶开裂的偏好，从高温下的低指数平面到冷却过程中的高指数平面。这项工作中提出的见解将激光加工参数与固有材料行为联系起来，为基于激光的切片工艺的合理设计并实现优化的加工质量提供了机械基础。虽然在4 H-Si上进行了演示，但基本的能量和压力控制原理适用于更广泛的硬脆、各向异性半导体，推进了从经验调整到物理信息制造的过渡。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000027?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:35:17 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[编委会]]></title>
@@ -18,62 +81,6 @@
       <description><![CDATA[出版日期：2026年1月来源：《国际机床与制造杂志》第214卷作者：]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001142?dgcid=rss_sd_all</guid>
       <pubDate>Wed, 14 Jan 2026 16:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[马氏体相变灵敏度驱动的NiTi形状记忆合金激光粉末床熔合工艺路线图：从缺陷消除到精确性能控制的范式转变]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月来源：《国际机床与制造杂志》第214卷作者：郑丹、李瑞迪、康景涛、袁铁春、甘克富]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于模型的增材制造层状异质结构金属材料强韧性协同设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月来源：《国际机床与制造杂志》第214卷作者：王江龙、黄海红、孔宇、刘志峰]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[连续波激光烧蚀Cf/SiC陶瓷基复合材料的表面和亚表面演化机制：多尺度研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月来源：《国际机床与制造杂志》第214卷作者：徐东东、艾天成、杨国健、赞树松、廖志荣]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有可调生物降解动力学的3D打印多孔镁合金支架的工艺驱动微观结构设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001178?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《国际机床与制造杂志》第215卷作者：徐伟云、庞华洛、徐浩静、刘静阁、郑玉峰、彭文]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001178?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[微尺度正交切削会导致侧向切屑流动：揭示晶体取向和晶界效应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S089069552500118X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《国际机床与制造杂志》第215卷作者：臧树松、廖志荣、黎纳雷斯、温特、阿]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S089069552500118X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有严格约束满足和可证明可行性保证的参数化刀具路径在线时间最优轨迹规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001105?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《国际机床与制造杂志》第215卷作者：王玉楠、胡楚雄、李元生龙、余继川、严继周、梁一轩、金赵]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001105?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[空间受限机器人铣削三维姿态规划研究：一种潜在的网络架构]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000015?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《国际机床与制造杂志》第215卷作者：苏俊彤、赵、彭方宇、唐晓伟、荣燕]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000015?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[能量依赖相变和裂纹扩展引导下单晶半导体的高质量激光切片：4H-SiC案例研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000027?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月来源：《国际机床与制造杂志》第215卷作者：清泽龙、刘Bo、罗耀恩、张毅]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000027?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:26:58 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[人工智能驱动的半导体晶圆制造：制造范式的转变]]></title>
