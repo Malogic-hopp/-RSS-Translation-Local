@@ -141,6 +141,7 @@ class RSSProcessor:
                             if not raw_desc and hasattr(entry, 'content'):
                                 raw_desc = entry.content[0].value
                     else:
+                        print(" [API Failed] Using RSS summary.", end="", flush=True)
                         status = "partial"
                         raw_desc = getattr(entry, 'summary', '')
                         if not raw_desc and hasattr(entry, 'content'):
