@@ -4,7 +4,42 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:41:05 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[机器人镜面铣削的模式参数和稳定性分析的物理信息预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000177?dgcid=rss_sd_all</link>
+      <description><![CDATA[镜面铣削技术广泛用于航空航天工业制造薄壁零件，但现有的基于机械的镜面铣削系统成本高昂且不灵活。机器人镜面铣削系统是一种经济高效且灵活的机械工具替代品。然而，镜面排列机器人的模式参数随着姿态的变化而变化，机器人的低硬度，再加上薄壁零件的灵活性，导致铣削过程不稳定。为了应对这些挑战，提出了一个基于物理学的框架来进行模式参数测量、预测和优化，从而分析机器人镜面铣削稳定性。首先，通过动力学模型的传递矩阵来检查机器人的振动特性，同时收集关节空间均匀配置的机器人的模式参数。使用这些特征和测量作为物理约束和训练集，开发了修改的多任务高斯过程回归来预测模式参数，并通过Bayesian推导进一步优化结果。这两步过程形成了基于物理信息的模式参数预测方法。然后，利用获得的模型参数建立机器人镜面铣削系统的动力学模型，分析其铣削稳定性。通过模拟和实验来证实这些理论和算法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000177?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于圆柱形零件组装的数字孪生框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000207?dgcid=rss_sd_all</link>
+      <description><![CDATA[数字双胞胎（DT）被认为是一种具有效率、适应性和灵活性的增强自动装配规划、监控和控制的有前途的技术。虽然大多数基于DT的装配都集中在电子产品上，但对公差严格的重型和大型产品的装配关注有限。本文提出了一种方便预测和实时调整的圆柱形零件智能装配DT模型。提出了视觉引导的特征匹配和坐标框架构建。在此，考虑八组销和孔以及接触平面来定义装配目标。这种方法提高了组装成功率。为了确保机器人组装高效且稳健，我们提出了一种基于DT系统的预测模型。利用小位移扭矩（SDT）理论和蒙特卡罗模拟（MC）考虑了物理空间的未知误差和不确定性。装配规划和执行将根据预测结果进行有效调整。机器人规划中设定了一个中间点，在对接阶段留下纯翻译。提出了实时调整方法，以准确组装圆柱形零件。通过仿真和实验验证了所提出的基于DT的装配方法的有效性和可行性。结果表明，预测结果与实际装配相同。我们的组装策略成功率达到97.31%。通过采用装配策略和实时调整，我们的方法确保大多数轴不匹配低于0.1mm/0.05 °，平面非接触低于0.05 mm。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000207?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向可推广的机器人组装：具有多传感器信息的先验引导深度强化学习方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000219?dgcid=rss_sd_all</link>
+      <description><![CDATA[个性化制造的兴起给机器人组装带来了重大挑战。虽然基于学习的方法提供了有希望的解决方案，但它们通常存在训练效率低和概括性差的问题。为了解决这些限制，本文提出了一种高效的先验引导（PG）深度强化学习（DRL）方法，用于使用多传感器信息进行可推广的机器人装配。首先，介绍了一种分阶段多传感器信息融合方法。然后，设计了一种将MobileNetV 3-Lite与传统数字图像处理相结合的视觉特征提取方法和基于规则的力特征提取方法，提取低维特征作为先验引导知识。基于上述方法，提出了一种将门控循环单元（GRU）网络架构与PG集成的Soft Actor-Critic（SAC）算法，从而实现高效的装配技能学习。针对三种典型装配技能的模拟和物理实验，即进行搜索、对齐和插入。结果表明，与基线SAC算法相比，我们的特征提取方法将视觉特征维度降低了93.75%，并为DRL提供了准确的先验引导知识。提出的装配技能学习算法实现了平均训练时间减少30.16%，平均完成步骤减少16.82%。此外，所有学到的技能都可以在不同对象之间快速转移，所有装配任务都高效、合规地完成，平均成功率为96.86%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000219?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于视觉引导虚拟装配的新型钢结构工件机器人焊接轨迹规划系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000220?dgcid=rss_sd_all</link>
+      <description><![CDATA[焊接机器人系统在建筑行业的焊接生产中发挥着至关重要的作用。然而，在处理具有复杂空间分布的大量接缝的大型钢结构工件时，现有的焊接轨迹规划方法在实现准确性和效率方面面临挑战。受人类焊工依靠视觉感知来组装零件并根据特征边缘和相对零件放置确定焊接轨迹的启发，提出了一种新颖、灵活的基于视觉引导虚拟装配的焊接轨迹规划系统。拟议的系统包括三项核心任务。首先，提出了一种从CAD网格模型中提取候选焊缝的方法，为每个部件描绘潜在的焊接区域。其次，提出了一种多尺度特征聚焦的点云配准方法，实现了视觉引导下工件的精确虚拟装配。最后，基于虚拟装配结果，提出了一种基于几何特征边缘簇和空间网格分布联合分析的机器人焊接轨迹规划方法，以生成安全有效的机器人程序。根据大量的系列实验，提出的机器人焊接轨迹规划系统有效克服了现有方法的局限性，实现了建筑行业钢结构工件的准确、高效的焊接。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000220?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大规模定制多类型机器机器人单元调度的自适应主动解码和新型基于分离图的改进遗传算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000256?dgcid=rss_sd_all</link>
+      <description><![CDATA[大规模定制代表了现代制造业的一次关键演变。为了实现小批量、高品种产品的高效大规模生产，设计优化的机器人单元以实现灵活自动化已成为制造商面临的普遍挑战。虽然我们之前的研究有效地解决了具有离散处理机（BPM，每个同时处理一个作业）的机器人单元中的调度问题，但DPS和批处理机（BPM，每个同时处理多个作业）的集成为充分利用生产能力带来了显着的复杂性。研究了以最小化完工时间为目标的多类型机器机器人单元调度问题。首先，建立了精确描述MRCSP的混合整数线性规划（MILP）模型。考虑到将批量感知的双矢量编码转换为可行调度的挑战，提出了一种称为选择性插入批量解码（SIBD）的自适应主动解码策略。一个改进的遗传算法（IGA），然后开发集成这种定制的编码/解码方法和一种新的析取图。此外，设计了一种利用特定问题特征的批处理邻居结构（BN）。拟议的MILP和IGA在三个FJSP-BPM基准上进行了验证。计算结果表明，IGA在所有实例中优于现有方法。在现实世界的生产案例研究中，与现有方法相比，该方法的平均完工时间减少了15.02%，显着提高了中国南方机器人单元的资源利用率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000256?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:42 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[数字孪生工业环境中大语言模型引导的强化学习的统一框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</link>

@@ -4,7 +4,161 @@
     <title>ScienceDirect出版物：机械系统和信号处理</title>
     <link>https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:40:12 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000713?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日资料来源：机械系统与信号处理，第245卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000713?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“迈向性能匹配的主动谱振动控制：理论指导的传感器放置框架”的更正。[机械。系统。信号处理。244（2026）113768]]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000452?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月1日来源：机械系统与信号处理，第245卷作者：尹天奇、徐文豪、峰雄、张能、李彦]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000452?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[弹性边界与重力效应耦合的三稳压能采集器的随机动力学]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000518?dgcid=rss_sd_all</link>
+      <description><![CDATA[本研究提出了一种新型的三稳压压能量采集器（TPEH-EB-G），以在随机激励下追求高能量采集性能。TPEH-EB-G由线性PEH子系统和弹性边界（EB）子系统组成。PEH子系统包含衬底层、压层和尖端磁铁。所述压电层在其固定端处紧密地贴附到所述衬底层的表面，并且尖端磁铁配置在所述衬底层的自由端处。两个磁铁-质量-弹簧振子系统构成EB子系统，其位移平行于其重力。耦合重力效应的EB子系统不仅降低了TPEH-EB-G的位能阈值，而且扩大了稳定平衡位置之间的距离。推导了TPEH-EB-G的控制方程和位能函数。结合势能分布的变化，彻底阐述了过滤带限随机激励特性和弹性边界参数对输出性能的影响。数值结果表明，TPEH-EB-G在低频和低强度激励下的能量收集方面表现出优越的性能。具体来说，在弱和中等限带随机激励下，TPEH-EB-G的输出电压比TPEH-RB-G提高了57%、1395%。TPEH-EB-G具有对环境激励变化的增强适应性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000518?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有可调刚性索间和索端减震器的双索网络系统的动态行为：分析方法和优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015092?dgcid=rss_sd_all</link>
+      <description><![CDATA[双电缆网络系统通常同时表现出异相和同相模式。当前使用电缆端缓冲器和横梁的控制措施为同相模式提供了足够的缓冲，但无法有效地抑制所有异相模式。为了解决现有方法中的一个关键差距，本研究提出了一种创新的振动控制策略，将可调硬度电缆间减震器（ASICDS）和可调硬度电缆端减震器（ASCED）相结合，其中这两种减震器类型通过负硬度装置调节硬度。开发了一种通用的分析方法来计算具有ASIC和ASCED的系统的动态行为。事实证明，开发的分析方法不仅具有与有限单元法（Element）和有限差法（FDM）相当的准确性，而且在选择输出模式方面提供了卓越的灵活性。广泛的参数研究验证了ASICDS在缓冲异相模式方面的卓越有效性（与传统的横梁不同），并确定了最佳无因次硬度范围（10 - 3至10 - 1），以平衡缓冲性能并避免电缆碰撞。建议将硬度可调钢丝绳减震器（ASWRD）作为ASCD，具有综合硬度和衰减的特点。建立了包含ASWRD和ASCED的双电缆网络系统的优化设计流程。优化的配置不仅确保前十个同相模式的衰减比超过5‰，而且还为系统提供足够的衰减以防止尾流舞动。ASWRD的应用为异相模式提供了有效的缓冲措施，并将电缆间设备从9个显着减少到4个。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015092?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分析分段线性振子周期轨道的半解析方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000270?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文提出了一种研究多自由度分段线性系统的动力学和分歧场景的通用方法。该方法利用线性区域的分析解来定义映射变换，这反过来又允许确定所有周期轨道。该方法用于分析通过弹性链接连接的两个振荡器之间的动态相互作用。在第一次放牧频率附近可以获得丰富多样性和复杂性的解决方案。发现了具有孤立解和三到五个轨道共存的区域。同相和异相模式对力之间的移相和各个振子的自然频率之间的比率敏感。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000270?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[三种表示模型下混合时变可靠性分析的不确定性约简引导的Bayesian主动学习方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600049X?dgcid=rss_sd_all</link>
+      <description><![CDATA[在实际工程中，存在大量的动态不确定性，输入的数据或信息往往不一致。考虑混合不确定性下的时变可靠性分析非常重要。这项工作考虑了三种类型的不确定性表示模型来估计时间相关故障概率的界限。传统的双环过程会导致模拟器调用过多，这在现实世界的应用程序中通常是不切实际的。为了克服这一挑战，提出了一种新方法，称为“不确定性降低引导的Bayesian优化与子集模拟相结合”（URBO-SS）。它集成了双环策略和脱钩策略，通过提出的不确定性减少学习函数和基于错误的停止准则来实现Bayesian主动学习。此外，还结合了子集模拟来缩小候选样本池的大小。该脱钩策略建立在双环策略的基础上，采用顺序、协作更新的方式，从而在显着减少模拟器调用的情况下实现高准确性。最后，通过测试实例和两个工程实例验证了URBO-SS方法的效率和准确性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600049X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[单稳压能采集器，具有方形剖面非流线型体和两个生物启发的摆球，用于高效的低速风能采集]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000439?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于传统压电收割机的振动幅度有限和功率输出最小，在低风速下有效地收集风能仍然具有挑战性。为了克服这一问题，提出了一种新型单稳态涡激振动和驰舞式压能采集器（MVIVGPEH）。该设计包括一个方形剖面的非流线形体、三个策略性放置的磁铁和两个悬挂在压压梁上的泡沫摆球，其灵感来自于蜘蛛使用丝线倒立悬挂的方式。这种配置促进了涡激振动和驰振响应的共存和相互作用，显着提高振动幅度并实现多方向能量收集。通过调整磁铁位置，收割机实现单稳态特性，消除了毛刺设计中固有的潜在屏障限制。这种单稳性极大地增强了梁偏转并降低了引发流致振动所需的切入风速。计算流体动力学分析表明，摆球有效地放大了气动激励，增强了下游区域的尾流相互作用和剪切层卷吸。风洞实验证实，MVIVGPEH与平行四边形和线性同类产品相比具有优越的性能，实现了显着较低的0.8 m/s的切入风速和更高的低风速下的电压输出。实验结果表明，MVIVGPEH始终产生更高的应变幅度和功率输出，证实了其在超低风条件下的有效性和可靠性。这种单稳态动力学和生物启发空气动力学结构的创新集成代表了实用低速风能收集应用的重大进步。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000439?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于碰撞力识别的新型混合模约束增广卡尔曼过滤器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600052X?dgcid=rss_sd_all</link>
+      <description><![CDATA[当碰撞位置未知时，经典的基于卡尔曼过滤的力识别无法提供准确的估计。通过利用碰撞力的空间稀疏性，具有l1模约束的压缩传感嵌入式增广卡尔曼过滤器（CSAKF-1）提高了求解精度。然而，由于l1规范的稀疏促进能力不足，它未能处理严重的病态问题。鉴于非凸正规化比凸替代方案提供了更好的稀疏性提升，本文开发了一种具有混合规范约束的压缩感知嵌入增广卡尔曼过滤器（CSAKF-m）用于碰撞力识别。应用伪测量技术来增强稀疏性。考虑到混合模的非线性，我们首先扩展伪测量技术来处理非线性罚函数，然后提出CSAKF-m算法。论证了伪测量技术在降低估计不确定性方面的特性。通过模拟研究和实验进行的全面验证凸显了CSAKF-m算法相对于l1约束基线（CSAKF-1）的优势。CSAKF-m算法在部分测量配置下保持稳定性，表现出对测量噪音的强大鲁棒性，并有效识别多源力。所提出的算法在计算成本上仅适度增加的情况下实现了估计准确性的显着提高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600052X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[汉克尔矩阵去噪用于模式分析中增强子空间状态空间系统识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015444?dgcid=rss_sd_all</link>
+      <description><![CDATA[子空间状态空间系统识别方法是结构模式分析的强大工具，可以识别自然频率、振型和衰减比。在没有人为干预的情况下应用子空间方法进行自动模式分析的一个关键挑战是输出数据中存在的外部噪音，这会显着影响准确性。在本文中，我们提出汉克尔矩阵去噪作为增强模式分析的潜在方法。为此，我们回顾了用于模式分析的四种最先进的汉克尔矩阵去噪，包括结构化和非结构化汉克尔去噪。这项工作的主要贡献有三方面：（1）我们开发了强大的去噪框架，以减轻添加性噪音对模式分析的影响。为了实现这一目标，我们使用非线性优化的结构化汉克尔去噪和使用奇异值分解概念的非结构化去噪。(2)我们使用输入输出数据对经典质量-弹簧系统进行了广泛的数值模拟，以验证所提出的算法在识别模式参数方面的性能。(3)通过两个案例研究进一步对该框架进行实验评估，以评估其有效性。与传统子空间系统识别方法的比较结果表明，该算法在识别固有频率和衰减比方面具有较高的准确性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015444?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MLG-Net：基于声发射技术的桥梁拉索损伤识别混合框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000579?dgcid=rss_sd_all</link>
+      <description><![CDATA[斜拉索是斜拉桥的关键承重构件，它承担着主梁和桥面的重量。为确保安全运行和有效维护，电缆完整性的实时监控至关重要。声发射（AE）技术提供了一种实时损伤监测的有效手段;然而，区分断线信号和噪声仍然是一个挑战，特别是在复杂的操作环境中。为了解决这个问题，本文提出了一种深度学习框架，该框架将传统的手动特征时间特征与长短期记忆（LSTM）自动编码器集成，以及使用图卷积网络（GCN）的空间特征提取：MLG-Net（手动LSTM GCN-Net）。首先，从全尺寸桥梁电缆断裂实验中收集AE信号，提取常规手动特征。接下来，长短期记忆自动编码器捕获AE信号的时间演变，而图卷积网络利用多传感器AE数据之间的空间相关性。实验结果表明，该方法的准确率为99.4%，召回率为99.0%，F1评分为99.2%，明显优于传统分类器。这项研究强调了将手动和基于深度学习的特征提取集成在桥梁电缆健康监测中的潜力，并为未来基于现实世界AE的结构健康评估的研究提供了基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000579?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[有噪和可变运行条件下的基于多模式的同步电机故障诊断模型：一种新型混合方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000555?dgcid=rss_sd_all</link>
+      <description><![CDATA[汽车在现代工业中至关重要，特别是在全球对自动化和智能制造的需求激增的情况下。准确的故障诊断对于稳定性维护至关重要，但现有方法缺乏令人满意的准确性和效率。本研究集成了多尺度卷积神经网络（MSC NN）、双向Mogrifier门控循环单元（BiMGRU）和多头注意力机制（MHAM），提出了一种基于多模式的MSNN-BiMGRU + MHAM混合模型用于同步电机故障诊断。MSC NN通道负责空间特征提取，BiMGRU通道负责时间特征提取。而MHAM负责多模式特征的高效集成和提取。此外，为了改进模型的性能，在模型训练期间创新性地提出并嵌入增强型鲸鱼优化算法（EWOA），系统性地优化超参数，以提高模型的概括性和训练有效性。通过在噪音和各种运行条件下收集的同步电机的真实振动数据集进行了大量验证。与传统方法和当前主流深度学习模型相比，提出的具有EWOA优化的混合模型获得了令人印象深刻的预测准确性。它提供了一种有效且高效的方法来解决电机故障诊断问题。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000555?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于旋转矢量减速器针轮齿轮轴承故障诊断的电机电流AM-FM模型及联合解调分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000580?dgcid=rss_sd_all</link>
+      <description><![CDATA[旋转载体（RV）减速机中的摆针轮齿轮轴承（CGB）周期性地承担大的扭矩负载，更容易发生故障。然而，CGB具有渐行渐行运动学、复杂的动力学和振动中的弱故障特征。这对传统的基于振动的故障诊断方法提出了巨大的挑战，这些方法受到传感器放置问题和振动复杂性的限制。为了解决这个问题，充分利用了电动机固定电流测量和分析的优点，例如测量方便性和较低的信号复杂性。为此，在RV减速器和CGB运动学分析的基础上，推导出了CGB故障特征频率的计算方程。并分析阐述了CGB故障下电机电流调制机制和频谱特性。具体而言，首先通过RV减速器CGB的动力学分析和电驱动电机- RV减速器传动系的电-磁-机相互作用分析，推导出电机的幅度调制和频率调制模型。该解析模型揭示了电机电流振荡的多重调制本质，激发了CGB故障特征频率识别的解调分析思想。在此基础上，推导出了幅度和频率解调谱的显式表达式。从动力学角度证明了故障特征频率、摆线和笼形件旋转频率的存在，并发现了电机电流中表现的CGB故障频谱征兆规律。最后，提出了一种联合解调方法，可靠和互补的故障特征提取的基础上，幅度和频率解调分析。通过RV减速器的实验室测试数据分析，对理论推导进行了实验验证。CGB内座圈、外座圈、针刺轮的局部故障均被成功诊断。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000580?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑缺失数据的机械剩余使用寿命预测动态自适应统计学新方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000567?dgcid=rss_sd_all</link>
+      <description><![CDATA[动态自适应统计学方法因能够全面描述复杂且不断发展的机器退化过程而在机械剩余使用寿命（RUL）预测中得到普及。然而，当前的研究存在两个缺点：1）动态自适应统计学方法中没有明确考虑缺失数据的影响，从而导致RUL预测准确性不可避免地下降。2)现有动态自适应统计学方法构建的模型集覆盖的退化类型较少，模型选择标准也是片面的，忽视了对机器退化趋势的准确捕捉。为了克服上述局限性，本文提出了一种新的基于实时数据插补（RTDI）和复合模型选择指标（CMSI）的动态自适应统计学方法，用于机械的RUL预测。首先，建立RTDI是为了减少缺失数据对RUL预测准确性的影响，并保持退化趋势的整体单调性。然后，构建一个全面的候选模型集，以充分描述机械的各种类型的退化过程。在此基础上，CMSI设计用于同时考虑匹配误差、单调性、相关性、鲁棒性和趋势性的自适应模型选择。最后，利用粒子过滤得到概率RUL预测结果。使用从恒速和变速运行条件下的轴承加速退化测试以及从变负载运行条件下的公共XJTU-SY变速箱数据集收集的振动数据来验证所提出方法的有效性。此外，通过与一些最先进的预后方法的比较，进一步证明了所提出的方法在提高RUL预测准确性和概括能力方面的优越性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000567?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于超低频旋转激励的高输出动态锯齿电磁能量采集器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000828?dgcid=rss_sd_all</link>
+      <description><![CDATA[能量收集技术对于实现自供电风力涡轮机叶片长期实时监测具有重要意义。然而，现有设备在风力涡轮机超低旋转频率（&lt; 1 Hz）下的功率输出仍然无法满足高功耗物联网（IOT）应用的要求。因此，本工作提出了一种基于磁悬浮结构的动态超薄电磁能采集器。利用动态双稳态，可以降低系统的谐振频率，提高系统的平均等效机电耦合系数和磁体的振动速度。因此，可以显著提高超低旋转频率下的输出功率。基于旋转坐标系推导了该收割机的控制方程，以预测系统性能。制作了实验样机，验证了动态双稳态效应和能量收集性能。实验表明，所提出的动态双稳态可以将频率区域的最大输出功率显着提高86%，是线性和非线性单稳态能量收集器的1.2倍。与文献中不同能量转换机制的当前最新设备相比，标准化功率、功率体积密度和功率质量密度分别提高了1.27倍、60.85%和22.67%。进行参数研究来评估几何设计的影响。最后，通过实验证明原型可以在超低频（&lt; 1 Hz）旋转激励下实现自供电物联网应用。这项工作介绍了一种用于自供电风力涡轮机叶片监测的高效旋转能量收集技术。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000828?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[未知轴承故障检测的联邦开集故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000749?dgcid=rss_sd_all</link>
+      <description><![CDATA[深度学习提高了故障诊断的准确性。在传统的集中式培训方法中，通常需要在多个客户端集中大量已标记的数据，这受到隐私和安全限制的阻碍。联合学习通过在不共享原始数据的情况下实现协作模型训练来解决这一挑战。然而，大多数现有的联邦故障诊断方法都集中在闭集假设上，无法处理工业环境中可能发生的不可见的故障。为此，我们提出了一种联邦开集故障诊断（FOSFD）方法。具体来说，在训练阶段，所提出的方法通过使用基于MixUp的数据增强策略在本地生成增强特征并通过中央服务器对齐已知类别的原型来增强全局模型的决策边界。在测试阶段，根据测试样本的特征表示和原型之间的距离计算异常分数，以识别已知或未知故障。凯斯西储大学和帕德博恩大学轴承故障诊断数据集上的实验表明，我们的方法在准确性（Acc），曲线下面积（AUC）和开集分类率（OSCR）方面达到了最先进的性能，从而提供了卓越的未知故障检测。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000749?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于旋转矢量减速器故障诊断的机电耦合动态建模和电机电流分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000609?dgcid=rss_sd_all</link>
+      <description><![CDATA[Rotate Vector（RV）减速机广泛应用于工业机器人和精密机械中，而摆轮齿轮在重循环载荷下容易出现故障。在应用中，RV减速机通常由电动机驱动。与传统的基于振动的故障诊断方法相比，电动机的电机电流分析提供了一种有前途的解决方案，因为电机电流包含RV减速器的健康状况信息，不存在传感器放置问题，并且信号复杂性较低。为了利用这些优势，揭示齿轮局部故障下的电机电流振荡机制和频谱特征至关重要。为此，本文建立了机电耦合动力学模型。该模型集成了RV减速器的反扭集总参数模型与永久磁铁同步电动机（PMSM）的电气模型。为了描述针轮齿轮故障对电动机-RV减速器传动系的影响，提出了一种迭代计算方法来评估针轮齿轮副在健康和故障状态下的时变咬合硬度。通过引入故障引起的啮合刚度变化，求解机电耦合动力学模型，仿真了电机定子电流。进一步揭示了齿轮啮合力和啮合力矩的振荡机理和特征，发现了齿轮故障在电机电流中的频谱特征。这些结果从机电耦合动力学的角度证明了电机电流中齿轮啮合、故障特征频率和摆线轮摆动频率的存在，为故障诊断中的理性和逻辑推理奠定了基础。在RV减速器试验台和工业机器人上对所发现的电机定子电流中齿轮故障征兆规律进行了实验验证。成功诊断了针轮和针轮的局部轮齿故障。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000609?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种多尺度Bayesian优化的系统输入状态联合估计算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000592?dgcid=rss_sd_all</link>
+      <description><![CDATA[大多数结构健康监测（SHM）研究主要关注测量反应，因为获取投入的机会受到高度限制。当试图评估复杂环境中关键结构的操作性能时，这种限制尤其明显。由于操作系统参数偏离设计规范而导致状态空间模型的不准确建立是一个重大挑战，从根本上限制了联合输入状态识别技术的实际应用。为了解决这个问题，本研究提出了一种具有多尺度Bayesian优化的增强卡尔曼过滤算法（MSBO-ABF），该算法集成了多个时间尺度的时频域优化功能。该算法专门设计用于减轻现实世界关节输入状态估计中对简化机械系统的先验知识的要求。具体来说，在所提出的算法中，利用传递差来构造时间域函数，有效地提取系统误差信息，同时避免引入额外估计误差。频域函数有效约束优化过程的收敛区域，从而确保收敛到全局最优。此外，多时间尺度的组合丰富了机械系统的信息内容。在时间域中，这是通过用更多欠定矩阵补充信息来实现的，在频域中，它减轻了高频噪音的不利影响。此外，在优化步骤中采用多模型过滤策略来防止噪音引起的参数的耦合误差，显着增强了算法在变化的噪音条件下的鲁棒性。为了验证该算法的有效性和鲁棒性，引入了一个5自由度（5-DOF）系统，在有限的测量响应的情况下进行全面的参数研究和消融研究。结果一致表明，提出的创新显着增强了系统识别的准确性和稳定性。额外的比较实验进一步证明了所提出的算法在逼近系统参数真实值方面的有效性，这有利于状态和输入的准确联合识别。最后，利用内陆气旋事件期间从632米高的上海中心大厦收集的SHM数据，成功识别了顶部的风载荷和三个未知位移。识别结果在时间域和频率域上进行了彻底分析。这表明，提出的MSBO-ABF算法通过结合固有的系统识别能力，极大地有助于推进现实世界SHM项目的联合输入状态估计方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000592?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于捕获超低频旋转振动的大豆豆荚启发式电能收获机]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600083X?dgcid=rss_sd_all</link>
+      <description><![CDATA[超低频（低于1.5赫兹，90转/分钟）环境旋转振动普遍存在，但有效捕获和利用它们仍然是一个未解决的问题。受大豆豆荚爆裂/弹出机制的启发，提出了一种生物启发的旋转-压缩-弹出（RCE）压压射能量采集器（RCE-PVEH），旨在高效捕获超低旋转振动。设计了一种模仿大豆豆荚爆裂/弹出机构的巧妙RCE结构，该结构由带有三个滚柱分支的旋转装置和Z形杆弹簧结构组成。RCE机构将连续超低频旋转振动转化为间歇性线性压缩运动，通过杆弹簧结构的压缩和弹出存储和释放旋转振动能量。结合磁耦合力和弹性恢复力的协同作用，可以有效捕获超低频旋转振动并将其转化为电能。基于赫茨曼碰撞接触理论，建立了基于拉格朗日的理论模型。通过数值模拟来探讨RCE-PVEH的运动机制、动态响应和能量产生。开发了RCE-PVEH原型并建立了实验装置来验证理论模型。RCE-PVEH系统在20-90转/分钟的速度范围内，最大输出电压为5.2 V-23.3 V，峰值功率为8 μW-120 μW，正常功率密度（NPD）为0.0205-0.067 μW/mm 3/分钟。即使在20-30转/分钟（0.33-0.5赫兹）的超低速范围内，RCE-PVEH也表现出良好的动态性能，最大输出电压为5.2V-12.8V，最大输出功率为8 μW-35 μW，电压增加146%，功率增加337%。RCE-PVEH可以为小型电子时钟提供可持续的电源，展示了其在低功耗场景中的广阔应用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600083X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑模型缺陷的大坝位移综合监测方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000786?dgcid=rss_sd_all</link>
+      <description><![CDATA[位移监测方法由监测模型和监测指标组成，是评估大坝健康状况的重要工具。高精度的位移监测方法可以有效检测大坝异常状况并触发警报，从而提醒管理当局采取必要的维护行动。自动化监测技术的进步为大坝监测提供了丰富的基础数据。然而，传统的监测方法在处理大量数据时往往忽视了建模算法的固有局限性，这可能会导致实际工程应用中出现误报，从而降低大坝的运营管理效率。为了增强监测结果的可靠性，本研究首先讨论了传统建模算法的不足，并在此分析的基础上提出了一种多模型集成监测方法。具体来说，分别利用支持向量机（Support Vector Machine，简称SVM）和自回归移动平均（ARMA）模型来建立监控模型。在此基础上，对两种模型的联合余差进行了分布分析，发现联合余差在非尾部区域表现出弱相关性，在尾部区域表现出强相关性。随后，利用Copula函数对联合残差进行拟合，提出了一种基于累积分布函数的大坝位移联合监测指标，实现了大坝位移的多模型集成监测。实例分析表明，该方法可有效降低大坝安全监测的误报率，为提高大坝安全管理水平提供参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000786?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[综合咬合冲击和动态均载响应的行星齿轮裂纹故障唯象模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000658?dgcid=rss_sd_all</link>
+      <description><![CDATA[行星齿轮系中的振动源于咬合激励，局部齿裂纹会引入冲击力，进一步改变负载分配并使动态响应复杂化。现有的现象学模型通常假设均匀的负载分配，并且无法捕捉故障影响和网格化过程之间的时间序列关系。这项研究开发了一种新颖的现象学模型，该模型考虑了行星齿轮齿裂纹引起的影响和动载荷重新分布。采用时变的咬合硬度模型分析了行星轮齿不同尺寸裂纹引起的咬合强度变化。基于咬合相关系，推导出故障冲击力与咬合周期之间的时间联系，并推导出咬合冲击函数。然后引入负载浮动响应因子来描述激振力变化对负载均布的影响。这些元素被集成到模型中，以研究太阳-行星和环-行星咬合条件下的振动响应。仿真和实验结果表明，故障冲击会产生瞬时激励并增强更高级调制边带。虽然内部网格和外部网格产生相似的光谱模式，但其幅度存在差异。利用边带指数、零阶品质因子和谱峰度等统计指标对不同故障大小下的振动信号进行分析。结果证明了所提出的模型能够有效地反映断层演变趋势。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000658?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于相空间重建的多维信号处理故障诊断的进展与前景：系统综述]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000762?dgcid=rss_sd_all</link>
+      <description><![CDATA[通过有效捕捉复杂工业系统固有的非线性、非平稳和动态行为，多维信号表示在故障诊断中表现出显着优势。相空间重建（PPC）已成为从一维时间序列构建多维轨迹的强大框架，能够在没有完全可观测性的情况下恢复固有系统动力学。随着对准确、可解释和强大的诊断工具的需求不断增加，基于PPC的技术已在各个工程领域得到广泛探索。然而，仍然缺乏综合PPC在故障诊断中的理论进展和实际实施的全面审查。本文系统分析了基于PPC的故障诊断多维信号处理方法的发展。现有方法根据其与PPC的集成分为七个代表性框架，即熵分析、历经理论、张量分解、多管学习、轨迹形态学、复杂网络和基于人工智能的方法。然后回顾和比较这些PPC集成框架的理论基础、工程应用和诊断性能。进一步总结了基于PPC的方法在旋转机械、电气系统和结构部件等关键领域的应用，突出了其适应性。根据这次审查，确定了几个关键挑战，包括嵌入参数选择、重建期间的信号失真、实时部署和人工智能模型的可解释性。为了解决这些问题，未来的研究预计将重点关注自适应嵌入策略、可解释的混合框架和高效实施，以实现可扩展和智能的工业诊断。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000762?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[紧凑型电磁能采集器的建模与参数综合分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600066X?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于钟摆的电磁能采集器（PEDH）通过复杂的机电耦合将人类运动（特别是行走）转化为电力，为物联网设备供电。尽管它们有潜力，但大多数研究使用等效或简化的模型来代表PEDH，这通常会限制动态分析或导致显着的计算错误。为了解决这一限制，我们为包含复合行星齿轮系的紧凑型PEEH开发了一个准确的机电耦合模型。磁场使用磁纯量势法评估，而系统动力学则通过Euler-Lagrange方法公式化。磁场预测通过COMSAL中的有限元素模拟进行验证。在几何约束下，通过数值模拟执行广泛的参数扫描，包括摆动频率、摆动幅度、齿数比、负载阻力以及涡轮与旋转惯性矩比。实验研究进一步验证了数值结果。仿真和实验结果都表明，PEEH性能在固定条件下收敛于局部最优值，并且在参数优化下，增加转动矩比可以提高性能。开发的原型实现了18.70 MW的最大输出功率和29.92 W/（m3·Hz·°）的标准化功率密度，证实了拟议模型在指导高性能能量采集器设计方面的功效。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600066X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:30 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[航空螺旋锥齿轮擦伤和轮齿温度的实验和微观表面研究]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0888327025015353?dgcid=rss_sd_all</link>

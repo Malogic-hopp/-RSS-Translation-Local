@@ -4,48 +4,293 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:29:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:36:53 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[面部表情识别的多模式提示学习：利用表情符号和大型语言模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501125X?dgcid=rss_sd_all</link>
-      <description><![CDATA[面部表情识别（GER）是计算机视觉领域的一项关键任务，在人机交互、心理健康分析、安全和智能教育等领域有应用。尽管深度学习显着提高了GER性能，但姿势变化、身份干扰、遮挡和低分辨率等挑战仍然存在。大规模预训练模型（例如CLIP）的最新进展通过在共享特征空间中对齐图像和文本表示来展示了强大的概括性。然而，将CLIP直接应用于GER会带来两个主要挑战：图像和文本特征之间的形态差距，以及固定模板文本提示在捕捉细粒度面部表情细微差别方面的局限性。为了解决这些问题，这项工作提出了一种基于多模式提示学习的面部表情识别（MMPL-GER），它集成了来自表情符号的基于图像的表情提示和来自大型语言模型的基于文本的表情提示。具体来说，这项工作引入了表情符号图像作为额外的视觉提示，以弥合文本表情描述和面部表情图像之间的差距，改善特征对齐和相似性计算。此外，为了克服预定义文本提示的局限性，这项工作利用大型语言模型（LLM）来基于面部动作单元和心理情感理论生成丰富且具有语义意义的文本表达提示。这些增强的提示引导模型关注关键面部特征，提高不同数据集的识别准确性和概括性。我们对RAF-DB、AffectNet、SFEW 2.0和GER+四个数据集进行了实验，准确率分别为93.28%、67.69%、59.46%和91.49%。实验结果表明，我们的方法显着优于现有方法，为利用多模式学习进行GER提供了新的视角。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501125X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:30 GMT</pubDate>
+      <title><![CDATA[阿尔茨海默病预测的多模式融合调查：新的分类学和趋势]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011601?dgcid=rss_sd_all</link>
+      <description><![CDATA[阿尔茨海默病（AD）是一种神经退行性疾病，以其不可治愈而闻名，在全球老年人中很常见。之前的研究表明，早期干预对疾病进展有积极影响，从而导致通过机器学习（ML）方法对病理分析和疾病轨迹预测的研究增加。鉴于不同神经退行性疾病之间的相似性，仅依赖单一数据模式的诊断是不够的。因此，当前的研究主要集中在多模式分析上，集成医学成像和临床患者信息，并持续识别可能有助于AD诊断的新数据类型。在过去的二十年里，多模式方法得到了广泛的探索，在深度学习（DL）技术的引入后观察到了显着的进步。深度神经网络可以直接从输入数据中自适应地提取和融合特征，显着扩大了多峰分析的范围。然而，早期的分类研究主要集中在传统的ML上，通常忽视了DL网络的快速发展。本文提供了一个全面的描述采集途径的基础上的模态，讨论了目前用于研究神经影像学，人体体液，和其他相关来源的模态。此外，它还对DL和传统ML环境中使用的融合方法进行了分类，强调了现有的挑战，并概述了未来研究的潜在方向。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011601?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:53 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[PointExplainer：迈向透明的帕金森病诊断]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011261?dgcid=rss_sd_all</link>
-      <description><![CDATA[深度神经网络在分析数字化手绘信号以早期诊断帕金森病方面已显示出潜力。然而，现有诊断方法缺乏明确的可解释性给临床信任带来了挑战。在本文中，我们提出PointExpliner，这是一个可解释的诊断框架，用于识别驱动模型诊断的手绘区域，帮助临床医生了解模型的诊断逻辑。具体来说，PointExpliner为手绘片段分配离散归因值，明确量化它们对模型决策的相对贡献。其关键组成部分包括：（i）诊断模块，其将手绘信号融合到3D点云中以表示手绘轨迹，以及（ii）解释模块，其训练可解释的代理模型以逼近黑匣子诊断模型的局部行为。我们还引入一致性措施来进一步解决解释的忠实性问题。对两个基准数据集和一个新构建的数据集的广泛实验表明，PointExplainer可以提供直观的解释，而不会降低诊断性能。源代码可访问https://github.com/xc-lab/PointExplainer。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011261?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:26 GMT</pubDate>
+      <title><![CDATA[视听Deepfake检测中基于对抗和生成AI的反取证：全面回顾和分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011820?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着deepfakes背后技术的进步，检测视听deepfakes变得越来越重要，传统和基于生成AI的对抗/反取证攻击以及基于生成AI的反取证攻击对deepfake检测技术的兴起越来越令人担忧。保护应用程序免受基于对抗性和生成性AI的攻击对于准确和强大的deepfake检测工具至关重要。因此，本文全面概述了各种基于对抗性和生成性人工智能的反取证攻击，这些攻击代表了可信度以及透明度，可解释性和公平性的核心要素之一，以及视听deepfake生成和检测的防御对策。它涵盖了对Deepfake检测算法和防御方法（包括模型融合和基于诱饵的方法）的对抗攻击等主题，以减轻这些威胁。尽管近年来人们对Deepfake检测的对抗攻击和防御进行了广泛的研究，但很少有人尝试对现有工作进行定性和定量比较。本文旨在帮助识别和解决需要考虑的关键问题，以带来可转移的对抗性攻击及其对策，特别是通过生成性防御、知识提炼等技术。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011820?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:48 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用元数据引导的自适应路由的多任务强化学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011303?dgcid=rss_sd_all</link>
-      <description><![CDATA[多任务强化学习旨在训练通用于多个相关任务的统一策略，提高样本效率并促进知识转移。然而，由于任务干扰，现有方法经常遭受负知识转移的影响，特别是当在具有不同动态或目标的任务之间使用硬参数共享时。传统的解决方案通常采用具有特定任务头部的共享主干、梯度投影方法或基于路由的网络来缓解冲突。然而，许多这些方法依赖于简单化的任务标识符（例如，一热载体）、缺乏任务语义的表达性表示，或者未能以细粒度、特定于任务的方式调节共享组件。为了克服这些挑战，我们提出了元数据引导的自适应路由（MetaAR），这是一种新颖的框架，它结合了丰富的任务元数据，例如自然语言描述，以生成富有表达性和可解释的任务表示。这些表示被注入到动态路由网络中，该网络自适应地重新配置共享模块化策略网络中的分层计算路径。为了实现强大的特定于任务的自适应，我们进一步引入了一个噪声注入的Top-K路由机制，动态选择最相关的计算路径为每个任务。通过在路由过程中注入随机性，该机制通过稀疏的、选择性的信息流促进探索并减轻任务之间的干扰。我们在Meta-World基准测试中评估了MetaAR，其中包含多达50个机器人操作任务，其性能始终优于强基线，平均成功率比MT 10和MT50变体中性能最佳的方法高出4- 8%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011303?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:21 GMT</pubDate>
+      <title><![CDATA[MCIVA：具有中心逆最近邻地图和视图自适应模块的多视图行人检测框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</link>
+      <description><![CDATA[多视图行人检测是一项重要任务，在监控和智慧城市等领域有许多应用。尽管最近的多视图行人检测方法取得了显着的性能改进，但这项任务仍然面临三个主要挑战。1)在拥挤的区域中，相邻的连接分量可能会在密集区域中合并，导致每个行人的像素峰值定位不清楚。2)之前的多视图行人检测方法中使用的损失函数对背景具有高响应性。3)相机参数尚未得到充分利用;它们仅用于生成固定值投影矩阵。为了应对这些挑战，我们提出了一种新颖的多视图行人检测框架，该框架具有中心逆最近邻地图和视图自适应模块（MCIVA）。引入中心逆近邻（Cinn）地图，以基于注释生成地面真相概率占用地图（TOM），为每个行人提供更精确的位置信息。为了增强模型对局部结构信息的关注，我们提出了局部结构相似性损失来减少背景区域中假局部最大值的影响。此外，还引入了一种新型的即插即拉式视图自适应模块（VAM），利用摄像机参数来生成可学习的权重，用于多视图特征融合。我们在三个基准数据集上对所提出的方法进行了评估，结果表明所提出的MCIVA显着提高了预测地图的质量并实现了最先进的性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:43 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于置信度关键点评估的同质多模态自适应交叉注意融合6自由度位姿估计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011212?dgcid=rss_sd_all</link>
-      <description><![CDATA[根据RGB-D数据进行6D姿态估计构成了计算机视觉领域的一个关键研究领域，其中的主要挑战在于有效地集成Ruby和深度模式。我们提出了一种针对对象6D姿态的创新同质多模式交叉注意融合框架，通过直接处理原始RGB-D数据进行特征提取，而不是传统的基于点云的两分支架构。我们采用全球局部嵌入和自适应交叉注意融合来利用同质多峰信息的固有相似性。此外，我们设计了一个信任感知关键点评估模块，以提高定位准确性和鲁棒性。对三个流行基准数据集进行的比较分析实验，再加上系统性消融分析，证明了我们的方法在Occlusion LineMOD（79.6%）、YCB-Video（97.2%）和MP 6D（93.60%）上实现卓越性能方面的有效性。最后，我们验证了我们的方法在困难条件下的适用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011212?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:16 GMT</pubDate>
+      <title><![CDATA[多源时间序列物候阶段分类的新知识提炼和混合解释方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000370?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确的物候阶段分类对于应对气候变化、水资源短缺和土地退化对粮食安全构成的全球挑战至关重要。它通过优化灌溉、施肥和害虫控制等关键干预措施来实现精准农业。虽然深度学习提供了强大的工具，但现有方法面临四个关键局限性：依赖狭窄的特征和模型、有限的长期预测能力、计算效率低下以及不透明、未经验证的解释。为了克服这些局限性，本文提出了一个用于物候分类的深度学习框架，利用来自卫星图像、气象站和实地观测的多源时间序列数据。该方法强调时间一致性，空间适应性，计算效率和可解释性。特征工程流水线通过滞后特征、滚动统计、傅立叶变换和季节编码提取时间动态。特征选择将增量策略与经典的过滤器、包装器和嵌入式方法相结合。跨多个范式（前向、循环、卷积和基于注意力）的深度学习模型在多视野预测任务下进行了基准测试。为了降低模型复杂性，同时尽可能保留性能，该框架采用知识蒸馏，将预测知识从复杂的教师模型转移到紧凑且可部署的学生模型。对于模型可解释性，提出了一种新的混合形状-关联规则可解释性方法，集成了模型驱动和数据驱动的解释。使用信任指标来量化视图之间的一致性：precision@k、covercover和Jaccard相似性，并采用基于重新训练的验证机制。安达卢西亚物候数据的实验证明了农业系统中的高准确性、强概括性、可靠的解释和资源高效的物候监测。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000370?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:39 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[EquivFisheye：一个用于全景3D感知的球形融合框架，与环绕视图鱼眼相机]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010863?dgcid=rss_sd_all</link>
-      <description><![CDATA[环绕视鱼眼摄像头广泛部署在自动驾驶中，用于近场感知任务，例如自动停车和城市导航。然而，它们的极广角失真对传统的3D感知算法构成了根本挑战。现有的解决方案要么依赖于纠正，这会导致图像边界附近的信息丢失，要么应用失真感知采样，这会忽视CNN的描述等变性质并增加样本复杂性。为了解决这些限制，我们提出了EquivFisheye，这是一个专为环绕视图鱼眼相机量身定制的统一3D感知框架。我们的方法由三个关键组件组成：（1）具有距离感知加权融合的球形域投影，用于生成失真一致的全景图像;（2）利用球形卷积来保持广角视图中的几何一致性的等变特征提取管道;（3）高效旋转特征池策略，可以降低SO（3）卷积的成本，同时保持等变。据我们所知，这是球形域中3D语义占据和对象检测首次应用于环绕视图鱼眼输入。对KITTI-360数据集的大量实验表明，我们的方法在3D语义占用率方面达到了56.5%的mRayIoU，在3D检测方面达到了42.4%的NDS，分别超过了之前的最新技术水平1.1%和1.8%。在更具挑战性的基于无人机的环绕视鱼眼数据集上，我们的模型实现了71.0%的RayIoU，比之前的最佳方法高出2.1%。这些结果凸显了我们的框架在复杂的广角失真和动态视角下的有效性和可概括性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010863?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:12 GMT</pubDate>
+      <title><![CDATA[关于联邦学习的安全性和隐私：攻击、防御、框架、应用和未来方向的调查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000345?dgcid=rss_sd_all</link>
+      <description><![CDATA[联合学习（FL）是一种新兴的分布式机器学习范式，使多个客户能够协作训练全球模型，而无需共享其原始数据。虽然FL通过设计增强了数据隐私，但它仍然容易受到各种安全和隐私威胁的影响。这项调查全面概述了203篇关于为应对这些挑战而开发的最先进攻击和防御机制的论文，并将其分为安全增强技术和隐私保护技术。安全增强方法旨在提高FL针对拜占庭攻击、中毒和Sybil攻击等恶意行为的稳健性。与此同时，隐私保护技术专注于通过加密方法、差异隐私和安全聚合来保护敏感数据。我们批判性地分析了现有方法的优点和局限性，强调隐私、安全和模型性能之间的权衡，并讨论非IID数据分布对这些防御有效性的影响。此外，我们还确定了开放研究挑战和未来方向，包括对在动态和异类FL环境中运行的可扩展、自适应和节能解决方案的需求。我们的调查旨在指导研究人员和从业者开发强大且保护隐私的FL系统，促进在保护协作学习框架的完整性和机密性方面取得进展。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000345?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:33 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有自适应融合的同质和异类模式的多模式情感识别统一框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011340?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着对情感智能系统的需求不断增长，多模式情感识别（MER）已成为情感计算领域的一个关键前沿。然而，实现跨异类数据源的可靠概括并确保跨不同模式的语义一致仍然是未解决的挑战。因此，这项研究为MER提出了一个新颖且统一的框架，该框架分为五个协调阶段：特定模式的跨数据集预训练、基于扩散的生成式数据增强、强化学习驱动的超参数优化、潜在空间对齐以及任务感知的多模式融合和微调。每种模式--文本、音频、视频和运动--最初使用大规模、带有情感标签的库进行预训练，以提取领域不变的情感特征。使用扩散模型的生成性增强阶段增加了样本多样性并改善了阶级平衡。超参数调度由近端策略优化（PPO）代理管理，该代理在预训练和微调阶段动态调整学习参数。潜在空间对齐是通过领域对抗目标、统计正规化（例如，MMD，CCA）和原型对比学习。融合策略集成了交叉注意模态交互（CAMI），双向对齐网络（BAN），高斯混合交互模块（GMIM）和神经变分混合专家（NV-MoE），以支持上下文感知和不确定性弹性的情感推理。对MELD、IEMOCAP和SAVEE的实证评价显示了出色的业绩。测试准确率分别达到99.91%、99.87%和99.52%，损失最小（&lt;0.000056），推断延迟在0.02-0.07 ms之间。100次运行的后对齐诊断揭示了高度稳定的潜在嵌入（剪影：0.960-0.980，CKA：0.970-0.990），证实了较强的跨模式连贯性。对外部不可见数据集（GoEmotions、CREMA-D、AtlantiW、HUMAINE）进行零镜头测试的准确率超过99.90%，证明了无需微调的稳健概括。尽管该模型是在批量数据上训练的，但通过ONNX的部署确保了在资源有限的环境中实时情感识别的适应性。这些发现使拟议的系统成为多模式情感分析的高性能且可部署的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011340?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:29:08 GMT</pubDate>
+      <title><![CDATA[集成类间关系和遮挡信息的自适应正规化布局分割网络用于车辆零部件识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000369?dgcid=rss_sd_all</link>
+      <description><![CDATA[在智能车辆损坏评估中，零部件识别面临着挑战，例如阻碍检测的显着的类内变异性和极小的类间差异，以及使分割复杂化的遮挡和模糊边界。我们将这些问题概括为三个核心方面：对象间关系建模、语义细节信息平衡和遮挡感知的脱钩。为此，我们提出了自适应正规化Topological Segmentation（ARTSeg）网络，该网络由三个补充模块组成：类间图约束（ICGC）、约束细节特征回溯（CDFB）和Topological Decoupling Segmentation（TDS）。每个模块都是有目的的设计，集成在一个渐进的结构中，并协同加强其他模块，以提高整体性能。具体而言，ICGC聚类类内特征，并在特征提取过程中建立类别之间的隐式拓扑约束，使模型能够更好地捕捉类间关系，提高检测表示。随后，CDFB评估每个候选区域内的通道特征信息对分割精度和计算成本的影响，动态地为各个实例选择适当的特征分辨率，同时平衡检测和分割任务的需求。最后，TDS在特征级引入了遮挡和遮挡区域之间的拓扑关联，并在任务级对它们进行了重新定义，明确地对广义遮挡区域进行建模，提高了分割性能。我们对为保险损害评估而构建的59类车辆零部件数据集进行了定量和定性评估，在解决上述问题方面取得了显着改进。在两个公共数据集DSMLR和Carparts上的实验进一步验证了所提出方法的概括能力。结果表明，ARTSeg为智能汽车损伤评估中的部件识别提供了实用指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000369?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[低成本传感器的数据融合：系统文献综述]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000035?dgcid=rss_sd_all</link>
+      <description><![CDATA[数据融合（DF）解决了集成异类数据源以改善决策和推理的挑战。尽管DF已被广泛探索，但之前还没有系统性审查专门关注其在环境监测中的低成本传感器（LCS）数据中的应用。为了解决这一差距，我们遵循PRISMA框架进行了系统性文献综述（SLR），综合了82篇同行评审文章的发现。该综述解决了三个关键问题：（1）结合LCS数据使用了哪些融合方法？(2)这些方法适用于哪些环境背景？(3)方法论挑战和研究差距是什么？我们的分析表明，地统计和机器学习方法主导了当前的实践，空气质量监测正在成为主要应用领域。此外，基于人工智能（AI）的方法越来越多地用于整合空间，时间和多模式数据。然而，在不确定性量化、验证标准和融合框架的普遍性方面仍然存在局限性。本文综述了当前技术的全面综合，并概述了未来研究的主要方向，包括开发鲁棒的、不确定性感知的融合方法，以及更广泛地应用于研究较少的环境变量。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000035?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[LLM采用特征融合方法增强代码驱动编程预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000448?dgcid=rss_sd_all</link>
+      <description><![CDATA[编程教育对于让个人掌握数字素养技能和培养在现代劳动力中取得成功所需的解决问题的能力至关重要。在在线编程辅导系统中，知识追踪（KT）技术对于编程预测至关重要，因为它们监控用户表现并建模用户认知。然而，通用知识转移方法和特定于编程的知识转移方法都依赖于传统的状态驱动范式，这些范式根据用户的知识状态间接预测编程结果。它不符合编程预测的核心目标，即确定提交的代码是否可以解决问题。为了解决这个问题，我们提出了代码驱动特征融合KT（CFKT），它集成了针对个性化和通用代码特征的大型语言模型（LLM）和编码器。它由两个模块组成：传递预测和代码预测。通过预测模块利用LLM通过嵌入将来自问题和代码的语义信息结合起来，通过代理任务提取确定代码正确性的关键特征，并通过载体化有效缩小解决方案空间。代码预测模块通过特征融合块集成用户历史数据和其他用户的数据，可以准确预测提交的代码，有效缓解冷启动问题。对多个现实世界公共编程数据集的实验表明，CFKT的表现显着优于现有的基线方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000448?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于失衡血细胞分类的时间感知域对齐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600045X?dgcid=rss_sd_all</link>
+      <description><![CDATA[血细胞识别对于血液学分析至关重要，因为它有助于医生诊断各种血液相关疾病。在现实世界场景中，血细胞图像数据集经常存在域漂移和数据不平衡的问题，为准确的血细胞识别带来挑战。为了解决这些问题，我们提出了一种新的血细胞分类方法，称为SADA，通过染色感知域对齐。这项工作的主要目标是挖掘存在域转移和数据不平衡的情况下的域不变特征。为了实现这一目标，我们提出了一种基于染色的增强方法和局部对齐约束来学习域不变特征。此外，我们提出了一种域不变的监督对比学习策略来捕捉区分性特征。我们将训练过程分解为域不变特征学习和分类训练两个阶段，缓解了数据不平衡的问题。从中山大学第三附属医院收集的四个公共血细胞数据集和一个私人真实数据集的实验结果表明，SADA可以实现新的最先进基线，优于现有的前沿方法。源代码可在网址（https：//github.com/AnoK3111/SADA）获取]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600045X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多模式时空融合：具有城市应用注意力框架的可推广GCN-LSTM]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000436?dgcid=rss_sd_all</link>
+      <description><![CDATA[城市大数据的激增为了解城市提供了前所未有的机会，但利用这些数据的分析方法往往是碎片化且特定领域的。城市计算中现有的预测模型通常高度专业化，会产生抑制知识转移的分析孤岛，并且难以在公共安全、住房和交通等领域进行调整。本文通过开发一个可推广的、多模式时空深度学习框架来应对这一关键差距，该框架旨在实现高预测性能和可解释性，该框架能够在无需架构修改的情况下掌握不同的城市预测任务。该混合架构融合了用于空间扩散的多头图卷积网络（GCN）、用于时间动态的长短期记忆（LSTM）网络以及加权空间图与静态外部特征影响的可学习门控机制。为了验证这种普遍性，该框架在伦敦的三个不同城市领域进行了测试：犯罪预测、房价估计和交通网络需求。该模型的表现优于传统基线（ARIMA、XGboost）和最先进的深度学习模型（TabNet、FT）。此外，该框架通过结合注意机制和排列特征重要性分析，超越了预测，转向了解释。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000436?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3D点云和手术中成像的多模式融合以增强手术机器人导航]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000503?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了解决手术机器人在动态、复杂和非刚性手术环境中导航准确性不足的问题，本文提出了一种增强型多模式融合框架-EMF-RSN。该框架通过深度引导的几何-视觉对齐模块（GVAN）实现点云和手术中图像之间的空间一致性，通过跨模式注意力融合模块（CAFM）实现几何特征和视觉特征的动态加权融合，并通过任务反馈优化（TFO）模块构建从感知到决策的闭环优化机制，从而提高导航的准确性和稳定性。公共数据集（Hamlyn）和自建模拟数据集（Sim-Surgical Fusion）的实验表明，EMF-RSN在几何准确性、语义一致性和任务稳健性方面显着优于现有方法。与传统配准算法相比，点云误差减少约50%，轨迹误差减少20%以上，即使在复杂的变形和遮挡环境下也能保持44 FPS的实时性能。该研究为实现融合虚拟与真实元素的智能手术导航提供了新的技术途径和模型基础，对于手术机器人的感知和自主控制具有重要意义。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000503?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[KNOGOnet：用于心脏诊断的知识增强局部-全局学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000473?dgcid=rss_sd_all</link>
+      <description><![CDATA[人类心脏病专家的诊断过程是一个整体推理行为，无缝集成了两个关键组成部分：（1）ECG信号本身的协同分析，结合了全局节律模式和局部形态的见解;以及（2）利用内化的医学先验和外部患者特定信息的先验解释过程。然而，现有的深度学习模型很难模仿这种复杂的专家推理，通常面临双重困境：未能在统一的框架内协同本地和全局特征，以及广泛忽视有价值的低成本先验知识来源，如疾病关联和患者元数据。为了弥合这一差距，我们提出了一个新的深度学习框架，旨在为专家诊断工作流建模。CLARGOnet对专家的协同信号分析进行建模，采用并行混合架构，集成了用于全球节奏的状态空间模型（RSM）和用于局部形态的CNN。该框架实现了事先知情的解释，融合了两项关键创新：通过建模疾病合并症和相互排他性来增强临床一致性的关联损失，以及用于稳健融合患者元数据的自适应交叉门控模块。对多个主流公共基准的广泛实验表明，SEARCH GOnet在8个多标签任务中实现了63.8%的平均Macro-F1，并始终优于16个竞争基线，从而建立了新的最先进水平，从而为心电图自动心脏诊断设定了新的性能基准。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000473?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[StegaFusion：多模式信息隐藏和融合的隐写术]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000291?dgcid=rss_sd_all</link>
+      <description><![CDATA[当前的生成式隐写技术因其安全性而引起了相当大的关注。然而，不同的平台和社交环境表现出不同的偏好模式，并且现有的生成式隐写技术通常仅限于单一模式。受修复技术进步的启发，我们观察到修复过程本质上是生成性的。此外，跨模式修复对未改变的区域的干扰最小，并且共享一致的掩蔽和填充程序。基于这些见解，我们引入了StegaFusion，这是一个用于统一多模式生成隐写术的新颖框架。StegaFusion利用共享世代种子和条件信息，使接收器能够确定性地重建参考内容。然后，接收器对修补生成的隐写内容进行差异分析以提取秘密消息。与传统的单峰方法相比，StegaFusion增强了可控性、安全性、兼容性和可解释性，而无需额外的模型训练。据我们所知，StegaFusion是第一个形式化和统一跨模式生成隐写术的框架，具有广泛的适用性。广泛的定性和定量实验证明了StegaFusion在可控性、安全性和跨模式兼容性方面的卓越性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000291?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用视觉转换器从红外数据合成热带气旋微波图像的数据融合方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000461?dgcid=rss_sd_all</link>
+      <description><![CDATA[高时空分辨率的微波图像对于观察和预测热带气旋（TC）至关重要，包括TC定位、强度估计和同心眼墙检测。然而，由于卫星数量和轨道的限制，热带气旋微波（TCMW）图像的时间分辨率有限，这给热带气旋灾害预报带来了一个具有挑战性的问题。这项研究提出了一种多传感器数据融合方法，使用高时间分辨率热带气旋红外（TCOR）图像来生成合成TCMW图像，为数据稀缺问题提供了解决方案。特别是，我们引入了一个基于Vision Transformer（TCA-ViT）的深度学习网络，以将TCOR图像转换为TCMW图像。这可以被视为合成数据生成的一种形式，增强了决策的可用信息。我们将基于阶段的身体指导机制集成到培训过程中。此外，我们还开发了TC红外到微波图像转换数据集（TCIR 2 MW）用于训练和测试模型。实验结果表明，该方法能够快速准确地提取TC的关键特征。它利用Masking和Transfer Learning等技术，通过从IR图像生成MW图像来解决TCMW图像的缺失问题，从而帮助TC强度和降水预测等下游任务。这项研究为TC图像研究领域引入了一种新颖的方法，有可能在该方向推进深度学习，并为全球TC的实时观察和预测提供重要见解。我们的源代码和数据可在https://github.com/kleenY/TCIR2MW上在线公开。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000461?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[释放曼巴的表达能力：时空预测的非权衡方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000515?dgcid=rss_sd_all</link>
+      <description><![CDATA[实时时空预测，特别是在交通系统中，需要平衡计算成本和预测准确性--这是传统方法难以有效解决的挑战。在这项工作中，我们提出了一个名为时空选择性状态空间（ST-Mamba）的非权衡框架，该框架利用两个关键组件来同时实现效率和准确性。空间-时间混合器（ST-Mixer）动态融合空间和时间特征以捕获复杂的依赖关系，STF-Mamba层结合了Mamba的选择性状态空间公式以有效地捕获长期动态。除了经验上的改进之外，我们还通过对ST-曼巴的表达能力进行理论分析来解决文献中的一个关键空白。具体来说，我们建立了它逼近广泛类别Transformer的能力，并正式证明它与同一框架内至少两个连续注意力层的等效性。这一结果凸显了ST-Mamba捕获长期依赖性的能力，同时有效减少计算负担，强化了其相对于传统基于变压器的模型的理论和实践优势。通过对现实世界交通数据集的广泛评估，与领先方法相比，ST-Mamba的运行时间减少了61.11%，预测性能提高了0.67%，凸显了其为实时时空预测设定新基准的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000515?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MRFNet：图像去模糊的多参考融合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000485?dgcid=rss_sd_all</link>
+      <description><![CDATA[运动模糊是视觉数据处理中的一个持续挑战。虽然单图像去模糊方法取得了显着进展，但使用同一场景的多个参考图像去模糊仍然是一个被忽视的问题。现有的方法很难集成来自光线、颜色和透视差异的多个参考图像的信息。在这里，我们提出了一种新颖的框架MRFNet，它利用任意数量的不连续参考图像进行去模糊。该框架由两个关键组件组成：（1）以密集匹配为指导的偏置融合模块（OFM），它通过高频细节增强和排列不变单元聚合来自不连续参考图像的特征;和（2）可变形浓缩模块（TEM），它使用可变形卷积来细化未对齐的特征以实现精确的细节恢复。对合成和现实世界数据集的定量和定性评估表明，所提出的方法优于最先进的去模糊方法。此外，还提供了一个新的现实世界数据集来填补评估不连续引用问题的空白。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000485?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GIAFormer：A<strong>G</strong> radient-融合<strong>A</strong>intension和Trans<strong>former，</strong>用于使用EDA-fNIRS融合进行疼痛评估<strong></strong>]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000527?dgcid=rss_sd_all</link>
+      <description><![CDATA[可靠的疼痛评估在临床实践中至关重要，但它仍然是一个挑战，因为基于自我报告的评估本质上是主观的。在这项工作中，我们介绍了GIAFormer，这是一个深度学习框架，旨在通过联合分析皮电活动（EDA）和功能性近红外光谱（fNIRS）信号来提供多层面疼痛的客观测量。通过结合自主反应和皮质反应的补充信息，提出的模型旨在捕捉疼痛的生理和神经方面。GIAFormer集成了一个被动注入注意力（GIA）模块和一个Transformer。GIA模块通过将生理信号与其时间梯度融合并应用空间关注来强调通道间依赖性来增强信号表示。接下来是Transformer组件，使模型能够学习长期时间关系。使用留一受试者验证协议在包含65名受试者的AI 4 Pain数据集上对该框架进行了评估。GIAFormer的准确率为90.51%，优于最近最先进的方法。这些发现凸显了梯度感知注意力和多模式融合在适用于临床和现实应用的可解释、非侵入性和可推广疼痛评估方面的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000527?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全天候多模式图像融合：统一框架和10万基准]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000096?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模式图像融合（MMIF）结合来自不同图像模式的补充信息，以提供全面、客观的场景解释。然而，现有的融合方法无法抵抗现实世界场景中不同的天气干扰，限制了其实际适用性。为了弥合这一差距，我们提出了一个端到端、统一的全天候MMIF模型。我们的方法不是仅仅关注像素级恢复，而是强调通过联合特征融合和恢复最大化关键场景信息的表示。具体来说，我们首先将图像分解为低阶和稀疏的分量，从而实现有效的特征分离，以增强多形态感知。在特征恢复过程中，我们引入了一个物理感知的清晰特征预测模块，通过照明和反射率推断光传输的变化。网络生成的清晰特征用于增强显着信息表示。我们还构建了一个大规模MMIF数据集，包含100，000个图像对，全面涵盖雨、雾霾和雪条件，并覆盖各种退化水平和各种场景。在现实世界和合成场景中的实验结果表明，所提出的方法在图像融合和下游任务（例如对象检测、语义分割和深度估计）方面表现出色。源代码可访问https://github.com/ixilai/AWFusion。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000096?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MSTFDN：用于个性化多任务场景的EEG-fNIRS多模式时空融合解码网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000667?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模式信息使脑机接口（BCI）系统能够适应个体神经特征的差异，克服每种模式的局限性。因此，集成了脑电图（EEG）和功能性近红外光谱（fNIRS）等无创脑成像技术的多模式融合技术受到了广泛关注。然而，在混合BCI领域，有效集成来自这两种模式的异类信息并提高各种任务条件下的解码准确性和通用性仍然存在挑战。核心问题在于每个模式的信号特征利用不足以及对更高级混合特征的潜在同质性的不完全捕捉。因此，我们提出了一种新型的EEG-fNIRS多模式时空融合解码网络（MSTFDN）。该网络结合了时间序列差异的多尺度时间卷积和空间多头自我注意机制。MSTFDN由三个核心组件组成，包括脑电分支、fNIRS分支、EEG-fNIRS融合分支。基于独立和混合空间多头表达多样性构建多维损失函数，旨在实现多任务和多种个性化实验协议下小样本数据集的高精度解码。在三种个性化实验协议下的两个公共数据集的四项运动意象（MI）和心理负荷（MWL）任务的实验中，MSTFDN展示了最先进的性能。更全面的实验协议可能会为该领域的未来研究建立模型性能评估的基准。同时，MSTFDN也有望成为EEG-fNIRS混合BCI研究的新基准方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000667?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多模式情绪分析的评分启发的补充增强]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000539?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模式情感分析（MAS）因其强大的集成异类多源信息的能力，在情感计算方面取得了显着的进展。然而，现有方法通常采用对称融合策略，平等对待所有模式，忽略了它们固有的性能差异，即一些模式擅长区分性表示，而另一些模式则携带未充分利用的支持线索。这一局限性导致跨模式互补相关探索的不足。为了解决这个问题，我们提出了一种新颖的针对GMA的分级启发互补增强（GCE）框架，这是对渐进式多模式融合和合作中的知识转移进行动态评估的首批尝试之一。具体来说，基于跨模式交互，任务感知分级机制根据任务表现将模式对关联分为主导（高绩效）和补充（低绩效）分支。因此，关系过滤模块选择性地识别来自主导分支的值得信赖的信息，以最小化的冗余来增强补充模式对中的一致性探索。然后采用权重自适应模块动态调整单个样本的引导权重，以实现自适应性和概括性。在三个基准数据集上进行的大量实验证明，我们提出的GCE方法可以优于最先进的GMA方法。我们的代码可在https://github.com/hka-7/GCEforMSA上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000539?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过模内挖掘和跨模勾结进行RGB-T跟踪的对抗扰动]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600062X?dgcid=rss_sd_all</link>
+      <description><![CDATA[现有的针对视觉对象跟踪器的对抗性扰动攻击主要集中在RB模式上，但对RGB-T跟踪器的对抗性扰动的研究尚未探索。为了解决这一差距，我们提出了一种用于RGB-T跟踪的模内挖掘和跨模共谋对抗扰动攻击算法（ICAttack）。首先，我们建立了一种新颖的模式内对抗线索挖掘（ImAE）范式。通过利用每个模式的独特分布属性作为先验，我们从公共噪音空间中独立提取不同模式的攻击线索。在此基础上，我们开发了一种跨模式对抗共谋（CmAC）策略，该策略能够实现两种模式的对抗代币之间的隐式动态交互。这种交互促进了谈判和协作，为RGB-T跟踪器实现协同攻击收益，其效果超过了单模式攻击。上述过程，从模式内挖掘到跨模式共谋，为RGB-T跟踪器创建了渐进的系统性攻击框架。此外，通过引入空间对抗强度控制模块和精确的响应中断损失，我们进一步增强了对抗扰动的攻击隐蔽性和精确性。控制模块降低不太关键区域的攻击强度，以提高隐身性。中断损失在跟踪器最亮的语义响应区域上使用了一个小面具，集中干扰来精确干扰跟踪器的目标感知。对不同SOTA受害的RGB-T跟踪器的攻击性能进行了广泛评估，证明了ICAttack在跨模式攻击的特异性和有效性方面的优势。此外，我们提供了一个用户友好的界面，以促进对抗性扰动的实际部署。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600062X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EntMix：用于概括视觉语言模型的法学硕士辅助即时学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000655?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着深度学习技术的发展，智能工程任务进入实际应用。然而，真实条件下的性能往往会因数据稀缺或微妙、容易混淆的模式而陷入下降。尽管具有即时学习的视觉语言模型提供了一种无需重新训练主干的新学习方式，但这些方法仍然存在在低数据机制或提示表达能力较差的情况下过度匹配的问题。为了应对这些挑战，我们提出了一个新颖的框架AtlantMix，该框架联合考虑了语义提示学习、多模式信息融合以及预训练数据和特定领域数据之间的对齐。具体来说，Inbox Mix集成了三个关键组件：（1）模式不可知共享表示模块，用于构建共享潜在空间，以减轻预训练数据和目标数据之间的分布差异，（2）LLM辅助提示进化机制，用于在语义上丰富和迭代地细化可学习上下文提示，和（3）交叉注意适配器，用于增强低样本条件下的多模式信息融合和鲁棒性。对七个数据集（包括六个公共基准测试和一个自定义工业数据集）的实验表明，EntMix有效增强了视觉语言模型的适应性，改善了语义表示，并在基础到新和少镜头学习场景下实现了稳健的概括，在有限的标记数据的工程应用中提供卓越的性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000655?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[语言模型连续学习的受控子空间融合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000631?dgcid=rss_sd_all</link>
+      <description><![CDATA[大型语言模型（LLM）在各种自然语言处理任务中表现出了出色的性能。然而，他们在多任务持续学习方面仍然面临着重大挑战，特别是在任务顺序演变且资源受到限制的动态环境中。现有方法通常为每个任务学习单独的适配器模块，导致参数随着任务积累而线性增加，从而阻碍可扩展性和部署效率。在本文中，我们提出了受控子空间融合（CSF），这是一种用于语言模型的免排练、任务不可知的持续学习框架，可以集成跨任务的知识，同时防止参数爆炸。CSF引入了共享的低等级投影子空间，以提供统一的表示基础，从而增强一致性并促进跨任务知识转移。此外，我们设计了一种增量子空间融合机制，该机制自适应地将新的任务适配器与之前融合的表示合并，同时抑制冗余参数增长。因此，该框架实现了跨顺序任务的可扩展和稳健的知识融合。我们在主流架构（包括LLaMA和T5）上评估CSF，模型规模范围从220 M到13 B参数。持续学习基准测试的实验结果表明，与现有方法相比，CSF不仅实现了卓越的平均准确性和参数效率，而且还提供了一种可扩展且部署友好的解决方案，支持高效的知识融合。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000631?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[IDFL：自私客户的激励驱动联邦学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000643?dgcid=rss_sd_all</link>
+      <description><![CDATA[联合学习（FL）中长期以来一直在讨论异类挑战。在这些挑战中，统计同质性（客户端之间的非独立和相同（非IID）数据分布严重影响模型收敛和性能）仍然是一个特别问题。虽然现有的批量优化策略有效地解决了系统级的异类和资源限制，但它们没有充分解决统计异类问题，通常只是在没有理论依据的情况下增加批量大小。此类方法忽视了传统机器学习中根深蒂固的一个关键收敛-概括困境：较大的批量大小会加速收敛，但可能会使概括性能恶化到超过临界阈值，这通常被称为“概括差距”。为了弥合FL中的这一差距，我们提出了一个具有三个关键贡献的全面框架。首先，我们建立批量优化机制，通过罚函数平衡收敛和概括目标，为最佳批量提供数学推导的封闭形式解决方案。其次，我们设计了一个基于Stackelberg博弈的激励机制，该机制协调批量分配与资源贡献，同时确保公平的回报分配，以最大化个人客户效用（定义为回报和成本之间的差异）。第三，我们开发了一个两步验证策略，可以检测和缓解搭便车行为，同时监控收敛模式以终止无效的训练过程。对现实世界数据集的广泛实验验证了我们的方法，证明与最先进的算法相比，收敛性能和公平性都有显着改进。消融研究证实了每个组件的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000643?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[肿瘤学联合学习：连接人工智能创新和隐私保护]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000333?dgcid=rss_sd_all</link>
+      <description><![CDATA[包括机器学习和深度学习模型在内的人工智能（AI）通过提供分析复杂多维数据的强大工具，正在日益改变肿瘤学。然而，开发可靠且可推广的模型需要大规模的训练数据集，而这些数据集通常受到隐私法规和跨机构医疗数据的去中心化性质的限制。联合学习最近成为一种有前途的方法，可以在无需共享原始数据的情况下跨多个站点进行协作模型训练。这项调查介绍了联邦学习的基本原则和架构框架，强调了其在保护数据隐私、提高模型稳健性以及促进多组学和多模式数据集集成方面的优势。讨论了癌症检测、预后预测和治疗反应预测中的关键应用，强调了其支持临床决策的潜力。此外，该调查强调了将联邦学习应用于肿瘤学的主要挑战，并概述了推进精准医学的关键方向，包括多模式数据、基础模型、因果推理和持续学习的集成。随着技术的不断进步，联合学习有望在肿瘤学领域的人工智能创新和隐私保护之间架起桥梁。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000333?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[消极可以是积极的：用于跨模式匹配的稳定且抗噪的补充对比学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000357?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于从互联网收集数据时不可避免地会产生不匹配的数据，具有有噪音通信的跨模式匹配最近引起了相当大的兴趣。在此类有噪音的数据上进行训练通常会导致严重的性能下降，因为传统方法往往会迅速过度适应错误匹配的对。大多数现有的方法都专注于预测更可靠的软对应关系，为更有可能正确的对生成更高的权重。然而，仍然存在两个局限性：（1）它们忽略了负对中嵌入的信息信号，（2）现有方法由于对噪音比的敏感性而不稳定。为了解决这些问题，我们明确考虑了负面因素，并提出了一种稳定且抗噪的补充学习方法，名为双对比学习（DCL），用于与有噪对应进行跨模式匹配。DCL利用正对和负对来提高稳健性。通过互补的对比学习，负对也对模型优化做出了积极贡献。具体来说，为了充分探索不匹配数据的潜力，我们首先根据深度神经网络的记忆效应将训练数据划分为干净和有噪的子集。然后，我们对干净子集中的正匹配对采用香草对比学习。对于包含有噪子集的负对，采用补充对比学习。在这样做时，无论噪音比的水平如何，所提出的方法都具有鲁棒性，能够平衡正信息和负信息。大量实验表明，DCL的性能显着优于最先进的方法，并且表现出显着的稳定性，R@1的方差极低。具体来说，我们的DCL在图像到文本和文本到图像方面的R@1评分分别比NPC高7%和9.1%。源代码发布于www.example.com。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000357?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用基于区块链的机制在模糊群决策中建立信任关系的粒度共识达成过程]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600031X?dgcid=rss_sd_all</link>
+      <description><![CDATA[粒计算是一个框架，包含利用信息粒来解决复杂问题的工具，技术和理论。最近，它已成为一个热门的研究领域，管理不确定性群体决策。为了解决模糊群决策中的信息不完全、一致性和一致性等问题，人们开发了许多使用粒计算的模型。然而，现有的基于颗粒的方法未能考虑管理共识的两个关键因素：（i）个人参与的意愿和（ii）减轻人际互动中偏见的必要性。为了解决这些差距，我们提出了一种新的细粒度共识达成流程，该流程受到区块链技术的启发，有助于在参与者之间建立信任。与之前的大多数方法不同，我们的方法通过使用基于区块链和智能合同的通信结构，最大限度地减少了参与者之间的偏见互动。在这种设置中，参与者的身份、意见和有关接受或拒绝收到的建议的决定对其他同行保持保密。此外，我们的方法还包括同样基于区块链的信任建立机制，鼓励个人重新思考和调整自己的观点。它与大多数以前的信任建立方法不同，消除了意见相似性的要求并避免了信任传播。相反，它通过让参与者看到有多少同行接受了建议的修改来建立参与者之间的信任。这提高了创建信任的计算效率并加快了共识。为了证明我们的方法的有效性，我们提供了一个数字示例，以及对其关键假设的敏感性分析以及对其优点和缺点的讨论。结果证实，这个新的颗粒共识达成过程是有效、有效且实用的。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600031X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[面向团队协作的多智能体寻路和概率验证]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000047?dgcid=rss_sd_all</link>
+      <description><![CDATA[多智能体寻路及其在随机环境中的可靠执行对现实世界应用来说是一个关键挑战，需要规划有效的路径并正式保证安全、无冲突的操作。本文引入了一种新颖的方法论框架来解决这一双重要求。为了最大限度地提高运营效率，我们引入了团队协作的最佳目标分配策略，将其与基于冲突的搜索算法集成，以最大限度地减少完成任务所需的总移动次数。第二个组件是基于概率模型检查的集成验证过程。我们使用马尔科夫决策过程对随机不确定性下的多智能体路径执行过程进行建模。通过利用概率模型检查器和概率计算树逻辑，该框架正式验证关键安全属性，确保无冲突和无僵局路径执行。此外，它还评估了旨在减轻随机延迟的拟议行为约束的有效性，从而验证整个系统的安全性。通过融合多智能体规划、概率推理和基于形式逻辑的验证，提出的框架为解决多智能体决策和不确定性估计建立了一个适合自然扩展的基础。案例研究结果表明，我们的方法可以有效地选择具有最少移动次数的寻路解决方案，同时通过这些正式验证的行为约束显着增强整体系统安全性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000047?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[双层提示集成：利用系统和用户级指令进行稳健的基于LLM的查询扩展和排名融合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000394?dgcid=rss_sd_all</link>
+      <description><![CDATA[大型语言模型（LLM）显示出查询扩展（QE）的强大潜力，但其有效性对提示设计高度敏感。本文研究了在基于聊天的LLM中利用系统与用户提示区分是否可以改善QE，以及应如何组合多个扩展。我们提出了双层提示集合，它将行为系统提示与不同的用户提示配对以生成不同的扩展，并使用轻量级SU-RankFusion方案聚合其BM 25排名列表。对六个异类数据集的实验表明，双层提示始终优于强单提示基线。例如，在Touche-2020上，双层配置将nDCG@10从0.4177（QE-CoT）提高到0.4696，SU-RankFusion进一步提高到0.4797。在Robust 04和DBPedia上，SU-RankFusion将nDCG@10分别比BM 25提高了24.7%和25.5%，在NFCorpus、FiQA和TREC-COVID上也有类似的提高。这些结果表明，系统用户提示集合对于QE是有效的，并且简单的融合可以将预算级别的多样性转化为稳定的检索改进。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000394?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GC-Fed：部分客户参与的梯度集中式联邦学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000278?dgcid=rss_sd_all</link>
+      <description><![CDATA[联邦学习（FL）支持保护隐私的多源信息融合（MSIF），但在高度异类的数据设置中会受到客户端漂移的影响。许多现有方法通过为客户提供通常来自过去信息的共同参考点来减轻漂移，以调整目标或梯度方向。然而，在严重的部分参与下，这种依赖历史的引用可能会变得不可靠，因为参与每轮的客户数据分布集可能会有很大差异。为了克服这一限制，我们提出了一种方法，减轻客户端漂移，而不依赖于过去的信息，通过梯度集中化（GC）约束更新空间。具体来说，我们介绍了本地GC和全球GC，适用于GC在本地和全球更新阶段，分别，并进一步提出GC美联储，一个混合配方，概括两者。理论分析和大量的基准FL任务的实验表明，GC-Fed有效地消除了客户端漂移，并在数据异构和部分参与条件下实现了高达20%的准确性提高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000278?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[提升子波变换引导网络具有灰度关注度，用于CT扫描中的肝脏分割]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000321?dgcid=rss_sd_all</link>
+      <description><![CDATA[计算机断层扫描（CT）扫描中准确的肝脏分割对于肝细胞癌的诊断和手术规划至关重要;然而，手动描绘很费力，并且容易出现操作员的差异。现有的深度学习方法在扩展感受野时经常牺牲精确的边界描绘，或者无法利用编码全局形状的频域线索，而传统的注意力机制在处理低对比度图像时效果较差。为了应对这些挑战，我们引入了LWT-Net，这是一种由可训练的提升子波变换引导的新型网络，结合了频率分裂的矩形关注机制来增强肝脏分割。LWT-Net在编码器-解码器框架中集成了可训练的提升子波变换，以将特征分层分解为捕获全局结构的低频分量和保留边缘和纹理细节的高频带。互补的反向提升阶段重建高分辨率特征，同时保持空间一致性。频率-空间融合模块由基于柱状图的注意力机制驱动，在全局和局部箱中执行柱状图引导的特征重组，同时利用自我注意力来捕获远程依赖性并优先考虑解剖学上重要的区域。对LiTS 2017、WORD和FLARE 22数据集的综合评估证实了LWT-Net的卓越性能，平均Dice相似性系数为95.96%、97.15%和95.97%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000321?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Geocraft：图像和点云融合驱动的基于扩散模型的3D重建方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600028X?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着虚拟现实（VR）、自动驾驶、数字双胞胎等技术的快速发展，对高精度、逼真的多模式3D重建的需求激增。由于该技术能够集成2D图像和点云等多源数据，该技术已成为计算机视觉和图形领域的核心研究焦点。然而，现有方法面临着单视图重建中的几何不一致、点云到网格转换较差以及多峰特征融合不足等挑战，限制了其实际应用。为了解决这些问题，本文提出了Geocraft，这是一种多模式3D重建方法，通过三个协作阶段从2D图像生成高精度3D模型：迪夫2DPoint、Point 2DMesh和Vision 3DGen。具体来说，迪夫2DPoint使用扩散模型和投影特征融合生成具有几何对齐的初始点云; Point 2DMesh使用纯自回归解码器的Transformer和直接偏好优化（DPO）将点云转换为高质量网格; Vision 3DGen通过多模式特征对齐创建高保真3D对象。对Google扫描对象（GSO）和Pix 3D数据集的实验表明，Geocraft在关键指标方面表现出色。在GSO数据集中，其CMMD为2.810，VIDCLIP为26.420;在Pix 3D上，CMMD为3.020，VIDCLIP为27.030。BioCraft的性能明显优于现有的3D重建方法，并且在计算效率方面也表现出优势，有效解决了3D重建中的关键挑战。该代码可在https://github.com/weixuanma/GeoCraft上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600028X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于梯度引导图像修复的有效性感知上下文建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000412?dgcid=rss_sd_all</link>
+      <description><![CDATA[现有的先验引导图像修复方法显示了最先进的性能。但它们的先前提取计算成本高昂，而且准确性不稳定。此外，大多数只注重结构引导，很难促进真实纹理的修复。受梯度图易于提取和反映图像结构和精细纹理细节这一事实的启发，本文提出了一种用于图像修复的梯度引导网络，该网络首先利用梯度上下文信息和多层图像补偿特征来修复梯度，然后利用修复后的梯度特征来指导真实图像的生成。引入了梯度驱动注意力（GDA）模块，以提供高效的事先指导。此外，还提出了一种上下文有效性感知（CVA）模块，用于逐步填充图像的空洞区域，该模块通过有效性感知测量准确利用本地和上下文信息进行图像修复。此外，通过人为操纵梯度图的生成，我们的梯度引导图像修复方法实现了用户引导的图像编辑，有效增加了图像生成的多样性，增强了图像编辑的灵活性。在基准数据集上的实验表明，所提出的方法优于最先进的方法。还进行了广泛的消融实验，以证明每个模块的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000412?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种具有梯度映射和融合的图神经网络知识提炼新方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000424?dgcid=rss_sd_all</link>
+      <description><![CDATA[图知识蒸馏（GKD）的主要目标是将知识从复杂的图神经网络（GNN）教师转移到更小、更高效的GNN或多层感知器学生。尽管现有的方法解决了网络可扩展性，但它们依赖于一位冻结的老师，而老师无法解释如何得出结果，从而限制了性能并阻碍了学生的进步。因此，我们提出了一种新型的GKD方法，称为动态梯度蒸馏（DVD），由基于生成对抗模仿学习（GAIL）的梯度映射和两阶段梯度融合模块组成。前者借鉴GAIL原则，构建教师理解知识的学习过程。后者由注意力融合和加权偏差操作组成。通过注意力融合操作，捕捉并融合老师的反应，以改变学生在每一层的梯度。然后，通过使用加权偏差操作将融合的梯度与学生的反向传播梯度相结合来更新融合的梯度。DVD允许学生有效地继承和扩展教师的学习过程。对七个公开可用的数据集进行的广泛实验表明，DVD在节点分类任务中的表现可以显着优于一些现有方法。我们的代码和数据在https://github.com/KangL-G/Dynamic-Gradient-Distillation上发布。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000424?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MulMoSenT：使用文本-视觉交叉注意和融合对低资源语言进行多模式情感分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000084?dgcid=rss_sd_all</link>
+      <description><![CDATA[互联网的广泛使用和智能设备的日益广泛使用推动了多模式（图像-文本）情感分析（MTA）这一新兴研究领域的快速扩张。这种增长是由这些技术产生的大量图像文本数据推动的。然而，GMA面临着重大挑战，特别是图像和文本之间的不一致，即图像可能会有多种解释或与其配对文本相矛盾。此外，简短的文本内容通常缺乏足够的上下文，使情绪预测变得复杂。这些问题在低资源语言中尤其严重，这些语言中注释的图像文本库稀缺，视觉语言模型（VLM）和大型语言模型（LLM）表现出有限的性能。这项研究引入了MulMoSenT，这是一个多模式图像-文本情感分析系统，旨在应对低资源语言的这些挑战。MulMoSenT的开发跨越四个关键阶段：语料库开发、基线模型评估和选择、超参数自适应以及模型微调和推理。提出的MulMoSenT模型实现了84.90%的峰值准确性，超过了所有基线模型。给出37分。比VLM提高83%，比纯图像模型提高35.28%，比纯文本模型提高0.71%。该数据集和解决方案均可在https://github.com/sadia-afroze/MulMoSenT上公开访问。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000084?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[量子计算与智能农业的融合：方法、实施、应用和挑战的系统回顾]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000382?dgcid=rss_sd_all</link>
+      <description><![CDATA[不断增长的全球人口和环境问题的严重性正在推动农业部门采用创新技术进步来实现可持续粮食生产。在执行农作物产量预测、疾病检测、土壤分析和天气预报等任务时，经典计算方法经常与农业数据的数量和复杂性作斗争。本系统文献评论（SLR）深入分析了量子计算在智能农业中不断变化的重要性。量子算法有潜力通过利用叠加和纠缠等量子力学原理来降低计算复杂性，并为多维挑战创建新颖的数据表示方法。本文采用基于八个具体研究问题的结构化研究方法，全面调查了2012年至2025年间发表的100多项关于量子计算和智能农业的同行评审研究。它展示了量子机器学习（QML）、量子优化和混合量子经典模型在各种农业应用中的有效性。该调查检查了现实世界的实现，并将现有的量子计划与分类和预测任务的经典基准进行了比较。所提出的工作确定了当前量子方法的挑战和局限性。本文概述了未来工作的方向，包括量子硬件的可访问性和特定领域算法的开发。据我们所知，这是第一个研究问题驱动的SLR，它深入分析了量子计算如何应用于农业应用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000382?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[语音情感识别：对技术和管道的系统性大回顾]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000400?dgcid=rss_sd_all</link>
+      <description><![CDATA[语音情感识别（BER）是一个快速发展的研究领域，旨在使机器能够从声音信号中自动识别人类情感。这篇系统性评论对BER文献进行了全面、结构化的综合，重点关注涵盖该领域的理论基础、信号处理管道和方法论进步的十一个关键研究问题。与之前的调查不同，这次审查通过问题驱动的结构统一了BER管道各个阶段的基础和最新见解，为BER社区中的新研究人员和经验丰富的研究人员提供了清晰的路线图。我们首先探索情绪的心理和计算建模，然后详细检查情绪表达的不同模式，特别强调言语。该评论重点介绍了最广泛使用的情感语音数据库、常见的预处理技术以及SEN中采用的各种手工制作和学习功能。我们将传统机器学习方法与最近的深度学习模型进行了比较，强调了它们各自的优势、局限性和应用上下文。特别关注最近向自我监督学习（SSL）模型（例如Wave 2Vec 2和HuBERT）的转变，这些模型重新定义了基于语音的表示学习的最新技术。特别关注评估指标、基准策略和现实世界的部署挑战，包括说话者独立性和环境变异性问题。该评论的结论是，找出了文献中的关键局限性，并阐明了开发可靠、可扩展且上下文感知的情感感知系统所需的未来研究方向。总体而言，这项工作是推进BER研究和现实环境中实际部署的核心参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000400?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EDGCN：一个嵌入驱动的融合框架，用于异类感知运动图像解码]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000497?dgcid=rss_sd_all</link>
+      <description><![CDATA[运动意象脑电图（MI-EEG）捕捉与想象的运动任务相关的神经活动，并已广泛应用于基础神经科学和临床研究。然而，MI-EEG信号固有的时空不均匀性和明显的受试者间变异性给准确解码带来了重大挑战。大多数现有的深度学习方法依赖于固定的架构和共享的参数，这限制了它们捕捉由个体差异驱动的复杂、动态模式的能力。为了解决这些限制，我们提出了一种嵌入驱动图卷积网络（EDGCN），它利用具有异源性的时空嵌入融合机制来从共享的嵌入驱动参数库中自适应地生成图卷积核参数。具体来说，我们设计了基于多分辨率功率谱特征的多分辨率时间嵌入（MRTE）策略和集成局部和全局连接结构的结构感知空间嵌入（SASE）机制。在此基础上，我们构建了一种基于切比雪夫图卷积的异类感知参数生成机制，以有效捕捉脑电信号的时空异类，并具有一个增强多样性和代表性融合的垂直约束参数空间。实验结果表明，所提出的模型在BCIC-IV-2a和BCIC-IV-2b数据集上分别实现了86.50%和90.14%的卓越分类准确率，优于当前最先进的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000497?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用核积分和渐进重采样的辅助尺度空间光谱融合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000229?dgcid=rss_sd_all</link>
+      <description><![CDATA[受益于蓬勃发展的深度学习技术，空间光谱融合（SSF）被认为是打破使用昂贵设备获取高光谱图像（HSI）传统的理想替代方案。然而，随着取得的显着进展，当前的解决方案需要针对不同的缩放因子训练和存储多个模型。为了克服这一困境，我们提出了一种空间谱融合神经运算符（SFNO）来在运算符学习框架内执行任意规模的SSF。具体来说，SFNO从逼近理论的角度解决这个问题，通过逐点卷积层将两个退化函数的特征嵌入到多维潜在空间中，从而捕获更丰富的光谱特征信息。因此，函数空间之间的映射通过Galerkin积分（GI）机制进行逼近，最终通过最终的降维步骤产生高分辨率HSI。此外，我们提出了一种渐进式重采样集成（PR），它对三重核集成中的被积函数域进行重采样，以提供非本地多尺度信息。两种整合机制的协同作用使SFNO能够毫不费力地处理训练期间从未遇到过的放大因素。对CAVE、Chikusei、Pavia Centre、哈佛大学和现实世界数据集的广泛实验表明，我们的SFNO比现有的最先进方法提供了实质性改进。特别是，在CAVE、Chikusei和Pavia Centre数据集的8倍上采样设置下，SFNO在PSNR方面分别超过次佳模型0.56分贝、1.05分贝和0.72分贝。我们的代码可在https://github.com/weili419/SFNO上公开获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000229?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:33:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过多模式信息融合，具有大型语言模型的代币化脑电波信号用于癫痫检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000072?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于信号固有的复杂性、传感器配置的可变性以及区分弱类间差异的困难，使用多传感器脑电信号检测癫痫发作是一项具有挑战性的任务。为了应对这些挑战，我们提出了一种新型的多模式信息融合框架，该框架集成了大语言模型（LLM）和多模式脑电特征标记化方法，用于增强癫痫检测。本文采用多峰特征提取（MFE）方法有效地从脑电信号中生成多峰特征表示，并从不同信号域提取脑电信号的不同特征表示。此外，我们设计了一种多模式脑电特征标记化方法，对脑电信号特征进行标记化并融合语义信息，解决了癫痫脑电特征与提示词中语义信息的融合问题。我们使用预训练的LLM的强大推理和模式识别能力来准确、稳健地检测癫痫事件。在公共数据集上评估所提出的方法。大量实验结果表明，所提出的方法在多项性能指标上优于当前的比较方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000072?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:33:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ExInCOACH：战略探索与情境感知游戏入职互动辅导相结合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000308?dgcid=rss_sd_all</link>
+      <description><![CDATA[传统的游戏教程通常无法提供实时上下文指导，提供与动态游戏状态脱节的静态指令。这种限制源于他们无法解释不断变化的游戏环境并在实时玩家互动期间生成高质量的决策。我们介绍了ExInCOACH，这是一个混合框架，它将探索性强化学习（RL）与交互式大型语言模型（LLM）协同作用，以实现状态感知的自适应辅导。我们的框架首先采用深度RL通过自我游戏发现战略模式，构建Q函数。在玩家入职期间，LLM通过分析实时游戏状态和玩家决策，将当前法律行为的Q值及其使用条件映射到自然语言规则解释和战略建议中。《斗地注》（回合制纸牌游戏）的评估显示，使用ExInCOACH的学习者经历了直观的策略内化--所有参与者都表示比通过基于规则的教程更快地掌握高级策略，而大多数玩家高度重视实时上下文反馈。一项比较研究表明，与通过传统方法上场的球员相比，接受ExInCOACH训练的球员获得了70%的胜率（14场胜利/20场比赛），因为他们受益于随着技能进步而演变的适应性指导。为了进一步验证该框架的通用性，还在高复杂性实时策略（RTS）游戏《星际争霸II》中进行了评估。在2 v2合作战斗中，使用ExInCOACH训练的团队在对阵Vision LLMS（VLLM）协助的团队时取得了66.7%的胜率，在对阵依赖传统静态游戏维基进行学习的团队时取得了令人印象深刻的100%的胜率。认知负荷评估表明，ExInCOACH显着减轻了玩家在涉及实时决策和多单位协作的复杂场景中的精神负担和挫败感，同时在信息吸收效率和战术适应性方面也优于传统方法。这项工作提出了一种基于RL模型探索和LLM规则解释的游戏教程设计范式，使人工智能生成的策略通过针对个人学习上下文量身定制的自然语言交互来访问。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000308?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:33:49 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[FedEGL：边缘辅助联邦图学习]]></title>
@@ -174,265 +419,6 @@
       <pubDate>Mon, 19 Jan 2026 14:27:42 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[SaSam：用于多模式遥感图像的规模感知分割任何模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011169?dgcid=rss_sd_all</link>
-      <description><![CDATA[任何分割模型（Sam）因其出色的分割性能和概括能力，在遥感图像分割任务中取得了显着进展。然而，现有的基于ASM的方法主要专注于对单模式数据进行建模，这限制了模型在复杂场景中的特征表示。此外，这些方法在微调期间未能充分利用多尺度信息，并且缺乏对多级别特征的协作利用。为了解决这些问题，我们提出了规模感知的Sam（SaSam）框架，旨在探索Sam用于多模式遥感图像语义分割的潜力。具体来说，我们首先采用双注意力特征融合模块将多模式特征集成到统一特征中，使Sam能够适应多模式任务，而无需改变其原始结构。接下来，我们设计了多尺度LoRA专家模块的混合体，通过多个轻量级LoRA专家捕获不同尺度的对象特征，以增强模型的规模感知能力。随后，我们引入了多层特征自适应聚合模块，以充分利用Sam编码器中的多粒度特征。最后，将多尺度特征输入到掩蔽解码器中，以生成准确的分割结果。对三个多峰遥感数据集的大量实验证明了我们方法的优越性。源代码可访问https://github.com/MaYou1997/SaSAM。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011169?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[弥合计算机视觉和生物电信号分析之间的差距]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011091?dgcid=rss_sd_all</link>
-      <description><![CDATA[生物电信号对于无创生理监测和疾病诊断至关重要。人工智能（AI）在自动生物电信号分析中的应用引起了关注。然而，训练有监督的人工智能模型需要大量的标记数据，这在医疗场景中尤其具有挑战性。现有的转移学习（TL）方法试图从计算机视觉（CV）领域的图像中转移知识，但由于CV和生物电信号领域之间的维度差异和分布差距而面临重大挑战。传统的领域自适应（DA）假设领域任务不变性，主要关注特征分布差异，没有考虑标签不一致性和复杂的跨维度场景。我们的动机是通过联合解决CV和生物电信号领域之间的维度差距和任务差异来解决跨领域知识转移的根本挑战，从而促进有限的标记医疗数据的稳健学习。在本文中，我们提出了一种跨维信息传输（CDIT）框架，该框架通过并行编码-解码模块实现有效的信息融合，该模块在将二维（2D）CV图像和一维（1D）生物电信号映射到共享特征空间时保留了二维（2D）CV图像和一维（1D）生物电信号的区分特征。此外，我们开发了一种跨任务DA方法，该方法协同集成特征和标签信息，以解决CDITF DA阶段的标签不一致挑战。我们使用六个数据库对两个代表性场景进行了广泛的实验。实验结果表明，具有跨任务DA的CDITF（CDITF-CTDA）实现了从CV到生物电信号域的成功知识转移，尽管它们存在固有差异，并且始终优于基线方法，生物电信号分析的曲线下面积提高了0.02-0.07。这些结果证明了CDITF-CTDA在有限标记数据医疗场景下利用CV知识进行生物电信号分析的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011091?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ConfShield：一个双阶段融合框架，用于云环境中稳健且增强隐私的联邦学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010991?dgcid=rss_sd_all</link>
-      <description><![CDATA[联合学习（FL）支持深度神经网络（DNN）的协作训练，同时保护用户数据隐私。然而，FL系统仍然容易受到复杂的中毒攻击，并面临固有的隐私风险，特别是在云部署中。现有的防御机制对于异类攻击载体的功效往往有限，难以应对非独立和同一分布式（非IID）数据的复杂性，并且需要在模型准确性和安全性之间进行仔细权衡。本文介绍了ConfShield，这是一种新型的双阶段融合框架，专为云环境中稳健且增强隐私的FL而设计。ConfShield使用经过验证的机密虚拟机（CGM）建立安全飞地，以保护核心FL流程免受云提供商的侵害，并确保模型机密性。这种防御的基石是一种系统性的双阶段融合机制，它独特地集成了来自两个不同空间的信息：（1）模型参数空间，通过针对公开可验证的基线模型的分层分析，和（2）行为logit空间，通过受知识蒸馏启发的审查，针对干净的、公开的评估数据集的相同基线。只有通过此全面融合过程验证的模型才会被聚合。实验结果证明，ConfShield在各种数据分布和参数配置中对各种中毒攻击（包括隐蔽后门）具有显着的功效。ConfShield将后门攻击成功率（ASB）显着降低至20%以下，并且在无针对性攻击下，具有最小的收敛负担，为不安全FL设置持续时间的1.05-1.33倍，凸显了其作为强大、增强隐私的FL解决方案的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010991?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GDCF-Net：一种用于电力Transformer多类故障诊断的生成-区分对比融合网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011145?dgcid=rss_sd_all</link>
-      <description><![CDATA[高压电力系统依赖于主变压器，主变压器的意外故障可能会导致代价高昂的停电和安全风险。实践中的条件监测必须在不断变化的操作制度、变电站之间的异类设备和传感器、老化的媒体和普遍的测量噪音下运行--这些条件会导致域转移、稀缺和不平衡的标签以及脆弱的特征可分离性。基于规则的诊断对于透明度仍然有价值，但在这些限制下保持准确性和跨机器可靠性具有挑战性。我们提出了生成区分对比融合网络（GDCF-Net），这是一个围绕协同运作的三个补充层构建的多层融合框架。(1)表示融合：条件变分对齐匹配训练后验q（z）|x，y）到p（z）之前的测试时间|x）通过KL正规化，缩小训练推理差距并避免标签泄漏;监督对比目标塑造后验和前验潜在手段，以加强班级内凝聚力并扩大班级间差距。(2)特征融合：交叉注意分类器使用潜在的作为查询，使用原始特征投影作为Key和Value，将潜在的语义融合回原始特征空间，以显现类别突出线索并支持可解释性。(3)决策融合：一个轻量级原型头，具有EMA更新的原型和预先调整logit，以产生用于不平衡校准和开集拒绝的能量分数，这些分数与分类器logit融合。该网络通过紧凑的关节损失进行端到端训练，该损失结合了重建、KL分歧、监督对比和分类，以及可选的原型正规化。推理仅使用先前路径，而解码器仅训练，从而保持较低的延迟。在两个现实世界的数据集中，GDCF-Net在类别失衡和域转移下的加权F1中始终优于代表性ML/DL基线和基于规则的基准。逐渐引入表示级、特征级和决策级融合模块的消融实验证明了分类性能的逐步提高。此外，未知故障实验证实，拟议的融合设计在现实工业条件下保持稳健性;测量的FLOP表明适合部署。GDCF-Net在现实世界的不平衡和域转移情况下推进准确、可解释和可部署的Transformer故障诊断，支持现代电力系统中可靠的跨机监控。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011145?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有测量审查和冗余通道的2-D多传感器系统的鲁棒融合过滤]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011108?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文致力于解决一类受测量截尾和模界不确定性影响的二维（2-D）位移变化多传感器系统的鲁棒融合Tobit卡尔曼过滤问题。此外，为了减轻通道数据包丢失的负面影响，引入了冗余通道传输协议。首次针对2D系统计算了有关系统状态的审查测量输出的条件数学期望和方差。然后，建立一组局部鲁棒Tobit卡尔曼过滤器，其中推导出过滤误差二阶矩的上界，并随后通过选择适当的过滤器参数来最小化。此外，通过顺序协方差交集法，通过融合每个局部过滤器的估计来获得融合估计。最后，通过算例验证了所提出的鲁棒融合Tobit卡尔曼过滤算法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011108?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于自适应特征信息选择与融合的实时表面缺陷检测模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011030?dgcid=rss_sd_all</link>
-      <description><![CDATA[在当代计算机视觉中，You Only Look Once（YOLO）已成为物体检测的基准，广泛应用于从工业质量控制和自动化检测等智能制造到实时视频监控等领域。例如，检测生产线中钢铁产品或电子元件的表面缺陷依赖于此类算法来维持高质量和安全性。尽管YOLO在许多任务中具有出色的速度和准确性，但它在某些具有挑战性的条件下仍然面临困难，特别是高动态范围场景、复杂背景以及小型或微妙物体的检测。这些情况在实践中很常见，例如，在照明不均匀的闪亮金属表面上或在繁忙的监控场景中，传统的YOLO模型很难可靠地捕捉细微细节。为了克服这些限制，我们提出了一种改进的基于YOLO的框架，具有新颖的动态跨尺度特征融合模块（Dy-CFM）和双路径下采样卷积模块（DDConv）。这些模块增强了多尺度特征表示并在极端光照和背景混乱下保留细节，这对于复杂环境中的监控至关重要。此外，我们还使用Union上的最小点距离相交（MPDIOU）作为边界盒回归的优化损失函数，显着改善了小对象的定位。得益于这些创新，该模型在具有挑战性的东北大学表面缺陷（NEU-DET）数据集上实现了75.1%的平均精度（mAP），而最小的变体的大小仅为1.6M。与YOLOv 8相比，我们的方法将mAP提高了2.1%，同时还提供了更高的推理速度（FPS），并且它超过了检测Transformer（DETR）5.0% mAP。该模型进一步展示了对Google Cloud 10缺陷检测（GC 10-DET）数据集的出色概括性。这种增强的检测算法不仅提高了性能，而且在智能制造和自动化检测系统、智能视频监控和自动驾驶汽车中提供了显着的实用价值，其中对小缺陷或目标的可靠实时检测至关重要。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011030?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[AMGNet：用于多模式讽刺检测的自适应多粒度脱钩网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011017?dgcid=rss_sd_all</link>
-      <description><![CDATA[多模式讽刺检测是识别用户通过图像和文本表达的隐含意图的关键一步。现有的方法主要依赖于检测跨模式的不一致信息来进行讽刺检测。然而，他们经常忽视一个关键问题：这种不一致的信息仅占整个特征空间的一小部分，并且容易受到模式不变特征的干扰。为了解决这些限制，我们提出了一种用于多模式讽刺检测的自适应多粒度脱钩网络（AMGNet），它捕获全球层面的全面语义信息，动态提取细粒度的局部线索，并利用脱钩进行讽刺检测。具体来说，为了有效防止跨模式融合期间特定模式特征的退化，我们设计了双向条件Transformer。此外，我们还提出了注意感知图卷积网络（AAGCN）和邻居感知图卷积网络（NAGCN）来分别增强文本和视觉模式的表示能力。实验结果表明，提出的AMGNet模型在两个MSD基准数据集MMSD和MMSD2.0上分别达到了94.35%和86.26%的准确率，比最新的最先进方法分别高出0.94%和1.36%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011017?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MMME：实现视觉与生理融合的自发多模式微表达数据集]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011005?dgcid=rss_sd_all</link>
-      <description><![CDATA[微表情（ME）是微妙、转瞬即逝的非语言线索，可以揭示个人真实的情绪状态。他们的分析因其在医疗保健、刑事调查和人机交互等领域的广阔应用而引起了相当大的兴趣。然而，现有的ME研究仅限于单一视觉形态，忽视了其他生理形态传达的丰富情感信息，导致ME识别和识别性能远低于实际应用需求。因此，探索ME视觉特征和生理信号（PS）之间的跨模式关联机制并开发多模式融合框架是推进ME分析的关键一步。这项研究引入了一种新型的ME数据集MMME，该数据集首次能够同步收集面部动作信号（ME）、中枢神经系统信号（EEG）和外周PS（PPV、RSP、SKT、EDA和心电图）。通过克服现有ME库的限制，MMME包括634个ME、2841个宏表达（MaEs）和2890个同步多模式PS试验，为研究ME神经机制和进行基于多模式融合的分析奠定了坚实的基础。大量实验验证了数据集的可靠性，并为ME分析提供了基准，证明ME与PS集成显着增强了识别和发现性能。据我们所知，MMME是迄今为止在模态多样性方面最全面的ME数据集。它为探索ME的神经机制和揭示视觉-生理协同效应提供了关键的数据支持，推动ME研究从单模态视觉分析到多模态融合的范式转变。我们的MMME数据集可在https://github.com/Mac0504/MMME上索取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011005?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于视觉语言模型的多元化语义表示学习用于零镜头室内场景识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501111X?dgcid=rss_sd_all</link>
-      <description><![CDATA[最近，视觉语言模型，例如著名的CLIP，在各种零镜头识别任务中表现出了出色的概括能力。然而，由于类间语义相似性高，它们在零镜头细粒度识别上的性能（尤其是对于室内场景）仍然有限。为了应对这一挑战，我们提出了一种基于预先训练的视觉语言模型的多元化语义表示学习（NSRL）方法，用于零镜头室内场景识别。具体来说，我们首先为室内场景图像设计一个有意义的提示文本，以基于CLIP文本编码器提取语义特征。然后，为了探索多样化的视觉相关语义特征，我们引入了一种基于CLIP图像编码器的视觉引导语义特征学习方法，通过对比学习细化多样化的视觉原型。接下来，通过多头注意力融合策略融合这些特征，生成不同的语义表示。最后，构造双重重建损失和交叉熵损失，以促进零激发学习的知识转移。在测试阶段，受收敛进化理论的启发，我们修改了视觉引导的语义特征学习方法，以获得未见图像的多样化语义表示。对三个室内场景数据集的大量实验表明，DS RL在零镜头室内场景识别方面达到了最先进的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501111X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于情绪偏侧化的时空神经网络的脑电情绪识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011157?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于大脑的体积导效应，多通道脑电波（EEG）包含冗余信息，可能会导致过匹配问题并增加计算成本。为此，人们研究了基于相关性分析或监督学习的脑电通道选择解决方案，以确定脑电情感识别任务中的重要通道。然而，由于监督学习通道选择，这些研究可能倾向于过度适合高频情绪，而不适合低频情绪，从而表现不佳。因此，在没有监督指导的情况下选择有效的渠道子集来代表普遍的情绪状态是一个重要问题。本文提出了一种用于脑电情感识别的通道选择方法，称为情感侧化启发的时空神经网络（ELSTNN）。在ELSTNN中，情感偏侧化的神经科学发现被应用于通过无监督学习来指导通道选择，从而消除冗余通道并保留偏侧化现象。对于情感识别，ELSTNN采用三个卷积层和一个长短期记忆层来挖掘和集成所选脑电信号的深层时空特征。在公开的DEAP和DREAMER数据集上进行了大量实验，结果表明ELSTNN在这两个数据集中优于各种最先进的方法，具有统计学意义（p &lt; 0.05），DEAP上的电价和觉醒的平均准确率分别为95.67%和94.97%，DREAMER上的电价和觉醒的平均准确率分别为93.72%和93.57%。它表明，我们提出的ELSTNN选择了更普遍适用的通道，因为它保留了基本的情感侧化，对各种情感具有更普遍的适用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011157?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能农业中的信息融合：机器学习应用和未来研究方向]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011029?dgcid=rss_sd_all</link>
-      <description><![CDATA[这篇评论对机器学习（ML）在农业中的应用进行了全面分析，特别强调数据融合和先进人工智能技术在精准农业中日益重要的作用。它通过深入研究传统机器学习方法向现代技术的转变，提供其演变和影响的连贯综合，解决了现有调查中的一个显着差距。该研究围绕四个关键研究目标（RO-1至RO-4）构建，探索了收获前、收获和收获后阶段的ML集成;展示了多源数据融合的好处，包括用于ML模型的遥感、物联网和生物数据;审查当前的研究趋势;并编制重要的公共数据集以支持未来的模型开发。该论文强调了新兴方法（例如转换器、GAN、联邦学习、持续学习和可解释人工智能）在应对现代农业挑战中的使用。此外，论文概述了数据同质性、隐私和基础设施差距等挑战，并提出了未来的研究方向，以指导可持续和包容性农业创新。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011029?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于轴承故障诊断的具有混合能量收集和DL增强振动感测的自供电无线传感器节点]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011170?dgcid=rss_sd_all</link>
-      <description><![CDATA[物联网（IoT）越来越多地被用于铁路健康监测，但在恶劣和动态的环境中，为分布式传感器节点维持可靠的电力仍然具有挑战性。提出了一种用于铁路轴承故障诊断的紧凑型自供电电磁-压电混合无线传感节点（EPH-WSN），具有可持续能源、自供电振动传感和智能故障诊断功能。旋转能量收集单元（EHU）在300 rpm时实现28.2 mW的最大功率。最重要的是，通过采用能量感知的间歇性传输策略，该系统在这种具有挑战性的低速条件下展示了经过验证的可持续自供电运行，确保了长期监控的可靠电源。自供电的压电振动传感单元（VSU）精确捕获细微的三轴振动信号，并将其无线传输到终端控制台进行实时分析。每次传输都提供了2.3 GHz的30秒振动数据段，为特征提取和故障诊断提供足够密集的信息。为了解决稀疏和受噪音污染的振动数据中的轴承故障诊断问题，开发了多尺度可见剩余网络（MSV-ResNet），在不同操作条件下实现93- 99.5%的准确性，比CNN提高高达29%。值得注意的是，该模型保持了轻量级结构，参数计数有限，推理时间短，确保计算效率适合部署在资源受限的自供电节点上。这项研究证实了紧凑型自供电无线传感器网络用于可靠铁路轴承监测的可行性，并展示了其在旋转机械预测性维护中的可扩展应用潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011170?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于创新的雷达目标双驱动混合跟踪架构]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011182?dgcid=rss_sd_all</link>
-      <description><![CDATA[高超音速导弹和隐形飞机等目标的特点是运动模式复杂、机动性强和雷达测量统计异常。尽管模型驱动的雷达目标跟踪方法提供了物理可解释性，但它们依赖于明确的先验假设。数据驱动的方法理论上可以通过非线性映射来逼近任意复杂的运动，但存在解释性较差、特征提取期间容易受到噪音的影响以及由于样本不平衡而导致的低频机动特征丢失等问题。因此，本文提出了一种基于创新的双驱动混合跟踪架构（DDHTA），融合了模型驱动和数据驱动方法的优势。首先，采用模型驱动的方法进行基本状态估计，并提出双条件判断调整（DCJA）方法自适应调整测量误差方差，从而为数据驱动层提供高质量的基线估计，减少异常噪音对特征提取的干扰。此外，在数据驱动层，设计了双尺度时态网络（DSTNet）。通过学习从创新到估计误差的映射，它结合了因果扩张卷积和多头自我关注的优点，以提供动态补偿，从而纠正了模型驱动方法的估计误差。数值仿真结果表明，该方法增强了算法处理复杂环境下目标机动的能力，具有更高的跟踪准确性和鲁棒性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011182?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[点对点传感器网络RFS密度的分布式加权融合]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011224?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文研究了点对点（P2P）传感器网络上的分布式多目标跟踪，其中局部随机有限集（RFS）密度的估计质量具有变化性。我们引入了一种基于几何平均或算术平均融合的RFS密度的新型加权融合策略，随后将其整合到平均共识或分布式洪泛协议中以实现全局一致性。该方法能够对多个子密度集群并行执行融合操作，其中局部子密度是通过对原始密度进行因式分解来获得的。理论上，证明了在合理的假设下，局部融合结果会收敛到集中融合结果。此外，通过将给定的融合策略应用于高斯混合概率假设密度（GM-PHD）过滤器的后验强度，我们开发了两种类型的分布式GM-PHD过滤器：一种有反馈，另一种无反馈。前者提供出色的跟踪性能，而后者有效地消除了通信延迟。最后，基于P2P网络的多目标跟踪案例研究的仿真结果表明了所提出方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011224?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于异类图嵌入的三监督渐进对比学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011133?dgcid=rss_sd_all</link>
-      <description><![CDATA[异类图嵌入旨在通过捕获其丰富的结构和语义信息来将异类图中的节点映射到低维表示中。由于标记数据的稀缺性，对比学习已成为异类图表示学习的有效方法。然而，现有的异类图对比学习方法经常依赖于随机或静态负采样策略，无法适应样本难度的动态性质，最终降低了模型性能和训练稳定性。此外，它们通常关注消息传递期间的节点特征和隐式语义聚合，缺乏对异类关系的显式结构化建模。为了解决这些问题，我们提出了一种用于异类图嵌入的Triple- S同步渐进C对比学习（TSSPL）方法。具体来说，设计了渐进式对比学习策略来增强模型的辨别能力和稳定性。该策略通过动态硬负样本挖掘和数据增强技术实现粗粒度对比学习。此外，还通过路径分解对异类图中的元路径进行显式建模。此外，结构语义以三重组的形式表示，其中引入辅助任务来优化关系载体。最后，对三个公共数据集的广泛实验表明，与下游任务的最先进方法相比，TSSLC实现了有竞争力的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011133?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[指令IVF：在不同文本指令的指导下，红外和可见光图像的退化感知融合]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011121?dgcid=rss_sd_all</link>
-      <description><![CDATA[最近，提出了几种开创性的抗退化红外和可见光图像融合方法，这些方法利用人机交互文本指令在不同的退化条件下生成高质量的融合图像。尽管这些方法取得了显着进展，但仍然存在两个关键挑战。首先，由于用户的主观性，传达相同含义的文本指令在形式上可能存在显着差异。因此，处理自由形式的用户指令而不是固定格式的输入仍然具有挑战性。其次，视觉和语言特征之间复杂的语义关系尚未得到充分探索。为了解决这些问题，我们提出了DirectIVF，这是一种由不同文本指令指导的降级感知图像融合框架。具体来说，我们设计了一套结构化的构建指南，并利用LLM强大的语义理解能力来帮助生成广泛的文本指令，从而生成由6000个不同文本样本组成的优化集。此外，为了全面捕获有价值的视觉语言线索，我们提出了一个异类特征对齐模块，实现视觉区域和文本序列之间的双向、多粒度交互。广泛的定性和定量实验表明，我们的方法有效地适应不同的用户定义的教学风格，并在不同的降级场景中优于11种最先进的方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011121?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[放大转发中继下多速率非线性正系统的分布式区间融合滤波：有限时域情形]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011236?dgcid=rss_sd_all</link>
-      <description><![CDATA[研究了一类多采样率时变非线性正系统在未知但有界扰动下的分布式区间融合滤波问题。采用多个不同采样周期的传感器测量系统的输出。为了延长传感器的传输距离，在传感器到远程滤波器的传输链路中引入了放大转发继电器。本文旨在开发一种分布式融合过滤算法，保证系统状态在每个更新时刻保持在非负间隔内，并且间隔宽度具有有限水平l 1性能。利用虚拟测量补偿方法将多速率系统转化为单速率系统。随后，通过区间分析和比较原则建立充分条件，以确保局部过滤器的正性及其区间估计的有限视界l 1性能。此外，通过求解某些线性规划问题来确定局部区间过滤器的收益矩阵。此外，设计了一种基于区间的分布式融合算法来融合局部区间过滤器计算出的这些区间，以提供包含原始系统状态的最紧区间。最后，通过两个例子说明了所建立的分布式区间融合过滤算法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011236?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人操纵视觉-语言-动作模型的多模式融合：系统性评论]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011248?dgcid=rss_sd_all</link>
-      <description><![CDATA[视觉语言动作（VLA）模型通过在单一多模式学习框架内统一感知、推理和控制，代表了机器人技术的新前沿。通过集成视觉、语言和动作模式，它们实现了为描述驱动的操纵和通才自主而设计的多模式融合系统。这篇系统性评论综合了VLA研究的最新水平，重点关注与机器人操纵相关的架构、算法和应用。我们检查了102个模型、26个基础数据集和12个模拟平台，并根据其融合策略和集成机制对它们进行分类。使用基于任务复杂性、模式丰富性和数据集规模的新颖标准来评估基础数据集，从而可以比较分析其对通才政策学习的适用性。我们进一步引入了融合层次结构和编码器-解码器家族的结构化分类，以及二维数据集特征化框架和元分析基准测试协议，该协议将设计变量与基准测试中的经验性能定量联系起来。我们的分析表明，分层和后期融合架构可以实现最高的操纵成功率和概括性，证实了多层跨模式集成的好处。与自回归头相比，基于扩散的解码器表现出卓越的跨域传输和鲁棒性。数据集分析凸显了长期缺乏将高复杂性、多模式和长期任务相结合的基准，而现有的模拟器提供的多模式同步和真实到模拟一致性有限。为了解决这些差距，我们提出了VLA融合评估基准来量化融合效率和对齐。该评论借鉴学术和工业进步，概述了自适应和模块化融合架构、计算资源优化以及可解释、资源高效的机器人系统的部署方面的未来研究方向。我们进一步提出了一种前瞻性的代理VLA范式，其中LLM规划者将VLA技能集成为可验证的工具，以实现自适应和自我改进的机器人控制。这项工作为通过跨机器人领域的多模式信息融合来推进体现智能提供了概念基础和量化路线图。总结模型、数据集和模拟器的公共存储库可访问：https://muhayyuddin.github.io/VLAs/。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011248?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[S<sup>2</sup> FEINet：用于融合高光谱和多光谱图像的空间光谱特征提取和交互式网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011285?dgcid=rss_sd_all</link>
-      <description><![CDATA[高光谱图像（HS）提供了对许多应用有价值的丰富光谱信息，但其有限的空间分辨率往往限制了实际用途。为了应对这一挑战，与高分辨率多光谱图像（MSIs）的融合已成为空间增强的有效策略。虽然最近基于深度学习的融合方法已经显示出有希望的结果，但仍存在一些关键局限性。卷积神经网络（CNN）在捕捉全局依赖性时受到局部感受野的限制，而传统的注意力机制往往没有充分利用局部特征。此外，大多数现有方法优先考虑空间特征而不是光谱特征，导致光谱重建不充分和融合图像中光谱细节的丢失。此外，许多现有方法在增强空间细节和细化光谱信息方面表现出不足的能力。为了克服这些限制，我们提出了一种具有显式交互阶段的新型结构化集成框架，称为空间-光谱特征提取和交互网络（S2 FEINet）。我们的架构包含两个专用模块：光谱特征提取（SpeFE）模块，用于捕获低分辨率HS中的长期依赖性，同时学习带间相关性，以及空间特征提取（SpaFE）模块，用于从高分辨率MS中提取增强的空间特征。这些模块通过跨域融合机制进行交互，以实现平衡的空间光谱增强。对四个基准数据集和一个现实世界数据集的综合实验表明，S2 FEINet在多个评估指标方面优于十种最先进的方法。具体来说，与排名第二的方法相比，S2 FEINet在数据集中实现了平均峰值信号噪比（MPSNR）分别提高了0.8082分贝、0.1107分贝、0.4310分贝、0.1884分贝和0.2238分贝。该代码可在https://github.com/lab-807/SSFEINet上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011285?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[<strong>CX-Mind</strong>：一种开创性的多模式大型语言模型，用于通过大纲引导的强化学习在胸部X光片中进行交叉推理]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010899?dgcid=rss_sd_all</link>
-      <description><![CDATA[胸部X射线（CXR）成像是临床实践中使用最广泛的诊断模式之一，涵盖广泛的诊断任务。最近的进展表明，基于推理的多模式大型语言模型（MLLM）在医学成像中得到了广泛应用，以提高诊断效率和可解释性。然而，现有的多模式模型主要依赖于“一次性”诊断方法，缺乏对推理过程的可验证监督。这导致多任务CXR诊断面临挑战，包括冗长的推理、稀疏的奖励和频繁的幻觉。为了解决这些问题，我们提出了CX-Mind，这是第一个为CXR任务实现交错“思考-答案”推理的生成模型，由基于课程的强化学习和可验证的流程奖励（CuRL-VPR）驱动。具体来说，我们构建了一个描述调整数据集CX-Set，其中包括708，473张图像和2，619，148个样本，并生成了42，828个由临床报告监督的高质量交织推理数据点。优化在小组相对政策优化框架下分两个阶段进行：最初通过闭域任务稳定基本推理，然后转移到开放域诊断，结合基于规则的条件流程奖励，以绕过对预训练奖励模型的需要。广泛的实验结果表明，CX-Mind在视觉理解、文本生成和时空对齐方面显着优于现有的医疗和通用领域MLLM，比可比的CXR特定模型平均性能改进了25.1%。在现实世界的临床数据集（Rui-CXR）上，CX-Mind在14种疾病中实现了平均召回@1，大大超过了次佳结果，多中心专家评估进一步证实了其在多个维度上的临床实用性。CX-Mind建立了构建可解释且高性能的医疗MLLM的新范式。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010899?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[RA-MD：基于RKHS的自适应Mahalanobis距离，以增强神经网络的反事实解释]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011297?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着深度神经网络的快速发展，它们与关键决策系统的集成已成为社会进步的重要驱动力，需要强大的可解释性方法。反事实解释（CE）在增强eXplanable人工智能（XAI）中神经网络模型的透明度方面发挥着关键作用。尽管广泛的研究探索了反事实解释的生成，但为复杂神经架构有效地生成最小且人类可解释的CE仍然是一个持续的挑战。在本文中，我们提出了一个统一的基于RKHS的自适应Mahalanobis距离（RA-MD）框架，用于在神经网络中生成CE。该框架首先使用核心特征不一致（KFD）标准选择信息量最大的层，然后通过基于沃瑟斯坦的分歧量表示（WDVR）捕获特征相关性，最后采用两阶段优化策略，细化特征空间中的反事实并通过生成模型重建现实实例。这种公式将分布式建模和可解释性统一在一个单一框架下，从而产生更强大、语义一致的反事实解释。对多个数据集和架构的广泛实验表明，与现有方法相比，拟议的RA-MD方法产生的反事实干扰更小、保真度更高且可解释性更好。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011297?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过多模式融合和不确定性建模实现脑肿瘤分割的可靠框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011479?dgcid=rss_sd_all</link>
-      <description><![CDATA[从MRI扫描中准确分割脑肿瘤对于有效的诊断和治疗规划至关重要。深度学习的最新进展显着提高了脑肿瘤分割性能。然而，由于其固有的不确定性和潜在的错误，这些模型在临床采用中仍然面临挑战。本文提出了一种新型的MR脑肿瘤分割方法，该方法集成了多模式数据融合和不确定性量化，以提高脑肿瘤分割的准确性和可靠性。认识到每种MR模式都能对肿瘤特征做出独特的见解，我们提出了一种新颖的模式感知指南，通过将模式明确分类为“教师”（FLAIR和T1 c）和“学生”（T2和T1）组。由于教师模式是识别脑肿瘤信息最丰富的模式，因此我们提出了一种多模式师生融合策略。该策略利用教师模式在空间和通道特征表示方面指导学生模式。为了解决预测可靠性问题，我们在训练期间使用蒙特卡洛辍学来生成多个不确定性估计。此外，我们还开发了一种新颖的不确定性感知损失函数，该函数可以优化分割准确性，同时量化预测的不确定性。在三个BraTS数据集上进行的实验结果证明了拟议组件的有效性以及与最先进方法相比的卓越性能，凸显了其临床应用的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011479?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[超图注意力和周期融合学习增强航班延误预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011388?dgcid=rss_sd_all</link>
-      <description><![CDATA[预测航班延误对于提高运营效率、提高乘客满意度和优化航空业资源配置至关重要。尽管该领域有多种方法和技术，但目前的方法很大程度上依赖于复杂的特征工程和采样技术，并且没有彻底探索航班延误的核心影响因素。为了解决预测航班延误的众多挑战，我们提出了Hypergraph注意力和周期性融合学习（HAPFL）框架。我们的模型包括超图构建，O-D驱动的图形注意，多视图飞行嵌入，和周期感知的顺序Transformer模块。这种整体方法能够彻底分析航班节点表示的微观和宏观集成，并通过定期特征提取来预测未来多天航班的延误状态。经过多个现实世界数据集的测试，我们的模型始终优于当前最先进的基线模型，在所有四个分类指标上都实现了有竞争力的结果，展示了卓越的整体预测性能和其精心设计的模块的有效学习能力。我们的模型创新性地捕捉了航班之间的高层关系，显着增强了未来延误预测，并有助于更深入地理解延误机制和更有效的航班时刻表管理。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011388?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SD-SYS：一种图像结构驱动的多焦点图像融合模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011200?dgcid=rss_sd_all</link>
-      <description><![CDATA[多焦点图像融合（MFIF）旨在从多个部分聚焦图像生成全聚焦合成图像。现有的方法通常采用复杂的损失函数或定制的网络架构来细化决策图边界，忽略内在结构信息。在这项研究中，我们通过全面的统计分析经验揭示了图像结构边界先验，明确证明聚焦和散焦区域之间的边界自然地与图像的突出结构特征对齐。受此结构先验知识的启发，我们提出了一个结构驱动的融合框架，称为SD-FLOW。该框架由三个互补的部分组成：一个全局结构感知分支，一个局部焦点检测分支，和一个新的结构引导滤波器（SGF）。结构感知分支首先提取基本的结构线索并使用Transformer模块来捕获全局结构依赖关系。同时，焦点检测分支利用CNN架构根据空间输入生成初始决策图。至关重要的是，我们引入了受传统引导过滤方法启发的SGF，以促进全局和局部特征之间的有效交互。通过SGF内的优化，Transformer提供的细化全球结构逐步引导局部空间特征，确保边界和无伪影决策图的精确对齐。广泛的定性和定量实验表明，我们的SD-SYS显着优于现有方法，实现了最先进的性能。该代码可在www.example.com上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011200?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[针对多模式和不完整临床数据的可解释生成性和区分性学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011327?dgcid=rss_sd_all</link>
-      <description><![CDATA[现实世界的临床问题通常以多模式数据为特征，通常与不完整的视图和队列中有限的样本量相关，这给机器学习算法带来了显着的限制。在这项工作中，我们提出了一种Bayesian方法，旨在有效地应对这些挑战，同时提供可解释的解决方案。我们的方法集成了（1）生成式公式，以利用半监督策略捕捉交叉视图关系，以及（2）区分性任务导向公式，以识别特定下游目标的相关信息。这种双重生成区分公式既提供一般理解，又提供特定任务的见解;因此，它提供了缺失视图的自动插补，同时能够跨不同数据源进行稳健的推理。当应用于多模式临床数据时，这种方法的潜力变得显而易见，我们的算法能够捕捉和理清生物、心理和社会人口学模式之间的复杂相互作用。在九个多模式数据集中，OSIRIS将现有方法的平均曲线下面积从约0.87提高到0.92，并将平衡准确性从0.66提高到0.83，在所有基准上实现了最先进的性能。值得注意的是，OSIRIS在丢失数据的情况下仍然保持稳健，始终优于现有的基于估算的方法。这些结果表明，明确地解开生成性和区分性潜在因素可以在低数据条件下产生可靠的多模式学习。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011327?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[STP-Diff：空间变换扰动和扩散模型的协同融合，实现稳健的面部隐私保护]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011315?dgcid=rss_sd_all</link>
-      <description><![CDATA[数字肖像的激增和先进面部识别（FR）系统的广泛采用构成了重大的隐私威胁，使面部身份的保护变得至关重要。然而，现有方法在平衡保护功效与视觉保真度方面面临着普遍的挑战：基于扩散的方法由于其固有的净化效果，通常会受到保护减弱的影响，而独立的空间转换微扰（STP）有可能扭曲关键面部特征，并且往往产生不足的保护功效。为了解决这些局限性，本文引入了STP-Diff，这是一种协同融合方法，通过区域差异扰动策略集成空间和添加性扰动。具体来说，我们的方法将非加性空间扰动应用于非突出区域作为预扰动来抵抗扩散净化效应，从而为后续的扩散模型优化提供更有利的起点。在此基础上，该方法将扩散模型的强大生成能力集中到身份关键区域，以生成有效的添加性扰动以实现有针对性的保护。通过战略性地部署空间转换（面部隐私保护领域中一项基本上未充分开发的技术），我们的协同融合策略显着增强了保护功效，同时实现了出色的视觉质量。对公共数据集的大量实验表明，我们的方法在黑匣子目标场景中表现出卓越的面部隐私保护，平均保护成功率（PPC）为81.09%，Fréchet初始距离（DID）为8.79，并表现出针对商业面部识别平台的强大可移植性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011315?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LGINet：用于从航空图像中生成和识别树种的语言引导图像扩散模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525009741?dgcid=rss_sd_all</link>
-      <description><![CDATA[将人工智能应用于森林监测的一个关键挑战是树种识别，但受到复杂的视觉变化和树木树冠数据有限的阻碍。此外，有效集成林业领域大型语言模型与人类知识库的人工智能辅助识别框架尚未完全建立。在此背景下，本研究引入了语言引导图像扩散模型（LGINet），这是一个集成文本引导图像生成与树种检测的框架，通过技术协同增强森林应用。该框架包括三个关键的方法论组成部分：（1）一个模块，旨在利用特定于森林环境的详细文本描述，纳入物种特征、空间布局和物候特征等元素。它生成与森林知识语义一致的文本嵌入。(2)一个创新的基于扩散的框架将改进的U-Net架构与马尔科夫链理论和文本语义嵌入集成，将含噪图像与特定于森林的语言语义融合，以生成高度真实的航空树木图像。(3)利用生成的图像的优化检测管道，基于增强的YOLOv 11架构，具有上下文感知特征提取器和自适应锚点缩放，实现高效、大规模树冠检测和物种识别。实验评估验证了所提出框架的有效性，图像生成模块实现了0.94的结构相似性指数（SSIM）和6.42的Fréchet初始距离（DID）评分，证明了合成输出质量的卓越保真度。此外，检测管道在物种识别任务中达到了0.868的平均精确度（mAP 50），在评估指标中始终优于所有基线模型。该集成系统通过利用语言驱动的合成来生成高保真森林图像和树种识别，提高了森林物种检测的能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525009741?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MSSDF：用于高分辨率多模式遥感图像学习的模式共享自我监督蒸馏]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010681?dgcid=rss_sd_all</link>
-      <description><![CDATA[高分辨率多模式遥感（RS）图像为地球观测提供了丰富的补充信息，但高质量注释数据的稀缺仍然是有效模型训练的主要障碍。为了应对这一挑战，我们提出了一种模式共享自我监督蒸馏框架（MSSDF），该框架可以在对标记数据的依赖最小的情况下学习区分性多模式表示。具体来说，MSSDF将信息感知和跨模式掩蔽策略与多目标自我监督学习集成，使该模型能够捕获模式共享的语义并补偿缺失或弱标记的模式。该设计大大减少了对大规模注释的依赖，并增强了有限标签制度下的鲁棒性。关于场景分类、语义分割和变化检测任务的大量实验表明，MSSDF始终优于最先进的方法，特别是当标记数据稀缺时。具体来说，在波茨坦和Vaihingen语义分割任务中，我们的方法获得了78.30%和76.50%的mIoU分数，而只有50%的训练集。对于US 3D深度估计任务，RSSE误差降低到0.182，对于SECOND数据集中的二元变化检测任务，我们的方法获得了47.51%的mIoU得分，超过第二个3个百分点。此外，我们还构建了一个名为HR-Pairs的高分辨率多模式遥感图像数据集，其中包含640，000个空间分辨率为0.05 m的空间分辨率的DOE（数字正射图）-DSM（数字表面模型）对，为多模式遥感研究提供了新的高质量数据集。我们的预训练代码、检查点和HR对数据集可在https://github.com/CVEO/MSSDF中找到。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010681?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PIFGSR：在推荐系统中使用生成人工智能（GenAI）的信息融合可插入框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010668?dgcid=rss_sd_all</link>
-      <description><![CDATA[生成人工智能（GenAI）在信息融合中的应用为增强推荐系统中的用户体验带来了新的突破，其中顺序推荐是不可或缺的元素。基于插件的扩散模型是一种重要的GenAI方法，已被证明可以有效缓解序列序列中的稀疏性。然而，通过引入扰乱顺序逻辑的无序噪音，这些方法可能会扭曲用户兴趣建模，并且仍然与数据稀疏性作斗争。为了解决这些问题，我们提出了一种新的通用框架，即在推荐系统中使用生成式人工智能（GenAI）的信息融合可插入框架（PIFGSR），它可以生成与用户的实际兴趣一致的扩展序列，同时以低计算成本保留显式和隐式反馈。PIFGSR的核心是潜在兴趣指导库（PIGB），它使用可训练的参数矩阵来学习和存储来自用户交互的兴趣模式，并将它们与来自预先训练的扩散模型的先验知识相结合。这些学习到的线索在推理过程中指导扩散过程，从而实现有效的信息融合并保留用户的真实偏好轨迹。设计了需求信息提取机制（DIEM），该机制集成了空间行列注意和统计均值方差注意，从局部和全局用户交互特征中提取用户的实际兴趣点。具体来说，DIEM以参数矩阵作为输入，应用卷积投影来生成查询、密钥和值表示，并计算规范化相关性。在空间上，它构建并融合行和列权重以形成局部偏置特征。从统计上讲，它从均值和方差中推导出注意力加权量表，以执行标准化和转移，最终产生将本地结构与全球分布相结合的需求表示。此外，为了确保扩展序列与原始交互中的用户兴趣一致，我们设计了指南匹配策略（GMS）。与现有基线相比，PIFGSR实现了9.85%的卓越性能改进。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010668?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人中生成性人工智能和强化学习的二元性：评论]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010656?dgcid=rss_sd_all</link>
-      <description><![CDATA[最近，生成性人工智能和强化学习（RL）一直在重新定义人工智能代理的可能性，以信息流作为输入并产生智能行为。因此，我们在用于控制策略生成的嵌入式人工智能和机器人技术方面看到了类似的进步。我们的评论论文探讨了生成性人工智能模型与RL的集成以推进机器人技术。我们的主要重点是机器人下游任务的生成人工智能和RL之间的二元性。具体来说，我们研究了：（1）著名的生成式人工智能工具作为RL任务中多模式输入融合的模块化先验的作用。(2)RL如何训练、微调和提取生成性模型以用于策略生成，例如VLA模型，类似于大型语言模型中的RL应用程序。然后，我们根据大量精选论文提出了一种新的分类法。最后，我们确定了模型可扩展性、适应性和基础方面的开放挑战，并就未来研究方向提出建议和见解。我们反思哪些生成式人工智能模型最适合RL任务以及原因。另一方面，我们反思RL增强生成策略固有的重要问题，例如安全问题和故障模式，以及当前方法的局限性。我们的GitHub存储库中维护着一系列精心策划的相关研究论文，作为该领域正在进行的研究和开发的资源。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010656?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过量化分解生成模型进行跨领域推荐]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010905?dgcid=rss_sd_all</link>
-      <description><![CDATA[跨域推荐（CDR）旨在通过利用跨多个域收集的用户反馈来提高推荐性能。CDR的一个关键挑战是构建转移领域知识的有效桥梁。为了确定应该转移哪些知识，之前的研究试图将领域知识分解为领域共享和特定领域的组成部分。然而，这些方法通常依赖于粗粒度的解纠缠，只是将两个单独的载体表示分配给域共享和域特定用户嵌入，而没有明确识别驱动变化的潜在因素，因为模型缺乏有关这些因素的地面真相信息。为了解决这一局限性，我们提出了QDCDR，这是一种为跨领域推荐量身定制的量化解纠缠模型，它可以区分哪些潜在维度编码域共享知识，哪些潜在维度通过群体因素假设捕获特定于领域的知识。具体来说，我们通过以下方式做到这一点：（i）引入基于变分双向图编码器的概率生成模型来处理跨域推荐中用户的不确定性，从而使潜在空间能够编码更复杂的关系和潜在结构。(ii)通过维度级解纠缠规则化量化潜在空间，使模型能够确定哪些变化应该跨域传输。(iii)应用项方面规范对齐正规化进一步减少域之间的分布差异，从而提高解纠缠过程的稳定性。为了促进可重复性，我们在https://github.com/CL-code320/QDCDR上发布了QDCDR的源代码，大量实验证实了它优于最先进的CDR基线。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010905?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SenseFusion：用于预测分析应用的多模式和时态临床数据建模的统一框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010838?dgcid=rss_sd_all</link>
-      <description><![CDATA[电子健康记录（EHR）生成大量多模式数字患者数据，但现有方法主要独立或组合利用这些数据流来执行预测性临床任务。当前的方法未能在考虑时间动态的同时整合不同模式的个体患者事件，从而忽视了从入院到出院的医疗事件的时间顺序。此外，主要采用传统的信息融合技术，通常由于缺乏特定模式的数据表示而导致信息丢失。为了解决这些局限性，我们提出了SenseFusion，这是一种新颖的框架，通过使用具有大型语言模型和视觉语言模型的临床事件感知模板生成器将多种模式（包括医学图像、时间序列数据、结构化表格数据和非结构化临床笔记）转换为单一表示，来统一多模式临床数据。SenseFusion支持个性化患者表示，同时保留医疗事件的时间顺序，并在两个数据集SenseFusion-MMIC-MM及其子集SenseFusion-MMIC-MM-Subset上进行评估。实验表明，在使用完整的SenseFusion-MMIC-MM数据集进行疾病诊断、住院时间和死亡率预测等任务时，SenseFusion的AUPRC表现优于领先的单模式和多模式方法，其表现优于1- 15%，而在SenseFusion-MMIC-MM子集上，AUPRC表现优于1- 24%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010838?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GLUE 3D：3D点云的通用语言理解评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010693?dgcid=rss_sd_all</link>
-      <description><![CDATA[多模式大型语言模型在文本和图像基准方面取得了令人印象深刻的成果，但它们在3D几何中建立语言基础的能力在很大程度上仍有待探索。现有的3D评估要么局限于专业领域，例如室内扫描，要么受到纹理保真度较差的阻碍，并且没有一种评估能够与2D评估进行公平、一致的比较。如果没有严格的基准，目前尚不清楚当前的3D感知模型是否真正掌握了形状、颜色、姿势和数量，或者仅仅是呼应了记忆的文本先验。我们通过GLUE 3D（3D点云的通用语言理解评估）来解决这一差距，这是一个围绕128个纹理丰富的网格构建的基准，涵盖生物、对象、建筑和运输。每个资产都以50 k点的RB点云和匹配的512 x 512渲染的形式提供，从而实现跨模式的点对点评估。在这些资产上，我们手动策划了1024个二元探针、256个选择题、256个开放式问题和128个字幕提示，这些提示联合评估子实体识别、物理状态、颜色属性和计数，从而对3D几何及其语义进行细粒度的理解。对最近12个系统的全面研究揭示了明显的模式差距：图像条件化的Qwen-2.5-DL在二元探针上达到了79%的准确性，在多项选择题上达到了74%的准确性，而最好的点云模型分别仅达到55%和33%。字幕质量评估遵循相同的模式，凸显了真正3D理解方面仍然存在的差距。我们公开提供GLUE 3D及其评估脚本和基线分数，以推进几何感知多模式语言理解的进展。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010693?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[细化引导的批判学习：训练批判模型的框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010644?dgcid=rss_sd_all</link>
-      <description><![CDATA[大型语言模型表现出出色的评估和分析能力，提供有价值的见解并检测不同任务中的缺陷。然而，传统方法面临着评论偏好注释不准确和注释一致性差的问题。在这项工作中，我们提出了细化引导的批评学习（RGCL），这是一个训练批评模型的框架。该框架通过从政策模型生成的细化响应与初始响应的比较中计算批评奖励，并从批评模型的输出分数和基本真值之间的差异量化分数奖励，两者共同充当奖励信号来优化批评模型。我们在五项任务中评估RGCL框架，即对话生成、摘要、问答、数学推理和代码生成，并表明它在评论质量和细化结果方面显着优于传统方法和开源模型。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010644?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[PCF-LLM：扩展LLM，以多模式理解光晶体光纤传感器中的结构化科学数据]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501084X?dgcid=rss_sd_all</link>
-      <description><![CDATA[光电晶体光纤（PCC）表现出复杂且高度可调的结构-性能关系，使其在各种光学应用中前景光明，但在准确建模和逆设计方面具有挑战性。传统的数值求解器提供高保真度，但计算成本很高，而现有的基于学习的方法通常仅限于狭窄的单任务目标，并且对不可见的结构的概括性较差。我们将PFA理解定义为联合推理数字PFA几何特性映射和文本描述的能力，从而实现四项核心任务：光学特性预测、反向设计建议、结构描述生成和特性解释。为了解决这些问题，我们提出了PCF-LLM，这是一个可扩展的多模式框架，它适应预训练的大型语言模型（LLM）以实现统一的PCO理解。PCF-LLM结合了跨模式对齐机制，将结构化的PFA几何形状和光学属性与语言提示融合，并通过低等级自适应采用参数高效的微调。为了实现这样的建模，我们策划了PCF-MM-170 K，这是第一个大规模多峰PCO数据集，包含四个代表性结构的170，000个样本，每个样本都用高保真光学模拟和细粒度文本描述进行注释。跨多个LLM的广泛实验表明，PCF-LLM实现了高准确性、强物理一致性和强大的跨任务概括，推进了LLM在光学科学发现中的使用。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501084X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[利用GAN增强数据融合缓解森林火灾预测中的类别失衡]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501067X?dgcid=rss_sd_all</link>
-      <description><![CDATA[不平衡的数据集加剧了森林火灾预测模型中的识别偏差，因为类实例的不成比例的表示会导致结果倾斜。现有的偏差缓解工作概括和提取森林火灾特有特征的能力有限。基于物联网（IOT）的传感器网络可以提供有关温度、湿度和土壤湿度等环境因素的实时、粒度数据，帮助捕捉森林状况的动态性质并缓解数据不平衡。为了应对这些挑战，这项工作引入了一种新颖的混合方法，该方法探索环境因素之间复杂的概率关系，整合物联网驱动的数据，并使用生成式对抗网络（GAN）来综合扩大少数族裔类别。所提出的模型在公开可用的数据集上进行了验证，并根据准确性、精确性、召回率、F1评分、计算效率和训练成本等评估指标报告了性能。结果表明，所提出的混合模型比现有方法有显着提高，分类准确率达到95.08%，准确率达到93.03%，召回率达到92.80%，F1评分达到92.91%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501067X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过WGAN-AAE数据融合方法加强钢制管道结构状况评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010322?dgcid=rss_sd_all</link>
-      <description><![CDATA[水和石油运输管道容易受到老化、运行负载和恶劣环境的影响，需要可靠的状态监测。这项研究提出了一种混合传感和数据驱动框架，用于在配备光纤布拉格栅（Bragg）传感器的钢制管道中进行准确的泄漏检测和定位。在这项研究中，一根6 m的钢管安装了纵向和周向放置的Bragg传感器，以量化各种泄漏和操作条件下的应变响应。该研究评估了Bragg应变记录对泄漏尺寸、泄漏位置、压力和流量变化的敏感性。提出了一种混合WGAN-AAE数据融合方法来分析有限和有噪的应变数据，以准确分类泄漏、流量和压力。该框架集成了Wasserstein GAN（WGAN），它生成调整到操作范围的合成Bragg信号;对抗性自动编码器（AAE），它提供领域感知的潜在正规化和真实数据的学习特征级融合;以及对融合的表示进行操作的2D卷积神经网络分类器。模型在70%的真实数据上进行训练，并用WGAN样本增强，并在剩余30%的真实数据上进行评估。该研究基于二元相关性方法解决了单标签（压力、流量、泄漏尺寸、泄漏位置）和多标签分类。基于真实数据，分类器在测试集中实现了94.89% ± 1.13%的多标签分类准确率。此外，单一分类任务显示出较高的准确率，流量分类为91.04% ± 0.90%，压力分类为98.69% ± 0.93%，泄漏尺寸分类为100% ± 0.00%，泄漏定位为91.22% ± 0.98%。对十个最佳传感器布局的泄漏位置分类的比较分析表明，WGAN+AAE优于GAN+AAE和WGAN-级联基线，支持Wasserstein合成、潜在正规化和习得融合的好处。这些结果表明，即使在有限的数据集和有噪音、可变的操作条件下，提出的混合传感和数据融合方法也能够在管道系统中实现准确、稳健的泄漏检测和定位。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010322?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:18:41 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Exo-to-Ego视频生成的渐进时间补偿和语义增强]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1566253525011790?dgcid=rss_sd_all</link>
       <description><![CDATA[由于两个视角之间的重叠有限，将视频视角从外中心（第三人称）转变为自我中心（第一人称）具有挑战性。现有的方法经常忽视时间动态（对于捕获运动线索和再现对象至关重要），并且没有充分利用源视图推断的语义。为了解决这些限制，我们提出了一种渐进式时间补偿和语义增强（PCSE）框架，用于外中心到自我中心的视频生成。渐进时间补偿（PTC）模块专注于长期时间依赖性，逐步将外中心的时间模式与自我中心的表示对齐。通过采用带有进展面具的依赖转移机制，PTC逐渐减少对以自我为中心的监督的依赖，从而实现更强大的目标视图学习。此外，为了利用高级场景上下文，我们引入了分层双通道Transformer（HDT），它通过具有分层处理Transformer块的双编码器-解码器架构联合生成以自我为中心的帧及其相应的语义布局。为了进一步增强结构一致性和语义一致性，生成的语义布局通过不确定性感知语义增强（USE）模块指导框架细化。USE动态估计不确定性面具以定位和细化模糊区域，从而产生更连贯和视觉准确的结果。大量实验表明，PCSE在无线索方法中实现了领先的性能。]]></description>
@@ -459,13 +445,6 @@
       <description><![CDATA[多模式、多条件场景下旋转机械的智能故障诊断面临着严峻的挑战，包括结构信息利用率低和模型概括能力弱。为了解决这些问题，本文提出了一种结构感知异类图Transformer（SAHGT）框架，以实现多源监控信号的统一建模和稳健的表示学习。该方法构建了统一的异类图结构，以集成模式特征、频域关系和空间先验。通过引入具有结合了模式引导和频率引导注意力的双重引导注意力机制的异类图Transformer，增强了关键特征的选择性表达和故障模式的区分能力。为了增强模型在非静止环境中的适应性，设计了增强的视图驱动对比学习机制，以进一步增强对结构变化和分布变化的鲁棒性。值得注意的是，本文建立了一个统一的训练框架，仅通过配置损失函数组合而无需修改模型架构，即可在领域概括（DG）和领域适应（DA）任务之间切换。在高保真燃气轮机测试平台上进行的验证实验证明了拟议的SAHGT框架的卓越性能，在9个DG任务和12个DA任务上分别实现了83.46%和99.57%的平均故障诊断准确率。这些结果显着优于最先进的图神经网络方法，凸显了该模型强大的跨领域概括性和领域适应性。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011686?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 15 Jan 2026 12:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多传感器数据融合的联合学习水流预报]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525010826?dgcid=rss_sd_all</link>
-      <description><![CDATA[水文流量预报对于水资源管理、灾害预警和生态保护至关重要。然而，集中式建模方法面临着数据异构性、极端事件样本稀缺和隐私约束等持续挑战。这份手稿展示了一种融合异构、分布式水文数据的新范式，同时保护隐私，创建了一个比孤立数据孤岛更强大、更全面的模型。我们提出了联邦学习多站融合（FedMSF），它将局部模型与全局聚合集成在一起，在不暴露原始数据的情况下处理跨流域的变化。近端项减少了分布变化下的训练偏差，多目标聚合策略（FedMOA）自适应地对客户端进行加权以提高结构一致性。此外，极端感知数据增强丰富了罕见事件的表示，而人工智能驱动的大型语言模型（LLM）指导超参数优化。所有报告的指标都代表了所有集水区的平均表现。在CAMELS-GB西部地区的实验表明，FedMOA的RMSE为0.4322，MAE为0.2358，NSE为0.8371，分别比现有方法高出7.93%、9.20%和7.83%。此外，KGE提高了4.48%，达到0.8127，而FLV和FHV分别降低了24.38%和34.7%，表明体积误差减少了。通过整合增强和LLM驱动的优化，FedMSF进一步提高了性能，NSE达到0.8406，在跨区域水文预报中表现出更强的鲁棒性和泛化能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525010826?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:23 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[ViP-HMNN：一种结合记忆计算的视觉路径启发混合神经网络，用于对象识别]]></title>

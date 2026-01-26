@@ -4,27 +4,13 @@
     <title>ScienceDirect出版物：国际机械工具与制造杂志</title>
     <link>https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:38:24 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[NiTi形状记忆合金激光粉末床融合的马丁转变敏感性驱动加工路线图：从缺陷消除到精确性能控制的范式转变]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</link>
-      <description><![CDATA[激光粉末床聚变（LPBF）制造的NiTi形状记忆合金（SMAs）使用不同的加工参数制造以实现高密度纳米化，可能会表现出显着的马蒂斯转变温度（MTR）差异（差异&gt; 50 °C），从而改变其功能性能并使精确的性能控制具有挑战性。在此，我们建立了一个简单但可概括的定律EL/ v（其中EL和v分别表示线能量密度和扫描速度），它决定了LPBF处理的富镍NiTi合金中的致密化和玛莎拉蒂转变行为。引入了MTD敏感度作为流程评估指标，将范式从传统的以缺陷为中心的框架转向以性能为导向的优化。通过系统地脱钩能量输入在MT中的作用，建立了一个依赖参数的通用蒸发模型。结果表明，Ni损失和MT敏感性取决于EL/ v而不是EL，√ 0.67at.%每kJ·s·m-2的Ni损失以及~ 83 K的马氏体开始（MS）温度线性增加。微观结构分析证实，EL/ v决定熔池重叠、模式稳定性以及微观结构和转变均匀性。研究表明，输入能量密度的大小（例如EL）决定熔池的几何形状和致密化，而输入能量密度的方式（例如标准化输入能量密度率，EL/ v）决定熔池动力学、元素蒸发和微观结构演变。这种双重标准合理化了在相同能量密度下观察到的MS温度变化，并能够预测控制转变特征、残余应力和降水。拟议的框架提供了具有优异拉伸延伸率（√ 22%）的NiTi组件，超过了大多数LPBF处理的富镍组件。此外，它的通用性在304 L不锈钢和CuAl锰合金中得到了验证，强调了其超越NiTi合金的适用性。这项研究为加工-熔池动态-结构-性能相互作用提供了机械见解，并为LPBF参数设计提供了通用路线图，在缺陷缓解之外推进工艺优化，并通过熔池管理实现精确的性能控制。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001075?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[增材制造分层异结构金属材料的强度-韧性协同设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</link>
-      <description><![CDATA[增材制造金属材料强度和韧性之间的固有矛盾可以通过分层异结构设计来协调，该设计定制了两种不同材料的分布。为了定量描述异结构金属材料的强度和韧性，本研究根据权函数原理建立了分层异结构的强度-韧性耦合力学模型。在此基础上，初步开发了激光界面再熔（LIR）工艺;然后在评估冶金兼容性后，采用激光定向能量沉积（LDED）技术制备了IN 718/316L双金属镶嵌材料的分层杂结构。结果表明，该LIR工艺可以原位合成成分过渡区，确保了异结构界面的键合质量可控。模型还表明，非均匀金属分层结构的韧性随着强度的增加而下降，并且强度和韧性之间存在象征性的权衡。此外，还从阻碍裂纹形核和屏蔽应变传播的角度讨论了两种钢化机制。此外，研究发现“硬软”的层厚匹配形式会在表面引发亚临界裂纹，激活额外的强化潜力。最终，提出了一种通过建模计算确定分层异结构层厚比的新方法，并通过案例研究证实了这种基于模型的设计的增材制造的工艺可行性。这种协同调节方法可以为针对异结构金属材料的强度韧性按需优化提供有效指导。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001087?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[连续波激光烧蚀Cf/SiC陶瓷基复合材料表面和亚表面演变机制：多尺度研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于陶瓷基复合材料（SMC）优异的材料性能，在航空航天和其他高性能应用中越来越受到青睐。随着行业的发展，增强材料和骨架材料往往更加难以加工。基于激光的处理方法变得越来越受欢迎。然而，此类复杂材料的潜在机制和表面完整性的形成仍不清楚。目前，尚未对复杂囊性细胞的整体消融过程进行研究。为了解决这些差距，本研究调查了激光烧蚀引起的MHC表面完整性及其潜在机制。结果表明，烧蚀后的表面形态在Cf/SiCMCs的不同区域之间存在显着差异-具有垂直取向纤维的区域，高度相对较高，以及具有水平取向纤维的区域，高度相对较低。在400 mm/min的扫描速度下，相当于3千瓦功率的激光能量可以视为粗加工和精加工之间的阈值。进一步澄清，在烧蚀表面上形成的球形颗粒由元素硅组成，而不是通常假设的氧化物。表面区域呈现出松散的四层结构，由二氧化硅、元素硅、碳化物和热分解碳层组成。此外，在位于工件次表面区域内的纤维表面上还观察到典型的多层表面结构（源于纤维的优异的热传导性）。建立了温度分布模型，以阐明纤维取向引起的热传导差异如何影响SMC的烧蚀表面形态。总体而言，这些发现全面解释了经过激光烧蚀的AMC的烧蚀过程、表面完整性演变和潜在机制。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001099?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:35:50 GMT</pubDate>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S089069552600009X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年2月资料来源：国际机械工具与制造杂志，第215卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S089069552600009X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:24 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于制造的机器人末端效应器：最近的发展和未来的研究挑战]]></title>
@@ -74,20 +60,6 @@
       <description><![CDATA[激光内部改性切片已成为一种用于切割4 H-Sic等单晶体半导体基片的高效、低损伤技术。然而，由于对激光能量如何与材料响应结合来控制相转变和裂缝传播（尤其是在原子尺度上）的机械理解有限，因此其广泛采用受到阻碍。特别是，ns激光热效应在驱动可控相转变和潜在裂纹动力学方面的作用仍然不清楚，使得工艺优化主要是经验性的。在这里，通过结合能量控制的实验与分子动力学（MD）模拟，我们阐明了一个依赖于能量的，多级相变途径在激光切割4 H-SiC。该途径从初始非晶化与Si/C沉淀到热应力诱导的塑性滑移，在非晶-结晶界面处产生堆垛层错和立方3C-SiC。确定了一个临界能量阈值，决定不同的修改制度之间的过渡，并管理相应的裂纹扩展行为。原子模拟进一步揭示了热应力驱动的裂纹成核和传播的机制，随着温度依赖的断裂强度和转移结晶开裂的偏好，从高温下的低指数平面到冷却过程中的高指数平面。这项工作中提出的见解将激光加工参数与固有材料行为联系起来，为基于激光的切片工艺的合理设计并实现优化的加工质量提供了机械基础。虽然在4 H-Si上进行了演示，但基本的能量和压力控制原理适用于更广泛的硬脆、各向异性半导体，推进了从经验调整到物理信息制造的过渡。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000027?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 19 Jan 2026 14:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[编委会]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001142?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年1月来源：《国际机床与制造杂志》第214卷作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001142?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人工智能驱动的半导体晶圆制造：制造范式的转变]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0890695525001002?dgcid=rss_sd_all</link>
-      <description><![CDATA[人工智能（AI）通过实现智能、自适应和越来越自主的生产系统，正在重塑现代制造业的格局。在高端制造过程中，复杂的机床动力学、设备性能的可变性和环境不稳定性等持续挑战阻碍了一致的质量和高效率。这些挑战在先进制造领域进一步加剧，特别是在半导体晶片制造领域，这需要达到超高精度。人工智能通过其在实时决策、数据驱动建模和制造过程预测分析方面的能力，为这些挑战提供了强大的解决方案。通过从制造过程中生成的大量数据集中学习，人工智能系统可以识别工作模式，优化工艺参数，检测异常，并指导自主控制策略。这些优势使人工智能成为增强工艺理解、确保质量保证和加速制造技术创新的关键推动因素。半导体晶圆制造是现代电子制造的基石，是集成电路生产的基础工艺。本文回顾了人工智能在晶圆制造中的变革作用，重点介绍了其原理、应用和前景。综述了在晶圆制造中广泛采用的深度学习、强化学习和生成算法等关键人工智能技术。特别关注它们在关键制造过程中的部署，包括晶体生长、铸锭切片和超精密加工。该综述进一步介绍了人工智能在这些领域的最新研究和工业应用，展示了智能模型如何用于质量预测、状态分类、过程优化和系统控制。最后，讨论了旨在在整个制造生态系统中培养更实用、深度集成和强大的人工智能应用的新兴趋势和未来前景，为实现完全自主和自我优化的未来制造过程铺平了道路。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695525001002?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:53:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

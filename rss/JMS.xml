@@ -4,7 +4,28 @@
     <title>ScienceDirect出版物：制造系统杂志</title>
     <link>https://www.sciencedirect.com/journal/journal-of-manufacturing-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:40:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[SHOP 4CF模块化参考架构，用于灵活的面向流程、数据驱动的智能制造]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000191?dgcid=rss_sd_all</link>
+      <description><![CDATA[背景智能行业领域的组织在组织内和组织间范围内面临着日益复杂的职能和流程。这对支持其运营的数字系统产生了直接影响：它们也变得更加复杂。与此同时，组织需要提高敏捷性：他们必须能够灵活地调整流程以适应市场变化。尤其是制造领域的中小企业，在这种复杂性和多变性的结合中迷失了方向。目标为了帮助智能制造领域的中小企业组织进行数字化转型，我们开发了用于数字化制造支持的SHOP 4CF模块化参考架构。方法我们通过在分为三波的36个现实世界工业案例中进行应用和评估，以迭代的方式开发SHOP 4CF基本架构。我们的设计部分基于成功的现有工作，特别是HORSE EU项目的结果，并使其与ISA-95和RAMI 4.0等主要制造标准保持一致。接下来，我们根据明确的设计原则，通过抽象SHOP 4CF基本架构来提炼SHOP 4CF参考架构。然后，我们专门针对面向流程和数据驱动制造的参考架构。结果我们的工作成果是针对智能制造解决方案的模块化、灵活的软件参考架构。为了方便其使用，参考架构与制造软件生命周期模型相结合。以组件市场为中心，功能模块开发人员的生命周期与模块用户的生命周期相关，包括对技术集成商角色的明确关注。为了说明其适用性，我们在本文中描述了三个应用案例。结论该参考架构为制造领域的中小企业提供了一个经过验证的出发点，以在复杂而动态的行业生态系统中设计数字支持。架构的模块性及其与软件生命周期的耦合提供了新水平的灵活性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000191?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[半导体制造中通过三阶段检索增强系统进行芯片缺陷语义推理]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612525003231?dgcid=rss_sd_all</link>
+      <description><![CDATA[芯片缺陷检测是半导体制造的重要组成部分，需要对分布变化进行高度概括，并对不同的工程角色进行可解释的解释。现有的深度学习方法往往在语义推理和领域可移植性方面存在缺陷。为了应对这些挑战，我们提出了WaferDSR-RAG，这是一种新型的检索增强框架，它将双峰芯片缺陷知识图（BWDKG）与三阶段语义适应策略集成，包括缺陷视觉-语义对齐、缺陷相关知识检索和筛选以及角色自适应解释生成。该设计允许系统动态适应不可见的缺陷分布，并生成针对不同工程职责量身定制的专家一致的解释。对内分布和交叉芯片图的大量实验表明，WaferDSR-RAG在检测准确性和解释质量方面始终优于最先进的基线。与GPT-4 o和Gemini 1.5 Pro相比，我们的方法为不同角色的工程师生成了语义上更准确且实用的解释，并通过自动指标和领域专家评估进行了验证。WaferDSR-RAG代表了现实世界半导体生产中的芯片缺陷检测和推理的可扩展解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612525003231?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[人机协作中的大型语言模型：系统性回顾、趋势和挑战]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000233?dgcid=rss_sd_all</link>
+      <description><![CDATA[将大型语言模型（LLM）集成到人机协作（HRC）中代表了工业5.0下向认知制造的范式转变。本系统性审查分析了1278篇出版物，以阐明LLM增强型HRC的启用机制、应用层次结构和持续挑战。我们确定了三种代理范式，每种范式分别针对结构化、交互式和传感器丰富的场景量身定制。此外，我们提出了一个分层训练框架，将领域自适应预训练和特定于工作组的微调相结合，以将一般LLM能力与工业需求联系起来。我们的研究结果表明，LLM在环境感知、长期任务规划和具体互动方面显着提高了HRC，但在动态适应性、多模式融合和价值观一致方面面临着严峻挑战。这项研究为开发稳健、可解释且以人为本的协作系统提供了结构化参考，概述了五个关键研究方向，以指导认知制造的未来发展。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000233?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:40:19 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[CNC-takes：通过大型语言模型和实时数据检索增强生成进行对话机监控]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S027861252600021X?dgcid=rss_sd_all</link>

@@ -4,41 +4,174 @@
     <title>ScienceDirect出版物：高级工程信息学</title>
     <link>https://www.sciencedirect.com/journal/advanced-engineering-informatics</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 19 Jan 2026 14:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:43:08 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[面向建筑工地的透明物体检测模型：可解释的人工智能和错误分类]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011383?dgcid=rss_sd_all</link>
-      <description><![CDATA[施工现场监控对于确保项目按计划执行并实现生产力、安全和质量目标至关重要。然而，传统的手动监控方法耗时、容易出错且缺乏可扩展性。基于深度学习的对象检测提供了一个有希望的替代方案，但其“黑匣子”性质阻碍了对检测失败的理解。本研究提出了一个基于Grad-CAM的可解释人工智能框架来系统地诊断和分类检测错误。该框架由三个主要过程组成：（1）定义主要的检测错误类型，（2）收集每种错误类型的失败图像，（3）使用Grad-CAM特征和检测指标开发基于机器学习的分类模型。与之前依赖定性解释的方法不同，这项研究将Grad-CAM热图转换为定量特征（例如，GT影响比、激活到盒子距离、集群计数），实现自动错误分类。错误被归类为异常视角、小尺寸、遮挡、复杂背景和照明变化，合成数据的分类准确率达到94%，真实图像的分类准确率达到85%，人工智能生成的数据的分类准确率达到88%。该框架增强了透明度和可解释性，同时支持现实世界建筑工地应用程序的模型优化和自适应部署。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011383?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:45:04 GMT</pubDate>
+      <title><![CDATA[集成磨损信息用于刀具破损监测的新型多任务顺序网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000340?dgcid=rss_sd_all</link>
+      <description><![CDATA[加工过程中的刀具破损监测（TBC）对于确保制造安全和产品质量至关重要。尽管数据驱动方法在TBC领域取得了重大进展，但现有的研究通常忽视了工具断裂和磨损过程之间的内在相关性，因为工具断裂的可能性和严重程度随着磨损积累而异。与此同时，工业实践中工艺参数保守导致破损样本稀缺，工作条件波动引起的正常样本呈现出多重模式分布，进一步增加了监测难度。为了解决这些问题，本文提出了一种新型的多任务顺序网络，该网络集成磨损信息以实现刀具破损监控。与传统的多任务学习（MTL）不同，该方法以顺序的方式联合学习刀具磨损预测和破损监测任务。这两个任务共享特征提取模块，预测的连续磨损值作为条件信息输入到后续的破损监测模块中，使监测模型能够适应不同的磨损状态。此外，为破损监测模块设计的加权多尺度距离（WMSG）损失函数集成了欧几里得距离、角度差和潜在特征距离，增强了对正常样本分布模式的建模能力，增强了其鲁棒性。实验结果表明，该方法在航空发动机机匣实际加工数据集和PHM2010数据集上均取得了良好的效果，验证了其有效性和广泛的适用性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000340?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:43:08 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于自适应MVMD和改进FCM聚类算法的SSI-COV高拱坝运行模态自动分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011504?dgcid=rss_sd_all</link>
-      <description><![CDATA[运行模式分析为大坝的结构健康监测提供了关键价值，其中环境振动衍生的模式参数描述了运行动态特性。本文提出了一种自动化的高保真识别方法。该方法通过引入自适应多元变分模式分解（MVMD）、三维稳定图和改进的模糊c均值（RCM）集群算法，增强了协方差驱动的随机子空间识别（SSI-COV）算法。首先，利用自适应MVMD算法分解多通道振动响应信号。通过提取和叠加敏感信号分量，对多通道信号进行自适应降噪。随后，利用SSI-COV获取高大坝的振型参数，并建立三维稳定图，以自动确定模型阶次。最后，提出了一种结合异常极点局部异常值因子和全局优化初始集群中心的coati优化算法的改进的RCM分簇算法，对物理模式进行分组，从而促进自动模式参数估计。验证使用四自由度数值模型、物理大坝模型和原型大坝。结果表明，在不同的水量条件下，可以有效抑制噪音和可靠的自动模式识别，为高坝动态特性的连续长期观测提供了新的思路。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011504?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:45:00 GMT</pubDate>
+      <title><![CDATA[MSRFRNet：基于Kolmogorov-Arnold增强型图神经混合器的加工相似性特征识别网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000571?dgcid=rss_sd_all</link>
+      <description><![CDATA[加工特征识别在工艺规划中发挥着至关重要的作用，因为它通过提取尺寸和几何信息来辅助工艺安排，并且是自动编程的关键一步。识别准确度直接影响刀具轨迹的质量，尤其是在相似加工特征的识别中，孔、轴等特征往往在几何外观和拓扑结构上表现出高度的相似性。现有的深度学习方法很难捕捉加工特征之间的潜在拓扑关系，因此往往会将高度相似的特征错误分类为同一类别。这种错误识别会对后续的工艺规划产生不利影响，并会显着降低加工质量和整体制造效率。为了解决这个问题，我们提出了基于Kolmogorov-Arnold-增强图神经混合器（MSRFNet）的加工相似特征识别网络。在这些组件中，Kolmogorov-Arnold网络（KAN）提供了可学习的样条函数，能够准确地匹配任意复杂的几何或拓扑映射，使其对复杂的几何关系更加敏感。基于这一优势，KAN被整合到图形神经网络（GNN）的局部特征学习阶段，以增强模型的细粒度局部几何逼近能力。使用KAN优化GNN中的局部和全局特征载体。最终增强MSRFNet对典型加工特征的识别能力。同时，引入凸性、凸性和开放性的概念，进一步提高了相似加工特征的区分。凹凸连接反映了相邻表面之间的拓扑关系，并作为区分形状高度相似的特征的可靠指标。此外，开放性可以检测加工特征的拓扑边界是开放的还是封闭的，为区分某些类型的相似加工特征提供了额外的标准。目的是利用这两个标准来增强MSRFNet对类似加工特征的识别能力。对公开基准数据集的广泛实验表明，MSRFNet在加工特征识别任务中取得了出色的性能，准确率达到99.95%。在识别相似加工特征的任务中，该方法的准确率达到了98.6%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000571?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:43:03 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[REACT：用于自动驾驶的支持运行时的主动碰撞避免技术]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011413?dgcid=rss_sd_all</link>
-      <description><![CDATA[在动态交互交通中实现快速有效的主动碰撞避免仍然是自动驾驶的核心挑战。本文提出了REACT（运行时启用的主动碰撞避免技术），这是一个轻量级的闭环框架，旨在将风险评估与可解释的主动控制统一起来。通过利用能量传递原理和人-车-道路相互作用建模，REACT动态量化运行时风险并构建空间连续的风险场。该系统结合了物理上的安全约束，例如方向风险和交通规则，以识别高风险区域并生成可解释的回避行为。分层警告机制和轻量级运行时设计确保实时响应能力和机载部署能力。对四种有代表性的高风险场景（包括跟车制动、切入、后方接近和交叉路口冲突）的评估表明了REACT准确识别关键风险并执行主动规避的能力。其风险估计与人类驾驶员认知密切一致（即，警告提前时间&lt; 0.4秒），实现100%安全规避，零误报或漏报。此外，它还具有低延迟性能（延迟&lt; 50 ms）、强预见性和通用性。这种轻量级架构实现了最先进的准确性，凸显了其在安全关键自主系统中实时部署的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011413?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:44:55 GMT</pubDate>
+      <title><![CDATA[“一带一路”重大石油项目人工智能驱动智能危险监测：构建基于DPGT和RAG-HLLM的指标体系]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000327?dgcid=rss_sd_all</link>
+      <description><![CDATA[“一带一路”倡议下的主要石油项目面临着复杂的危险问题。建立全面、科学的危害监测指标体系对于实现风险的早期识别和主动预警至关重要。因此，本研究创新性地提出了“双路径接地理论”（DPGT）作为人机协同定性研究的新范式。该范式通过一个允许并行编码、交叉验证以及人类和LLM路径之间的互补集成的系统将人类分析的深度与LLM处理的广度结合起来。它克服了仅依赖无效的手动分析或不可靠的全自动方法的局限性。在实现中，人为驱动的路径利用KeyBERT模型和K-means集群算法来帮助完成编码的三个阶段。LLM驱动的路径评估DeepSeek-R1、Llama 3和Qwen 3模型在各个编码阶段的性能，并选择DeepSeek-R1作为主引擎。与检索增强生成（RAG）相结合，构建混合LLM部署架构（RAG-HLLM），充分利用卓越的基于云的推理能力并保护本地数据隐私。根据DPGT框架，经过多轮整合和筛选，最终建立了包括2大类别、8个一级指标、27个二级指标和109个具体因素的危害监测指标体系。验证表明，该系统通过了理论饱和度测试，在国际石油和天然气生产商协会（IOGP）标准数据库上的召回率达到了92.61%，大大超过了单路径方法获得的结果。从方法论上来说，这项研究开创了人机协同定性研究的新范式。从技术上讲，提出的混合架构平衡了隐私问题与处理效率。实际上，它为重大能源项目的安全管理提供了可靠的工具，具有重要的理论价值和广泛的工程适用性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000327?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:58 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有反馈数据包丢失的变结构非高斯随机系统的混合自适应容忍控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011255?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文致力于为具有反馈数据包丢失和多模式可变结构的非线性非高斯随机系统设计一种混合自适应故障诊断（FD）和容忍控制（FTC）方案。为了解决因数据包丢失导致的故障估计不准确的问题，提出了适用于自适应学习FD的数据包丢失补偿方法。因此，利用猎物自适应策略算法可以准确估计出初始和大幅度的故障。然后，通过具有变结构扰动的自适应调和学习函数来改进二阶滑动模式FTC方案。该混合自适应主动FTC结合FD估计的非线性和故障，实现了变结构非线性非高斯系统的稳定故障自修复。以造纸过程系统为例，利用李亚普诺夫函数证明了稳定性，并通过数值模拟验证了该方案的有效性和优越性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011255?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:44:50 GMT</pubDate>
+      <title><![CDATA[基于无人机监测索穹顶节点的多模块优化UAV-YOLOv 11模型和3D坐标重建方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000492?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确监测索穹顶结构节点的空间位置对于其结构安全至关重要。传统的测量方法效率低下，而现有的视觉技术则受到节点目标规模小、背景干扰强、定位准确度不足等挑战的限制。为了解决这个问题，本文提出了一种知识引导的感知解决方案协作框架，实现从无人机图像到3D空间坐标的自动重建。该框架首先构建了多模块优化的UAV-YOLOv 11检测模型。通过集成双层路由注意力、轻量级卷积和标准化沃瑟斯坦距离损失，检测准确率mAP@0.5：0.95提高至88.7%。在重建阶段，通过引入从VB找形算法推导出的几何、拓扑和对称性约束，引导Python实现坐标反投影和优化求解，形成逆重建机制，最终实现平均点测量精度为2.72厘米。该研究为大跨度空间结构的施工和健康监测提供了可靠的技术路径，促进了知识嵌入式工程信息学方法在结构监测中的实际应用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000492?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:53 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[TFSAF-Net：融合时频谱特征增强和关注旋转机械故障诊断的混合网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011553?dgcid=rss_sd_all</link>
-      <description><![CDATA[旋转机械是制造业的核心设备，其稳定性直接决定着工业系统的运行。轴承作为旋转机械的关键部件，其故障诊断的准确性尤为关键。近年来，深度学习（DL）在机械故障诊断方面取得了显著的成果。然而，传统的卷积神经网络（CNN）仍然存在明显的局限性，难以有效捕获时频域的高级非线性特征，并且在强噪音环境下对故障特征的脱钩能力不足，严重限制了诊断准确性和模型可解释性的提高。为了解决这些问题，提出了一种混合时频谱特征增强和注意力融合网络（TFSAF-Net）。首先，设计了时频谱特征增强模块（TFSFEM）。TFSFEM采用可学习的权重参数对信号的子波时频图进行二次卷积非线性变换，以增强其提取更高次故障特征的能力。同时，通过集成物理驱动特征脱钩模块来提取与故障相关的特征，并利用基于自适应规范比的特征度量来提高故障特征与噪音之间的区分度。此外，还开发了卷积多尺度注意力融合模块（CMSAFM）。CMSAFM引入了高效的多尺度关注，通过分组特征交互和自适应权重分配实现对关键特征的精确关注。进一步，通过多尺度特征的并行提取和加权融合，实现局部细节和全局时频分布信息的有效集成。最后，通过构建工程应用数据集和PU数据集，验证了TFSAF-Net的有效性和优越性。实验结果表明，该方法能有效地提取时频域中的高阶非线性特征，在高噪声环境下实现故障特征与噪声的有效分离，从而达到较高的诊断准确率。同时，在TFSAF-Net的可解释性和泛化性方面，它为探索该领域内的类似问题提供了有价值的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011553?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:44:46 GMT</pubDate>
+      <title><![CDATA[多电动飞机复杂多状态系统动态可靠性分析：基于E-TrMF和区间灰数的轻量级DBN方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000376?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于Bayesian网络的可靠性分析方法可以有效地解决复杂多状态系统固有的结构限制。然而，多电动飞机系统中的高计算复杂性、多故障状态和多源不确定性这三个挑战对实现准确的可靠性分析构成了重大障碍。为了弥合这些差距，本研究提出了一种基于模糊支持半径、马尔科夫链增强型梯型隶属函数（E-TrMF）和区间灰数轻量级动态Bayesian网络（EI-LDBN）的多电动飞机复杂多状态系统动态可靠性分析方法。首先，提出了一种基于灰色Bayesian信息准则的动态Bayesian网络轻量级策略，消除复杂多状态系统中DBN的冗余结构，提高模型效率，构建了LDBN架构。然后，通过集成梯型隶属函数与模糊支持半径和离散时间马尔科夫链来开发E-TrMF，动态量化多状态系统中关键部件的多故障状态。随后，利用区间灰数为LDBN模型开发了灰色条件概率表，以实现动态条件下的失效分析，有效解决了多源不确定性。最后，提出了一种EI-LDBN框架，以实现对多电动飞机复杂多状态系统的准确动态可靠性分析。以多电飞机启动-发电机系统（GMS）为例，实验结果表明，在多源不确定性下，所提出的EI-LDBN方法可以有效实现轻量级建模和动态可靠性分析，与EI-DBN和离散傅立叶方法相比，效率提高了39.1%和63%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000376?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[动态顺序和非顺序学习预测建筑深挖地下连续墙变形和地面沉降]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000480?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着中国城市地铁基础设施的扩建，深挖掘变得越来越常见。预测挖掘过程中的变形对于快速交通（BRT）车站建筑的施工至关重要，因为过度的位移可能会导致严重的经济和安全后果。传统的数值方法和现有的人工智能模型无法同时处理时间相关和时间无关的因素，限制了其预测准确性和适应性。为了解决这个问题，本研究提出了一种新型的人工卫星搜索算法-神经网络-旋转门傅里叶变换（ASSA-NN-RGFT）框架具有三个关键创新：（1）双流架构，通过RGFT的频域分析分别处理序列数据和通过NN处理非序列数据;（2）旋转机制，通过交叉注意执行迭代FFT-iFT变换，捕获传统回归模型错过的周期性变形模式;和（3）基于ASSA的自动超参数优化，消除了手动校准的需要。该模型旨在预测地下连续墙变形和地面沉降，是一种专为实时变形监测和预警而定制的工具。与六种先进人工智能模型相比，拟议的ASSA-NN-RGFT实现了最好的整体性能，误差最低（墙壁位移：MAPE = 3.54%;地面沉降：MAPE = 5.78%）和最高的相关性指标（墙壁位移：R2 = 0.952;地面沉降：R2 = 0.842）。十个BRT项目的真实验证实现了85.42%的墙体位移高精度预测和5.89%的地面沉降平均误差。拟议的ASSA-NN-RGFT模型所表现出的卓越预测性能、动态适应性和强大的可靠性支持其作为挖掘风险管理决策支持系统的可行性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000480?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[神经网络中不确定性量化的通用有效方法：识别人工智能系统中的风险决策]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000352?dgcid=rss_sd_all</link>
+      <description><![CDATA[神经网络中的不确定性量化能够评估人工智能系统中的预测可靠性，从而降低不安全决策的风险。现有的方法严重依赖于集成构建来对模型参数空间进行采样并捕获决策变异性。然而，在现实的资源限制下，小规模抽样导致证据来源不足和不确定性估计不准确。此外，不确定性指标的设计会显着影响估计准确性，并可能限制不同类型机器学习（ML）任务的适用性。本文提出了一个系统可重用集合（SRE）框架来进行不确定性量化。该方法在再培训期间重复使用和共享神经网络组件，以在单个训练过程中有效地生成多个模型实例。此外，引入了复合集成修剪策略，以促进参数空间中更均匀的采样。然后，基于证据理论并重新设计信任分配机制，开发了通用的融合度量。实验结果表明，所提出的框架系统性地减少了集成构建成本，同时提高了不确定性估计的可靠性。SRE的概括能力通过其识别至少五类ML任务的高风险决策的有效性得到了进一步验证。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000352?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[化危机为力量：为行业安全流程制定全面的反脆弱性框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000285?dgcid=rss_sd_all</link>
+      <description><![CDATA[仅仅旨在将功能恢复到危机前状态的传统弹性方法不足以对当今工业部门进行有效管理。本文介绍了一个全面且创新的反脆弱性框架，该框架可以利用危机作为机会，在行业中实施更好的安全流程。该框架是根据脆弱性、复原力和反脆弱性方面的科学文献中的数据以及该领域专家的集体智慧设计的。然后使用球形模糊德尔菲（SF-德尔菲）方法对这些定性数据的标准进行优先排序，最后，在专家小组的参与下，开发了综合反脆弱性框架。该框架围绕三个支柱构建：方向（负责任的领导、系统的环境意识、一致的政策制定）、执行（以人力资源、组织结构、资本和资源、数据和知识管理、技术、风险和危机管理以及组织安全和保障形式实现反脆弱性的标准）和结果（组织的可恢复性、学习性、可靠性、灵活性和活力）。拟议的框架代表了一个全面的、基于证据的反脆弱性框架，适用于寻求安全、适应性和前瞻性未来的行业，使其能够抵御系统安全危机，并能够在面临颠覆时蓬勃发展。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000285?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于大规模定制生产中异常检测的两阶段基于成本敏感的领域对抗神经网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000637?dgcid=rss_sd_all</link>
+      <description><![CDATA[在全球化和激烈的市场竞争背景下，检测产品异常对于企业提高质量、提高效率、降低成本至关重要。企业也在追求大规模定制以满足个性化客户需求。然而，定制产品通常是小批量生产的。此外，现代制造工艺通常表现出低缺陷率。此外，只有在检查后才能获得质量结果。这些特征导致了小样本量、不平衡数据和生产数据的延迟标签获取的挑战，潜在地破坏了现有异常检测模型的有效性。为了应对这些挑战，本研究提出了一个两阶段的成本敏感域对抗神经网络框架，该框架利用迁移学习将类似的大规模标准化产品的知识应用于定制产品。当过程参数可用但检查结果不可用时，采用集成了成本敏感学习的无监督领域对抗神经网络来解决小样本量和未标记数据的问题。在这个网络中，对成本敏感的学习组件通过与多数族裔类别相比更高的损失分配将标签预测器偏向少数族裔，同时解决数据不平衡问题。一旦一些定制产品的检查结果可用，这些已标记样本的标签预测器损失就会被纳入，以进一步增强异常检测。实验结果表明，在实际智能手机扬声器和笔记本电脑固态驱动器制造过程中，所提出的方法优于其他最先进的异常检测方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000637?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于红外实例分割和双模态视觉标定的建筑物立面分层量化框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000339?dgcid=rss_sd_all</link>
+      <description><![CDATA[建筑物外立面分层定量化是建筑物损伤程度评估和维修的关键。虽然红外热成像结合深度学习降低了人工检测成本，但由于红外图像中的噪声和空间细节不足，无法实现精确的检测和量化结果。为了解决这些问题，本文提出了一个全面的框架。设计了一种以双加权特征为中心的多阶段迭代红外分层网络（IR-DNet）用于分层分割。为了解决红外数据稀缺和实际数据收集成本问题，IR-DNet接受实验室和模拟数据培训，同时确保对现场场景的推广。此外，还开发了一种双模式视觉校准方法：图像配准后，可见图像作为补充信息来纠正透视失真并校准比例因子，所得参数在模式之间共享，从而创建信息融合管道。然后，将纠正后的红外图像输入IR-DNet进行分割和量化。现场测试平均量化误差为6.02%，验证了损坏严重程度判断和维护决策的实用价值。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000339?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于剩余使用寿命预测的门控多卷积自适应空时编码器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000613?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确估算发动机剩余使用寿命是保证发动机安全、经济运行的关键。本文介绍了一种自适应时空编码器与门控多卷积（GMC-ASTE），一种新的方法，同时建模的时间动态和传感器间的关系，以提高RUL预测精度。该方法采用多尺度门控卷积模块从原始多传感器数据中提取精细特征，有效地降低噪声，同时保留瞬态信号。这些特征随后通过自适应时空编码器进行处理，该编码器利用图注意力机制来动态调整传感器连接和多头时间注意力来捕获长期依赖关系。商业模块化航空推进系统模拟（C-MASS）基准的大量实验表明，GMC-ASTE实现了卓越的性能，在所有四个子数据集中具有最低的均方误差（RSSE）、平均绝对误差（MAE）和评分指标。结果证实了所提出模型的有效性和可解释性，提供了一个改进发动机预测理论的先进框架，并为航空公司提供了一个减少停机时间和维护成本的实用工具。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000613?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RLLM-SS：集成大语言模型和强化学习的知识引导单纯形搜索方法，用于注射成型质量控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000649?dgcid=rss_sd_all</link>
+      <description><![CDATA[在注射成型（IM）中，产品质量和工艺稳定性高度依赖于关键工艺参数的设置，因此有效的参数调整对于实现可靠和一致的生产至关重要。然而，调整过程传统上是由专家经验和试错方法指导的，这通常会导致效率低下和调整周期延长。为了应对这一挑战，我们提出了一种知识引导的单纯形搜索方法，该方法在称为RLLM-SS的协作优化框架中集成了大语言模型（LLM）与软Actor-Critic（SAC）强化学习算法。在RLLM-SS中，准梯度机制利用历史数据来动态估计单纯形搜索方法的步进大小和梯度补偿方向。这些估计变量与领域知识相结合，被编码到结构化提示中，引导注射成型质量LLM通过自然语言推理动态调整单纯形系数。这使得单纯形搜索能够克服固定系数限制并最大限度地避免局部最优。为了减轻LLM的缺点，例如其产生幻觉输出的倾向和缺乏过去调整调整的记忆，引入了基于SAC的评估模块。它根据优化性能分配奖励，从而在类似情况再次发生时强化有效的策略并促进持续的政策改进。实验评估首先在标准多维基准函数上验证了LLM-SS，确认了其在复杂搜索空间中的有效性，然后在基于实际IM过程数据训练的神经网络的注射成型质量模拟平台上进行。结果表明，RLLM-SS优于几种先进方法，将平均迭代次数减少了27.6%，将与目标质量曲线的最终欧几里得距离减少了68.3%。它还在高斯噪音扰动下保持了较强的鲁棒性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000649?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用可解释的梯度提升模型对卸载时间进行数据驱动建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000455?dgcid=rss_sd_all</link>
+      <description><![CDATA[卸载过程指的是从运输单元中提取成品和原材料，并随后将其运输到指定地点。卸货过程的效率在供应链和物流管理中至关重要，被视为重要组成部分。卸货作业的延误会带来许多挑战，包括运营费用增加、劳动效率降低和供应链瓶颈。因此，必须提前确定卸载时间以缓解这些挑战，从而减少空闲时间、提高整体效率并优化调度。因此，准确预测卸载时间至关重要。这项研究的新颖之处在于应用机器学习技术，通过准确预测卸载时间来提高运营效率。为此，本研究使用LightGBM和XGBOP来预测真实情况下的卸载时间。利用这两种模型，R2得分大于0.99即可预测卸载时间。随后，使用Shapley Additive exPlanations（SHAP）方法来确定每个输入特征如何对模型的输出做出贡献。腿部载荷对卸载时间的影响比卡车自重和腿部距离更大。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000455?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:09 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[更新监控和数据采集中的数字孪生，以实现可持续激光束微加工]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000479?dgcid=rss_sd_all</link>
+      <description><![CDATA[在工业4.0时代，提高能源效率和产品质量是制造业面临的关键挑战，其目标是降低能源消耗和表面粗糙度。本研究提出了一种监控和数据采集系统来解决AISI 316 L不锈钢激光束加工中的这些问题。数字孪生与监控和数据采集接口集成，在物理系统与数字系统之间形成闭环连接。数字孪生是数学模型和人工神经网络的结合。数学模型利用从物理系统收集的实验数据来估计表面粗糙度和比加工能。当估计的表面粗糙度和比加工能量超过其目标值时，数字孪生会优化和调整激光功率、激光频率和切割速度等输入参数。还使用田口方法优化了工艺参数，并与监控和数据采集进行了比较。该监控和数据采集系统表现出优于田口方法的性能，对于4、6和8 mm厚的板材，表面粗糙度分别降低了47.44%、54.67%和36.99%，比加工能分别降低了34.92%、22.61%和83.66%。数字孪生中的人工神经网络使用丰富的实时振动信号不断重新训练，从而能够即时适应过程的动态行为，从而降低表面粗糙度和特定加工能量，并增强整体可持续性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000479?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[事实：无需培训的零镜头扩散框架，用于3D城市模型中的立面纹理恢复]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000777?dgcid=rss_sd_all</link>
+      <description><![CDATA[高保真立面纹理恢复对于数字孪生应用中3D城市模型的真实性和实用性至关重要。低质量的纹理可能会损害可视化、模拟准确性和决策。这一挑战在细节级别1和2（Lo-1和Lo-2）模型中尤其明显，这些模型将建筑物表示为基本的聚集模型。在这些模型中，从复杂的3D网格源烘焙的纹理经常遭受几何失真、遮挡和不一致的照明。为了解决这些问题，我们引入了FACTS（立面自动纠正和纹理合成），这是一种用于立面纹理恢复的新型零镜头、免训练框架。FACTS作为一个自动化管道运行，以3D网格为输入并生成经过几何和亮度修正的模型。其关键创新如下：（1）预算引导、遮挡感知修复模块，使用语义引导来修复缺失的纹理区域;（2）多尺度边缘特征引导扩散过程，通过利用从图像中提取的结构先验来强制几何一致性;（3）CIELAB色彩空间中的高效照明协调方法，以解决纹理补丁之间的照明不一致性。认识到传统指标无法评估架构完整性，我们提出了三种新颖的指标：边缘直线度得分（ESS）、霍夫变换线一致性（HTLC）和线性指数（LI）。我们对SFDB和SYS-3D数据集的实验显示，较基线有显着改进。具体而言，FACTS将退化纹理的ESS、HTLC和LI评分分别提高了40.69%、11.16%和54.76%。该框架在单个消费级图形处理器上大约58.8秒的时间内处理250万像素纹理。这项工作为自动恢复有缺陷的立面纹理提供了一种可扩展和可解释的解决方案，从而增强现有3D城市模型的视觉真实感和结构准确性。代码和数据可访问https://github.com/CVEO/FACTS。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000777?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[广义信封非线性基尼指数图引导的两级线性啁啾模式分解用于Shield主轴承故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000467?dgcid=rss_sd_all</link>
+      <description><![CDATA[主轴承是Shield的核心机械设备，被称为Shield的心脏，主要用于支撑刀盘系统的旋转。主轴承的健康状况对Shield的稳定、安全施工有着重要影响。但主轴承的旋转速度很低，只有1转/分钟到5转/分钟，而且结构非常复杂，直径甚至超过10 m。主轴承振动信号的故障特征相对较弱。因此，主轴承故障诊断是一项具有挑战性的任务。为了解决这一问题，本文提出了一种新型的广义信封非线性基尼指数图引导的两级线性线性模式分解（GENGI-TSCMD）来诊断煤机主轴承。该方法由优化解调频段（OFSB）选择和故障频率提取两个关键部分组成。我们首先开发了用于OFSB提取的GENGI-gram，采用逐步增加的分割和信号频谱趋势来划分信号的频段，得到两个gram。构建了一个新的GENGI故障脉冲识别器来选择这两个克中的OFSB。GENGI通过结合广义信封和基于基尼指数的非线性权重，有效地描述故障脉冲特征并抑制噪音干扰。对于故障频率提取，我们通过建立带宽引导的自适应啁啾模式分解（BACMD）和故障频率提取模式分解（FEMD）提出了TSCMD。采用BACMD提取GENGI-gram每个解调频段的子信号，采用FEMD分解OFSB信号包封的各阶故障频率子信号。这样就可以准确诊断主轴承的故障类型。BACMD推导出子信号带宽计算公式，可以提取特定频率带宽的子信号。FEMD构建了一种新颖的自适应信号分解模型，可以有效分解窄频段的各阶故障频率子信号。然后使用实际的主轴承故障振动信号来验证所提出的方法。实验结果表明，提出的GENGI-TSCMD能够有效地滤除各种类型的强噪音干扰，并精确提取各阶故障频率分量。此外，所提出的方法比当前的信号处理故障诊断方法具有更优越的性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000467?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DuoTransFormer用于非线性地震响应预测：覆盖广泛、关注局部并执行法律]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000674?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于深度学习的方法最近已被应用于结构地震响应预测，但现有模型在捕捉强非线性行为方面仍然面临挑战，并且在多尺度时间建模和变量间依赖性方面表现出局限性。基于这些观察，我们提出了DuoTransformer，一种新的双视图Transformer骨干，它集成了一个Trans posed Transformer Encoder，将每个变量视为令牌和一个Patch Transformer Encoder，用于本地时间模式，从而实现粗粒度和细粒度时间依赖性的多尺度建模。受周期延长和硬度退化等响应特征的启发，物理模块遵循现象驱动的设计范式进行设计。此外，DuoTransFormer将预测过程分为两个阶段：物理模块和Transformer模块，前者对结构动态进行硬编码，并输出三个并行数据链作为物理信息特征序列，后者将它们作为输入。首先进行了两个概念验证实验，以验证所提出的方法的有效性。随后，对两个开放访问结构模型（包括42层案例研究建筑和632米真实世界建筑）的广泛评估表明，DuoTransFormer优于最先进的时间序列预测模型（例如，PatchTST，iTransformer），同时实现比有限元模拟低得多的计算成本。模型不可知的物理模块可以与所有基线灵活结合，以实现可观的性能提升。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000674?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有运动物体速度估计的时空运动感知智能机器人抓取]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000595?dgcid=rss_sd_all</link>
+      <description><![CDATA[动态抓取能力，即在非结构化环境中抓取移动对象可以使机器人系统在工业和日常生活应用中更具竞争力。然而，之前的研究大多依赖于限制性假设，例如静态物体受到轻微扰动或预先学习的物体运动模式，这严重限制了对未知轨迹的适应性。虽然最近的基于学习的方法放宽了这些假设，但它们优先考虑对象或抓取跟踪，以确保机器人的平滑运动而不是未来抓取姿态预测。动态抓取数据集的稀缺进一步阻碍了基于学习的方法的进步。为了应对这些挑战，本文提出了一种基于Conv-T（卷积Transformer）的运动对象抓取预测方法，Conv-T是一种融合时空特征以实现运动感知的动态抓取的分层架构。通过集成速度估计，该方法对时间序列深度图像中的潜在运动轨迹的动态进行建模，以预测未来的抓取姿势。Conv-T基于拟议的Sliding窗口多头自我注意（SL W-GMA）机制构建，该机制通过集成卷积操作和自我注意机制的属性来平衡计算效率与性能。此外，还开发了将数据合成与数据扩展技术相结合的动态抓取数据集生成管道，以有效地将时间运动线索嵌入到训练数据中。所提出的方法在构建的动态抓取数据集以及模拟和现实世界机器人环境中得到了验证。实验结果表明，我们的基于Conv-T的方法不仅在数据集上优于最先进的网络，而且在抓取移动对象时与其他基线相比表现出更强的鲁棒性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000595?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑土壤条件和碳排放的多仓库多机农业机械作业调度问题基于强化学习的超启发式算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000388?dgcid=rss_sd_all</link>
+      <description><![CDATA[多机协调调度系统是无人农场高效生产的关键技术，在推进农业信息化方面发挥着重要作用。然而，现有的农业机械调度研究往往忽视了中国丘陵山区的跨区域作业要求，忽视了土壤湿度对机械性能的影响。为了应对这些挑战，本研究制定了多仓库和多机器农业机械调度模型，并开发了三目标优化框架，以同时最大限度地减少行驶距离、作业时间和碳排放。提出了一种基于强化学习的超启发式算法（RL HHA），该算法采用针对问题结构量身定制的五层编码方案，集成了八种定制的低级启发式算法和Q学习控制器。采用超容量和间隔指标作为状态特征来指导启发式的自适应选择，从而提高调度决策的准确性和稳定性。在六个不同规模的基准实例上进行了广泛的实验。与三种经典算法和两种先进混合算法的比较结果表明，所提出的WLHHA在解决方案准确性、收敛质量和鲁棒性方面实现了卓越的性能。结果表明，所提出的模型和算法能够有效支持现实场景下跨区域农业机械调度的准确、可靠和可持续的决策。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000388?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过环境修改进行隐性协调：疏散场景中自适应门放置的多智能体RL方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000510?dgcid=rss_sd_all</link>
+      <description><![CDATA[在疏散建模中，建筑配置通常被视为固定约束，从而限制了对动态响应居住者运动模式的自适应设计策略的探索。这项研究在典型的多智能体强化学习（MARL）环境中调查了环境介导的协调。使用近端策略优化（PPO），导航代理学习逃生轨迹，而设计代理仅根据观察到的运动修改门的位置，而无需显式通信。该系统在多房间环境中进行了评估，以探索当导航性能和立即楼层平面图变化相结合时，互补策略如何演变。结果证明了成功的隐性协调，随着门控制器代理逐渐将门的位置转向有利于更快逃生路径的位置，情节长度大幅缩短。导航轨迹收敛在导航代理回报最大化的路径上，而门放置策略则最大化疏散时间。因此，尽管允许在剧集运行时期间进行架构更改，但结果仍然显示了两个代理人正在出现的适应行为，并证明了通过动态环境修改协调导航和设计动作的可行性。这种方法为能够动态响应用户行为模式的自适应建筑设计系统铺平了道路，并在基于性能的建筑设计工具和应急规划优化中有潜在的应用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000510?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种新型识别联合对抗网络，用于定量检测可变运行条件下重载机车车轮同步化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000698?dgcid=rss_sd_all</link>
+      <description><![CDATA[及时定量检测车轮多边形磨损对于铁路维护和提高列车运行质量具有重要意义。然而，现有的基于深度学习的检测方法难以应对速度变化引起的特征分布变化，表现出较弱的可移植性，并且无法实现车轮缺陷的定量诊断。为了解决这些问题，本文提出了一种新型的区分性联合对抗网络（NDJAN），用于变化运行速度下的多边形故障检测。首先开发了一种多分支并行ResNet，使用快捷连接从原始信号中提取敏感特征，该方法可以保留临界磨损幅度相关信息并缓解梯度消失问题。在此基础上，设计了一种基于混合注意机制和轻量级深度可分离卷积的两级鉴别特征融合（TLDFF）方案。前者用于放大鉴别特征，而后者通过可学习的加权系数实现多分支特征的智能融合，确保不同分支的互补信息的最佳整合。最后，提出了一种隐式-显式联合分布调整（IEJDA）策略，以解决在可变操作条件下的基本传输分布差异。该模块分别作用于特征层和回归决策层，完成全局分布匹配和决策边界的细粒度自适应。动力学仿真和现场试验表明，NDJAN方法可以有效地和准确地检测多边形磨损幅度。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000698?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[低注释城市轨道交通信号系统运营统一LLM-KG框架：知识获取和动态更新]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000194?dgcid=rss_sd_all</link>
+      <description><![CDATA[城市轨道交通信号系统（URASS）的智能化运营与维护（O &amp; M）对于确保列车安全和运营效率至关重要。然而，大多数O &amp; M数据以非结构化和标签稀疏的文本形式存在，这对可靠的知识提取、语义推理和动态知识管理构成了重大挑战。为了解决这些问题，本文提出了一个针对低注释、知识密集型O &amp; M环境量身定制的统一大型语言模型-知识图框架（ULLM-KG）。首先，引入双向知识图构建机制（BKGC）来快速构建特定领域的初始知识图。其次，设计了一种KG增强的远程监督实体和事件提取方法（KG-DS 3E），以提高从非结构化文本中提取关键知识的准确性。再次，提出了预算驱动的知识增强推理方法（PD-KER），以提高故障诊断和维护建议的语义质量。最后，采用具有时间感知和冲突解决的动态知识图更新机制（DKG-UCF）来确保知识进化的高效准确。基于现实世界的URTSB O &amp; M数据，对最先进的LLM（GPT-4 o、DeepSeek-V3和Qwen 3 - 32 B）进行了实验评估。与其他最先进的方法相比，在具有不同注释率和罕见错误的数据集上，ULLM-KG在知识提取和推理任务方面表现出显着优越的性能。其动态更新知识的能力也被验证非常出色。ULLM-KG为URTSB低注释条件下的智能O &amp; M提供了通用解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000194?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[生成性人工智能驱动的数据增强和对象引导的视觉语言推理，用于高空工作中的PPE合规性分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S147403462600056X?dgcid=rss_sd_all</link>
+      <description><![CDATA[个人防护装备合规性是确保高空工作安全的基本先决条件。尽管计算机视觉具有先进的PPE检测功能，但数据集稀缺性限制了概括性，而语义推理薄弱则阻碍了可靠的合规性验证。为了解决这些限制，本文提出了生成式人工智能驱动的数据增强和对象引导的视觉语言模型（VLM）来分析高空工作中的PPE合规性。高空工作和个人防护装备的安全标准（例如，GB 80-2016、GB 2811-2019）通过ChatGPT 4 o形式化为变量池和结构化提示，用作文本到图像（T2 I）生成模型的输入，以生成合成数据集。采用对象检测模型来检测PPE元素，并将对象检测模型的结构化输出与VLM集成，实现将对象检测与自然语言理解相结合的视觉语言推理。实验结果表明，DALL·E 3生成的合成数据集比其他图像生成模型更真实，混合数据集显着提高了检测性能（mAP@0.5= 88.5%，Small Body mAP@0.5=75.8%）。使用YOLOv 11检测作为结构化输入，Qwen 2.5-BL-7 B实现了可靠的合规推理（URA = 87.6%，SC=0.83，EQ=4.2），这些进步被整合到支持自动化报告和交互式分析的集成平台中。该框架通过生成性扩展和加强PPE合规性推理来缓解数据稀缺性，从而增强了高空工作的安全性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462600056X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基础模型时代的物理信息体现智能：推进智能制造的机器人操纵]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1474034626000625?dgcid=rss_sd_all</link>
+      <description><![CDATA[近年来，基础模型已成为人工智能领域的变革力量，使机器人智能的构思和实施方式发生范式转变。然而，尽管进展迅速，但物理推理与这些大规模模型的集成仍然有限，从而在复杂的操纵任务与复杂的制造过程之间留下了差距。根据机器人认知发展的当前趋势，我们对支撑物理信息方法的理论基础进行了全面审查，并分析了将数据驱动学习与物理定律和约束相结合的架构框架。通过综合学术研究和工业应用的最新发展，本文强调了这些领域的融合不仅增强机器人系统的稳健性和可解释性，而且加速了其从模拟到现实世界部署的过渡。此外，我们还讨论了关键案例研究、基准技术和新兴方向，为当前方法论固有的协同效应和权衡提供见解。我们的分析概述了未来研究的有希望的途径，旨在进一步弥合机器人理论进步和实际实施之间的差距。这项调查将物理信息的体现智能定位为基础模型时代智能制造的关键推动者。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000625?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:41:15 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[AirfoilAgent：通过大语言模型多智能体协作进行机翼空气动力学优化设计]]></title>
@@ -256,139 +389,6 @@
       <description><![CDATA[超过85%的建筑数据仍然是非结构化的，因此迫切需要文本挖掘（TM）。虽然相当多的注意力已经指向TM的演变，一个关键的差距持续存在的历时分析的形式，其轨迹的大语言模型（LLM）的背景下，有限的探索。因此，本研究的目的是：（1）生成基于LLM的TM构建框架;（2）探索TM构建方法的不同演变;（3）识别演变的驱动因素。为了实现这些目标，使用了两种基于LLM的TM方法来审查与TM相关的文献。结果揭示了双重延迟模式：在内部，统计机器学习在建筑行业中保持了对LLM的主导地位，而在外部，LLM的采用落后于医疗保健和生物医学等行业2-3年。该研究通过引入新型数据源（引发性话语库和多模式数据）并将基于软件的分析作为一个独特的方法论阶段来扩展现有的分类学。此外，它还解决了基于法学硕士的TM的研究范式差距，为从业者选择TM工具提供了增强的战略指导。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034626000133?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 19 Jan 2026 14:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从黑匣子机器学习模型中发现可解释的爆炸加载方程]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011371?dgcid=rss_sd_all</link>
-      <description><![CDATA[沸腾液体膨胀蒸汽爆炸（BLEVE）是一种高能事件，其特征是强烈的冲击波，构成严重的安全风险。准确预测由此产生的超压波对于知识密集型的工程分析和决策支持至关重要。虽然经验方法可以用于预测简单BLEVE场景中的超压，但它们无法捕捉多特征和复杂条件下的非线性关系。计算流体动力学（CFA）方法在超压波预测中提供了高准确性，但计算量大、使用成本高且难以集成到自动化或实时工程工作流程中。机器学习模型为快速预测提供了一个有希望的替代方案，但其有限的解释性，特别是在深度学习架构中，给集成到现实世界的工程系统带来了重大障碍。这项研究提出了一种结合机器学习、可解释人工智能和符号回归的系统方法来预测BLEVE超压。使用Shapley Additive exPlanations（SHAP）开发并解释了一个前向神经网络模型。全球SHAP分析确定了九个贡献最大的特征，随后使用这些特征通过符号回归来训练全球代理模型。这种方法产生了一个显式的数学表达，逼近原始神经网络的行为。推导出的方程对模拟数据的相对误差为15.73%，对实验数据的相对误差为35.45%，优于现有经验公式。这项研究证明了将黑匣子机器学习模型与xAI技术相结合以开发可解释且可靠的爆炸负荷预测方程的潜力。更重要的是，它引入了一种新颖的数据驱动的数据模型解释方程方法，通过将黑匣子模型转换为显式且可解释的计算表示来形式化工程知识。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011371?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于随机占用建模的物理信息带结构集成连续时间非齐次马尔科夫链]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010973?dgcid=rss_sd_all</link>
-      <description><![CDATA[了解和预测占用模式对于提高建筑能源系统的效率和支持以占用者为中心的建筑设计至关重要。传统的离散时间非齐次马尔科夫链（DTIMAC）模型已被广泛用于随机占用建模;然而，状态转移概率可以任意改变的假设导致模型复杂性高和过度逼近的可能性。本研究引入了一种基于占用移动物理过程的新型带状结构集成连续时间非齐次马尔科夫链（CTMC）建模方法。该方法在无限小的时间间隔内对状态转移到受限邻近状态施加物理约束，将二次模型复杂性显着降低到线性，并提高了可解释性和概括能力。进一步开发了扩展的带结构，以应对快速和剧烈的占用率变化的情况。这些模型使用九个月的高分辨率占用数据进行验证，这些数据显示出巨大的占用变化模式，这些数据分为训练集和测试集。测试集的结果表明，所提出的带结构集成CTIMAC方法在日日志似然性方面优于传统的DTIMAC方法。值得注意的是，在高复杂性条件下，当缩放系数的数量超过7时，DTIMAC模型表现出严重的过逼近，产生-568和-426之间的log似然值。相比之下，CTIMAC模型在相同条件下保持稳健，在-124至-107范围内实现了更高的log似然性。这些发现凸显了物理信息CTMC模型用于稳健随机占用建模的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010973?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MFSTGCN-AF：具有注意力融合的多面时空图卷积网络，用于路面车辙深度预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011103?dgcid=rss_sd_all</link>
-      <description><![CDATA[车辙是沥青路面最严重的损坏形式之一，因为它严重损害了结构强度和驾驶安全。准确预测车辙深度对于道路工程中实现有效维护、降低运营成本并延长路面使用寿命至关重要。然而，当前的预测模型常常忽视道路网络内的时空依赖性和外部影响，从而限制了预测的准确性和可解释性。因此，本研究提出了一种新型的具有注意力融合的多面时空图卷积网络（MFSTGCN-AF）模型来应对这一挑战。提出的模型将输入特征分解为空间、时间和外部方面，以实现有针对性的建模和联合优化。空间依赖性通过多个预定义的图进行编码，通过图卷积网络（GCN）进行处理，并通过基于注意力的机制自适应融合。同时，使用门控因果卷积神经网络（GC-CNN）捕获时间相关性。然后通过轻量级多层感知器（MLP）结构嵌入外部特征，并与时空特征集成。最后，将多维模块组合起来，形成全面的预测框架，进行车辙深度预测。对现实世界时间序列数据集的大量实验表明，MFSTGCN-AF模型在准确性、稳健性和概括能力方面优于基线模型。这个先进的框架不仅支持及时且具有成本效益的维护，还优化了资源配置，从而为道路工程的管理系统做出了更智能、可持续和高效的贡献。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011103?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能设施管理中自动化预测性维护的语义推理和集成]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011334?dgcid=rss_sd_all</link>
-      <description><![CDATA[预测性维护（PdM）对于最大限度地减少停机时间、延长资产寿命以及在智能设施管理中实现数据驱动的决策至关重要。然而，传统的PdM系统经常面临与碎片化数据源、有限的语义互操作性以及缺乏自动化功能相关的挑战。本研究介绍了STRIDE（SemanTic Reasoning and Integration for Data-driven Engineering），这是一个模块化框架，可使用Neo4j将物联网传感器数据、建筑信息建模（BIM）和设施维护记录集成到基于本体的知识图中。STRIDE使用Python和Power Automate利用语义推理和低代码自动化来支持实时异常检测、任务生成和可解释的工作流执行。为了支持智能维护自动化，STRIDE被实现为五层架构，包括语义摄取、推理逻辑、工作流编排、可视化服务和利益相关者协作。通过模拟HVAC场景验证，STRIDE在30，082个图形节点上实现了82.5%的任务自动化率和0.74秒的查询响应时间。这些结果证明了该框架在复杂设施环境中实现可扩展、透明和数字孪生预测性维护的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011334?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[自动车辆入口匝道合并中基于分层博弈和信任估计的分布式交互决策]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011322?dgcid=rss_sd_all</link>
-      <description><![CDATA[匝道合并场景中的自动驾驶车辆（AV）与主道路上的多辆车辆之间的协作决策（DM）是一项极具挑战性的工程任务，它显着提高了DM流程的动态性、可持续性和交互性。当然，在这种高度动态和高度互动的DM场景中，存在特定的技术挑战。这些挑战涉及使自动驾驶汽车能够执行与熟练的人类驾驶员类似的安全合理的驾驶行为，并准确、平稳地融入主道路。这样的能力还需要广泛的知识支持。为了进一步应对这些挑战，本文提出了一种基于滚动分层游戏和信念估计的分布式交互式DM方法，并设计了新型并行虚拟和真实游戏双重系统。所建立的游戏DM模型嵌入了个性化、类人的驾驶特征，可以匹配不同类型的驾驶员和乘客群体，包含多样化的驾驶要求，特别是多重安全性、舒适性和及时性。同时，求解了时间顺序滚动DM中各阶段博弈的完美Bayesian Nash均衡（PBNE），并分析了多目标DM的帕累托前沿。实验验证了该方法在解决多辆车之间潜在冲突和以连续交互的方式处理安全DM问题方面的有效性。结果表明，在复杂场景下，自动驾驶汽车可以成功融入主干道。该方法提高了智能数据挖掘的类人一致性，赋予数据挖掘个性化优势。这些进步为先进自动驾驶相关技术的工程应用提供了支持。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011322?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[HASPFormer：通过自我关注和随机池推进多元时间序列预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S147403462501105X?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文中，我们介绍了HASPFormer，这是一种新型的仅编码器模型，专为长期多元时间序列预测而设计。HASPAFormer作为SOFTS架构的改进版本开发，包含了旨在提高稳健性和预测准确性的有针对性的修改。初步实验表明，用位置嵌入和脱落层扩展原始STAR模块可能会在某些条件下引入不稳定性。为了解决这个问题，我们提出了随机可学习阈值机制（SL TM），它在自我注意力和随机池之间动态切换，以更好地平衡全局和局部时间依赖性，同时减少不稳定性。为了进一步加强稳健性，我们引入了稳健数据嵌入（RDE），这是一种轻量级机制，可以在训练期间注入高斯噪音，以增强概括性并降低对随机初始化的敏感性。除了提高平均性能外，RDE还显着降低了训练运行之间的变异性，与基线SOFTS模型相比，将SSE的性能标准差降低了28.9%，MAE的性能标准差降低了57.5%。这些组件共同使HASPAformer更加稳定，对初始化的敏感性更低，同时还在预测准确性方面提供了一致的提高。在12个基准数据集中，HASPAformer在11个SSE数据集和10个MAE数据集上的表现优于强基线，实现了5.92%和4.27%的平均相对改进，在单个数据集上实现了高达19.23%和13.23%的收益。所提出的模型以最小的计算负担，在准确性、稳健性和效率之间提供了有效的平衡，使HASPAFormer成为复杂长期预测任务的可扩展且可靠的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501105X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[离散制造系统中基尼人口多样性引导的灵活作业车间调度优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011437?dgcid=rss_sd_all</link>
-      <description><![CDATA[灵活作业车间调度问题（FPSP）是现代离散制造系统的基石，其中机器灵活性和定制生产需求带来了复杂的优化挑战。本研究通过引入基尼种群多样性（GPD）来解决FPSP优化中基本的探索-利用不平衡，GPD协同结合了以下方面：（1）解空间中基于对角矩阵的距离度量，和（2）目标空间中基于基尼系数的适应度分布评估。提出的autoIGA算法利用GPD动态引导进化搜索，在198个FPSP基准实例上展示了卓越的性能，在7个标准测试套件中的5个中排名第一。在现实世界的离散制造案例研究中，具有多任务工人和复杂的资源限制。autoIGA比原始计划实现了显着改进（总加权延误减少19.34%，完工时间缩短42.68%），验证了其对当代生产系统的实用价值。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011437?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于工业计算机断层扫描的沙漏形数字孪生框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011449?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业计算机断层扫描（ICT）是最先进的无损测试、评估和定性技术之一，用于揭示内部结构、分析材料成分和识别物体内部缺陷。然而，在实际工程应用中，它遇到了复杂的操作程序和参数设置、高成本以及伪影和测量误差等挑战。数字双胞胎（DT）通过创建一个与物理空间密切映射和交互的虚拟环境，为这些挑战提供了创新的解决方案。在本文中，沙漏形DT ICT框架。通过在物理和虚拟空间之间建立静态和动态连接，ICT系统在三个维度上形成了孪生：实体、行为和数据。这种整合使应用程序和功能层能够提高信通技术流程的效率和准确性。详细阐述了ICT系统中DT框架的实现，并以工件ICT检测过程为例验证了其可行性和有效性。这项工作有助于推进工业4.0下工业检测领域的数字化。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011449?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DD-DETR：具有信息交互和竞争学习的双解码器DETR，用于叶片表面缺陷检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011279?dgcid=rss_sd_all</link>
-      <description><![CDATA[航空发动机叶片长期在高温高压条件下工作，容易出现表面缺陷。如果不及时发现并修复，这些缺陷可能会导致重大安全隐患。为了应对高效、准确的缺陷检测的挑战，特别是在缺乏公开可用的数据集的情况下，我们构建了一个专门的数据集，其中包含两种类型的可修复表面缺陷、划痕和坑坑。基于该数据集，我们提出了DD-DETR，这是一种基于DETR架构的高精度检测算法。DD-DETR引入了一种新颖的双解码器架构，其中并行解码器共享相同的结构和参数。我们还开发信息交互机制和竞争学习机制，优化信息流，增强解码潜力，最大限度地提高特征信息利用率。此外，采用密集一对一（密集O2O）匹配策略来增加阳性样本，而无需添加额外参数，而匹配能力感知损失（MAL）则提高了不同难度样本的训练稳健性和匹配质量。我们构建的数据集的实验结果显示，DD-DETR实现了93.4%的mAP 50和70.7%的mAP，显着优于其他基于DETR的模型。这些结果证明了DD-DETR在航空发动机叶片表面缺陷检测中的有效性和实用价值。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011279?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[高坝爆炸裂缝识别的知识数据驱动模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625010225?dgcid=rss_sd_all</link>
-      <description><![CDATA[高坝爆炸损伤的识别是此类结构物抗爆安全评价的重要方面。这项研究提出了一个知识数据驱动的框架，用于识别高水坝中爆炸引起的裂缝。该模型形式化了与裂缝大坝中的模式演变规律相关的基础物理知识，并集成了机器学习的高效非线性计算能力，从而实现了准确、高效的裂缝识别。首先，根据模式转变和模式局部化理论，引入了定量的损伤识别指标，包括模式频率变化和模式局部化因子。提出了一种模式序列重建方法，建立考虑模式转变的数据预处理框架。在此基础上，使用基于人类进化优化算法的支持量回归（HEOA-SVR）的模式参数预测模型取代了采样过程中的有限元素模型（Element）。此外，还集成了Bayesian理论，形成了知识数据驱动的高坝爆炸裂缝识别模型。最后，以某拱坝为例，建立了拱坝爆炸损伤模态数据库，并通过对水平裂缝的识别验证了该损伤识别模型的有效性。结果表明，基于模态频率和梁向模态局部化因子的识别指标提供了优越的精度和抗噪性的水平裂纹检测，与物理知识对齐。与忽略模式转换和模式定位的方法相比，知识数据驱动的模型在保持高准确度和精度的同时，提高了识别效率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625010225?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[集成LiDART扫描到IRC和UWB实时定位以实现自动化施工监控：预制模块案例研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011401?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种新颖的施工监控框架，重点关注通过集成LiDART扫描和超宽带（UWB）定位技术实现高效的竣工模型配准。所提出的方法利用UWB定位数据作为初步空间参考，用于精确对齐来自LiDART点云处理的预制模块和组件的竣工模型。这个集成框架通过将多种技术集成到一个有凝聚力的系统中，克服了碎片化方法的局限性，解决了施工监控中的关键差距。在这些过程中，该研究提出了一种系统性的有针对性的部分变换，以纠正点云配准期间的角度失准。该框架采用BIMCrossNet，这是一种定制深度学习架构，专门为建筑场景中的点云分割而设计。最后，该研究能够自动更新语义丰富的竣工BMI模型，并实时验证组件放置，使其对于模块化施工应用中的质量控制和进度监控特别有价值。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011401?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于自我注意机制的剩余使用寿命预测-顺序变分自动编码器：从半监督的角度来看]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011358?dgcid=rss_sd_all</link>
-      <description><![CDATA[剩余使用寿命（RUL）预测是维护复杂系统运行安全性和可靠性的关键任务。考虑到传统的数据驱动RUL预测方法需要大量标记样本进行监督模型训练，因此在充分利用未标记的退化数据方面存在显着的局限性。此外，当前的深度网络需要在可解释性和不确定性方面进行深入的研究工作。从这个意义上说，从半监督的角度提出了一种具有自注意机制的RUL预测方法-顺序变分自动编码器（SAM-SVAE）。具体来说，考虑到动态序列化建模，本文设计了一个自我注意机制网络，以关注输入时间窗口的关键部分。在此基础上，本文探讨了Bayesian深度概率生成网络与控制理论中状态空间模型之间的对应关系，该模型逼近了RUL预测的密度函数，用于不确定性评估。此外，本文从半监督角度提出了SAM-SVAE，它可以从大量未标记的退化数据中学习有价值的特征表示，并通过对潜在空间的分析来提供可解释性。所提供的SAM-SVAE的实验验证利用了来自NASA预测中心的飞机涡轮风扇发动机数据集。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011358?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过定制和混合视觉语言表示将微结构信息学与增材制造复合材料中的特征知识联系起来，以实现自动化鉴定]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011310?dgcid=rss_sd_all</link>
-      <description><![CDATA[先进材料的快速可靠鉴定仍然是工业制造的瓶颈，特别是对于通过非传统增材制造工艺生产的异类结构。这项研究引入了一种新颖的框架，该框架使用定制和混合视觉语言表示（TLR）将微观结构信息学与一系列专家特征化知识联系起来。通过将深度语义分割与预先训练的多模式模型（CLIP和FLAVA）集成，我们将视觉微观结构数据和文本专家评估编码为共享表示。为了克服通用嵌入的局限性，我们开发了一种定制的基于相似性的表示，该表示结合了来自专家注释图像及其相关文本描述的积极和消极引用。这使得通过净相似性评分方法对以前未见过的微观结构进行零镜头分类。对增材制造金属基复合材料（MMC）数据集的验证证明了该框架能够在一系列特征标准中区分可接受和有缺陷的样本，前5名检索准确率高达80%。比较分析表明，与CLIP相比，FLAVA模型具有更高的视觉敏感度，并且惩罚了弱相似性，评分差异高达0.17。然而，FLAVA的文本编码器在专家描述的解释中表现出相似性急剧下降（低于0.20），而CLIP与文本标准保持了更稳定的一致性（0.29-0.36）。Z分数标准化根据本地均衡驱动的分布调整了原始的单峰和跨峰相似性分数，从而在混合视觉语言框架中实现更有效的对齐和分类。标准化分数在三个类别中提供了强大的二元分类结果（分布82%，稀释90%，强化82%）。所提出的方法通过人在环决策增强了资格管道的可追溯性和可解释性，而无需针对特定任务的模型重新训练。通过推进原始数据和专家知识之间的语义互操作性，这项工作有助于工程信息学中可扩展和可适应领域的资格策略。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011310?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用条件扩散和基于图的学习的融合驱动脑电重建和认知工作量识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S147403462501136X?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于现实世界的伪影和数据缺失，从脑电信号中识别认知工作量仍然具有挑战性。为了解决这个问题，我们提出了一个统一的重建分类框架，该框架集成了脑电波去噪和工作量推断。首先，介绍了条件引导去噪扩散概率模型（CG-DDPM），该模型结合了高斯噪音建模、条件编码器和条件变分自动编码器（CVAE），以指导U-Net去除各种伪影，例如EMG、EOG、心电图、呼吸运动、电力线干扰和掩蔽区域，同时保留必要的神经活动。其次，设计了一个高级分类网络--脑电图融合网络（EEGGX-Net），该网络具有混合多分支编码器、双向多头交叉注意力融合（MHCAF）模块和分层胶囊分类器（ICC），以联合捕获脑电信号的空间、布局和非线性动态。定量指标（SNR：16.50分贝，CC：0.86，SC：0.79）和地形可视化均证实了CG-DDPM在恢复有意义的神经活动方面的功效。该框架在STEW数据集上使用严格的受试者独立的5重交叉验证协议，并在iNCog-EEG数据集上进行外部验证，在原始、有噪和重建条件下在二进制和三进制设置中实现了最先进的性能，准确性超过98%和95%，95%的狭窄置信区间证实了统计可靠性。比较分析还显示出统计上显着的性能提高，并得到了模型p值评估的支持。消融研究和t-SNE可视化重申了稳健性和通用性。这些结果凸显了这个统一框架在神经人体工程学和人类自动化系统等容易产生噪音的环境中进行实时认知工作量评估的巨大潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S147403462501136X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:26 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有多轴非线性机械目标的衰减微结构的潜在扩散驱动逆设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011498?dgcid=rss_sd_all</link>
-      <description><![CDATA[这项研究提出了一个集成的生成式框架，用于地震应用中的减震钢墙（EDSW）中的减震微结构的逆设计，建立了从大规模基于像素的数据集到潜在空间表示、三维重建、工业制造和有限元素分析（FEA）验证的无缝管道。基于变分自动编码器的TopoFormer从超过140，000个边界相同的微结构开始，将几何特征压缩为潜在代码，从而将生成复杂性降低90%以上，同时保持高重建保真度。通过潜在空间中的k均值聚集选择代表性结构，并通过剪切和压缩下的非线性FEA进行分析，以构建性能标记的数据集。然后，训练条件潜在扩散Transformer（DiT）将完整的非线性机械性能曲线映射到可制造的几何形状，从而实现目标响应和结构配置之间的一对多对应关系。比较评估表明，拟议的DiT框架超过了多个CondUNet基线，实现了最低的DID（11.367）和最高的SSIM（0.676），覆盖范围和精确度平衡。在低周往返载荷下使用激光切割低屈服点钢样本进行实验验证，证明生成的滞后曲线和目标滞后曲线之间非常一致，证实了几何保真度和机械可靠性。这些结果为自动化、性能驱动的微观结构设计建立了一种可扩展、高准确性和实验验证的方法，为将生成式人工智能融入下一代地震能量消散系统的工程开发提供了实用途径。相关代码可访问https://github.com/AshenOneme/DiT-Based-Microstructures-Design。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011498?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多策略协同增强的沙猫群优化：基准和工程应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011486?dgcid=rss_sd_all</link>
-      <description><![CDATA[沙猫群优化（SCSO）算法虽然因其结构简单而受到重视，但受到其搜索机制基本限制的限制--特别是低效的全局探索、过度利用集群和不灵活的阶段转变。大多数现有的改进方案依赖于附加外部策略，导致计算费用显着增加，或者无法系统地解决这些核心瓶颈。这项研究回归生物灵感的源泉，从沙猫的生存智慧中揭示了更深层次的设计原则。在这一理念的指导下，我们提出了一种多策略协同增强沙猫群优化（CZ-SCSO）算法。核心贡献在于引入了四种紧密耦合的创新策略--饥饿驱动双峰策略、人群内引导搜索策略、神经可塑性启发的动态决策机制和自然选择策略--它们共同形成了一个高效的闭环优化系统。对IEEE CIC 2013和CIC 2022基准函数的综合实验表明，CZ-SCSO在收敛准确性、速度和稳定性方面显着优于原始SCSO和其他最先进的元启发式算法，在不大幅增加计算复杂性的情况下实现了这种卓越的性能。在约束工程设计和现实世界案例中的成功应用凸显了CZ-SCSO卓越的概括能力和实用价值，为SCSO算法的基本局限性提供了高效有效的解决方案。CZ-SCSO算法的源代码可在以下网址公开：https://github.com/BaolongChen/CZ-SCSO.git]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011486?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[GridGAN-TSB：一种通过文本提示分割建筑自由形式表面的智能方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011589?dgcid=rss_sd_all</link>
-      <description><![CDATA[建筑自由曲面因其独特且美观的形式而越来越多地被大型公共建筑采用;然而，这些表面的几何复杂性给网格划分带来了巨大挑战，并且仍然缺乏普遍有效的方法。为此，本文提出了一种用于建筑自由形式表面的新型网格划分方法，称为GridGAN-TSB，该方法利用了生成式对抗网络（GAN）（生成式人工智能的一种形式）。GridGAN-TSB的一个显著特征是它能够在不明确依赖表面特征的情况下执行网格划分。通过训练数据挖掘和学习，该模型自主提取相关特征，从而实现自由形式表面的自动划分。此外，GridGAN-TSB可以同时生成由三角形或四方形元素组成的网格结构（通过文本提示）--之前的方法不支持这种能力，这些方法通常需要针对每种元素类型完全不同的策略。阐述了GridGAN-TSB的技术细节，并提出了一种用于构建大规模训练数据集的参数化策略。此外，还引入了一种新型的网格评估指标--相似性评估--来补充现有的几何评估方法。GridGAN-TSB的有效性和通用性通过消融研究、广泛测试和案例分析得到了验证。结果表明，GridGAN-TSB在建筑自由曲面网格划分方面表现出出色的性能，并且可以根据用户文本提示灵活生成具有不同基本元素的网格结构。此类功能显着提高了网格划分的效率，同时扩大了潜在应用的范围，凸显了该方法作为实际实施的有力候选者。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011589?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Co-MixPL：隧道漏水检测的优化半监督学习方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011565?dgcid=rss_sd_all</link>
-      <description><![CDATA[盾形隧道内衬复杂的几何形状、环境可变性和不一致的成像条件对漏水检测构成了巨大挑战。现有模型严重依赖来自不同环境的大量注释数据，以确保不同场景下的可靠性能，这在数据注释中会产生大量的时间和劳动力成本。为了减轻注释负担，我们提出了Co-MixPL，这是一种新型的半监督学习方法，它将标记数据与混合伪标签（MixPL）策略生成的伪标签集成起来，以迭代更新师生模型。具体来说，Co-MixPL将额外的头集成到MixPL框架中，以增强编码器的区分能力，并引入软回归方法来减轻伪标签中固有的定位偏差，通过自适应可靠性得分来改善伪标签的回归损失。值得注意的是，在公共“漏水”数据集Mendeley Data V1上的实验表明，Co-MixPL仅使用七分之一的训练数据就接近最先进的（SOTA）性能，并且仅使用三分之一的注释就比SOTA高出2.8 AP。这些发现突出了Co-MixPL在显著减少注释的情况下提供卓越检测性能的有效性，从而更好地满足工程检测和维护的实际需求。代码可访问https://github.com/LXJ010/Co-MixPL。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011565?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用基于神经网络的热预测和经济模型预测控制的建筑物最佳能源管理]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1474034625011711?dgcid=rss_sd_all</link>
-      <description><![CDATA[供暖、通风和空调（VGA）系统是建筑物能源消耗的重要因素，直接影响能源效率和乘员舒适度。传统的基于物理的温度建模和集中控制框架通常难以有效平衡跨多个建筑物扩展的挑战，同时最大限度地降低运营成本。为了应对这些挑战，本文提出了一种新型的数据驱动分布式控制框架，用于建筑社区的经济和弹性运营。具体来说，该框架采用人工神经网络（ANNS）来捕捉多时间步的非线性温度动态，增强互联建筑物能源管理的预测准确性。开发了分布式经济模型预测控制（EMPC）策略，使本地控制器能够迭代协调每个建筑物中的空调时间表。该策略最大限度地减少能源短缺，优化整体社区能源成本，并确保热舒适性。此外，通过促进空调系统、分布式能源（BER）和存储单元之间的能源交互，该框架确保停电期间电能供需平衡。模拟结果表明，所提出的策略提高了成本效率、弹性和多步预测准确性，在多个建筑物之间协调方面优于传统的基于物理的EMPC方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1474034625011711?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:28:10 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[利用可扩展的深度Koopman预测控制缓解混合交通流中的交通振荡]]></title>
