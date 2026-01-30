@@ -4,20 +4,132 @@
     <title>ScienceDirect出版物：机械系统和信号处理</title>
     <link>https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:04:56 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[编辑委员会]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000713?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月1日资料来源：机械系统与信号处理，第245卷作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000713?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 26 Jan 2026 11:40:11 GMT</pubDate>
+      <title><![CDATA[“弱磁激励下钢管环缝远场磁信号响应的定量研究”的更正。[机械。系统。信号处理。240（2025）113404]]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600107X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年1月29日在线发布来源：机械系统与信号处理作者：何腾娇、廖建成、廖克西、张怀新、石小龙、周小龙、王林翔、夏国强、江玉桐、唐静]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600107X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:55 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[“迈向性能匹配的主动谱振动控制：理论指导的传感器放置框架”的更正。[机械。系统。信号处理。244（2026）113768]]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000452?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月1日来源：机械系统与信号处理，第245卷作者：尹天奇、徐文豪、峰雄、张能、李彦]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000452?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 26 Jan 2026 11:40:07 GMT</pubDate>
+      <title><![CDATA[使用自然观察过滤器和平均过滤指数的新型在线研磨颤动检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000622?dgcid=rss_sd_all</link>
+      <description><![CDATA[颤动检测在现代铣削操作中发挥着关键作用，因为再生振动会严重降低表面质量、加速刀具磨损并破坏切割过程的稳定。尽管快速傅里叶变换（FT）、短期傅里叶变换（STFT）和基于微波的分析等现有技术已被广泛采用，但在处理快速变化或非平稳信号时，它们的性能往往受到高计算需求和效率降低的限制。为了克服这些局限性，本研究引入了一种基于自然观察过滤器（NOF）的新型时间域颤动检测方法。该方法使用轻量级回归过滤器分解振动信号，并采用平均过滤指数（IPL）来捕获与从稳定切割到颤动的转变相关的能量漂移。通过数值模拟和使用三轴NC机器的控制铣削实验验证了所提出的框架。结果表明，即使在变化的动态条件下，该方法也能准确区分稳定状态、过渡状态和颤动状态。NOF算法的计算复杂度为O（M·N），实现超低处理延迟，实现在微控制器等低功耗嵌入式平台上的实时部署。这些优势凸显了其在实用、工业规模的颤动监测和集成到智能加工系统中的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000622?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2-DOF自激和强制联合激励非线性机械谐振器的同步换相机制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000841?dgcid=rss_sd_all</link>
+      <description><![CDATA[机械共振器的同步振动对于提高共振装置的频率稳定性和测量分辨率具有重要意义。机械共振器可以表现出同相同步和异相同步振动，并且其开关行为极易受到各种驱动参数和非线性因素的影响。本研究设计了一种自激和强迫激励共同驱动的两自由度磁耦合共振系统，通过调节反馈相、自激驱动力和强迫驱动力，实现两个共振器的同步振动和换相。首先，建立了2自由度自激强迫联合激励（SFCE）动力学模型，并进行了实验测量。研究发现，耦合共振器的同步带宽取决于共振系统的反馈相和驱动强度。有趣的是，共振系统表现出两种典型的开关现象。一种是双频（DF）、单频（SF）和多频（MF）响应之间的切换现象，另一种是同相和异相同步振动之间的转变。具体来说，当强制驱动共振器的振动消失时，两个共振器的同步现象从同相振动变为异相振动。从理论上推导出同相振动和异相振动之间的换相条件并进行实验验证。此外，基于同步换相机制引起的相跳变，探索了机械共振器在质量和压力预警中的潜在应用。研究结果为同步振动在机械共振器中的应用提供了理论和实验基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000841?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自适应过滤和多尺度MixStyle网络用于船舶电动推力器轴承的跨域故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000671?dgcid=rss_sd_all</link>
+      <description><![CDATA[运行条件的变化和噪音干扰会降低船舶电动推力器轴承智能故障诊断模型的性能。为了应对这一挑战，我们提出了一种自适应过滤和多尺度mixStyle网络，用于船舶电动推力器轴承（AFMM）的跨域故障诊断。首先，基于MixStyle开发了具有多尺度注意力的基于多尺度注意力的MixStyle框架，该框架显式地结合了多尺度分解和注意力机制来捕获分层故障模式。此外，为了减轻随机特征混合中的噪音放大，提出了一种混合自适应过滤器，将巴特沃斯过滤器的频域选择性与深度神经网络的动态适应性相结合。此外，还开发了源域原型细化策略，并与JMMD相结合，实现跨域故障诊断。最后，集成开发的船用电推力器仿真平台进行了广泛的验证实验。实验结果表明，该方法具有良好的噪音鲁棒性和跨域故障诊断准确性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000671?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于零群速度Lamb波多方向极化特性的无基线局部应力测量]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000440?dgcid=rss_sd_all</link>
+      <description><![CDATA[关键结构区域的局部应力集中对航空航天、运输和风力发电应用中零部件的完整性和安全性构成严重风险。传统的超声波应力测量技术，例如飞行时间（TU）方法，仅提供沿波路径的平均应力信息，并且空间分辨率有限。重要的是，这些方法通常依赖于基线数据，而基线数据可能很难获得或受到环境变化的影响。为了解决这些局限性，这项研究提出了一种基于零群速（ZGV）Lamb波模式的应力引起的多方向频移的无基线局部应力监测方法，确保在现实世界应用中具有更大的灵活性和鲁棒性。基于应力引起的各向异性，采用一个压电（PPC）传感器阵列来捕获多个方向上的ZGV响应，并融合这些方向之间的频率差以估计局部应力。实验验证表明，在消除参考信号依赖性的情况下，该方法在20-100 Mpa的应力范围内，在7.5 mm的距离内，最大绝对误差为3.3 Mpa。与传统的基于托福的方法相比，该方法的空间分辨率和测量准确性显着增强，凸显了其在关键结构部件中高精度局部应力监测方面的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000440?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[声波黑洞与膜型声学超材料耦合，实现宽带和低频声音吸收]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000890?dgcid=rss_sd_all</link>
+      <description><![CDATA[在紧凑的声学超材料中实现同时低频和宽带吸收仍然很困难，因为大多数现有的设计只解决了一个方面。为了解决这一限制，提出了一种将声黑洞与膜型声学超材料相结合的混合声学元结构，以在紧凑配置内实现低频下的高效宽带吸收。经有限元素模拟验证的传递矩阵模型证实，声黑洞通过引导和衰减声学能量来提供宽带消散，而膜型声学超材料则引入可调谐的低频共振。参数研究进一步揭示了耦合腔和后腔尺寸对塑造吸收峰的关键影响。与传统基于声学黑洞的设计的比较分析表明，所提出的声学元结构实现了卓越的低频控制和紧凑性。最后，阻抗管实验证实了数值预测，强调了声学元结构在实际宽带低频噪音控制应用中的强大潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000890?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于模式耦合稀疏Bayesian学习的结构损伤识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000506?dgcid=rss_sd_all</link>
+      <description><![CDATA[结构损伤识别不可避免地涉及不确定性，需要明确考虑不确定性，以提高检测框架的可靠性和精确性。作为一种著名的稀疏恢复技术，稀疏Bayesian学习（SBL）通过自动相关性确定（ARD）先验利用结构稀疏性，证明了在损伤识别方面的有效性。然而，传统的SBL实现采用了一种过于简化的概率模型，该模型假设损伤参数之间的相互独立性，从而无法考虑相邻结构元件之间固有的空间相关性。这项研究提出了一种新的模式耦合SBL方法，结合耦合高斯先验，同时表征和自主学习稀疏模式和参数相关性。这种双重学习机制通过相关性感知参数估计提高了量化损伤严重程度的精度，并提高了对测量噪声和建模误差的鲁棒性。此外，所提出的框架扩展了传统的稀疏恢复能力，有效地解决分布式和块稀疏损坏配置的一个重要功能，传统的SBL方法表现出次优的性能。斜拉桥模型的数值研究和空间框架的实验研究验证了该方法的有效性，准确地识别和量化的单一和多个损伤的情况。与SBL方法相比，该方法的识别准确性和鲁棒性有显着提高，尤其是对于具有块稀疏特征的结构损伤。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000506?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于KAN的多尺度注意力融合轧机故障诊断框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000889?dgcid=rss_sd_all</link>
+      <description><![CDATA[轧机故障诊断领域存在三大挑战：（1）现有深度学习方法往往难以提取关键故障信息;（2）冗余故障特征会干扰模型;（3）现有多源信息融合模型很少研究不同模态特征的互补性。这些挑战不仅导致不良钢材产品增加，还可能在运营过程中引发生产事故，最终影响企业的正常钢铁生产。针对这些问题，提出了一种基于知识网络的多尺度注意力融合框架（MAFF-KAN）用于轧机故障诊断。首先，提出了双重冲击特征方法从信号中提取冲击特征。其次，KAN首次应用于基于多传感器的轧制机故障诊断领域，以提高模型的有效性。此外，KAN还用于开发特征增强模块，以改善轧制机的故障特征。然后，提出了一种多层并行注意力融合改进结构，实现增量融合和利用从浅到深的融合特征。通过两个实例验证了该方法的有效性。研究结果表明，MAFF-KAN优于现有的故障诊断方法，具有更好的诊断能力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000889?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[根据时空稀疏采样视频测量的移动载荷引起的响应识别梁的完整振动模式形状]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000774?dgcid=rss_sd_all</link>
+      <description><![CDATA[全场振动模式可以为结构健康监测（SHM）提供足够的信息。一般来说，识别模式的空间分辨率和阶次分别由传感器数量和采样率决定，导致传统方法识别模式不完整。这项工作开发了一种新颖的响应分解方法，用于从空间和时间维度上的稀疏采样视频测量的移动载荷引起的响应中对梁状结构进行完整的模式识别。特别地，可以通过分析以低于香农-尼奎斯特采样定理要求的采样频率记录的视频中的少量点来获得更高次的全场模式。为了建立理论基础，初步分析了不同边界条件下多跨梁在移动集中力作用下的结构响应。随后，提出了一种新颖的响应分解方法来从计算机视觉测量中识别完整模式。具体来说，通过盲源分离（OSS）方法从基于视觉的位移中识别空间稀疏模式。随后，位移被转换为振型坐标，并在过滤出动态分量并规范化数据后用于识别完整的振型。通过不同边界条件多跨梁的数值模拟、实验室简支梁的动载试验和两跨连续梁的现场试验验证了所提出的方法。结果表明，识别出的振型与传统方法获得的振型吻合良好，而空间分辨率取决于移动载荷的速度和位移采样频率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000774?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于多峰信息异类融合的液体脉冲神经网络模型可解释旋转机械故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000804?dgcid=rss_sd_all</link>
+      <description><![CDATA[针对旋转机械故障诊断中动态特征衰减、多峰融合效率低和诊断解释性不足等问题，提出了一种可解释的多峰异类融合液体脉冲神经网络（LINN）模型。首先，构建基于方程的液态编码层，通过分块反馈机制对非平稳信号的时间序列动态演变特征进行建模。此外，还引入了多通道泄漏集成激发（MC-Lily）脉冲神经元，通过结合替代梯度和膜势衰减策略来增强瞬时休克特征的提取。最后，设计了注意力引导的多峰融合机制，实现时频特征的自适应集成和贡献可解释性量化。在高噪音和变负载条件测试中，LINN仅用4.1 M个参数就达到了98.7%以上的准确率和88.64%的跨条件概括准确率。消融实验验证了液体层和脉冲机制在增强动态建模和抗噪性方面的关键作用，基于时频域注意力（TFDA）的可解释性分析进一步揭示了模型对关键时频模式贡献的敏感响应。该方法为复杂工作条件下的智能诊断提供了一种准确性高、概括性强、可解释性强的有效解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000804?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过磁扰动旋转跟踪3D位能表面上的迁移，以增强弱海洋激励下的多稳态能量收集]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000919?dgcid=rss_sd_all</link>
+      <description><![CDATA[收集丰富的波浪能为分布式海洋传感器提供动力是实现数字海洋战略的关键。双稳态能量采集器具有出色的低频响应，但随机海浪很难克服势垒，尤其是超低激励。与之前物理或非线性地降低特定二维势函数上的障碍的作品不同，这项作品设计了一种旋转-振动耦合的多稳态能量采集器，它包含多个势函数，在位移角相空间中形成三维势面。该位能面通过改变耦合旋转角为能量轨道迁移提供了替代路线，从而缓解了足够高的激励的需要。从理论上探讨了能量轨道迁移机制，分析了与位能面相关的非线性动力学。在实验验证中，该装置在不同激发条件下表现出丰富的运动状态和轨迹。结果表明，在0.4g超低激励下，峰峰值电压达到4.5V，均方电压达到1V，证明了弱激励下的有效能量收集。通过将提出的多稳态能量采集器与处理电路和数据采集单元集成来实现海洋传感原型。该原型成功收集和传输虚拟海洋环境中的温度和位置数据，证明了拟议设备用于自供电海洋传感的实际适用性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000919?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于操纵水平剪切波的非破坏性亚波长元块]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000932?dgcid=rss_sd_all</link>
+      <description><![CDATA[超材料辅助超声无损检测（NDT）已成为克服传统缺陷检测局限性的一个有前途的领域。然而，实际实施遇到了挑战，因为传统的超材料设计通常需要打破结构连续性，而超材料的2D/3D周期性分布导致复杂性显着增加。这项研究提出了一种创新的元区块设计策略，其特征在于非破坏性、一维周期性和宽带性能（20 GHz带宽）。针对基本水平剪切波（SH 0）（由于其非频散传播特性而成为NDT中的首选模式），开发了一种能够通过反共振机制有效操纵波的亚波长矩形元块。提出的元块可以轻松制造并连接到宿主结构，而不会损害结构的完整性。开发了一个理论模型来描述波浪隔离的机制并同时设计元区块的尺寸。实际演示包括阻挡全角度射入SH 0波的一维隔离器和引导SH 0波传播的导管，这些都经过了模拟和实验的验证。此外，还开发了元块辅助检测系统，以展示对斜裂缝（定向在0°和90°之间）的增强检测能力，其中大多数斜裂缝超出了传统脉冲回声超声测试的能力。模拟和实验结果证实，拟议系统在裂缝识别准确性和宽频率范围内扩展检查覆盖范围方面有显着提高，凸显了元块在SH 0基于波的无损检测中的前景。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000932?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[涡轮叶片表面微裂纹定量评估的新方法融合摩擦电传感和混合深度学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026001044?dgcid=rss_sd_all</link>
+      <description><![CDATA[表面微裂纹是航空发动机涡轮叶片等高性能零件数控铣削加工中常见且严重的加工缺陷，它作为应力集中部位，严重降低零件的疲劳寿命，威胁发动机的结构安全。然而，现有的无损检测技术面临的挑战，被集成到机床上，以实现快速，在线和定量的微缺陷的复杂弯曲部件的原位检测。为了解决这一问题，提出了一种基于摩擦电纳米发电机（TENG）的原位检测方法，旨在实现叶片表面微裂纹几何参数的高精度定量反演。通过系统的实验研究解释了裂纹宽度和深度对脉冲幅度和宽度的影响机制。此外，通过构建集成了时间域和频率域特征的多维信号特征，可以将宽度和深度的耦合效应脱钩。为了实现自动识别，我们构建了基于CNN-BiLSTM的混合深度学习模型，可以自主挖掘原始信号中时空特征与裂缝几何参数之间的内在相关性，从而同步输出宽度和深度的准确预测。实验结果表明，该模型预测微裂纹宽度和深度的平均绝对误差分别低至0.0091 mm和0.0047 mm，决定系数（R2）高于0.989。此外，该方法识别点状、线性裂缝和网络裂缝等缺陷的潜力也得到了进一步证实。该研究不仅证实了TENG在智能制造质量在线监测方面的巨大潜力，也为下一代智能综合检测系统的开发提供了坚实的技术路径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026001044?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[动态位移曲线能量差与频段选择的桥梁损伤识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026001020?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于长期载荷、环境侵蚀和自然因素的影响，桥梁容易损坏和退化。作为结构健康监测的关键目标，损伤识别尤为重要。为了解决传统弯曲方法中计算复杂、准确性不足和传感器要求高的挑战，提出了一种基于动态位移弯曲能量差的新方法。首先，通过Euler-Bernoulli梁理论和频率响应函数分析，推导出不同频率范围内的位移响应与振型之间的解析关系。研究表明，自然频率附近的位移响应对于识别损伤是有效的。然后，为了简化计算并最大限度地减少非敏感频段的干扰，结合子波包变换，提出了一种基于敏感频段融合的“两步”损伤识别过程：首先挑选出靠近自然频率的频段，并综合这些频段的位移进行损伤定位。接下来，根据定位结果，细化有效频段并融合其动态位移曲能差，形成损伤识别的综合指标。最后，通过连续梁桥的数值模拟和日本旧ADA桥的实桥损伤试验，验证了该方法的工程可行性。结果表明，在随机和车辆载荷下，该方法可以有效识别单个或多个位置损伤，并且在稀疏测量点和嘈杂环境下表现出良好的识别能力，显示出广阔的应用前景。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026001020?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[优化的声学计算机断层扫描，用于使用模拟退变和SART监测城市道路隧道火灾引发的天花板温度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000877?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了解决隧道火灾风险，引入了声学计算机断层扫描（CT）来检测隧道火灾，其中使用同步代数重建技术（SART）来重建热量释放率为3.0 MW的隧道中的天花板温度分布。所选区域的重建表明，当重建网格被分成长度和宽度大致相等、分布密集、同时避免与有效声路径重叠的单元时，可以获得最佳结果。然后将这种最佳网格方案应用于隧道下方的整个天花板区域。在此基础上进一步分析了声收发器间距比，表明最经济的间距比是4：1。通过采用4：1策略对整个隧道顶区进行改造，声学收发器数量从112个减少到34个，大大提高了该方案的经济性和实用性。最后，研究了两种额外的火灾场景：一种具有双重对称火源，另一种具有位于隧道中心线之外的单一偏置火源。双源场景下的重建取得了令人满意的结果，进一步验证了所提出方法的有效性。然而，在偏置点火的情况下，在火源附近，观察到的有效声学路径的数量显着减少，这损害了重建精度。为解决这一问题，引入模拟退火算法对收发器布局进行优化，结果进一步证实了所提重构策略的鲁棒性和适应性，为隧道火灾全局监测提供了一种通用、高精度的优化方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000877?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于Swin Transformer运动放大和改进递归全对场变换算法的桥梁结构振动视觉测量方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S088832702600097X?dgcid=rss_sd_all</link>
+      <description><![CDATA[在复杂环境中，特别是当涉及小幅度和低纹理表面时，使用传统的基于计算机视觉的测量（CVBM）方法对负载激励下桥梁振动的准确测量通常会受到阻碍。本文提出了一种CVBM方法，通过将回转Transformer运动放大率（STMM）与改进的循环全对场变换（IRAFT）算法集成，估计桥梁结构的全场动态位移和模式参数。STMM算法可以捕获有关结构振动的高频信息，同时有效抑制放大期间的噪音、模糊和运动伪影。IRAFT算法可以提高低纹理和大运动场景下全场光流的计算精度。首先采集并校准桥梁结构的振动视频，然后通过STMM算法放大视频中的像素运动。随后，采用IRAFT算法从放大的视频中计算全场光流量。最后，通过运动正规化和比例因子方法将感兴趣区域内的像素运动转换为位移时程曲线，并基于快速傅里叶变换和协方差驱动的随机子空间识别来识别模式参数。所提出的方法在合成桁架桥、Q235简支梁的实验室实验和人行天桥的现场检查上得到了验证。结果表明，利用STMM算法不仅可以有效获取结构振动的高频信息，而且还具有抑制放大过程中运动噪音和伪影的优点。通过将STMM与IRAFT算法集成，结构全场动态位移和模式参数的识别性能显着提高，对光照变化和部分遮挡具有更好的鲁棒性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600097X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用自相关频率响应之间的余差估计聚合物光纤弹性材料参数的改进Levenberg-Marquardt方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000610?dgcid=rss_sd_all</link>
+      <description><![CDATA[在这篇文章中，我们讨论了超声范围内聚合物的频率相关弹性参数的估计，这被公式化为反问题。该逆问题被实现为非线性回归型优化问题，其中模拟信号被匹配到测量信号。这些信号由导管中的位移响应组成，重点关注空心圆柱形几何形状，以提高模拟效率。为了加速优化并减少模型评估数量和等待时间，我们提出了两种新颖的方法。首先，我们引入源自最小平方优化问题的几何解释的Levenberg-Marquardt方法的改编。其次，我们基于测量和模拟信号的自相关包封引入了改进的目标函数。鉴于这项研究主要依赖于模拟数据来量化优化收敛，我们汇总了现实材料参数的预期范围并推导出它们的分布，以确保通过适当的测量进行优化的可重复性。我们通过与Broyden-Fletcher-Goldfarb-Shanno方法进行比较，证明了我们的目标函数修改和阶跃自适应对于具有各向同性材料对称性的各种材料的有效性。在所有情况下，我们的方法都会减少模型评估的总数，从而缩短识别材料参数的时间。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000610?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于车辆轨迹特征脱钩的对齐稀疏非负矩阵分解]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000646?dgcid=rss_sd_all</link>
+      <description><![CDATA[从在役城市轨道车辆收集的振动信号在车辆动力学和轨道几何激励之间表现出强耦合，通常会加上环境噪音。这对于从车辆加速度数据中准确分离源和估计轨道几何参数（特别是曲线超高）提出了重大挑战。为了解决这个问题，我们提出了一种对齐稀疏非负矩阵分解（ASNMF）框架来脱钩车辆轨迹特征：首先应用Kurtosis-Spectral Peak（KSP）准则来构建汉克尔矩阵，以增强非平稳特征的表示;然后通过集成基于基尼的稀疏性约束和最大均值偏差（MMD）来制定多目标优化对齐项确保一致的分量提取;由此产生的相乘更新算法产生物理上可解释的分解。使用模拟和现实世界振动数据进行的验证表明，ASNMF有效地分离了强耦合和噪音下车辆和轨道引起的响应。与现有的矩阵因子分解和盲源分离方法相比，ASNMF实现了更高的信号保真度和更准确的轨道相关特征估计，为非平稳运行条件下的耦合车辆-轨道动态响应的脱钩和解释提供了一种稳健且新颖的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000646?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:03:39 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[弹性边界与重力效应耦合的三稳压能采集器的随机动力学]]></title>
@@ -160,314 +272,6 @@
       <pubDate>Mon, 26 Jan 2026 11:38:30 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[航空螺旋锥齿轮擦伤和轮齿温度的实验和微观表面研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015353?dgcid=rss_sd_all</link>
-      <description><![CDATA[螺旋锥齿轮的磨损故障对航空直升机的传动系统构成重大威胁。因此，全面了解其在高速和重载条件下的防擦伤性能至关重要。本研究采用无线测温装置，按照既定的胶合试验方案，对螺旋锥齿轮在不同工作条件下进行了八组胶合实验。齿轮材料、表面粗糙度和润滑油类型被选为主要变量。实验获得了八种典型条件下齿轮体温度上升、故障负载水平和相应初始油温度的数据。在相同的表面粗糙度下，Shell 555油将擦伤承载能力提高了一个级别，并将临界擦伤温度提高了约10 °C。当9310钢的粗糙度从Ra 1.6 μm降低到Ra 0.8 μm时，擦伤载荷水平增加了一个级别，最大体温上升为17 °C总体而言，9310钢在耐擦伤方面优于18 Cr2 Ni 4 WA。在相同的测试条件下，边缘接触导致磨损的临界本体温度降低约9 °C。最后，通过微观表面形貌和元素成分分析，进一步探讨了胶合机理。擦伤故障通常在局部温度峰值区域开始，其特征在于表面金属撕裂和由焊接引起的凹坑的形成以及接触点处的破裂。这些发现为航空齿轮系统的高性能制造和装配提供了关键的实验证据和定量基准。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015353?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[采用LASO方法调整混合反褶积方法定位静态、旋转和线性运动源]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015304?dgcid=rss_sd_all</link>
-      <description><![CDATA[在工业上，利用声音源定位技术，通过精确定位噪音源来检测和诊断设备故障，检测正常或异常功能，提高维护效率。然而，具有不同运动模式的多个声音源的定位往往会受到这些声音源不同运动特征和空间分布的阻碍，使得传统方法难以区分它们。本研究解决了定位具有不同运动模式的声音源的复杂问题，特别关注静态、线性移动和旋转声音源的识别和分离。提出了一种创新方法，将模式合成束形成（MCB）与等效源方法集成在一起。引入了多运动模式光源功率传播（M3-S2-PP）模型，并考虑了与静态、线性运动和旋转类型光源相关的混合反卷积方法。使用交替方向乘数法（ADMM）中的最小绝对收缩和选择运算符（LASO）有效求解交叉点SF矩阵方程。LASO的规则化能力增强了预测准确性并促进了解决方案的稀疏性，从而能够有效识别活动声音源。第一步，进行广泛的模拟，以严格测试该方法的有效性，并探索模拟场景参数如何影响定位结果。在MCB方法适用的场景中，所提出的方法可以实现精确的分离和定位结果。在MCB方法的应用可能产生侧瓣的场景中，随着实验场景参数的变化，观察到定位结果表现出不同程度的偏差。然后进行实验来严格检查该技术的有效性并确认适用条件。该方法的准确性、可靠性和稳健性在各种场景中得到了一致验证。即使在具有挑战性的条件下，该方法也能证明抗噪性和声音源定位准确性的准确性能。其性能表明了其在工业监测、环境噪音评估和声成像等领域的潜在应用。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015304?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[旋转机械故障特征提取的物理引导周期加权稀疏表示]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501502X?dgcid=rss_sd_all</link>
-      <description><![CDATA[在复杂干扰环境中提取周期性故障分量仍然是轴承故障诊断的一个关键挑战。现有方法面临周期性分量提取准确性不高、干扰抑制不足、在多源噪音和复合故障条件下难以分离多个故障分量等问题。为了解决这些挑战，本文提出了一种物理引导的周期加权稀疏表示（PG-PWSR）方法。首先，该方法基于轴承动态模型，引入基于相似性的故障子带值（SFSV）指示器，以改善多源噪音和复合故障下的弱周期分量提取和干扰抑制。然后，提出了一种非线性指数加权频率能量谱，以增强周期估计和脉冲定位，减轻低频干扰并准确识别脉冲位置。最后，该方法集成自适应稀疏加权、周期脉冲定位和顺序提取框架，准确提取弱故障特征。仿真和实验验证了PG-PWSR方法显着改进了周期性故障特征提取，并有效分离重叠的复合故障分量。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501502X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CNC-VLM：一个经过RLHF优化的工业大型视觉语言模型，具有多模式学习，用于不平衡的NC故障检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015390?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业场景中的NC故障检测仍然面临着几个重要挑战，例如对不平衡样本的概括性较差、视觉-文本语义之间的一致性较差以及对特定领域多模式知识的利用有限。为了解决这些问题，我们提出了一种RL HF（来自人类反馈的强化学习）优化的工业大型模型（CNC-VLM），该模型利用视觉语言多模式知识进行自主故障检测。CNC-VLM由视觉编码器、投影仪和文本解码器组成。具体来说，视觉编码器从故障时频图像中提取区分性视觉地标，然后通过投影层进一步将其映射到模式对齐的潜在空间中。解码器结合了视觉语言交叉注意机制，将视觉语义与文本提示相结合，以实现精确的推理和检测。我们进一步设计了一种基于WLHF训练范式的直接偏好优化（DPO）算法，该算法将模型输出与人类反馈（专家知识）相结合，以增强对小样本故障的不平衡检测能力。通过从NC机器获得的工程样本，验证结果表明CNC-VLM在准确性和F1评分方面显着优于现有最先进的模型。此外，CNC-VLM还可以自动生成检测描述和维护建议，在智能制造领域展现出良好的实际部署潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015390?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[检测（近）高斯噪音中弱加性故障特征的均方值、偏度、峰度和协同信息的最佳性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015298?dgcid=rss_sd_all</link>
-      <description><![CDATA[均方值、偏度和峰度是健康监测系统中广泛使用的纯量指标。它们使用简单，并且已被证明对故障发生敏感。本文从理论上证明，它们是早期检测添加性高斯噪音中故障的最佳健康指标，即在给定恒定虚警率的情况下最大化检测概率。在背景噪音的尺度参数已知的情况下，均方值是最佳的;否则，应该用一个新的指标（称为“synendon”）取代它。值得注意的是，这些结果与故障特征无关地成立。论文还展示了当背景噪音稍微偏离高斯性时如何纠正这些指标，提供了它们的统计阈值，并证明它们的相对敏感性取决于数据长度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015298?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[重载低频机器人塑料成型中的多自由度颤动抑制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015316?dgcid=rss_sd_all</link>
-      <description><![CDATA[机器人塑料成型（RPF）是一种先进的多自由度（DoF）制造工艺，在加工过程中面临关键的再生颤动挑战。与机械加工工艺不同，该技术因其重负载和低频特性而表现出独特的颤动产生机制。因此，现有的颤动抑制方法（例如轴速度变化、减震防振刀夹和调谐质量缓冲器）在RPF中失败。在揭示机器人塑料成形的颤动产生机制后，本研究提出了一种通过增加三个空间液压致动器并主动控制其衰减来抑制多自由度颤动的方法。通过这种方式，评估实时颤动稳定性，以识别容易颤动的方向，触发三个液压致动器的协调控制，以增强关键方向的衰减。首先，开发了RPF过程的动态模型，考虑了坯件和模具之间复杂的几何接触以及成形系统的多自由度耦合衰减。随后，通过振动分析揭示了RPF的颤动机制，表明颤动源于负衰减效应。基于RPF的负衰减状态，开发了一种新型的颤动稳定性指数来预测多自由度颤动，从而能够预测颤动频率、方向和条件。此外，提出了一种基于主动衰减补偿的三个液压执行机构协调控制的颤动抑制方法。最后，进行了实验，验证了颤动预测模型的准确性，论证了颤动抑制方法的有效性，在颤动频率下幅度衰减84 ~ 93%，多自由度形成的复杂薄壁高筋部件的表面平整度得到了提高。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015316?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[启动期间多级泵的结构可靠性和老化：基于断裂力学的实验评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015420?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着能源转型的推进，抽水蓄能电站在确保电网可靠高效运行方面发挥着越来越重要的作用。然而，不断增长的操作可变性导致机械部件的结构退化，主要是由于疲劳相关的损坏。本研究提出了一个实验框架，通过断裂力学方法评估的结构可靠性和老化的多级泵运行在三元机组在启动过程中的抽水蓄能电站。一个缩小比例的多级泵模型在叶片-冠交叉点安装了应变片，并在专用测试台上在瞬时条件下进行测试。研究了启动顺序，其中泵通过涡轮机驱动到同步速度。使用线弹性断裂力学，对全尺寸涡轮中假设裂纹的传播进行建模和分析，以评估疲劳引起的退化。对于所调查的案例研究，结果表明，对于毫米范围内的裂纹长度，全尺寸涡轮中的裂纹扩展为每次启动10 - 7 m数量级，并通过证明裂纹扩展和流体动力现象的发生之间的强相关性，增强了对启动期间多级泵结构损伤机制的理解。此外，该研究强调了涡轮侧操作策略对泵老化的影响，表明最有害的启动序列引起的裂缝传播水平比破坏最小的轨迹相关的裂缝传播水平高出约20%，并支持制定旨在确保泵结构可靠性的操作策略以延长其寿命。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015420?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:29 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于多源域和多尺度目标特征的跨区域MRP结构自适应损伤量化框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015407?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了实现有限样本条件下碳纤维增强塑料结构的准确跨区域损伤量化，防止灾难性失效，提高结构安全性和使用寿命，本文提出了一种转移学习（TL）方法，称为跨区域碳纤维增强塑料结构自适应损伤量化框架（ADQF-CAC）。具体来说，本文提出了一种多尺度目标特征提取（MSTFE）方法，将多路径传感信号下的不同源域数据集和未标记目标域数据集映射到多维损伤特征空间。然后，建立了多源域多维空间中基于自适应特征分布的加权融合损伤量化（WFDQ）模型。通过子空间转移和统计转移相结合，将多维特征转化为可转移特征。此外，提出了一种自调整权重融合策略，动态分配多源域的贡献权重，以实现损伤大小的准确估计。本文设计了三种具有相同和不同碳纤维复合材料结构的跨区域损伤量化方案。与六种最先进算法相比，实验结果表明，该方法在不需要目标域样本标签参与的情况下，对相同碳纤维增强塑料结构和不同碳纤维增强塑料结构跨区域的损伤量化任务具有较高的准确性和鲁棒性，充分验证了其推广能力和工程应用价值。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015407?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于线段匹配的遮挡视频结构地震反应自动监测交点跟踪]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000014?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了解决地震引起的目标运动在监控视频中的随机遮挡问题，提出了一种新的基于线段匹配的交叉点跟踪方法。该方法采用少量迁移学习（TL）来适应高精度线段检测和描述符提取的模型，特别是在训练数据有限的特定监控环境中。受DNA碱基对序列的独特性的启发，该方法通过分析描述符的序列信息来实现结构线段的鲁棒匹配。然后，这些匹配段的交叉点作为持久跟踪点，有效地克服了由遮挡引起的跟踪失败。实验表明，该方法的性能明显优于主流方法。即使当直线段遮挡率达到40%时，决定系数（R 2）值仍保持为0.91。此外，该方法在中等昏暗的场景和低分辨率条件下保持高精度。该方法可以自动有效地将监控视频转换为可量化的结构地震响应数据，为基于监控摄像头的地震分析提供强有力的支持。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000014?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[声学<em>Meta</em>结构的优化设计：具有自适应体积和单元数的正、逆方法的比较研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015109?dgcid=rss_sd_all</link>
-      <description><![CDATA[在有限的设计空间内实现1000 Hz以下的宽带声音吸收仍然是一个重大挑战。一种有前途的方法是设计声学元结构，它由具有平行排列的延伸颈部的赫尔姆霍尔茨共振器组成。关键的设计挑战在于精确调整每个单元的几何参数。在大多数现有的研究中，共振器单元的数量及其腔体体积是由设计师预先确定的。然而，这种固定的设计策略可能会导致不必要的体积费用并忽视潜在的优越配置。本文提出了一种基于掩蔽机制的声学元结构自适应设计策略，该策略能够根据设计要求自动调整单元数量及其腔体体积。在限制带宽方面，这种自适应策略优于所有固定设计方法。它提供了更好的频率覆盖和更有效的空间利用，特别是在较低的频率，优势变得更加明显。使用隐藏基因遗传算法的正向优化方法和基于自动编码器框架的逆向设计方法之间的比较研究表明，逆向设计显着减少优化设计时间只有几分钟，提高了可重用性。然而，存在一个极限区域，其中逆方法在最大可实现带宽方面表现不佳，与前向方法相比。因此，本文建议只在该区域采用正向设计，而在所有其他可行域中采用逆向设计策略，以提高设计效率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015109?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[旋转式起重机的时间最优轨迹规划和摆动抑制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015134?dgcid=rss_sd_all</link>
-      <description><![CDATA[在旋转起重机的实际应用中，在确保运营效率和抑制负载摇摆之间取得平衡仍然是一个核心技术挑战。本文提出了一种多轴协调轨迹规划和控制框架，可以同时实现时间最优的性能和摆动抑制目标。这项工作的意义在于提高操作安全性和精度，同时减少总运动时间。首先建立了起重机的非线性动力学模型，设计了两级七段S曲线轨迹进行旋转运动，并结合三段S曲线进行俯仰运动。引入速度耦合因子来协调多轴运动并抑制动态耦合。由此产生的多目标优化问题（用角速度、加速度和摇摆角的约束来表达）可以使用序列二次规划（SQP）算法有效地解决。进一步开发了滑动模式跟踪控制器，以确保鲁棒的轨迹跟踪和干扰抑制。通过变参数条件下的实验验证了所提出方法的有效性，与针轮轨迹和传统S曲线相比，该方法在运动效率和摆动抑制方面都表现出显着的优势。提出的框架为智能和安全的起重机运动规划提供了可行的基础，并可以在未来的研究中扩展到柔性吊臂和多摆系统。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015134?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[二自由度衰减系统传递函数分解的解析方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015365?dgcid=rss_sd_all</link>
-      <description><![CDATA[提出了一种分解两自由度（2-DOF）衰减系统传递函数的新分析方法，并考虑激励的实部和虚部，将2-DOF衰减系统的频率响应函数（FRF）分解为两个等效的单自由度（SDOF）衰减系统。还提出了一种利用传递函数的实部和虚部识别结构参数（质量、硬度和衰减系数）的分析方法。结果表明，忽略虚激励会产生很大的误差，假力与实力之比高达66.8%，具体取决于缓冲条件。此外，还确定了三个不同的频率区域，其中实激励和虚激励之间的相互作用驱动临界移相。通过解析推导出等效SDOF衰减系统的峰值FRF频率，使用传统的SDOF公式（ω m a x = 1 - 2 ð 2 ω n）可能会错误地估计该频率，并提高了准确性。与实验数据的比较证实，这种方法通常优于传统的实验模式分析（EMA）。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015365?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[包含介电弹性体致动器的振动隔离系统中高幅孤立响应分支的非线性模型预测控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501533X?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文采用非线性模型预测控制（NMPC）框架来主动引导具有介电弹性体致动器（DEA）的隔离系统中的高幅孤立响应分支。核心创新是将DEA的非线性电压-硬度关系集成到实时预测模型中。该欧拉离散预测模型旨在平衡准确性和计算效率。采用具有分层调整策略的多目标成本函数来同时抑制振动、最小化能耗并确保控制平稳性。实验结果表明，该控制策略有效地将高幅度孤立响应分支转移到低频低幅度区域，使均方响应降低50%以上，并将复杂的亚调和振动转化为稳定的周期运动。此外，该控制策略不仅在共振区域内表现出有效的振动抑制，而且在低频范围内表现出良好的性能，证实了其在共振区域以外的广泛适用性。这种方法不仅减轻了高幅度振动，而且增强了系统稳定性和宽频率操作适应性，为控制强非线性动态系统提供了一种新颖的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501533X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[前方车辆的实时交互式基于多模型的自适应运动估计：理论和DSP实现]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015067?dgcid=rss_sd_all</link>
-      <description><![CDATA[在汽车智能的发展中，准确了解前车速度和横摆率对于可靠的路径规划和车辆控制至关重要。然而，与状态可以直接测量的自我车辆不同，车载LiDART通常仅提供周围车辆的位置和航向信息。因此，在不添加传感器或增加传感成本的情况下准确估计前车的速度和横摆率仍然是自动驾驶系统面临的一个关键且实际的挑战。为了解决这个问题，本文提出了一种基于交互多模型的变分Bayesian移动地平线过滤器（IMM-WBMHF）。首先，建立直线和转向驾驶模式的运动学模型，旨在适应各种复杂场景。然后，在这些模型的基础上，开发了一种具有移动视界结构的交互式多模型变分Bayesian自适应扩展卡尔曼过滤器。该方法利用视界信息来提高估计准确性，并采用变分Bayesian方法来实时自适应更新噪音协方差矩阵（NCM）。此外，还对关键参数进行敏感性分析，以支持实际调整并确保在不确定条件下的一致性能。最后，在现场可编程逻辑门阵列（PGA）平台上使用现实世界的INTERATION和nuScenes数据集对提出的估计方法进行了实验验证。结果证明了它在各种交互驾驶场景和天气条件下的有效性、提高的准确性和高计算效率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015067?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于在役列车转向架加速度的Kolmogorov-Arnold网络识别轨道垂向不平顺]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000026?dgcid=rss_sd_all</link>
-      <description><![CDATA[对轨道交通安全的需求日益增长，这加剧了利用运营中的列车数据进行有效轨道不规则识别的需求，但这仍然是一个持续的挑战。模型驱动的方法通常受到其对精确系统参数的依赖的阻碍，而数据驱动的方法通常作为具有较差可解释性的“黑匣子”。为了弥补这一差距，本文提出了一种新的物理信息Kolmogorov-Arnold网络（PIKAN）的垂直轨道不平顺识别转向架加速度信号在直线轨道运行条件下。PIKAN的核心创新是其独特的迭代架构，该架构将KAN从结构上嵌入源自多体系统理论的车辆逆动力学模型中。这种基础设计确保模型的前向传播本质上遵守基本物理定律，同时消除了对车辆参数的先验知识的需要。所提出的方法通过全面的数值模拟和现实世界的现场实验得到了严格验证。结果表明，与三种最先进的序列到序列神经网络相比，PIKAN在轨道不规则识别方面实现了卓越的性能，在所有操作条件下均方误差（RSSE）显着降低了1.57-1.82 mm。除了卓越的准确性之外，PIKAN还允许对训练过的网络进行可视化，并从学习到的模型中提取显式的数学公式。这种透明度使PIKAN成为部署在安全关键轨道交通系统中的可解释且值得信赖的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000026?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[CairmFPS：一种基于因果发现的无人机飞行参数选择方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000087?dgcid=rss_sd_all</link>
-      <description><![CDATA[无人机（UAVs）的飞行性能高度依赖于其复杂的传感系统，对其传感器的准确检测和故障排除是当前该技术发展的重要课题。无人机的传感系统可以在任务期间捕获各种飞行参数。然而，无人机是一个高度耦合的复杂系统，多个参数相互作用，这给基于人工经验或统计相关性的输入参数选择带来了巨大挑战。因此，从因果关系的角度出发，我们提出了一种无人机传感器故障参数选择的因果发现方法--Cascycle FPS。CASEARCH FPS旨在通过捕捉传感器参数之间的非线性因果关系来深入了解故障的传播路径，并选择最具鉴别力的核心参数进行故障诊断。具体来说，首先融合结构方程建模（TEM）和变分自动编码器（VAE），实现多传感器参数的非线性因果推理，初步构建参数之间的一般因果关系。其次，创新设计了面向故障信息的因果发现模块，通过实时获取每个参数节点的强度并对输入参数进行加权，引导模型专注于学习故障信息的因果关系。最后，利用PageRank算法量化因果网络中每个参数的全局影响力并对其进行排序，然后选择影响最大的参数进行故障诊断。CaşFPS的有效性和优越性已在真实飞行案例中得到验证，CaðFPS在仅选择5个参数时就达到了选择20个参数的其他算法的诊断准确率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000087?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于机电导纳的车辆电互连悬架解耦控制：网络设计与验证]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015274?dgcid=rss_sd_all</link>
-      <description><![CDATA[车辆电互连悬架（EIS）是一种新型的机电减振系统，它利用四个电磁阻尼器（EMD）通过电网（EN）互连，以提高多自由度（多自由度）减振性能。针对整车四端口EN设计和机械解耦分析缺乏理论方法的问题，提出了一种用于EN设计和EIS机械解耦控制的机电导纳（EMA）方法。首先，建立了四端口EN导纳矩阵与车辆垂向、俯仰、横滚和翘曲振动模态之间的关系。其次，根据车身振动要求，构造了解耦的多自由度电磁搅拌器，并对其电磁力特性进行了分析。第三，EN支路配置可控电阻、电感和电容，以实现可调阻尼、等效刚度和等效惯量。最后，在机械硬件在环（mHIL）平台上进行了实验。结果表明：（1）EMA方法有效支持EN设计并分析电路控制特性;（2）在单自由度振动控制中，去偶的ECT表现出与单个MED相似的控制性能;（3）具有可变衰减（VD）、可变刚性（VS）和可变惯性（VI）的ECT在特定频段优于被动悬架。EIA通过硬件脱钩显着降低了全车多自由度控制的复杂性。本研究为EIA建模和控制奠定了理论基础。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015274?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[近断层速度脉冲参数化和模拟的新框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702600004X?dgcid=rss_sd_all</link>
-      <description><![CDATA[受到速度脉冲影响的结构必须在更短的时间内消散更大量的能量，从而提出更高的结构要求并增加地震引发倒塌的风险。识别潜在脉冲的有效参数化和模拟频谱兼容的脉冲状地面运动是结构响应分析的关键。本研究旨在提出一种新的框架，用于频谱兼容速度脉冲的参数化和模拟。最初，基于纯信号目标函数提出了一种新型的速度脉冲参数化算法，消除了对任何过滤技术或预设脉冲模型参数的需要。与两种典型方法的综合比较表明，该方法提取的势脉冲无论是在速度时程还是频谱上都更接近原始地震记录。随后，提出了基于XGBoost的脉冲周期预测模型，可用于计算速度脉冲的特定地点目标谱。在产生频谱兼容的地面运动的同时保持主导脉冲的挑战增加了这项研究的复杂性。为了解决这个问题，提出了一种基于高斯函数修改种子记录的子波系数来模拟频谱兼容速度脉冲的创新方法，并通过几个案例研究证明了所提出的模拟方法的可靠性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600004X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于近似Bayesian计算的结构结构模型更新和模型选择]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015377?dgcid=rss_sd_all</link>
-      <description><![CDATA[近似Bayesian方法，或“无可能”方法，已成为现代统计方法论的关键组成部分，为推断、预测和决策提供了框架。它们的通用性在于它们能够在统一的概率框架内处理参数估计、模型选择和不确定性量化。在这项工作中，使用椭圆形嵌套抽样（NS）方法的近似Bayesian计算（ABC）来处理应用于结构健康监测的模型更新和模型比较问题。ABC方法本质上依赖于从模拟器/正向模型模拟数据的能力，绕过了写下显式似然函数的需要，而显式似然函数总是远非微不足道。这些方法因其提供的建模自由度而特别迷人;此外，它们在某种意义上很灵活，可以使用测量观察到的模式数据与相应的模型输出之间相似性的不同差异函数。然而，Bayesian推理方法通常需要大量正向模型模拟来生成收敛样本。为了提高采样器的计算效率，引入了最小体积封闭椭圆体（MVEE），以更好地封闭可接受的颗粒，并更有效地引导采样器走向最高概率区域。通过使用模式数据的不同数值研究，证明了新型采样器在结构模型更新和模型选择方面的性能和鲁棒性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015377?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[梁裂缝定位集中时刻的不连续影响函数]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000051?dgcid=rss_sd_all</link>
-      <description><![CDATA[该研究讨论了一种基于沿着梁使用集中动量游动的新型性能，该性能可用于裂缝检测和定位目的。具体来说，当沿着梁轴发生旋转跳跃时，表达集中时刻不同位置对梁在监控横截上的响应参数的影响的函数显示出突然的不连续性。由于广泛用于断裂力学的局部柔性模型（LFM）用连接结构的两个部件的旋转弹簧对损伤的存在进行宏观建模，因此当集中扭矩穿过有裂缝的横剖面时，响应影响函数中预计会出现突然的不连续性。论文中提供了后一个概念的理论和数字证据。突出显示的属性可以很容易地解释为一种检测和定位多个裂缝的策略，而无需对未损坏的配置进行任何测试以及裂缝数量的先验知识。为了利用这一指定性质，采用分布方法建立了多裂纹Abrishenko梁的控制方程。首先通过讨论所谓的影响线，在静态背景下提出主要考虑因素，然后讨论利用格林函数理论将其扩展到流动和声矩的情况。所提出的应用程序表明了所提出的属性对于裂缝检测和定位的可靠性。还讨论了拟议方法可能存在的局限性，并确实解决了相关的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000051?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[燃气涡轮机失真数据集的相恢复非同步测量]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000117?dgcid=rss_sd_all</link>
-      <description><![CDATA[非同步测量（NSM）旨在增强阵列口径和密度，但未能解决无效麦克风造成的数据失真，因为传统NSM理论假设麦克风功能正确并且数据具有高的信噪比（SNR）。文章指出了传统NSM在实际实现中的不足，提出了一种基于相恢复（PR）的NSM新方法来恢复失真的全息数据。高斯分布和威沙特分布用作分层先验模型中的超先验。与传统NSM相比，该方法直接集成了失真数据处理，无需额外的空间插值技术。模拟表明，PR在不同数量的顺序测量、频率和SNR下表现出卓越的性能。最后，将该方法应用于恢复燃气涡轮机数据集中全息压的相。结果表明，PR显着增强了燃气涡轮机的磁场测量，为近场声全息术等近场重建的进一步研究提供了基础。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000117?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用约束的Bayesian非参数混合模型和传递引导的知识转移的半监督结构损伤分类]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015079?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于振动响应（例如传递函数（TF））的人工智能驱动的结构损伤诊断近年来受到越来越多的关注。然而，无监督方法主要局限于损坏检测，而监督方法通常受到来自各种损坏场景的注释良好的训练数据稀缺的限制。为了弥合这一差距，这项工作通过将受约束的Dirichlet过程混合模型（DPMM）与新型知识转移技术集成，提出了一种用于基于TF的结构损伤分类的半监督学习框架。引入受约束的DPMM进行集群，以识别训练集中的区分信息，该信息基于TF的统计属性捕获不同的结构行为模式。提出了一种约束感知的无截断变分推理方法来估计受约束DPMM的后验，该方法通过成对约束将人类监督纳入推理过程。受约束的DPMM学习到的识别信息嵌入在集群分配中，用于预训练深度神经网络（DNN），旨在利用DNN的表示学习能力从原始TF中自动提取识别特征。为了将这些区分特征映射到与实际结构条件对应的诊断类标签，提出了一种知识转移技术，该技术用子网络取代预训练的DNN的输出层，并使用标记的训练数据对其进行微调，以形成用于损伤分类的新DNN。这个半监督学习框架利用深度学习来避免手动特征提取，同时通过利用受约束DPMM获取的知识来减少训练深度分类器所需的标记数据量。这些属性使其非常适合结构损伤分类，其中标记的训练数据稀缺，而未标记的数据更容易访问。两个案例研究表明，所提出的方法优于一些最先进的方法，这是由于受约束的DPMM能够捕获训练集中不同的结构行为模式，以及通过知识转移技术从这些模式到诊断类标签的有效映射。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015079?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于共面电容扫描成像技术的缺陷检测正/逆问题建模]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015341?dgcid=rss_sd_all</link>
-      <description><![CDATA[共面电容扫描成像（CCSI）是一种新兴的无损检测（NDT）技术，在检测绝缘材料内部缺陷方面具有巨大潜力。传统的CCSI主要用于确认缺陷的存在，但在复杂边界缺陷的高精度成像中表现出有限的有效性，严重限制了其工程应用。本文提出了一种灵敏度卷积映射框架（SCMF）来实现CCSI中正、逆问题的集成建模。在正问题阶段，该方法通过结合电极尺寸和步进尺寸等扫描参数，建立介电分布、电场分布和电容信号之间的卷积关系。对于反问题，通过灵敏度映射矩阵建立介电分布与电容信号之间的线性映射，将介电分布解转化为求解线性方程组的问题。SCMF对应于建模中的物理扫描过程，同时从理论上确保所构建线性系统的满阶性质，从数学上保证反问题解的稳定性。实验结果表明，SCMF实现了复杂缺陷几何形状的高精度重建和可视化，同时在不同电极配置和后台倒置算法之间表现出强大的概括能力。该研究为推进CCSI在高精度无损检测中的应用提供了通用的理论框架。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015341?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[三维基础隔离结构的动力响应特性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000282?dgcid=rss_sd_all</link>
-      <description><![CDATA[尽管越来越多地应用三维（3D）地震基础隔离器来保护结构免受地震损坏，但人们对3D基础隔离结构（3D-BIS）的关键动态行为，例如水平摇摆耦合运动和从地面通过柱子到地板的垂直响应传播，仍然没有得到充分的理解。有鉴于此，对两种结构（长宽比&gt; 3）进行了全尺寸振动台试验：一种配备多维地震隔离和缓解装置（MEMED），另一种配备底座固定装置。测试结果表明，对于大长宽比的3D-BIS，基本模式中的摇摆效应尤其明显，其对上部结构的水平加速度和位移响应的影响表现出显着的高度依赖性。由于板的灵活性，MEIMD被发现在抑制从柱到板的垂直响应传播方面比从地面到柱的垂直响应传播更有效。然而，由于MEIMD几乎没有改变地板的振型周期，因此从柱到板的固有垂直加速度放大系数（例如，本研究中的1.15-1.54）观察到3D-BIS。此外，开发了一个简化的分析模型并根据测试数据进行了验证;该模型随后被用来研究摇摆抑制措施和地震动的垂直长周期分量对测试结构动态响应的影响。这些发现为3D-BIS的响应控制设计提供了有价值的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000282?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[蜂窝结构增强型箔片轴承支撑的刚性旋转系统动态响应的非线性研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000142?dgcid=rss_sd_all</link>
-      <description><![CDATA[传统的箔片轴承（FB）-旋转系统虽然对高速和高温应用有利，但由于衰减能力不足，其能量吸收能力有限，次同步振动。具有双V蜂窝（DH）结构的FB（具有负Poisson &#39; s ratio，NPR）效应并结合了衰减材料（称为DHDMFB），被认为是增强衰减能力和更高稳定性的有前途的选择。开发了DHDMFB-旋转系统的机械模型，并使用实验数据验证了其准确性。数值和实验结果表明，DHDMFB表现出增强的衰减性能，主要是由于DHDMFB-旋转系统中观察到的次同步振动能量的抑制。进一步数值研究了NPR值、损失因子、静载荷和名义间隙对DHDMFB支撑的刚性旋转体非线性旋转性能的影响。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000142?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用Otsu-优化的SPE算法从动态特性未知的移动车辆响应中识别桥梁频率]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000269?dgcid=rss_sd_all</link>
-      <description><![CDATA[从移动车辆响应中识别桥梁频率通常容易受到车辆动力学、道路粗糙度和环境噪音的影响，这可能会导致频谱掩蔽。为了解决这一问题，提出了一种基于Otsu阈值优化的有效峰提取（SPE）算法。首先，开发3D车辆-桥梁模型来验证通过的车辆是否激发了桥梁的模式频率。提出的算法计算多个车辆通过的信号之间的相关性，通过Otsu的方法确定最佳阈值，并提取重要峰值以识别桥梁的自然频率。该方法增强了信号一致性，减少了非结构性干扰，提高了识别准确性。使用重型卡车在50 m系拱桥上进行的现场试验验证了该方法的有效性。随着测量次数的增加，频率识别变得更加准确，相对误差从5.96%下降到2.46%，RSSE稳定在0.13Hz。结果表明，所提出的方法可以可靠地提取结构频率，而不需要专门的测试车辆或额外的传感器，显示出长期、经济高效的结构监测的巨大潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000269?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[大规模屈服下混合模式I/II疲劳裂纹评估的数字孪生解决方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000324?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文介绍了一种用于大范围屈服下I/II型混合型疲劳裂纹评定的数字孪生解。在这些条件下，疲劳载荷的大小显着影响裂纹的轨迹，不同于传统的线性弹性为基础的标准预测的路径。此外，在混合模式加载下的疲劳裂纹扩展速率可能与纯模式I条件下的疲劳裂纹扩展速率有很大不同。因此，拟议的数字双胞胎通过其诊断、预后和更新能力来应对这些挑战。诊断组件在给定疲劳载荷大小和裂纹尖端位置下跟踪裂纹路径，同时通过从战略放置的传感器获得的应变数据远程估计裂纹尺寸。预测组件使用相同的输入来计算循环J积分作为裂缝驱动力，以生成裂缝路径。数字孪生最终通过使用无痕迹的卡尔曼过滤器来更新疲劳裂纹增长率模型中的参数，与其物理配对物建立高保真度连接。本研究调查了数字双胞胎在恒幅载荷下对三个样本和可变幅载荷下的三个样本的性能。在恒幅负载下，数字双胞胎通过更新的参数预测剩余使用寿命。而在可变幅度负载下，数字孪生会考虑负载序列效应，并针对潜在的失效机制执行疲劳可靠性评估。数字孪生在这些样本中表现良好，（1）确保观察到的剩余使用寿命始终落在预测平均值的两个标准差内，（2）正确识别在逐步增加和逐步减少加载状态下的主要失效机制。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000324?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于组合刚性精细建模的轨道弹性垫系统动态响应分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000373?dgcid=rss_sd_all</link>
-      <description><![CDATA[为提高轨道结构的减振性能和运营稳定性，系统研究了钢轨和垫板的组合刚度特性及其对轨道动力响应的影响。建立了基于串联刚度理论的组合刚度计算模型，考虑了夹持力和螺栓预紧力的影响，描述了摩擦片之间的协同变形。通过实验测试和有限元仿真，对不同结构下的轴瓦变形、应力分布和组合刚度进行了分析，验证了模型的准确性。将获得的硬度参数进一步集成到车辆-轨道耦合动态模型中，以评估其对系统振动的影响。结果表明，垫配置显着影响轨道动态行为，忽略组合硬度可能会导致响应预测中的重大错误，强调了在动态建模中考虑弹性垫系统组合硬度的必要性。这些研究结果为铁路轨道弹性固定系统设计和振动控制提供了理论指导和工程参考。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000373?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[低空经济型飞机功能梯度扭曲双层石墨烯增强钛板的非线性振动]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000129?dgcid=rss_sd_all</link>
-      <description><![CDATA[以无人机（无人机）、电动垂直起降（eVTOL）飞机和城市空中机动系统为代表的低空经济的快速增长，凸显了对轻质、高强度、抗振结构材料的迫切需求。这项工作首次研究了扭曲双层石墨烯（TBLG）增强的钛基复合材料的非线性振动和内部共振，旨在推动其在下一代低空飞机结构中的应用。基于层合板理论和von Kármán大变形假设，开发了一个理论框架，结合了变厚度梯形几何形状和TBLG的不同功能梯度分布。采用微扰分析和数值模拟来探索幅频响应、分叉和稳定性特征，同时对钛合金板进行实验测试以进行验证。结果表明，TBLG加固大大提高了结构硬度，功能分级有效地调节了自然频率。此外，还清楚地观察到非线性硬化，这与理论预测一致。这项开创性的研究为TBLG-钛复合材料的非线性动力学机制提供了新的理解，并建立了一个经过验证的理论-数值-实验框架，为在低空经济中设计轻量级且可靠的结构提供指导。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000129?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[负刚吸振器控制的滚筒非线性振动和振动传递]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000294?dgcid=rss_sd_all</link>
-      <description><![CDATA[振动对轧制设备的影响是钢铁行业中国际公认的问题。本研究将负刚性吸振器（NSVA）应用于滚筒振动控制，从动力学角度研究了NSVA参数对非线性振动特性的影响，从能量机制角度研究了NSVA参数对振动传递特性的影响。考虑滚动界面的非线性，建立了非线性二自由度垂直振动模型。采用增量调和平衡法获得振动位移和速度。采用多尺度法求解主共振和副共振的幅频特性方程。我们分析了不同共振条件下等效硬度、等效衰减、外部激励、车架上侧倾衰减以及滚动界面硬度/衰减如何影响幅频曲线。使用不同激励频率下的解决方案，我们研究NSVA硬度和衰减如何影响功率流。结果表明，通过NSVA参数调整，轧制-NSVA系统中的定向功率潮流传递可以有效控制磨机中的能量损失份额。此外，还实验研究了不同减速率下NSVA的振动抑制效果。实验和仿真结果验证了所建立模型的可靠性和理论分析的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000294?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于迭代法的随机自适应稀疏表示对强非高斯非平稳随机过程的解析模拟]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000415?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种基于随机自适应傅里叶分解（SAFD）的新方法，用于模拟具有指定自相关函数（CTF）和累积分布函数（EDF）的非高斯和非平稳随机过程。该方法首先在翻译过程中迭代逼近底层高斯自相关矩阵，然后使用自适应垂直基函数分析扩展目标过程。与需要计算自相关函数的特征对的Karhunen-Loève（KL）展开相反，SAFD直接提供了非高斯过程的显式分析表示;与Hermite Political Chaos（HermitePC）相比，SAFD在基函数选择方面提供了更大的灵活性。数值实验表明，与KL相比，SAFD在低级展开下将逼近误差降低了70%-85%（例如，2或5个学期）。这些结果表明SAFD以更少的扩展项和显着更快的收敛来实现目标协方差逼近。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000415?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[铣削过程前刀面温度场重建及现场测温系统设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000397?dgcid=rss_sd_all</link>
-      <description><![CDATA[本研究解决了铣削过程中前刀面温度场的实时监控和重建的挑战。提出了一种基于自供电智能刀夹的现场测温系统。与传统电池供电系统相比，高度集成的智能刀柄通过电磁感应实现无限操作时间，最低操作速度为1150转/分钟。此外，利用超短激光微槽加工和高温无机粘合剂固化工艺开发了嵌入式超细热电偶切割器（时间常数&lt; 1 ms），与红外热成像技术相比，抗干扰能力和测量准确性显着增强。这有效地克服了工具与芯片接触区温度测量的技术挑战。此外，提出了一种将粒子群优化算法与热扩散理论相结合的动态热源强度反演算模型，根据测量点的温度曲线重建前刀面温度场。实验结果表明，预测温度与测量温度之间的误差在13%以内。重建的温度场在峰值温度位置具有很高的一致性，最大温度误差小于15%。该研究为高速铣削热负荷分析、刀具寿命预测和工艺优化提供了高精度的数据支持，有助于智能加工闭环控制技术的进步。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000397?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多模式Bayesian推理的顺序多重要性抽样]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702501489X?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文介绍了一种用于多模式Bayesian推理的顺序多重要性抽样（SeMIS）算法。该方法使用每个提案分布中生成的所有样本来估计Bayesian证据，同时通过重要性重采样方案获得后验样本。SeMIS的一个关键创新是使用软截断的先验分布作为中间提案，提供了一种桥梁先验和后验分布的新方法。通过使高可能性区域中的样本能够穿越低可能性区域，SeMIS增强了具有挑战性的推理问题中的模式混合。与子集模拟（SuS）和采用结构可靠性方法的自适应Bayesian更新（aBU）的比较评估表明，SeMIS在证据估计（更低的偏差和方差）和后验抽样（更高的有效样本量和更接近真实后验）方面实现了卓越的性能。SeMIS的有效性在多维有限单元模型更新应用程序中得到了进一步验证，它通过量化硬度损失成功定位了结构损坏。所提出的算法不仅推进了复杂后验分布的Bayesian计算，而且还为土木工程系统中的不确定性量化提供了强大的工具，为概率结构健康监测提供了新的可能性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702501489X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于物理信息神经网络的桥梁多层次疾风舒适性脆弱性评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000245?dgcid=rss_sd_all</link>
-      <description><![CDATA[风致振动引起的列车乘客舒适度是桥梁风设计的关键性能。影响乘客舒适度的不确定性（例如，风场、空气动力系数和结构特性）可能需要考虑，这是基于性能的风力设计（PBWD）的核心要求。脆弱性分析是PBWD理论中考虑不确定性影响的重要工具，也适用于舒适性评估。然而，需要大量样本才能构建可靠的脆性曲线。为了解决这个问题，这项研究提出了一种基于物理信息神经网络（PINN）模型的快速风舒适性脆弱性评估程序。基于PINN的模型以Transformer和Long-Short-Term记忆（LSTM）的混合神经网络架构为基线算法构建，并将车桥系统的动力学方程（运动方程）集成为物理约束嵌入到神经网络中。在传统数据驱动损失项的基础上，引入物理剩余项作为正规化约束，使预测既满足观测数据分布又满足物理定律。确定多级别乘员舒适度等级和相应的阈值。对于不同的风力强度水平，不确定因素样本集中的每个样本都被输入到基于PINN的模型中以输出动态加速度响应。以一座七跨连续梁桥为例，验证了快速舒适性脆弱性评估程序的有效性。该研究有助于快速评估风载作用下桥梁的多水平舒适脆弱性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000245?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[直升机主动振动抑制的高效多调和混合控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000300?dgcid=rss_sd_all</link>
-      <description><![CDATA[以叶片通过频率为基次的多简频振动响应是直升机振动控制的主要目标。基于过滤x最小均方（FxTMS）框架的算法通常很难在多调和场景中平衡控制性能和计算效率。为了提高控制效果并降低计算成本，提出了一种基于插值的多调和混合控制（DMHHC）算法。一种新型的去耦合补偿器旨在实现跨频段的过滤参考信号的二次路径去耦合和幅度均衡，允许单个FxRMS有效地控制多个次耦合，从而显着降低计算成本。此外，通过将重复控制（RC）与FxLM集成，建立了多调和混合控制框架。次路径耦合有效消除了集成过程中RC和FxRMS之间的干扰，使算法能够将RC的快速收敛与FxRMS的稳态准确性结合起来。仿真和实验都验证了所提出的DMHHC算法的有效性，证明了其作为直升机振动抑制的实用工程解决方案的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000300?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有耦合失准的主动磁轴承-旋转系统的建模与分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000348?dgcid=rss_sd_all</link>
-      <description><![CDATA[主动磁力轴承（AMB）为旋转系统提供非接触式支持，使其在高旋转速度旋转机械中越来越受欢迎。然而，当由AMB支撑的电机通过联轴器连接到电机时，制造缺陷、组装错误或长期磨损引起的未对准可能会引入不对称激励力，从而降低系统的动态性能。现有的模型通常依赖于物理解释不明确的假设参数，限制了其准确性和适用性。在此，建立了具有耦合失准的AMB-旋转系统的机电模型，其中纳入了随时间变化的非线性硬度。通过仿真和实验结果识别了刚性内的不确定参数，包括静态刚性和调和系数。基于该模型，进行了各种平行和角失准条件下的时频域响应分析。此外，在临界和指定旋转速度下量化了未对准的允许安全阈值。这些发现为具有耦合未对准的AMB-旋转系统的振动机制提供了有价值的见解，并为故障诊断奠定了基础。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000348?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于时间稀疏权重的多通道阶段同步融合双提升树模型的齿轮健康监测工具]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000105?dgcid=rss_sd_all</link>
-      <description><![CDATA[及时检测早期齿轮故障是齿轮健康监测的一个重大挑战，尤其是在行星齿轮和和谐齿轮等新型齿轮驱动系统中具有挑战性。与时间域方法相比，基于频率的健康指标（HI）对早期故障相对不太敏感，并且本质上表现出齿轮早期故障警告的延迟。同时，与单通道信号相比，多通道信号本质上包含更丰富的机器状态信息。因此，提出了基于多通道阶段同步融合双提升树模型的基于时间稀疏权重的齿轮健康监测工具，用于齿轮健康监测。构建多通道阶段同步融合双提升树模型，通过三个层次将原始数据分解为多个分量。首先，采用高级奇异值分解（HOSWR），从原始数据中分离出噪音和特征分量，作为树模型的第一级。其次，提出多通道相同步融合（MPSF）作为树模型的第二层，以解决全生命周期多通道振动信号中的相去同步化问题，从而实现线性多通道特征融合。它引入多IMF平均相位相干（MIMPC）进行相位同步和补偿，产生多通道相位同步特征分量。此外，MPSF采用估计噪声辅助随机矩阵模型进行特征融合，生成融合特征，有效地集成多通道齿轮振动信号。第三，提出了双提升变换（DLT）作为第三层，旨在获得双提升增强信号，以提取和定量放大融合时域信号中与故障相关的早期弱故障特征。采用自适应盲反卷积作为第一次提升处理，从MPSF融合后的特征中提取齿轮故障特征。随后，应用邻近系数运算符来定量放大齿轮故障特征并抑制其他无关的剩余信号。最后，将双提升增强信号引入统一稀疏度测量框架，通过求解凸优化计算优化的时间稀疏权重，构建基于时间稀疏权重的齿轮健康指标（TSWGHI）。机器人和谐减速器的实验案例和精磨机变速箱的工程案例表明，与传统和流行的HI相比，该工具在齿轮健康监测方面表现出了显着的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000105?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于低频振动抑制的惯性放大亚结构壳]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S088832702600035X?dgcid=rss_sd_all</link>
-      <description><![CDATA[大型薄壁加肋圆柱壳作为主体工程结构，已被广泛应用于高端装备关键零部件中的基本结构单元。它们的过度结构振动会降低设备的性能和使用寿命。声学亚结构的出现为加强圆柱壳在低频范围内的振动降噪提供了一种创新的途径。在这项研究中，提出了一种惯性放大亚结构壳（IA亚壳）来实现加强壳结构的低频振动控制。提出了一种基于变分原理的能量法来分析带状结构和振动传递。提出了一种基于配置的拉格朗日乘子方法，以实现对壳结构施加周期性边界条件。根据数值验证结果，所提出的方法和求解程序足以处理亚结构系统。利用这种能量方法，研究了IA带间隙的形成机制及其与加强圆柱壳的相互作用。在相同的附加质量下，提出的结构比传统的局部共振（LR）元结构表现出显着更低的带隙频率，为低频应用中遇到的质量损失提供了有效的解决方案。参数研究揭示了四个关键参数对IA元壳波传播特性的影响，最后通过不同带隙频率结构的振动实验评估了所提出的元壳在低频振动控制方面的应用潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S088832702600035X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[细长梁状结构面外振动深度重建的噪音鲁棒性模式识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000403?dgcid=rss_sd_all</link>
-      <description><![CDATA[面外振动模式分析在结构健康监测（SHM）中至关重要，可以识别与结构损伤相关的动态异常。然而，使用深度相机的基于视觉的方法经常会受到深度数据缺失和噪音干扰的影响，限制了其在模式识别中的适用性。为了解决这些专门针对细长一维（1D）梁状结构的挑战，本研究提出了一种具有噪音稳健性的基于深度重建的模式识别方法（DRMI）。该方法集成了方向深度完成，以恢复丢失的区域，自适应移动平均滤波噪声抑制和计算效率，最小二乘多项式拟合，以减轻量化噪声引起的有限的深度分辨率。微分放大进一步应用于增强高阶模态分量，然后Hankel动态模态分解用于模态参数提取。通过数值模拟和实验室实验验证细长梁型结构，所提出的DRMI方法，使准确和噪声弹性识别高阶和多频带振动模式直接从深度序列。与目前最先进的金字塔重构方法相比，DRMI将平均模态保证准则提高了8.6%，均方根误差降低了64.8%。这些结果表明，DRMI为实际SHM场景中细长1D结构的面外模式分析提供了一个物理一致且噪音稳健的框架。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000403?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[管道中的多模式弯曲引导波成像]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000427?dgcid=rss_sd_all</link>
-      <description><![CDATA[引导波断层扫描是一种用于定量评估管道缺陷的有前途的技术，但其在役应用长期以来一直受到典型传感器布局固有的有限视野的限制，导致分辨率低和严重的伪影。本研究提出了一种基于多模式弯曲引导波的新型成像方法。通过利用具有不同周向阶数的弯曲模式的螺旋传播特性，实现了更大的虚拟射线合成角覆盖，克服了传统轴向路径的检测限制。开发了一种基于多模式物理信息的神经网络，该网络对并行分支中的混合模式引导波信号进行并行分解和重建，并嵌入频散方程作为物理解释器，以监督反相一致性并实现多源信息融合。包含随机缺陷的数据集由有限差正向运算符生成。数值模拟表明，该方法可以准确地重建各种缺陷类型，在独立测试集上实现平均Pearson相关系数为0.9244。进行了与单模式成像的比较分析，并进一步评估了不同缺陷尺寸、同心度和噪音水平下的成像性能。在真实管道实验中，重建结果与地面真值的相关性为0.9068，最大壁损失预测的相对误差仅为4.5%。所提出的方法将物理机制与数据驱动框架深度集成，以解决管道中的有限视图成像挑战，展示了工程应用的强大潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000427?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:56 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有参数分数级衰减器的非线性振子有效随机响应确定的分析得分匹配]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000312?dgcid=rss_sd_all</link>
-      <description><![CDATA[受到参数激励的机械和结构系统，如流体性质变化或颗粒粘附等现象引起的质量、阻尼或刚度波动，在工程应用中很常见。这些激励，无论是确定性的还是随机的，都可能引起混沌运动、不稳定性和随机共振，从而损害系统的可靠性。分析这样的系统是特别具有挑战性的，因为外部和参数激励必须同时解决，而分数阶导数项建模粘弹性效应增加了进一步的复杂性，在非线性振荡器的不确定性传播。本文引入了一种分析分数匹配方法来评估配备参数分数衰减器并受到白噪音激励的非线性振子响应幅度的非平稳概率密度函数（PDF）。该方法采用随机平均来推导控制幅度动态的随机方程，并将相关的福克-普朗克方程重新公式化为连续性方程。该公式能够沿着等概率轨迹追踪幅度的演变，从而恢复响应幅度的时间相关PDF。对线性振子和Duffing振子进行了数值研究。结果表明，分数阶数通过同时影响衰减和硬度来显着影响系统动力学，这反过来又塑造了响应分布。与蒙特卡洛模拟的比较证实了所提出方法的准确性和计算效率，证明了其作为分析具有组合参数和分数效应的随机动力系统的稳健工具的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000312?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[桥梁光纤冲刷传感器（FOSS）的初步结果]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000257?dgcid=rss_sd_all</link>
-      <description><![CDATA[桥梁是塑造我们社会的基础设施的重要组成部分。针对日益严重的气候变化管理这些资产，为全球桥梁资产所有者带来了前所未有的挑战。英国更频繁和更严重的降雨洪水事件的影响加剧了人们对桥梁冲刷事件管理的担忧。这项研究介绍了光纤冲刷传感器（FOSS）的开发和现场部署，旨在实时远程监控冲刷和填充。该传感器由埋在不同深度的三个传感元件（鳍片）组成。当冲刷发生时，鳍被暴露并自由移动并记录反应。洪水事件发生后，随着冲刷孔开始填充，这些鳍片被埋葬，并且这个过程可以在数据轨迹上被捕捉到。在北爱尔兰的摄政桥安装了FOSS原型;选择该地点是因为其可达性和适合监测。本文概述了2023年10月两次风暴后的安装和初步发现，展示了该传感器在操作环境中实时冲刷检测的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000257?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[结合基于物理的时间因果关系约束的分布式动态负载识别数据驱动框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all</link>
-      <description><![CDATA[作为结构动力学中的第二个反问题，动载荷识别高度依赖于系统的固有属性。对于分布载荷，在结构响应和潜在动态激励之间建立准确的映射仍然特别具有挑战性，而且问题的病态性质进一步放大了测量噪音，导致显着的识别错误。为了克服这些困难，本研究提出了一种基于Transformer架构的新型分布式动态负载识别框架，该框架可以直接学习逆动态关系，而不需要显式的系统参数估计。具体来说，首先采用Legendre的正交多项分解将负载识别任务转换为有限组的正交多项系数的估计。在此框架的基础上，通过将物理约束嵌入注意力计算和线性预测中，利用动态响应的时间因果关系，引入了创新的架构优化。这些增强改进了模型的可解释性并大幅降低了训练难度。数值模拟表明，该方法可以准确识别各种噪音水平下的稳态、冲击和随机载荷。此外，还对悬挑梁进行了分布载荷识别实验，验证了该方法的实际适用性。最后，基于匹配和概括性能讨论了模型超参数的选择，并在实验环境下与传统动态校准方法进行了比较研究，进一步证明了所提出框架的优越准确性、噪音鲁棒性和实际可靠性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000038?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于变电站设备多目标地震监测的模拟和可解释学习联合驱动框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all</link>
-      <description><![CDATA[遭受地震的变电站中的电气设备通常在多个脆弱部分出现脆性损坏，但这些部分上的确切位置是不可预测的。相关标准和研究提高了地震评估中应力响应水平的重要性。然而，监测脆弱部位的所有应变需要为每个设备配备大量的应变传感器，这是不切实际的，因为变电站中设备数量庞大，而且设备引发的电磁干扰很强。因此，本文提出了一种模拟和学习共同驱动的预测框架来识别多目标监控方案。它开发了多个机器学习（ML）模型，通过输入易于监测的响应（MR）来预测多个脆弱部位的峰值压力。其中，协同模拟模型获取精确的响应数据，解决了由于缺乏监测系统和地震数量有限而导致实际样本稀缺的问题。然后，使用Shapley添加性解释方法对每个ML模型的MR重要性进行排名，并通过提出的交集、Union或Stack策略组合各种ML模型的重要MR。合并后的MR有助于重建ML模型，随后在现场实施这些模型，以监测地震后有效预测的响应。对高压Transformer衬套进行了案例研究。振动台试验验证了所获得的监测方案在完整和受损情况下的有效性，揭示了应用所提出的框架有效地识别地震后变电站设备损坏的实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000336?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:36:37 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[利用连续子波变换从加速度数据识别的弯曲剖面进行桥梁损伤定位]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0888327026000385?dgcid=rss_sd_all</link>
       <description><![CDATA[基于交通诱导振动数据的损伤识别方法在桥梁结构健康监测中受到了极大的关注，这是由于对具有成本效益的传感解决方案的需求。最近的研究表明，桥梁曲率轮廓可以识别稀疏的加速度测量收集车辆通道使用标准的加速度计。然而，现有的方法估计曲率从加速度数据往往难以抑制动态影响引起的移动车辆。这些方法通常依赖于具有刚性截止阈值的低通过滤器，这可能会损害准确性，尤其是在高速车辆通过期间。为了克服这一局限性，本研究引入了一种基于连续子波变换的新颖方法来隔离准静态弯曲轮廓并有效去除动态分量。该方法在一个结合了车-桥相互作用效应和道路粗糙度的模型上进行了测试。灵敏度分析表明，即使在相对较高的车辆速度下，所提出的方法在各种传感器配置、损坏位置、严重程度和多种损坏场景中也优于标准过滤技术。使用现场数据的验证进一步证实了所提出方法的有效性和通用性。]]></description>
@@ -508,62 +312,6 @@
       <description><![CDATA[这项工作旨在探索新颖且强大的深度学习技术与棘手的工程问题的集成，特别是通过采用深度生成模型来解决不确定性下的模型更新问题。提出了一种基于条件去噪扩散概率模型的更新框架，以扩展基于深度生成模型的模型更新方法领域。扩散模型是一种代表性的生成式人工智能技术，它采用马尔科夫链逐步向数据添加噪音（正向过程），然后训练深度神经网络来扭转这种破坏（反向过程），从而实现高质量的数据生成。条件去噪扩散扩展了标准扩散模型，该模型通过将条件输入注入扩散过程来指导数据合成。基于条件扩散的模型更新框架由两个初级神经网络组成：条件网络和去噪网络。条件网络可以将合成/测量的响应数据总结为信息固定长度的载体，称为条件嵌入，用于指导去噪网络的训练和去噪过程。去噪网络可以学习预测前向过程中添加的噪音，并去噪以生成条件嵌入的后验样本。两个网络都是联合训练的，它们的架构灵活且依赖于问题。该框架用于解决一个基于模拟的问题，这是NASA和DNV不确定性量化挑战2025的定制版本，也是一个实验案例研究，这是一个最近设计的基准测试台，同时具有实验不确定性和可控参数不确定性。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000488?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 19 Jan 2026 14:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[考虑法兰界面时变弯曲硬度的轴颈轴承支撑柔性螺栓旋转系统的非线性动力学特性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000154?dgcid=rss_sd_all</link>
-      <description><![CDATA[旋转机械通常通过使用螺栓接头连接不同材料制成的部件来构建。本文将时变弯曲硬度、表面形态和不平衡预紧力纳入由轴颈轴承支撑的螺栓柔性旋转系统的建模中。为了提高非线性动力学模型的数值稳定性和准确性，提出了一种结合能量消散和干扰补偿的基于Newmark的方法来求解非线性动力学方程。通过实验验证了所提出的螺栓旋转系统模型和基于Newmark的方法。利用轨道图、庞加莱映射、分叉图和频谱图研究了不同旋转速度下螺栓旋转系统的非线性动力学行为和分叉特征。最后，还研究了螺栓预紧力对螺栓旋转系统动力学行为的影响。与整体式旋转体系统相比，螺栓连接式旋转体系统在较低的旋转速度下表现出倍周期分叉，并且该分叉的运行速度范围变宽。提高螺栓预载荷会延迟倍周期分叉开始速度，扩大倍周期运动的操作范围，从而增加向准周期或混乱状态的转变速度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000154?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:23:39 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种直接数据驱动故障检测的行为方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015031?dgcid=rss_sd_all</link>
-      <description><![CDATA[需要高效可靠的故障检测方法来监测和评估过程，例如在结构健康评估中。现有的方法依赖于先验给定的模型。获取模型并非易事，而且往往是应用程序中的瓶颈。直接数据驱动方法最近在信号处理和控制领域得到了发展。这些方法避免了参数模型识别，并且可能优于最先进的基于模型的方法。本文提出了一种直接数据驱动的故障检测方法。监测过程被建模为具有未观测到的确定性扰动的线性时不变系统。系统理论的行为方法用于定义数据和模型之间距离的表示不变度量。本文的主要贡献是提出了一种无需参数模型识别即可直接从离线和在线数据计算距离的方法。另一个贡献是直接数据驱动的输入估计。该方法在带有裂纹的柔性梁的模拟数据上进行了实证验证，其目的是检测裂纹。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015031?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[动力系统冲击力重构的多振型框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000063?dgcid=rss_sd_all</link>
-      <description><![CDATA[对结构的冲击事件，从轻微碰撞到灾难性事故，通常会引发结构振动。准确重建冲击力对于分析动态相互作用和设计能够承受此类事件的结构至关重要。这些影响的性质取决于相对速度、材料特性和结构特征等因素。由于逆问题的不适定性、对噪声的敏感性以及对材料特性和系统几何形状的假设的依赖性，传统的力重建技术面临着挑战。本文提出了一种精确且鲁棒的基于模态的冲击力重建框架，最大限度地减少了关于施加力的先验假设。它利用了受冲击物体的多模式振动响应，解释了其变形。每种模式都代表一个独立的系统，其振荡由冲击力的形状、大小和持续时间决定。冲击力近似为有限谐波级数，能够重建各种瞬态力形状。一个专门的实验装置，涉及一个作为钟摆悬挂的玻璃板，并受到冲击锤的冲击，验证了这项技术。板响应由激光干涉仪测量，即使是很小的振动也能分辨出来。结果表明，当检测到更多的振动模式时，力重建的精度会提高。然而，即使考虑了很少的模式，该技术也是有效的，可以可靠地估计撞击持续时间和交换的动量。它适用于不同的边界条件，并通过模式冗余表现出鲁棒性。多功能框架特别适用于对激励有最少先验知识的应用，包括结构健康监测和无损评估。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000063?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[双功能和能量自给自足的集成悬架系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000130?dgcid=rss_sd_all</link>
-      <description><![CDATA[这项工作介绍了一种同时促进振动隔离和能量收集的双功能集成悬架系统的设计、理论建模和实验验证。该系统的基本组件包括用于线性刚度的平面弹簧、用于气动阻尼的可调阻尼孔以及利用Halbach阵列和调谐线圈的高效电磁收割机。通过COMSOL中的严格有限元模拟，建立并验证了一个包含质量弹簧阻尼器动力学和电磁感应的全面分析模型。仿真精确地预测了平面弹簧的刚度、Halbach阵列的磁通量分布和收割机的开路电压。实验结果与理论预测非常吻合，验证了系统固有频率为5.23 Hz，阻尼比可在0.032至0.234之间调节。该系统表现出卓越的性能，在实际道路频谱激励下实现了超过85%的隔振率，并在5 Hz下提供了420 mW（电阻负载下为180 mW）的最大输出功率，与能量管理电路连接时具有6 mm的峰间激励。经验评估验证了其自主功能，道路振动产生的平均功率为20mW，足以将0.2F超级电容器充电至规定的3.35V，并为低功耗传感器供电。理论模型和实际数据之间的稳健相关性突显了该系统作为能量再生悬架的紧凑、高效和实用选择的可行性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000130?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于凸组合的主动-被动混合隔振系统规定性能自适应控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015432?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种用于压电驱动主动-被动混合隔振（APHVI）系统的归一化反馈自适应滤波最小均值混合范数（PPC NFsLMMN）控制方法的规定性能凸组合。首先，设计了一个规定的性能函数来约束系统性能，从而提高了收敛速度和稳态精度。在此基础上，引入了一种功能链接人工神经网络（FLANN）。通过FLANN扩展外部振动，可以处理系统的混合非线性特性，进一步提高系统的隔振性能。为了进一步提高系统的瞬态性能和精度，将两个具有不同目标函数的自适应控制器进行凸组合。该策略同时优化了系统的收敛速度和稳态精度。最后，严格分析了所提出的隔振方法的稳定性和计算复杂性，并通过压电驱动APHVI系统的实验验证了其有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015432?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于克里格法的多模系统可靠性分析：考虑模型间相关性和样本相互作用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327025015389?dgcid=rss_sd_all</link>
-      <description><![CDATA[多模系统中的系统级故障源于其组成故障模式的逻辑配置（例如串联、并联或混合），每种故障模式都由其自身的性能函数定义。针对此类系统的现有基于克里格法的可靠性分析方法通常为每种故障模式构建单独的克里格模型。然而，他们经常忽视候选样本点（CSP）之间的模型间相关性和相互作用，导致训练点选择的不一致性和高昂的计算成本。在这项研究中，我们提出了一种基于最大贡献学习函数的自适应克里金（MCLF-AK）方法，用于更有效地估计多模系统的故障概率。为了捕捉模型间相关性和CSP之间相互作用的内在依赖性，最初通过结合克里格预测的均值、方差和协方差，为多模系统推导了MCLF。MCLF测量每个CSP对系统级故障概率估计中方差减少的贡献。通过选择具有最大MCLF值的CSP到训练集中迭代更新克里格模型，提高了计算效率。为了进一步减轻遍历每个CSP的MCLF值的计算负担，使用U学习函数逐步减小候选样本池的大小。通过推导克里格预测和预测均值估计的故障概率之间的预期相对误差的上限，最终建立了收敛标准。通过几个例子验证了所提出的MCLF-AK的能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327025015389?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于VMD-CWT方法的双盘转子系统空间裂纹故障特征诊断与提取]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000075?dgcid=rss_sd_all</link>
-      <description><![CDATA[裂纹转子的动态模型主要集中在简化的二维几何形状上，无法表示任意的三维方向。本文通过双旋转坐标变换提出了一种广义空间裂纹模型。通过数值模拟研究了裂纹模型的非线性动力学，并通过在专用双盘转子轴承系统上的实验进行了严格验证。实验信号采用变分模分解连续小波变换（VMD-CWT）方法进行处理，以增强裂纹特征提取。结果表明，z方向上的倾斜角θ1是超谐响应的主要因素。此外，轨道内环交叉点的相对相移唯一地取决于裂纹的空间几何形状，从而提供了一种区分横向、倾斜和空间裂纹类型的方法。实验成功地捕捉到了显著的2fr超谐波响应，对于40%深度的横向裂纹，振幅约为28µm。这项工作为任意空间裂纹提供了一个经过验证的建模框架，并引入了一种鲁棒的轨道特征，用于增强旋转机械的故障诊断。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000075?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非穿透保持架裂纹滚动轴承的滑动和振动特性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0888327026000166?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一种动态轴承模型，以研究保持架裂纹对滚动轴承振动特性的影响。该模型综合考虑了滚子和保持架之间的多方向接触相互作用，为保持架裂纹建立了有效的径向信号传输路径。采用有限元方法评估不同裂纹条件下关键刚度退化。使用力边界方法开发了一个轴承-轴耦合系统，以复制实际约束。构建了一个试验台进行验证，模拟中不同裂纹严重程度下的包络谱与实验结果吻合良好。分析表明，保持架裂纹显著改变了保持架和滚子的平移和旋转运动，导致振动响应的周期性波动。裂纹的存在还会导致辊子打滑和内部保持架力重新分布增加，从而放大局部动态不稳定性。与传统轴承模型相比，所提出的模型对早期保持架故障诊断能力的灵敏度有所提高。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0888327026000166?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

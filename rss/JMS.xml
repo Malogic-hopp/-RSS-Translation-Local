@@ -4,7 +4,35 @@
     <title>ScienceDirect出版物：制造系统杂志</title>
     <link>https://www.sciencedirect.com/journal/journal-of-manufacturing-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:05:23 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[对“ChatNC：通过大型语言模型和实时数据检索增强代进行对话机监控”[J Manuf Syst 79（2025）504-514]]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000208?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月来源：《制造系统杂志》，第85卷作者：Jurim Jeon、Yuseop Sim、Hojun Lee、Changheon Han、Dongjun Yun、Eunseob Kim、Shreya Laxmi Ndirra、Martin BG Jun、Yangjin Kim、Sang Won Lee、Jiho Lee]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000208?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能制造系统的综合数字孪生模型的自动提取]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000221?dgcid=rss_sd_all</link>
+      <description><![CDATA[制造系统涉及多个通常相互冲突的目标，这些目标被称为性能指标，包括生产效率、资源利用率、能源消耗、碳排放和废物减少，这些目标对应于系统的不同维度，例如时间、能源消耗和废物产生方面。Digital Twins已经成为一种强大的工具，集成了数据驱动的仿真和复杂系统的分析，例如制造系统。流程挖掘（PM）与数据分析一起，可以直接从生产事件日志中自动发现可执行的离散事件仿真模型。这些数据驱动模型是实现离散事件系统近实时数字孪生的关键。随机Petri网（SPP）提供了一种稳健且直观的建模形式主义，非常适合表示从PM中提取的模型，特别是在制造系统的背景下。然而，标准SEN在纳入时间之外的维度（例如能源消耗和废物产生）方面面临挑战。这种限制通常导致次优决策并降低系统效率。在本文中，我们提出了一个全面的数字孪生（CDT）框架，采用多流过程挖掘（MFPM）自动提取多维随机Petri网（MDSPN）作为制造系统的底层模型。为了支持提取的MDSPN的建模和仿真，我们引入并利用我们的工具，MDPySPN。CDT框架支持系统的各种性能指标的多目标决策。通过一个热锻工艺链的说明性案例研究，我们展示了CDT的时间，能源消耗和废物产生方面的发展。我们进一步说明了如何利用CDT来分析和支持决策，以根据其目标增强案例研究系统。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000221?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[智能服装制造的基于物理信息的嵌入式智能框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000269?dgcid=rss_sd_all</link>
+      <description><![CDATA[在工业5.0以人为本、可持续和弹性愿景的推动下，智能系统正在成为智能制造不可或缺的组成部分。虽然机器人在操纵刚性物体方面取得了显着的成功，但服装制造中对可变形织物的稳健处理仍然具有挑战性，特别是对于缝纫过程中所需的拾取和放置操作。在生产环境中，机器人经常难以根据不同的织物特性和变形行为调整夹持策略，从而限制了智能制造的发展。为了应对这些挑战，本文提出了一个为智能服装制造量身定制的物理信息嵌入式智能框架。该系统集成了任务感知规划（通过对周围环境的视觉语言理解实现）与物理信息操纵（结合了材料属性推断和有限元素分析）。这种集成使机器人能够以更高的适应性、精确性和智能性执行服装制造任务。在现实世界场景中进行的实验验证了所提出的框架在支持灵活和智能生产流程方面的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000269?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自动化加工工艺库构建的改进大语言模型和知识图集成方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000270?dgcid=rss_sd_all</link>
+      <description><![CDATA[加工工艺知识库（MPKB）是智能工艺决策的基础，直接影响制造效率和质量。虽然大型语言模型（LLM）在自动化MPKB构建方面表现出了希望，但它们在制造业中面临着严峻的挑战：工业知识图（KG）模式通常超出了中小型企业（SME）可部署的轻量级LLM的上下文窗口。这种限制迫使构建过程在不完整的模式信息下运行，导致MPKB中缺失的实体关系、语义异类和概念模糊性。本研究提出了一种改进的LLM-KG协作框架，该框架通过以下方式克服了这些局限性：（1）采用分阶段的、模式脱钩的提取策略，该策略可以在不注入完整模式的情况下实现开放三重集合;（2）引入代码风格的知识表示方法，可以有效地编码复杂的加工模式，减少语义负载，同时保持结构完整性;（3）构建集成动态模式分段和双向验证的检索驱动语义标准化管道，利用LLM实现可解释同义词合并并消除异类。这项研究使用航空企业提供的加工工艺数据，从经验上验证了所提出的方法。实验结果表明，与其他基线模型相比，我们的框架在MPKB施工质量方面至少提高了3.3%，在加工过程质量指标方面提高了25%。GitHub上已提供实施和数据，以促进重现性和进一步研究。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000270?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:06 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[SHOP 4CF模块化参考架构，用于灵活的面向流程、数据驱动的智能制造]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0278612526000191?dgcid=rss_sd_all</link>

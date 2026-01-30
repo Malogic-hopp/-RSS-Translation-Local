@@ -4,7 +4,42 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:05:51 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[VL-GRiP 3：利用视觉语言模型进行自主机器人3D抓取的分层管道]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000232?dgcid=rss_sd_all</link>
+      <description><![CDATA[自主抓取长期以来一直是机器人技术的中心话题，但在中小企业（SME）中的部署仍然受到低级机器人编程和缺乏自然语言交互的阻碍。最近的视觉-语言-动作模型（VGA）允许机器人解释自然语言命令以进行直观的交互和控制，但它们仍然表现出输出不确定性，并且还不太适合在安全关键的工业环境中直接生成可靠、精确的动作。为了解决这一差距，我们提出了VL-GRIP 3，这是一种支持分层视觉语言模型（VLM）的流水线，用于自主3D机器人抓取，它在SME环境中架起了自然语言交互和准确、可靠的操纵的桥梁。该框架将语言理解、感知和行动规划分解为透明的模块化架构，提高了灵活性和可解释性。在此架构中，单个VLM主干负责处理自然语言解释、目标感知和高级行动规划。然后，CAD增强的点云配准可以减轻单个RGB-D视图中的遮挡，同时保持低硬件成本，基于M2 T2的抓取规划器预测准确的3D抓取姿势，明确考虑来自增强的点云的复杂对象几何形状，从而实现对不规则工业零件的可靠操纵。实验表明，我们微调的VLM模块实现了与YOLOv 8 n相当的分割性能，VL-GRiP 3在150次随机抓取试验中实现了94.67%的成功率。与最先进的端到端VLA的比较评估进一步表明，我们的模块化，CAD增强设计与明确的3D把握姿势预测产生更可靠和可控的行为，中小企业制造应用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000232?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[8轴机器人辅助DED中喷嘴方向的基于约束的冗余解析：旋转部件的案例]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600027X?dgcid=rss_sd_all</link>
+      <description><![CDATA[工艺规划对于弯曲部件制造的机器人辅助定向能量沉积（DED）至关重要，其中涉及激光参数、喷嘴方向、速度策略和非印刷路径等各种因素。对于同轴送粉的DED工艺，由6轴机械臂和2轴定位器组成的8轴机器人系统具有3个功能冗余自由度，包括喷嘴的轴向旋转、定位器的倾斜和旋转。本研究旨在利用8轴机器人系统的冗余度来实现沉积的最佳喷嘴方位。最初提出了喷嘴方向评估指标，以评估喷嘴轴向向是否与重力相反并与构建表面法向量对齐。随后，针对旋转叶片设计了具有不同喷嘴方向约束的机器人轨迹规划策略。最后，基于数值模拟进行了实际印刷。开发的理论最优机器人轨迹规划策略主要实现了± 1 mm内的几何精度。通过适当放宽喷嘴方向约束，该方法可以适应更复杂的弯曲部件的制造。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600027X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[BrepHGNet：一种用于特征识别的面部-顶点交互异类图神经网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600030X?dgcid=rss_sd_all</link>
+      <description><![CDATA[在智能制造和机器人技术集成的背景下，边界表示（B-sup）模型特征识别是连接设计意图与机器人自动化制造的关键技术瓶颈。作为连接计算机辅助设计和机器人加工执行的核心环节，它为机器人提供可制造特征的语义分析。然而，现有方法仅限于分析B-sup模型中的人脸特征，并忽视了几何元素之间的topological-几何关联的深入建模。这使得机器人很难准确感知多特征。为了解决这些问题，本文提出了一个名为BrepHGNet的异类图学习框架。首先，构造了B-sup模型的面-点交互异类图描述符。定义了两种不同类型的节点，即面节点和点节点，以及两种类型的关系，即面-邻近-面和点-隶属-面。这种结构用于保留B-sup模型中固有的分层布局结构和几何信息。其次，提出了一种点全局形状映射方法。通过计算从点到其他面上的采样点的欧几里得距离，该方法捕捉复杂几何结构中点的影响。第三，构建了一个异类图神经网络。通过针对不同关系量身定制的消息传递和聚合机制来更新节点功能。最后，在制造业和真实词数据集上进行的比较实验表明，提出的面-点交互异类图可以有效捕捉B-sup模型内部的几何-拓扑关联，为B-sup模型特征识别提供了新的技术途径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600030X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自由曲面再制造激光熔覆姿态优化方法及其对Ti-6Al-4V再制造涡轮叶片成形质量的改善]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000281?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人激光再制造是一种节能、节材、省时且环保的方法，可以恢复故障涡轮叶片的功能和性能。在涡轮叶片再制造过程中，包层姿态会影响激光斑的尺寸和形状，从而极大地影响再制造质量。由于变形和磨损相当大，与修复位置运动同步的准确、平稳的姿态控制面临困难。为了克服这些困难，提出了一种基于在线反求建模的二维角度光顺和Markov同步的姿态优化方法。首先，通过线阵激光扫描仪和机器人激光熔覆平台的系统集成，高效建立磨损涡轮叶片的反求模型，为宏观形状和微观表面形态提供准确的信息。接下来，通过建立工作平面，将原始表面法向量分解为滚动角和俯仰角，并采用带滑动窗口的多元回归方法自适应消除振动并保持熔覆喷嘴动态垂直于修复表面。进一步，为了实现熔覆姿态的连续变换，基于独立参数的3D非均匀分布曲线曲线（Multiple）曲线（Multiple）曲线（Multiple）在姿态空间中生成光滑的熔覆路径，并考虑位置与姿态之间的精确对应关系，提出了基于2D非均匀分布曲线（Multiple）插值的同步方法来实现精确的姿态控制。最后进行了对比实验，结果表明，动态包层姿态控制和无振动优化可以实现工业机器人更平稳的运动，减少表面波纹度，均匀提高Ti-6Al-4 V粉末再制造的涡轮叶片的硬度。该工作论证了动态姿态对成形质量的改善，为自由曲面再制造提供了一种可行的姿态控制方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000281?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于加工过程的重载机器人动力学研究进展]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000293?dgcid=rss_sd_all</link>
+      <description><![CDATA[重型工业机器人因其大的工作空间和灵活的姿态调整能力而越来越多地应用于机械加工。然而，它们固有的低硬度使它们在加工过程中极易受到颤动的影响，这严重限制了它们的进一步开发和应用。进行高精度动态建模进行颤动预测并采用主动/被动颤动抑制技术对于实现无颤动加工至关重要。本文系统回顾了全球重型机器人加工系统动力学研究进展。首先概述了重型机器人在机械加工中的核心技术和典型应用。其次，全面比较了重型机器人末端操纵器动态特性的各种建模和预测方法。再次，深入分析了机器人加工中的两种主要颤动机制--再生颤动和模式耦合颤动--及其相应的分析和预测方法。随后，总结了几种有代表性的颤动抑制技术。最后，根据上述分析得出结论，并提出了未来研究的重点方向。本文通过对重型机器人加工动力学研究的全面回顾和深入探索，旨在为相关领域的学者提供有价值的参考和指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000293?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:05:28 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[机器人镜面铣削的模式参数和稳定性分析的物理信息预测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000177?dgcid=rss_sd_all</link>

@@ -4,27 +4,48 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:02:20 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[SU-RMT：医学图像分割的语义表示和结构细节建模的桥梁]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000618?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于临床场景中的解剖结构不均匀性和微妙纹理，准确的医学图像分割需要模型能够捕获高级语义，同时保留细粒度的结构细节。然而，现有的U形网络通常缺乏统一的视角来协调语义表示与结构细节。为此，我们提出了SU-RMT，这是一个U形网络，通过重新设计编码器、瓶颈和跳过连接来体现这一统一观点。编码器采用动态空间注意（DySA）机制来捕获具有空间先验的全局上下文。该瓶颈引入了混合光谱自适应（HSA）模块，将抽象语义转换为结构感知特征。第一个跳跃连接包含一个频率融合（F 2）块，以增强边界细节，而不会放大噪声。在多个医学图像分割任务中，SU-RMT表现出强大的性能。代码在链接处。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000618?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PGSC：非平衡热力学的梯度稀疏通讯优化准则]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000679?dgcid=rss_sd_all</link>
+      <description><![CDATA[梯度压缩可以减少通信负担。然而，当前的静态稀疏性技术可能会扰乱梯度动态，导致模型收敛不稳定并降低特征辨别能力，而传输完整的梯度会导致高成本。为了解决这个问题，受非平衡热力学的启发，本文提出了物理引导的梯度稀疏准则（PGSC）。具体来说，我们基于梯度幅度分布制定连续场方程，推导出训练阶段稀疏阈值的自适应衰减规则。然后我们根据这一规则动态调整稀疏阈值，有效解决多模式特征的复杂性，确保一致的信息传输。我们的方法通过建立梯度消散和信息熵之间的动态平衡机制来实现梯度压缩和模型准确度的自适应协同优化。这种方法确保稳定的收敛率，同时保留多尺度特征的梯度结构。对公共数据集（包括CIFAR-10、MNIST和FLIR_ADAS_v2）的广泛实验表明，相对于TopK和量化压缩等竞争对手具有显着优势，同时还降低了通信成本。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000679?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[低资源语言的大型多模式模型：调查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000680?dgcid=rss_sd_all</link>
+      <description><![CDATA[在这项调查中，我们系统地分析了用于将大型多模式模型（LSYS）适应低资源（LR）语言的技术，研究了从视觉增强和数据创建到跨模式传输和融合策略等各种方法。通过对96种LR语言的117项研究的全面分析，我们确定了研究人员如何应对有限数据和计算资源挑战的关键模式。我们将作品分为资源导向的贡献和方法导向的贡献，并进一步将贡献分为相关的子类别。我们比较方法导向的贡献的性能和效率，讨论的好处和局限性的代表性研究。我们发现，视觉信息通常是提高LR设置中模型性能的关键桥梁，尽管在幻觉缓解和计算效率等领域仍然存在重大挑战。总之，我们为研究人员提供了一个清晰的理解，使Lingo更容易被LR（未充分研究）语言的使用者使用的当前方法和剩余的挑战。我们补充了我们的调查与开源存储库可在：https://github.com/marianlupascu/LMM4LRL-Survey。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000680?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自适应虚拟邻居，在大型多视图属性图上进行高效稳定的集群]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000692?dgcid=rss_sd_all</link>
+      <description><![CDATA[多视图属性图（MVAG）因其对复杂网络和关系进行建模的能力而闻名，它可以提供多样化但补充的信息来寻找适合所有视图的共识分区。已有大量方法用于对多视图属性图进行聚集。然而，由于复杂性高，大多数不适合大规模图。此外，虽然现有的基于锚点的方法可以有效加速集群，但它们在锚点选择过程中主要关注属性信息或图结构，有些存在稳定性问题。受此启发，本文提出了自适应虚拟锚点分簇方法（AVAC）来提高分簇性能并保持稳定的结果。特别是，我们首先为多视图属性图引入自适应虚拟锚点，这些锚点是从图中自适应地学习和生成的。之后，我们将锚点学习和锚点图构建紧密、循环地联系起来，动态学习虚拟锚点，使其更准确地捕捉真实的数据分布和布局信息。最后但并非最不重要的是，我们设计了一种经过验证的收敛性的五块坐标下降方法，以进一步优化我们的虚拟锚点，使其更能代表现有节点。对真实和合成数据集的广泛实验证明了我们方法的有效性、效率和稳定性。与最先进的方法相比，AVAC算法始终获得稳定的结果，准确性显着提高，并在公共大规模数据集上实现了1.8倍的加速。源代码可访问https://github.com/lmyfree/AVAC。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000692?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[信息论图融合与视觉-语言-动作模型用于政策推理和双重机器人控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000722?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于依赖于低级轨迹模仿，从人类视频中教授机器人灵巧技能仍然具有挑战性，而这种模仿未能在对象类型、空间布局和操纵器配置上进行概括。我们提出了图形融合的视觉-语言-动作（GF-VLA），这是一个框架，使双臂机器人系统能够直接从Ruby（-D）人体演示中执行任务级推理和执行。GF-VLA首先提取基于Shannon信息的线索以识别具有最高任务相关性的手和物体，然后将这些线索编码到时间排序的场景图中，以捕捉手与物体和物体与物体的相互作用。这些图与语言条件Transformer融合，该转换器生成分层行为树和可解释的Cartesian运动命令。为了提高双手环境中的执行效率，我们进一步引入了交叉手选择策略，该策略无需明确的几何推理即可推断出最佳夹持器分配。我们评估了GF-VLA的四种结构化双臂块组装任务，涉及符号形状构建和空间概括。实验结果表明，信息论场景表示实现了超过95%的图形准确率和93%的子任务分割率，支持LLM规划器生成可靠且人类可读的任务策略。当由双臂机器人执行时，这些策略在堆叠、字母构建和几何重新配置场景中可产生94%的抓取成功率、89%的放置准确率和90%的总体任务成功率，展示了在各种空间和语义变化中的强大概括性和稳健性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000722?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 30 Jan 2026 13:02:02 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[阿尔茨海默病预测的多模式融合调查：新的分类学和趋势]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1566253525011601?dgcid=rss_sd_all</link>
       <description><![CDATA[阿尔茨海默病（AD）是一种神经退行性疾病，以其不可治愈而闻名，在全球老年人中很常见。之前的研究表明，早期干预对疾病进展有积极影响，从而导致通过机器学习（ML）方法对病理分析和疾病轨迹预测的研究增加。鉴于不同神经退行性疾病之间的相似性，仅依赖单一数据模式的诊断是不够的。因此，当前的研究主要集中在多模式分析上，集成医学成像和临床患者信息，并持续识别可能有助于AD诊断的新数据类型。在过去的二十年里，多模式方法得到了广泛的探索，在深度学习（DL）技术的引入后观察到了显着的进步。深度神经网络可以直接从输入数据中自适应地提取和融合特征，显着扩大了多峰分析的范围。然而，早期的分类研究主要集中在传统的ML上，通常忽视了DL网络的快速发展。本文提供了一个全面的描述采集途径的基础上的模态，讨论了目前用于研究神经影像学，人体体液，和其他相关来源的模态。此外，它还对DL和传统ML环境中使用的融合方法进行了分类，强调了现有的挑战，并概述了未来研究的潜在方向。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011601?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 26 Jan 2026 11:36:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[视听Deepfake检测中基于对抗和生成AI的反取证：全面回顾和分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011820?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着deepfakes背后技术的进步，检测视听deepfakes变得越来越重要，传统和基于生成AI的对抗/反取证攻击以及基于生成AI的反取证攻击对deepfake检测技术的兴起越来越令人担忧。保护应用程序免受基于对抗性和生成性AI的攻击对于准确和强大的deepfake检测工具至关重要。因此，本文全面概述了各种基于对抗性和生成性人工智能的反取证攻击，这些攻击代表了可信度以及透明度，可解释性和公平性的核心要素之一，以及视听deepfake生成和检测的防御对策。它涵盖了对Deepfake检测算法和防御方法（包括模型融合和基于诱饵的方法）的对抗攻击等主题，以减轻这些威胁。尽管近年来人们对Deepfake检测的对抗攻击和防御进行了广泛的研究，但很少有人尝试对现有工作进行定性和定量比较。本文旨在帮助识别和解决需要考虑的关键问题，以带来可转移的对抗性攻击及其对策，特别是通过生成性防御、知识提炼等技术。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011820?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 26 Jan 2026 11:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[MCIVA：具有中心逆最近邻地图和视图自适应模块的多视图行人检测框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</link>
-      <description><![CDATA[多视图行人检测是一项重要任务，在监控和智慧城市等领域有许多应用。尽管最近的多视图行人检测方法取得了显着的性能改进，但这项任务仍然面临三个主要挑战。1)在拥挤的区域中，相邻的连接分量可能会在密集区域中合并，导致每个行人的像素峰值定位不清楚。2)之前的多视图行人检测方法中使用的损失函数对背景具有高响应性。3)相机参数尚未得到充分利用;它们仅用于生成固定值投影矩阵。为了应对这些挑战，我们提出了一种新颖的多视图行人检测框架，该框架具有中心逆最近邻地图和视图自适应模块（MCIVA）。引入中心逆近邻（Cinn）地图，以基于注释生成地面真相概率占用地图（TOM），为每个行人提供更精确的位置信息。为了增强模型对局部结构信息的关注，我们提出了局部结构相似性损失来减少背景区域中假局部最大值的影响。此外，还引入了一种新型的即插即拉式视图自适应模块（VAM），利用摄像机参数来生成可学习的权重，用于多视图特征融合。我们在三个基准数据集上对所提出的方法进行了评估，结果表明所提出的MCIVA显着提高了预测地图的质量并实现了最先进的性能。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 26 Jan 2026 11:36:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[多源时间序列物候阶段分类的新知识提炼和混合解释方法]]></title>
