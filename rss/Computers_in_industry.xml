@@ -4,7 +4,56 @@
     <title>ScienceDirect出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:35:20 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[用于结构可靠性评估的集成学习增强的协同代理建模方法和改进的粒子群优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000084?dgcid=rss_sd_all</link>
+      <description><![CDATA[本研究提出了一种新型的用于结构可靠性评估的分布式协作代理建模框架。它集成了用于特征选择的最小绝对收缩和选择操作符、用于集成预测的梯度提升回归以及用于超参数调整的改进粒子群优化算法，形成了一种新的代理建模方法，缩写为IPSLG。然后应用分布式协作策略将IPSLG扩展为协作建模框架，以下称为分布式协作IPSLG（DCIPSLG）。通过悬挑管的强度可靠性分析和导弹支架-座舱系统的蠕动变形可靠性评估进行验证，证明了DCIPSLG相对于某些已建立的替代建模技术的优越性能。比较结果证实了预测准确性和计算效率的显着提高，从而使拟议框架成为复杂工程可靠性分析的有效工具。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000084?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[张力混凝土铁路桥梁基础设施动态分析和生成式设计的自动化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000072?dgcid=rss_sd_all</link>
+      <description><![CDATA[这项研究为承受高速机车多关节（HSLM-A）列车载荷的高速有碴铁路桥梁的动态分析和生成式设计提供了一种创新方法。符合欧洲规范标准，生成了一个包含超过400万个数据点的综合数据库，其中包括受十个HSLM-A模型影响的10，000多座桥梁的最大垂直位移和加速度数据，速度范围为150至350公里/小时。这项研究的关键贡献在于一种新颖的代理模型，该模型结合了语义搜索和高级解码技术，显着提高了单跨高速铁路桥梁动态行为预测的计算时间和准确性。通过现有30 m和50 m跨度桥梁的案例研究验证了所开发模型的性能，R2值为0.999，凸显了该模型的精确性和快速预测能力。此外，该研究还引入了一种先进的框架，用于优化张力混凝土铁路桥梁的横剖面几何形状。然后对一座典型的箱梁桥进行了案例研究，以确定25种在单位长度质量方面优于原始设计的可行方案。这项研究展示了先进技术和结构优化之间的协同效应，并为该领域的未来研究开辟了新的途径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000072?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用知情机器学习和图注意力网络对流程工业时间序列进行异常检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000126?dgcid=rss_sd_all</link>
+      <description><![CDATA[在工业4.0中，检测多元时间序列中的异常以进行工业设备监控是一项重大挑战。训练数据集中固有的数据偏差可能会导致传统模型学习虚假的相关性，从而导致结果与专家知识不一致。因此，基于知识的表示与顺序数据的集成对于增强捕获高级语义复杂模式并提供有意义的解释的能力至关重要。本文提出了具有图形注意力网络的复合知识融合数据（CKDGAT），这是一种用于流程工业生产监控的无监督异常检测方法。CKDGAT利用两层图注意力网络架构来捕获可变交互和时间依赖性，融合这些元素以生成新特征。采用多头随机注意机制对基于知识的信息进行建模。重建模块利用这些特征来重建输入多元时间序列并生成异常分数。实验表明，CKDGAT在立式磨上优于最先进的基线模型和安全的水处理测试台数据集。此外，进一步的分析表明，CKDGAT为检测到的异常提供了可解释的解释。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000126?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:35:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于轻量级YOLOv 8和亚像素边缘检测的电梯牵引轮凹槽磨损识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000114?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了实现对不同规格电梯牵引轮凹槽磨损的准确识别，提出了一种基于轻量级You Only Look Once（YOLO）模型和亚像素边缘检测的方法。首先，设计并建造了一种检测不同规格牵引轮槽磨损的装置。该设备使用背光来获得车轮槽背光轮廓的稳定、清晰的图像，从而创建车轮槽图像数据集。接下来，使用FasterBlock、SlimNeck和ECHead模块构建了轻量级的YOLOv 8模型，其中FasterBlock和高效多尺度注意力模块融合，以进一步提高模型的性能，并在背光图像上实现兴趣区域检测和牵引轮凹槽类型识别。此外，通过失真修正和预处理消除了图像失真和图像噪音引起的测量误差。最后，基于部分区域效应实现了不同类型牵引轮凹槽的亚像素边缘提取，实现磨损点定位和磨损测量。实验结果表明，改进后的模型的参数数和浮点运算量分别减少了40%和56%，而中央处理器每秒帧数增加了21%，Union 50-95相交处的平均平均精度提高了0.9（%），速度和准确性都得到了平衡的提高。此外，通过边缘推理部署验证了行业相关性。该测量方法的准确性在带切口的V形凹槽上得到验证，最大绝对误差为0.062 mm，均方误差在0.044 mm以内。因此，该方法提供了对牵引轮凹槽磨损的准确识别，为牵引轮凹槽磨损的通用测量提供了理论依据和技术前提。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000114?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种基于在线修复技术的风力机叶片图像拼接改进方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000138?dgcid=rss_sd_all</link>
+      <description><![CDATA[当机器视觉技术用于风力涡轮机叶片的在线缺陷检测时，现有的图像拼接方法难以检测图像特征、正确匹配率和准确配准图像。因此，基于改进的加速KAZA（AKAZA）方法，提出了一种适用于风力涡轮机叶片在线修复机器人平台的图像拼接方法。利用AKAze算法检测风力涡轮机叶片裂纹图像的特征点，并利用二进制鲁棒不变可扩展关键点描述符进行描述。采用基于网格的运动统计算法进行特征预匹配，采用随机样本一致性算法优化特征匹配结果并计算图像变换模型。采用加权混合算法对图像的重叠区域进行混合，获得高分辨率、完整的风力发电机叶片裂缝图像。在裂纹风力涡轮机叶片图像上验证了该方法的拼接效果，并在特征点检测、正确匹配率、拼接质量和效率方面与其他算法进行了比较。实验结果表明，该方法有效地实现了高分辨率风力发电机叶片裂纹图像的拼接。因此，改进后的AKAZA图像拼接方法可以支持基于在线修复技术的风力涡轮叶片修复机器人的检修任务。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000138?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自动化客户需求分析：旅游行业大型语言模型的比较研究]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000151?dgcid=rss_sd_all</link>
+      <description><![CDATA[在自然语言处理（NLP）迅速发展的环境中，大型语言模型（LLM）已成为许多任务的强大工具，例如从大量文本数据中提取有价值的见解。在本研究中，我们对LLM进行了比较分析，以从TripAdvisor和Reddit帖子中提取旅游客户需求。利用各种模型，包括GPT-4和Gemini等开源和专有模型，我们的目标是阐明它们在这个专业领域的优势和劣势。通过涉及BERTScore、面向召回的Gisting Evidence（ROUGE）和BiLingual Evidence Understudy（BLEU）等指标的评估流程，我们评估每个模型在准确识别和总结客户需求方面的表现。我们的研究结果强调了开源LLM（尤其是Mistral 7 B）的功效，可以实现与大型封闭模型相当的性能，同时提供经济实惠和定制优势。此外，我们强调在选择最适合客户需求分析任务的LLM时考虑模型大小、资源要求和性能指标等因素的重要性。总体而言，这项研究为寻求利用先进的NLP技术来增强客户体验并提高旅游行业运营效率的企业提供了宝贵的见解。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000151?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SKDAN：信号知识增强型领域自适应网络，用于滚动轴承的剩余使用寿命预测和不确定性量化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152600014X?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于领域自适应的方法被广泛应用于预测复杂运行条件下滚动轴承的剩余使用寿命（RUL）。然而，轴承的非线性退化过程导致整个生命周期中振动信号明显非平稳特征。尽管不同退化阶段的故障特征存在显着差异，但清楚地识别关键退化信息仍然是一项挑战。本文提出了一种信号知识增强型域自适应网络（SKDAN）来从非平稳降级过程中学习域不变特征，从而改进跨域RUL预测。具体来说，引入具有可变窗口的自适应短期傅里叶变换层来分析时间域中的原始振动信号。该可微层提取能量集中的时频物理信息，增强了退化特征的表示。随后，提出了一种新型的差异度量，称为多阶段最大均值差异（MSMMD），用多个局部差异取代全局平均差异。MSMMD指标有效地增加了集群中心之间的类间距离，从而实现跨域特征对齐。最后，通过分步训练策略构建不确定性测量机制，目标是通过计算预测点的置信区间来量化RUL结果的不确定性。在两个不同的方位数据集上进行了与其他方法的比较测试，结果表明SKDAN在跨域RUL预测方面实现了卓越的性能和可靠性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600014X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:51 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[TropicCal：用于物联网增强流程的多视角跟踪集群]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</link>

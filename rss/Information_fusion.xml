@@ -4,7 +4,56 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:28:00 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[多传感器和马尔科夫衰落环境下折扣平均加权标准的多通道接入和功率控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000709?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文研究了多传感器远程估计的多通道接入和功率控制的联合设计。具有能量限制的智能传感器通过共享马尔科夫衰落通道来传输其本地估计。在无限范围内引入了一种新颖的折扣平均加权标准（DAWC），该标准平衡了即时和长期传输性能，与专注于一个方面的传统标准不同。我们将包括频道选择和功率分配在内的协同设计问题制定为DAWC的马尔科夫决策过程（MDP）。通过模型检查方法给出了各向异性MDP的最优策略的存在性，并从随机马尔科夫策略集中推导出类似开关的最优传输策略。此外，我们证明了最优策略的存在性，该策略是一般MDP的最终确定性策略。采用精心设计的算法来利用前向迭代方法生成最佳传输决策。最后，以涡轮风扇发动机速度调节为例，验证了前人结果的优越性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000709?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有连体双边差异网络和文本引导图像特征增强的视觉语言模型用于CT血管造影预测急性缺血性中风结局]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000746?dgcid=rss_sd_all</link>
+      <description><![CDATA[急性缺血性中风（AIS）结局预测对于治疗决策至关重要。然而，由于病变特征、血管状态和其他健康状况的综合影响，AIS结局预测具有挑战性。在这项研究中，我们引入了具有连体双边差异网络的视觉语言模型和文本引导的图像特征增强模块，用于预测AIS结果（例如，改良Rankin量表，mRS）。在Siamese双边差异网络中，我们在微调基础模型LVM-Med的基础上，设计了交互式Transformer微调编码器和视觉问答引导的双边差异感知模块，通过图像-文本对问答生成双边差异文本，作为增强提取的脑血管差异特征的提示。此外，在文本引导图像特征增强模块中，我们提出了一个文本特征提取模块，从临床笔记中提取患者短语级和短语间嵌入，并采用多尺度图像-文本交互模块来获得细粒度短语增强图像注意力特征和粗粒度短语上下文感知图像注意力特征。我们在公共ISLES 2024数据集、私有数据集A和外部AIS数据集上验证我们的模型。它对3个数据集的90天mRS预测的准确率分别为81.11%、83.05%和80.00%，AUC分别为80.06%、85.48%和82.62%，优于多种最先进的方法，并展示了其概括能力。此外，所提出的方法可以有效地扩展到青光眼视野进展预测，这也与血管差异和临床记录有关。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000746?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于模态缺失会话理解的具有多级对比度的无监督多模态图完备网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600076X?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模态会话理解是近年来的研究热点，其目的是整合多模态会话信息，提高计算机理解用户意图的准确性。然而，现有的多模态会话理解方法往往遭受会话模态缺失的挑战，这严重损害了其优越的性能。最近出现的基于估算的不完全多模态学习（I2ML）提供了一种有效的解决方案，其目的是在下游任务的监督下重建缺失的模态特征。这种对标签的依赖既导致重建的模式特征的偏差，也导致其应用范围的限制。此外，这些提出的I2 ML方法独立考虑不同话语之间缺失的情态特征重建过程，这进一步导致特定话语过度依赖（模型次优）问题。为了解决上述问题，提出了一种更通用的无监督I2 ML，以有效提高模式缺失对话理解（M2 CU）任务的性能，称为无监督多模式图完成网络（UMGCN）。具体来说，为了提高每个重建的模式特征的准确性，设计了有效的缺失模式恢复模块来增强不同话语之间的信息交互过程，以生成稳健的缺失模式恢复特征。然后，提出了跨结构和跨视图层面的多层图对比损失，通过最大化跨不同结构和视图的相同对话表示之间的互信息来学习话语一般对话表示。最后，学习到的话语一般对话表示可以应用于任意M2CU任务。对四个数据集、七个缺失率和两个M2 CU任务的广泛实验表明，我们提出的UMGCN优于现有的不完整多模式学习方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600076X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有挑战性的环境中用于PVIN建模和融合估计的两阶段学习网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000710?dgcid=rss_sd_all</link>
+      <description><![CDATA[在基于极化的视觉惯性导航系统（PVIN）中，来自极化传感器（PS）和视觉惯性导航系统（VIN）的信息融合以实现位置和姿态估计，从而为全球导航卫星系统（GNSS）拒绝环境中的自主导航提供有效的解决方案。然而，在复杂天气等具有挑战性的条件下，PVINS的状态空间模型容易受到不确定的模型误差的影响，从而限制了系统的准确性和适应性。为了解决这个问题，我们提出了一种基于两级学习网络的紧耦合PVINS集成方案，该网络由模型误差补偿和自适应卡尔曼收益学习组成。在第一阶段，设计具有共享权重架构的深度神经网络来学习和补偿状态空间模型误差，从而降低网络复杂性并实现更精确的系统建模。第二阶段，为了提高PVINs的融合准确性，提出了一种基于卡尔曼收益学习网络（KGLN）的智能融合方法。这种方法能够自适应学习卡尔曼收益，避免系统对噪音统计知识的依赖。最后通过半物理仿真和飞行试验验证了系统的性能。实验结果证实，所提出的方法在位置和航向估计方面优于传统的PVIN。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000710?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[标签表示不一致的众包联邦学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000734?dgcid=rss_sd_all</link>
+      <description><![CDATA[当个性化联邦学习与众包标签注释相结合时，它可能会形成一个完整的生态系统，从大规模数据标签，通过大规模设备中的模型训练，到为多样化最终用户提供灵活的服务。事实上，大多数常见的众包注释者很难遵循统一的注释规则并以自己的方式进行注释。尽管他们可以分享感知上的认知一致性，但标签注释仍然可以以各种方式表达。这种情况在联邦学习场景中可能特别严重，在这种情况下，出于隐私考虑，不同的标签表达式总是保存在分布式客户端的本地，并且很难统一。在这项工作中，我们的动机是提出CrowdFed，一个系统的解决方案，为众包联邦学习系统与底层标签表示偏斜问题。具体而言，全局模型通过联邦学习进行训练，用于全局分类对齐，并且个性化层通过每个客户端中的辅助网络进行学习，用于局部表示对齐。此外，一个类别级的相似性匹配策略的本地类别和全局类别之间的不一致的标签表示的对齐。通过四个基准数据集的评估，我们提出的策略证明了其在系统效率和成本方面的优越性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000734?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[形状感知骨关节炎网络：MRI和3D点云的双向融合用于膝关节骨关节炎诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000771?dgcid=rss_sd_all</link>
+      <description><![CDATA[膝骨关节炎（KOA）是一种常见的退行性关节疾病，准确的诊断和严重程度分级对于有效治疗至关重要。目前，尽管基于X射线或磁共振成像（MRI）的深度学习技术大大提高了诊断准确率，但二维图像往往无法完全捕捉与KOA相关的复杂三维形态和纹理变化。为了应对这些挑战，我们提出了一种形状感知骨关节炎诊断网络，这是一种新型的双向跨模式融合框架，集成了3D点云和MRI序列。该框架由三个部分组成：（1）局部关系感知动态图卷积神经网络（CNN），用于从代表膝关节骨和软骨表面的点云中提取复杂的几何特征;（2）对于MRI序列，采用了序列聚集方法，该方法结合了用于空间特征提取的2D CNN和用于跨切片序列的自注意机制。(3)双向跨膜融合模块能够在点云的几何域和MRI的纹理时空域之间进行深度交互特征学习，使这两种模式能够改善和增强彼此的表示。对大量骨关节炎倡议（OAI）进行的广泛实验表明，我们的模型实现了最先进的性能。它在具有挑战性的5级Kellgren Lawrence（KL）分类中的准确性为0.73，比在ShapeMed-Knee基准中单独使用3D形状特征所达到的0.59提高了约23.7%。此外，其二元OA诊断的曲线下面积为0.95，明显优于现有的单模式和多模式基线。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000771?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有自适应全局-局部特征融合的图引导跨图像相关学习，用于细粒度视觉表示]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000837?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于难以区分高度相似的局部区域，细粒度视觉分类（FGVC）一直具有挑战性。最近的研究利用图神经网络（GNN）来学习局部表示，但它们只关注每张图像内的补丁交互，未能捕捉不同样本之间的语义关系，也未能呈现彼此语义脱节的细粒度特征。为了解决这些挑战，我们提出了具有自适应全局-局部特征融合的图引导跨图像相关学习，用于细粒度视觉表示（称为GMCR）。我们设计了一个跨图像相关学习（CCL）模块，其中图像之间的空间对应补丁被连接为图节点，从而实现图像间交互以捕获语义丰富的局部特征。在这个CCL模块中，我们引入了排名损失来解决传统分类损失的局限性，传统分类损失仅关注最大化单个样本置信度，而没有明确限制视觉相似类别之间的特征区分性。此外，GMCR构建了一个轻量级融合模块，该模块动态平衡全局和局部特征的贡献，从而实现无偏见的图像表示。我们对4个流行的FGVC数据集进行了广泛的实验，包括CUB-200-2011、Stanford Cars、FGVC-Aircraft和iNaturalist 2017。实验结果表明，GCCR可以实现更高的性能比国家的最先进的（SOTA）FGVC方法，同时保持较低的模型复杂度。以最具挑战性的iNaturalist 2017为例，GCCR获得了至少7.51%的准确率，同时比最佳解决方案减少了超过442万的参数规模和8000万的FLOPs。我们在GitHub上发布了预训练的模型和代码：https://github.com/dislie/GCCR。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000837?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:37 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[SU-RMT：医学图像分割的语义表示和结构细节建模的桥梁]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1566253526000618?dgcid=rss_sd_all</link>
@@ -46,6 +95,13 @@
       <description><![CDATA[阿尔茨海默病（AD）是一种神经退行性疾病，以其不可治愈而闻名，在全球老年人中很常见。之前的研究表明，早期干预对疾病进展有积极影响，从而导致通过机器学习（ML）方法对病理分析和疾病轨迹预测的研究增加。鉴于不同神经退行性疾病之间的相似性，仅依赖单一数据模式的诊断是不够的。因此，当前的研究主要集中在多模式分析上，集成医学成像和临床患者信息，并持续识别可能有助于AD诊断的新数据类型。在过去的二十年里，多模式方法得到了广泛的探索，在深度学习（DL）技术的引入后观察到了显着的进步。深度神经网络可以直接从输入数据中自适应地提取和融合特征，显着扩大了多峰分析的范围。然而，早期的分类研究主要集中在传统的ML上，通常忽视了DL网络的快速发展。本文提供了一个全面的描述采集途径的基础上的模态，讨论了目前用于研究神经影像学，人体体液，和其他相关来源的模态。此外，它还对DL和传统ML环境中使用的融合方法进行了分类，强调了现有的挑战，并概述了未来研究的潜在方向。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011601?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 26 Jan 2026 11:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MCIVA：具有中心逆最近邻地图和视图自适应模块的多视图行人检测框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</link>
+      <description><![CDATA[多视图行人检测是一项重要任务，在监控和智慧城市等领域有许多应用。尽管最近的多视图行人检测方法取得了显着的性能改进，但这项任务仍然面临三个主要挑战。1)在拥挤的区域中，相邻的连接分量可能会在密集区域中合并，导致每个行人的像素峰值定位不清楚。2)之前的多视图行人检测方法中使用的损失函数对背景具有高响应性。3)相机参数尚未得到充分利用;它们仅用于生成固定值投影矩阵。为了应对这些挑战，我们提出了一种新颖的多视图行人检测框架，该框架具有中心逆最近邻地图和视图自适应模块（MCIVA）。引入中心逆近邻（Cinn）地图，以基于注释生成地面真相概率占用地图（TOM），为每个行人提供更精确的位置信息。为了增强模型对局部结构信息的关注，我们提出了局部结构相似性损失来减少背景区域中假局部最大值的影响。此外，还引入了一种新型的即插即拉式视图自适应模块（VAM），利用摄像机参数来生成可学习的权重，用于多视图特征融合。我们在三个基准数据集上对所提出的方法进行了评估，结果表明所提出的MCIVA显着提高了预测地图的质量并实现了最先进的性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526000217?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 26 Jan 2026 11:36:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[多源时间序列物候阶段分类的新知识提炼和混合解释方法]]></title>
@@ -466,62 +522,6 @@
       <description><![CDATA[多模式、多条件场景下旋转机械的智能故障诊断面临着严峻的挑战，包括结构信息利用率低和模型概括能力弱。为了解决这些问题，本文提出了一种结构感知异类图Transformer（SAHGT）框架，以实现多源监控信号的统一建模和稳健的表示学习。该方法构建了统一的异类图结构，以集成模式特征、频域关系和空间先验。通过引入具有结合了模式引导和频率引导注意力的双重引导注意力机制的异类图Transformer，增强了关键特征的选择性表达和故障模式的区分能力。为了增强模型在非静止环境中的适应性，设计了增强的视图驱动对比学习机制，以进一步增强对结构变化和分布变化的鲁棒性。值得注意的是，本文建立了一个统一的训练框架，仅通过配置损失函数组合而无需修改模型架构，即可在领域概括（DG）和领域适应（DA）任务之间切换。在高保真燃气轮机测试平台上进行的验证实验证明了拟议的SAHGT框架的卓越性能，在9个DG任务和12个DA任务上分别实现了83.46%和99.57%的平均故障诊断准确率。这些结果显着优于最先进的图神经网络方法，凸显了该模型强大的跨领域概括性和领域适应性。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011686?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 15 Jan 2026 12:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ViP-HMNN：一种结合记忆计算的视觉路径启发混合神经网络，用于对象识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011480?dgcid=rss_sd_all</link>
-      <description><![CDATA[人工神经网络（Ann）和尖峰神经网络（SNN）的集成对于推进通用人工智能（AGI）具有重要的潜力。然而，混合神经网络（HNN）的硬件设计仍然主要依赖于近记忆计算架构，这尚未完全克服处理和存储单元之间的分离。为了解决这个问题，我们开发了一种视觉路径启发的混合忆阻神经网络（ViP-HMNN）。具体来说，我们设计了一种通用且紧凑的基于忆阻器的神经元电路，可以有效地实现ANN和SNN激活功能，作为所提出的ViP-HMNN的核心组件。为了提高对所设计的ViP-HMNN的理解，提出了一种腹侧通路启发的静态特征提取模块（VP-SFEM）、背侧通路激发的动态特征表示模块（DP-DFRM）和互补特征融合输出模块（CFFOM）。为了验证，将提出的具有协同混合训练策略的ViP-HMNN应用于目标识别。与基于软件的对象识别方法相比，所提出的ViP-HMNN实现了软件兼容的准确性（排名前三），并且在时间消耗方面具有显著优势（至少快8倍）。与内存计算架构相比，所提出的ViP-HMNN在面积开销、延迟和能耗方面分别提高了2.65倍、1.83倍和1.87倍。与RTX 3090 GPU相比，所提出的ViP HMNN的延迟至少减少了1000倍，节能了500倍。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011480?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FedExIT-缺少类不可知的半监督联邦学习，具有极端不平衡的解决方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501142X?dgcid=rss_sd_all</link>
-      <description><![CDATA[大多数联合学习方案都假设所有客户端要么拥有完全注释的、平衡的数据，要么标签属于每个客户端的同一组类。在本文中，我们致力于建立一个更通用、更现实、更实用的框架，放宽了两个假设，以适应：（a）大多数客户端中没有带注释的数据，（b）非IID客户端数据分布，（c）高度不平衡的客户端类分布，以及（d）不同客户端中缺少类的非相同客户端类集。为此，我们提出了FedExIT（Fed-ored Learning with Ex treme I mbalance T ackling），它有三个组成部分。首先，它包括一个理论上有根据的阶级间邻近系数，以解决严重的不平衡和阶级缺失问题。此外，对于未标记的客户，FedExIT引入了置信区间加权双均值教师，该教师在两个教师模型的不确定性感知指导下训练学生模型。由于常用的均值教师在早期培训阶段相当不稳定，我们利用一个基础模型DINOv2作为辅助教师，该模型在标记的客户端上进行了微调。为了进一步减少分类器偏差，FedExIT利用客户端自适应分类器微调策略，在每个客户端的特征空间中围绕全局原型生成平衡的合成嵌入。我们使用七个著名的数据集进行实验，包括（i）3个总体平衡数据集，即SVHN、CIFAR-10和CIFAR-100;（ii）3个总体不平衡的数据集，即CIFAR-10 LT、CIFAR-100 LT和ISIC-2018，以及（iii）一个包含10000个类的大型数据集iNaturalist 2021（用于检查可扩展性）。我们模拟了几个具有不同客户端数量、标记客户端比例和异质性程度的FL设置，证明了FedExIT优于10种基线方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501142X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[收缩很重要：来自回归集成中准确性与多样性权衡的证据]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011352?dgcid=rss_sd_all</link>
-      <description><![CDATA[回归集成是一种有竞争力的机器学习技术，近年来越来越受欢迎。流行的集成方案已经从利用简单平均值的等权重（EW）发展到通过最小化均方误差（MSE）来优化权重的最优权重（OWs）。广泛的研究不仅验证了电子战的鲁棒性，还引入了收缩的概念，将OWs向电子战收缩。本文通过多样性理论来解决集成挑战，其中集成MSE被分解为两个部分：全局误差和全局多样性。在分解框架内，OWs通常以降低全局分集为代价来最小化全局误差，而EWs倾向于最大化全局分集，但往往忽略准确性。为了解决精度与多样性的权衡问题，我们推导出了一个最优收缩因子，该因子能够最小化集合MSE。模拟结果揭示了收缩权重的中介作用，在六个UCI数据集和布伦特月度期货价格上的实证实验证明了所提出方法的优越性，并通过对收缩成分的深入分析进一步阐述了其机制。总的来说，我们的方法为回归集合中收缩的有效性提供了一个新的视角。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011352?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[FuseMeter：通用流量流量测量的有效框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011273?dgcid=rss_sd_all</link>
-      <description><![CDATA[现代高速网络需要实时流量分析，但现有的按流量测量解决方案效率低下，缺乏处理各种同时任务的通用性。它们依赖于部署多个专用算法，考虑到网络处理器的严格资源限制，这会导致冗余计算和巨大的开销。为了解决这个问题，我们提出了FuseMeter，这是一种通用的按流量测量框架，可以在单个框架内同时支持具有不同类型和定义的异构任务。我们的设计采用多对象采样来自适应地管理不同任务类型的资源，并采用超立方体计数器来有效地集成多维记录。这个统一的管道能够快速、灵活地恢复所有部署任务的流量统计数据。我们在可编程硬件平台上对FuseMeter进行原型制作，并为其性能提供可配置的概率保证。在现实世界的互联网痕迹上进行的实验表明，FuseMeter的表现优于最先进的基准测试。它将估计误差减少了95.41%，内存开销减少了70.66%，处理速度比现有方法快12.39倍。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011273?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[曼巴的全面调查和分类：应用、挑战和未来方向]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S156625352501156X?dgcid=rss_sd_all</link>
-      <description><![CDATA[摘要1基于Transformer的架构在自然语言处理、计算机视觉和多模式学习方面取得了显著成功，但它们面临着持续的挑战，如高计算复杂性和对动态环境的有限适应性。状态空间模型（SSM）已成为一种有竞争力的替代方案，提供线性时间复杂性和隐式捕获长期依赖关系的能力。在此基础上，Mamba模型引入了时变参数化，结合选择性状态更新、内容感知扫描策略和硬件高效设计，根据输入上下文动态调整状态转换。与基于Transformer和传统SSM架构相比，这些创新使Mamba能够保持线性复杂性，同时提供更高的吞吐量和显著降低的内存消耗。本次调查系统地回顾了曼巴模型的理论基础、建筑创新和应用进展。首先，我们追溯了SSM的演变，强调了支撑Mamba动态状态转换和选择性计算机制的关键设计原则。其次，我们总结了Mamba在建模动力学和多模态融合方面的结构创新，将其应用分类为多种模态，包括视觉、语音、点云和多模态数据。最后，我们评估了医学图像分析、推荐系统、强化学习和生成建模中的代表性应用，确定了优势、局限性和开放性挑战。该综述最后概述了未来的研究方向，重点是提高泛化、因果推理、可解释性和计算效率。这项工作旨在为研究人员和从业者提供简洁而全面的参考，促进基于Mamba的架构在不同现实世界场景中的进一步开发和部署。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352501156X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[ST Imputer：基于物理指导的多变量依赖感知扩散网络，用于时空插补]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011467?dgcid=rss_sd_all</link>
-      <description><![CDATA[数据准备对于在深度学习中获得最佳结果至关重要。不幸的是，在准备大规模时空数据库时，丢失值很常见。大多数现有的插补方法主要侧重于探索单源数据的时空相关性;然而，单源数据中的高缺失率导致分布稀疏。此外，现有方法通常侧重于单一尺度上的浅相关性，限制了插补模型有效利用多尺度空间特征的能力。为了应对这些挑战，我们提出了一种名为ST-Imputer的多变量依赖感知时空插补模型。具体而言，我们引入多源上下文数据，为目标数据（即需要插补的数据）提供足够的相关性特征，缓解了单一源数据中高缺失率导致的可用特征不足的问题。通过应用多变量时空依赖性提取模块，ST Imputer捕获了不同空间尺度之间的潜在关联。随后，噪声预测模块利用学习到的双视图特征来制定时空传输模块，从而减少由过度噪声引起的权重误差。最后，应用物理约束来防止不切实际的预测。在三个大规模数据集上进行的广泛实验证明了ST Imputer的显著优势，RMSE提高了13.07%。我们的模型代码可以在https://github.com/Lion1a/ST-Imputer .]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011467?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人再识别的视觉语言模型：调查与展望]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011571?dgcid=rss_sd_all</link>
-      <description><![CDATA[人员重新识别（ReID）是一项关键任务，旨在通过多个不重叠的摄像头检索感兴趣的个人。以前的方法通常依赖于预先训练的视觉模型作为骨干，然后在人ReID数据集上进行微调，以提取判别特征。然而，由于预训练视觉模型中视觉和文本模式之间缺乏语义对齐，这些方法在有效利用这些模式之间的关系进行ReID任务方面面临挑战。近年来，视觉语言模型（VLMs）因其能够捕捉视觉和语言信息之间的丰富相关性而受到广泛关注。受到这种潜力的启发，许多研究人员提出了一系列基于VLM的方法来解决人ReID的各种挑战。本文对用于人ReID的VLMs进行了系统综述。具体而言，我们全面概述了常用的VLM框架和微调策略，同时深入分析了VLM在处理人员ReID任务方面的优势。在此基础上，我们进一步对现有的基于VLM的人ReID方法进行了广泛的分析。基于人ReID中涉及的模态和学习方法，我们将现有的基于VLM的方法分为五种主要方法：基于图像、基于视频、跨模态、多场景和无监督的人ReID方法。最后，我们概述了VLMs应用于人ReID的关键研究挑战和未来研究的潜在方向。我们相信，这篇综述将提供宝贵的见解，并为该领域的研究人员提供重要的参考。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011571?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于注意力特征聚合的GNN节点分类数据增强]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253525011510?dgcid=rss_sd_all</link>
-      <description><![CDATA[图神经网络（GNN）在图的分类任务中取得了显著的成功，包括图像识别、视频分析和推荐系统等多媒体应用。然而，大多数GNN方法都假设样本的类别是平衡的，这与现实世界的类分布相矛盾。在实践中，不平衡的类别分布通常会导致GNN在训练过程中忽略少数类节点，从而对整体分类性能产生负面影响。现有方法仍然面临关键挑战，包括特征学习不足和节点同质性生成不足。为了应对这些挑战，我们提出了GraphAFA，这是一种基于图的新方法，它利用注意力特征a聚合来生成少量的合成类节点，从而促进样本平衡。GraphAFA由两个关键组件组成：基于注意力的特征提取和邻居感知节点聚合。首先，GraphAFA构建了一个特征空间，并利用注意力机制提取节点特征，从而能够有效地学习节点之间的高阶关系。其次，在节点生成过程中，GraphAFA聚合来自相邻节点的信息以捕获共享特征，确保新生成的节点更加同质，并降低生成异质样本的风险。最后，GraphAFA将边连接到新生成的节点，将它们集成到图中以进行下游分类。在三个基准数据集上的综合实验表明，GraphAFA在类不平衡节点分类方面始终优于最先进的方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253525011510?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:51:00 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[MFF-MTT：一种基于多特征融合的机动目标跟踪深度学习算法]]></title>

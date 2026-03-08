@@ -4,7 +4,63 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:34:45 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[将智能眼镜和智能手套集成到混合组装/拆卸系统中：STPA驱动的半自动风险管理工具]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000323?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着工业5.0的兴起，可穿戴设备在制造业中变得越来越普遍，有效的风险管理比以往任何时候都更加重要。尽管存在这种趋势，但关于同时使用多个可穿戴设备相关风险的研究仍然存在显着差距，特别是在涉及人类操作员的复杂混合系统中。本研究通过使用改进的系统理论过程分析结合粒子群优化（STPA-PSO）方法来解决这一差距。此外，它引入了一种循环、半自动化的方法（包含缓解措施），可以系统地识别、分析、量化和缓解多种可穿戴设备集成中的风险，包括人为错误引起的风险。对三个案例研究（两条装配线和一条拆解线）进行了测试，以检查该方法的有效性。研究结果表明，系统组件之间的相互作用增加可能会导致风险水平升高。它表明，强调危险区域、校准规定和工人培训是需要减少的高风险控制行动场景。这种方法可以在以人为本的制造环境中提供更安全、更高效的可穿戴技术集成。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000323?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用大型语言模型的多智能体制造系统中的自适应任务规划和协调]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000244?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着对个性化产品需求的增加，由于产品需求的多样性和不确定性的增加，制造过程变得更加复杂。传统制造系统在没有手动干预的情况下适应产品变化方面面临挑战，导致产品延迟和运营成本增加。多代理制造控制系统是一种由协作代理组成的去中心化框架，已被用来增强制造的灵活性和适应性。然而，现有的多代理系统方法通常是用预定义的能力来初始化的，从而限制了它们处理未预先建模的新需求的能力。为了应对这一挑战，这项工作提出了一个支持大型语言模型的多代理框架，该框架能够实现自适应匹配，将新产品需求转化为运行时的制造过程控制。产品代理是产品的决策者，通过在运行时动态检索制造知识来解释不可预见的产品需求并与制造能力进行匹配。还引入了沟通策略和决策方法，以促进自适应任务规划和协调。使用组装任务板测试了三个复杂性不断增加的案例研究，对拟议的框架进行了评估。结果表明，该框架可以将不可预见的产品需求处理为可执行操作，动态发现制造能力，提高资源利用率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000244?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复杂产品的智能装配一致性验证：旋转不变的多视图视觉框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000268?dgcid=rss_sd_all</link>
+      <description><![CDATA[装配过程中的一致性验证对于确保制造质量至关重要，但在实际生产环境中，它经常受到观点差异和操作员行为的个体差异的挑战。本文提出了一种用于智能装配的旋转不变一致性验证框架，采用混合建模范式，将数据驱动学习与几何先验相结合。通过联合集成动作识别、时态逻辑验证和空间路径评估，该框架能够对标准操作程序的偏差进行细粒度评估。该研究开发了一种时空语义三重注意网络，以数据驱动的方式实现自适应、高准确度的程序级动作识别。然后，引入动态状态转移模型，通过在线更新操作转移概率来捕获时间违规。通过将差异链码与循环位移正规化相结合，提出的几何引导轨迹表示方法能够对关键装配过程中的路径偏差进行旋转稳健量化，而无需多视图训练数据。在WZU复杂产品装配流程数据集上的实验表明，提出的框架在违规检测方面达到了96.17%的准确率，显着优于CNN-LSTM（+10.39%）、I3 D（+1.02%）和MobileNetV 3（+1.24%），端到端推理延迟低于50 ms，适合边缘部署。这项工作为工业应用中的装配过程监控提供了一种高效、可解释且观点不变的基于视觉的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000268?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可扩展多机器人协同制造的分散式任务规划和运动协调]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000347?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文介绍了一种用于可扩展多机器人协同制造（MRCMFG）的去中心化任务规划和运动协调（TBMC）框架。该框架建立在认知数字双胞胎之上，解决了动态系统配置中的挑战，例如实时调整主动机器人的数量和位置。制造过程分为四个阶段：认知、配置、规划和协调。大型语言模型（LLM）分析和推断来自认知数字双胞胎模拟的数据，以进行状态认知和配置优化，通过动态调整机器人布局来确保可扩展性。TPDC采用多智能体深度强化学习（MADRL），该学习仅依赖本地观察，并结合了Transformer以及软专家混合（MoE）模块来更新策略网络。这导致了具有卓越可扩展性和概括能力的去中心化决策政策。一种新的分散式软软演员批评（SSAC）算法的开发，将软MoE的政策网络，提高政策的推广。该方法在认知数字双胞胎中的可扩展MRCMFG系统上进行训练和测试，专门用于电动汽车电池的拆解。实验证明了该方法在处理动态系统配置以及实现高效TPDC方面的有效性、可扩展性和效率。本文最后强调了该框架在动态环境中保持持续运营的能力。该论文还建议了未来在增强任务和运动规划（TAMP）之间的耦合机制、集成随机任务持续时间建模以及将物理先验纳入训练方面的工作。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000347?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[巨头与专家的协同：生成性人工智能驱动的智能制造大大小小模型集成框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000335?dgcid=rss_sd_all</link>
+      <description><![CDATA[生成人工智能（GenAI）基础模型，特别是大语言和视觉模型（LM）的出现，有望彻底改变智能制造。然而，它们的应用受到幻觉和缺乏特定领域基础的阻碍。相反，传统的小模型（SM）很精确，但难以处理工程图纸等非结构化输入。为了弥合这一差距，本文提出了一个专门用于自动化加工工艺规划的协同大大小小模型（LSM）集成框架。在该框架中，“巨型”领域适应的视觉语言模型（VLM）、大型语言和视觉助手（LLaVA）充当感知前端，将复杂的2D工程绘图和几何公差转化为结构化实体。这些实体建立了“专家”推理系统，该系统包括基于转换器的知识图（KG）嵌入模型（TransEx）和由广义优势估计-近端策略优化（GAE-PPO）策略引导的深度强化学习（DRL）代理。这种协同作用使可解释的多跳推理能够自主确定最佳加工路线和切割参数。实验结果证明了该框架的有效性：VLM的流程识别准确率达到83.24%，与基线方法相比，完整的管道将知识推理准确率提高了13.51%，累积奖励提高了49.01%。这项工作提供了一个强大的框架，其中“巨人”和“专家”之间的协同作用为先进工业自动化提供了可扩展的路径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000335?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[区域感知机器人抛光轮廓通过高斯过程和差异化生成大型复杂部件]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000396?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于多尺度几何变化和机器人工作空间有限，大型复杂部件（LCC）的机器人抛光无法在一次行程中完成，因此区域化处理至关重要。然而，区域特征不均匀-例如，对平面区域进行高速、恒定力抛光，而对弯曲表面进行较慢、变力抛光，再加上传统的固定轨迹和均匀的顺从性策略，会导致效率失衡、适应性差和表面质量下降。本文提出了一种区域感知抛光框架，该框架将几何形状与机器人运动学显式地结合起来，并自适应地为每个区域定制运动和力。该框架集成了：（i）通过具有融合欧几里得表面接近度和机器人关节姿态相似性的复合距离的谱集群进行几何运动学表面分割;（ii）使用具有规定速度、工具方向和接触力轮廓的余旋线路径基元构建特定区域的参考轮廓;以及（iii）基于多输出高斯过程（GP）的可微流映射它将参考轨迹扭曲到目标表面补丁上，同时保留轮廓特征。GP衍生物用于共同传递和平滑阻抗参数（硬度/衰减），确保弯曲连续性和力稳定性，而GP不确定性量化支持鲁棒性自适应。贡献有三重：（1）一种姿态感知的分割方法，连接表面形态和运动可行性;（2）GP驱动的可微的总管映射，联合优化区域之间的轨迹、速度、接触力和阻抗;（3）一种不确定性感知公式，与神经网络相比，实现更好的轨迹连续性和覆盖率。对薄壁铝LCC（800 mm x 500 mm x 4 mm）进行模拟和真实机器人实验，实现抛光后粗糙度Ra = 0。635 μ m，± 0。5 N力波动，效率和质量均显着提高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000396?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[集成双激光轮廓扫描仪的工业机器人的弹性几何和手眼校准的协同优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000311?dgcid=rss_sd_all</link>
+      <description><![CDATA[手眼校准是工业机器人中基于视觉的应用的基本先决条件。虽然这个问题在很大程度上是针对3D相机解决的，但由于激光轮廓扫描仪（LPS）固有的2D测量限制，它仍然是一个挑战。使用未校准的机器人执行手眼校准通常会导致不准确的校准结果。在使用高精度光学系统进行手眼校准之前校准机器人的传统方法通常非常昂贵和耗时，使得它们对于现代生产环境的高要求来说是不切实际的。本研究提出了一种新的方法，共同优化的弹性几何校准的机器人，同时建模关节的顺应性，和手眼校准的双LPS安装在机器人的末端执行器。两个LPS被配置为使得它们的激光线在物体上相交，从而形成相交的激光线系统（LLS）。这需要LPS相对于彼此的校准，这在多个LPS的情况下构成眼对眼校准。因此，这项工作还引入了一种用于IPL的眼对眼校准的方法。这两种提出的方法都利用了二层优化框架内的迭代最近点（ICC）算法，并利用专门为快速稳定校准IPL而设计的工件。值得注意的是，这些方法可扩展到具有不同配置的多个激光线，并且适用于类似的校准制品。据作者所知，这是第一项解决IPL眼对眼校准并明确将关节硬度效应纳入IPL手眼校准的研究。实验结果表明，当使用3D打印伪影时，提出的校准策略实现了0.154mm的配准误差，而采用高精度伪影则提高了准确度，配准误差低至0.068mm。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000311?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[协作机器人在焊接和增材制造中的应用]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000359?dgcid=rss_sd_all</link>
+      <description><![CDATA[协作机器人（COBOT）代表了新一代机器人系统，旨在与人类一起安全灵活地工作，没有物理障碍。与传统的工业机器人不同，COBOT配备了触觉传感器、自适应编程和先进的安全机制，使其非常适合焊接和增材制造（AM）。尽管COBOT在工业中的应用越来越多，但尚未有全面的综述专门关注其在焊接和增材制造这两项关键制造技术中的应用。本综述通过系统地讨论COBOT的使能技术、其独特优势以及其在先进连接和沉积工艺中的新兴角色来解决这一差距。与之前广泛审查制造业中机器人技术的评论不同，这项工作强调了COBOT如何实现先进的工具路径规划、保形打印、热源振荡、微结构控制、缺陷最小化以及残余应力和变形管理。重点介绍了区分CObot在焊接中使用与AM的特殊考虑因素，以指导研究人员和从业者。该评论还确定了关键的研究需求，包括与人工智能、数字双胞胎、开源编程、沉浸式人机界面的集成，以及使用大型语言模型来提高CObot的适应性和自主性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000359?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:34:11 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[VL-GRiP 3：利用视觉语言模型进行自主机器人3D抓取的分层管道]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000232?dgcid=rss_sd_all</link>

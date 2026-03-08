@@ -4,7 +4,14 @@
     <title>ScienceDirect出版物：国际机械工具与制造杂志</title>
     <link>https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:31:13 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[支撑支架的印刷机构：双尺度散热框架，控制激光粉末床融合中的印刷工艺、热传递和成型性能]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S089069552600012X?dgcid=rss_sd_all</link>
+      <description><![CDATA[不恰当、经验主义和试错驱动的支架使用往往会导致高废品率、延长制造周期和提高后加工成本，成为激光粉末床聚变（LPBF）工业部署的关键瓶颈。为了解决LPBF中支撑设计缺乏可推广的物理基础的问题，这项研究将有针对性的实验与多物理场模拟相结合，以阐明支撑布局和参数如何调节热行为、表皮质量和锚定强度。这项研究通过建立一个新的双尺度散热框架，将支架重新概念化为主动热力学边界条件，其中宏观整体散热决定熔池凝固形态和过程稳定性，而悬伸界面处的微观局部散热控制渣滓的形成和界面缺陷。在此框架内，块支撑（连续线接触）由于支撑点分布更均匀，在相当的接触面积下可将浮渣厚度减少20- 40%。相比之下，锥形支撑（离散点接触）增强了整体散热，将有效传热系数提高了1.38%，并降低了熔池深宽比。支承强度由应力分布决定，块体支承达到260.8 MPa（占体积的47%），而接触面积比锥体少44.8%。这项工作介绍了一个可推广的双尺度框架与两个基于物理的设计参数：接触面积比控制宏观尺度的热传导和单位密度控制微观尺度的熔体接触概率。这些参数将处理质量、热传递和机械锚定统一在可量化的设计空间内，实现对支撑类型、材料和几何形状的预测优化，并为功能支撑设计提供机械基础。这项工作能够对材料、扫描策略和几何形状进行预测性支持优化，从而可以减少试错工作，降低后处理负担，并提高复杂组件的可制造性和一致性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S089069552600012X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:31:08 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[编辑委员会]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S089069552600009X?dgcid=rss_sd_all</link>

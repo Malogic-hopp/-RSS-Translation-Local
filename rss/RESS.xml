@@ -4,7 +4,420 @@
     <title>ScienceDirect出版物：可靠性工程和系统安全</title>
     <link>https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:27:30 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[利用改进的博弈论和动态变权理论对运营地铁盾形隧道进行安全评估]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000955?dgcid=rss_sd_all</link>
+      <description><![CDATA[运营中的盾形隧道的安全评估涉及复杂性、随机性和不确定性。传统的恒权方法无法考虑不同缺陷之间相互作用引起的结构状态动态变化。因此，本研究结合博弈论和变权理论，提出了一种新颖的运营隧道安全评价框架。将该评价模型应用于北京地铁8号线4个区间，并与其他3种评价模型（包括常规赋权法、模糊综合评价法等）进行了比较。敏感性分析确定U31、U32、U33和U52为影响隧道结构安全的关键指标。现场调查结果表明，该模型提供了更准确的评价，从而验证了其可行性。此外，本研究还建立了适用于整个隧道断面综合评价的评价框架。将整个隧道段作为一个单元进行评估可能会隐藏局部高风险区域，导致评估结果不准确。方便管理人员根据评估结果及时采取防护措施，确保隧道结构的安全可靠。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000955?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[集成真实图和虚拟图：离散制造系统中异常检测的双联合网络方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000621?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了解决离散制造系统（DMS）的复杂性和规模不断增加所带来的异常监控挑战，本研究提出了一种基于双联合网络（DJN）的异常监控方法，该方法将复杂网络理论与运营数据相结合。该模型由两个部分组成：通过物理建模建立的真实图和通过数据驱动建模构建的虚拟图。在真实图中，通过识别网络布局相对于代表图（RG）的突然变化来检测异常，代表图（RG）描述正常操作状态。在虚拟图中，采用改进的Spotlight算法来检测相对于RG的异常子图。该方法通过联合分析真实图形和虚拟图形，准确识别系统发生异常的时间点。以典型航空产品为案例，通过Plant Simulation软件对所提出的方法进行了验证。结果表明，该方法可以有效检测多种类型的系统异常，为DMS的异常监测研究提供了新的见解和创新的解决方案，特别是将实时网络布局变化与数据驱动的异常检测技术相结合。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000621?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[车辆运动学波动在高速公路碰撞预测和分析中的作用：从道路特征到碰撞的两部分框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001134?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了识别高风险路段并了解其机制，我们开发了一个以车辆运动学波动为中介的两部分框架。首先，我们使用广义自回归条件异方差模型来建模三轴加速度和角速度的波动性，并使用标准有序Logit模型来研究对齐和基础设施特征如何影响这些波动性。其次，我们构建了一个集成软投票分类器，它结合了梯度增强、eXtreme梯度增强和多层感知器，以使用运动学波动性水平预测高风险和低风险部分。该分类器的准确性达到0.911，并且在各个风险级别上表现平衡。该框架澄清了运动学波动性在从固有风险特征到崩溃发生的因果路径中的作用。特征重要性分析将横向加速度、横摆率、纵向加速度和俯仰率波动确定为高风险路段的关键指标。实际上，该框架可以在仪表车辆上使用惯性传感器来实现，以筛查整个高速公路沿线的碰撞风险，并根据特征重要性优先考虑高风险路段，进行有针对性的改进。在车辆-基础设施合作环境中，该框架通过在连接的车辆和控制中心之间传输运动学波动性和风险警报信息来支持实时风险监控和安全管理。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001134?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于跨领域剩余有用寿命预测的无源域名适应：分布式联邦学习视角]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000876?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着工业设备复杂性的不断增加，高精度确定剩余使用寿命（RUL）对于维护复杂的工业系统具有重要意义。鉴于边缘设备降级模式之间固有的分布变化以及保留数据安全协议的必要性，在没有源域数据的情况下开发跨域预后方法需要进行彻底的调查。此外，卷积神经网络和长短期记忆网络在处理复杂的结构相关数据时表现不佳。因此，本文提出了一种基于图卷积神经网络的分布式RUL预测方法。具体来说，本文设计了一个差异注意力图卷积神经网络，可以专注于退化数据中的关键区域。此外，考虑到退化数据的隐私性和安全性，本文设计了一种两阶段决策边界调整方法，以实现跨域条件下的无源RUL预测。在此基础上，该研究引入了联邦共识机制，在边缘计算环境中实现与分布式训练动态相一致的渐进权重校准，可以有效减少过适应，提高概括能力。对NASA公开的飞机发动机退化数据集的实验验证证实了所提出方法的操作有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000876?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[集成高可靠性系统的物理因果关系和退化状态的自适应Wiener过程建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001079?dgcid=rss_sd_all</link>
+      <description><![CDATA[高可靠性设备的性能退化通常涉及挑战，特别是多个组件的耦合和早期退化数据的隐藏。这些挑战使得基于传统数据的退化建模方法难以应用于工程实践。为了解决这些问题，本文提出了一种基于物理信息神经网络的新型退化建模框架。它包括两个模块：物理机制特征提取和退化特征提取。前者采用Bayesian因果注意机制来提取关键的物理因果特征，捕捉多个成分之间的耦合相互作用效应。后者利用时间卷积网络来捕获退化状态特征，从时间序列数据中提取微妙的退化特征。然后将这些融合为联合表示并嵌入到非线性维纳过程中，以描述复杂的退化动力学。为了增强可训练性和物理一致性，使用Milstein方法离散维纳方程，并将物理剩余正规化项纳入损失函数中。在线部署期间，采用两阶段更新策略动态细化模型先验。基于航空航天产品数据集的实验验证表明，即使在有限样本条件下，所提出的方法也能达到很高的预测准确率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001079?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[极端高温下考虑空间异类需求的电网脆弱性分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001031?dgcid=rss_sd_all</link>
+      <description><![CDATA[电力网络在运营压力和连锁故障风险方面面临着频繁极端高温带来的重大挑战。本文提出了一个针对极端高温场景下的电力网络的脆弱性分析框架，并考虑到空间异类需求。基于电力需求的复杂分布和服务中断对社会的不同影响，我们引入服务中断-社会脆弱性指数（SD-SVI）来构建城市功能区层面的空间需求模型。利用电力网络和连锁故障建模，应用SD-SVI加权法来评估网络的脆弱性。此外，我们还对极端高温驱动的负载增长和线路故障率进行建模，并设计了一个同时考虑脆弱性和故障概率的双目标优化模型。案例研究结果表明，SD-SVI加权显着影响电网的脆弱性，气候变化导致的气温持续上升使电网更加脆弱。此外，对获得的帕累托前沿解的分析表明，极端高温对系统脆弱性具有非线性影响，当温度超过36°C时，单支或双支故障主导了电网的帕累托前沿。基于“平均频率x推断脆弱性”复合指数，我们的分析表明，保护脆弱线路可以极大地提高网络性能及其适应多种极端高温场景的能力。该研究为电网脆弱性分析、风险管理和气候变化适应提供了理论见解和实践指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001031?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[铁路群轨检修规划与列车调度协调优化策略]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000888?dgcid=rss_sd_all</link>
+      <description><![CDATA[轨道对于确保铁路运输服务的安全性和可靠性至关重要。由于列车的高密度运行和暴露在露天环境条件下，轨道系统内的组件很容易因老化而出现故障。该问题通常通过集中预防性维护来解决。然而，维护规划忽视了轨道部件之间结构依赖性的影响，必须与列车时刻表协调，才能在不影响列车运营的情况下按时完成。因此，本研究提出了一种考虑结构依赖性的群轨预防性维护规划和列车调度的协调优化策略。分析轨道维护项目和活动，说明考虑结构依赖性的分组条件，并建立混合整线性规划模型来表达该问题。通过多尺度的数值实验来说明所提出方法的敏感性。还讨论了维护能力、团体要求和同向列车之间的间隔对模型的影响。对于贵昆铁路线，实际案例研究表明，协同策略可使总成本降低31.68%。此外，还向管理人员提出了几项建议。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000888?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[模拟多层补充系统中不同维护干预措施对资产性能和备件供应的影响]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000670?dgcid=rss_sd_all</link>
+      <description><![CDATA[在当今的行业中，最佳维护和备件补充在最大限度地提高资产的运营可用性方面发挥着关键作用。补充策略受组织内实施的维护策略的影响，其中可能包括反应性或主动性维护行动或干预措施。补充策略还可能受到元件可修复性的影响，该可修复性取决于元件故障时的状况。除了部件翻新之外，补充策略可能会受到可能采用多层网络的池化策略的影响。这种多层补给可能会通过缩短补给准备时间来影响设备的停工时间。在文献中，很少有建模框架考虑维护干预类型与由此产生的对多层网络内系统生产力和零件需求的影响之间的依赖性。因此，提出了一种离散事件模拟模型来量化不同维护干预措施对系统生产率和零件需求的影响。考虑了三级补给网络，由内部人员库、高层的一个合作伙伴和最高梯队的原始设备制造商组成。进一步采用两种维护策略：被动维护和主动维护。介绍了火力发电厂关键部件故障的应用案例。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000670?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑轨道与排水相互依赖性的铁路轨道性能预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832025012189?dgcid=rss_sd_all</link>
+      <description><![CDATA[有效预测基础设施性能对于明智的资产管理至关重要。然而，传统方法通常孤立地对待不同类型的资产，忽视了显着影响资产退化和风险的关键相互依赖性（例如轨道和排水系统之间的相互依赖性）。本文提出了一种混合模型BaGTA，该模型具有时间感知、空间信息和概率基础，可以预测铁路轨道性能，同时考虑不确定性和资产间依赖性。该模型在一个数据集上进行了训练和验证，该数据集包括英国四条铁路路线的6072个轨道路段和31，628个排水资产。我们证明，结合轨道-排水相互依赖性可以提高分类和回归任务中的预测准确性。具体来说，纳入相互依赖性将垂直沉降标准差（ASD）（轨道性能的关键指标）的预测误差降低了24.65%。所提出的方法不仅捕捉复杂的时空关系，还量化了预测的不确定性，为基础设施运营商提供了强大的决策支持工具。这种方法有可能通过实现主动的、风险知情的和具有成本效益的资产管理来改变维护策略。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025012189?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用来自位置引导多步深度分解网络的可靠指标进行不确定性感知无传感器异常检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000748?dgcid=rss_sd_all</link>
+      <description><![CDATA[状态监测（CM）和预测性维护（PdM）对于确保智能制造的可靠性和效率至关重要。虽然轴承和齿轮已得到广泛研究，但滚柱链受到的关注有限，主要是由于在移动链上安装接触加速度计的困难以及在长跨度上部署传感器的成本高。因此，用于滚柱链的有效CM技术仍然是一个悬而未决的挑战。这项研究引入了一种仅依赖电机驱动器信号的无传感器CM框架，消除了对额外物理传感器的需要。使用位置引导多步深度分解网络（PMSDDN）来采集和处理电机扭矩和位置数据，PMSDDN是一种轻量级神经架构，旨在构建可靠的健康指标（HI）。PMSDDN根据电机位置对扭矩信号进行分段，将每个分段分解为低频和高频分量，并通过高效的线性模块独立预测它们。这种分解减少了噪音和波动，产生平滑的退化趋势，增强了可解释性。与传统HI和最先进的深度学习模型相比，PMSDDN提供更高的有效性和计算效率。对于异常检测，开发了加权K近邻（WKNN）方法，将三种不同的统计测量与不确定性量化相结合，以提高对早期退化的鲁棒性和敏感性。该框架在三种操作条件下在九个滚柱链上进行了验证。结果证实了在健康评估和异常检测方面的卓越性能，凸显了其作为现代制造环境中滚轴链系统实用且可扩展的CM解决方案的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000748?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于具有混合裂缝生长预测的集成框架的部件级联利用优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000918?dgcid=rss_sd_all</link>
+      <description><![CDATA[在复杂的工程系统中，关键组件在高负载条件下逐渐退化，增加故障风险和维护成本。级联利用将组件从高负载服务重新分配到低负载服务，提供了一种具有成本效益的策略来延长使用寿命，其中切换时间和降级阈值等关键决策依赖于准确的剩余使用寿命（RUL）预测和风险评估。本文提出了一个集成的闭环框架，其中疲劳裂纹增长预测直接通知级联利用决策。巴黎定律在结构上嵌入动态伽玛-伽玛过程的参数中，产生了混合裂纹生长模型，该模型将确定性断裂力学与随机退化变异性连贯地集成。粒子过滤（PF）能够实时更新状态和参数以进行自适应预后。为了捕捉退化的物理层次结构，通过两阶段模型实现结构化决策框架：第一阶段确定最佳切换时间，而第二阶段根据从第一阶段继承的健康状态优化退化阈值。数值实验和敏感性分析表明，所提出的方法提高了建模准确性，并通过预测-预后集成支持自适应、风险感知的级联利用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000918?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[航空风险分类和高级耦合风险建模的深度学习框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000931?dgcid=rss_sd_all</link>
+      <description><![CDATA[使用航空安全报告系统（ASRS）收集的叙述性事件报告，航空风险分析可以成为有用的经验基础，但由于其长篇格式、类别不平衡和特定领域的语义，自动化建模可能是一个具有挑战性的问题。为了应对这些挑战，这项研究开发了一种自适应领域的深度学习模型，该模型基于来自Transformers预训练方法的稳健优化双向编码器表示（RoBERTa），用于对航空安全报告中的影响因素进行多标签识别。提出的模型通过集成四个模块来提高多标签分类性能：基于叙述的大型语言模型（LLM）数据增强以减少不平衡，合并模块以联合建模叙述文本和元数据，复合损失以在标签不平衡的情况下加强鲁棒性，以及对数据库进行领域自适应预训练。实验结果表明，该模型取得了可靠的改进，而消融实验进一步阐明了每个模块的影响。基于预测的影响因素，构建N-K模型来量化相互作用强度，并使用Bayesian网络来建模有向风险传播。通过考虑结构耦合和传播概率，该框架识别并排名与合理事故发展相对应的风险路径。案例研究表明，所提出的方法可以从叙述数据中提取高级、多域传播路径，从而能够对看似合理的事故演变模式进行结构化解释。总而言之，拟议的框架提供了一个将事件叙述转化为可操作的安全信息的管道，为主动航空风险分析提供了可扩展和结构化的基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000931?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:58 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[管道完整性管理中数据驱动方法的未来方向：风险评估、在线检查和机器学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600116X?dgcid=rss_sd_all</link>
+      <description><![CDATA[天然气管道故障仍然对天然气管道附近的人们构成严重危害，特别是考虑到城市发展的增加和基础设施老化。本研究批判性地审查了管道完整性管理系统（PIMS）中针对大多数关键威胁的数据驱动方法的现状和潜力。除了纯理论讨论外，还使用了三个说明性案例研究来强调以下领域的主要局限性：a）第三方损坏评估，b）在线检查（ILI）数据的质量和c）基于机器学习的外部腐蚀评估。进行了定量风险分析，以分析当前预防实践背景下的缺陷。研究差距在于故障概率的评估不够依赖于天然气管道位置，而是依赖于管道设计的实践。提出了一种新的基于地理信息系统的概率方法来使用可用的环境数据评估DPD。其次，分析了已发布的ILI数据，这表明在管道路线上检测到大量腐蚀，但从一次ILI运行到另一次ILI运行的可复制性较低--限制了PIMS和数据驱动建模中的使用。第三，训练混合支持向量回归模型来预测外部腐蚀，但事实证明其性能不稳定：交叉验证期间预测准确率下降了27%，凸显了模型过度逼近的实际风险。这项研究强调了对更稳健、对上下文敏感的模型的需求，并概述了使用数据驱动策略提高管道安全性和系统可靠性的潜在进展。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600116X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑不确定攻击资源和攻击者偏好的面向生存性的多目标事件前保护资源分配]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600102X?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文旨在解决如何保护关键基础设施（CI）免受故意攻击者的问题，即多目标防御（MTD）问题。由于决策者在攻击之前几乎无法准确了解攻击资源，因此本文对防御者对现实世界场景中潜在攻击的了解的不确定性进行了建模。因此，提出了一个全面的防御策略选择和资源分配框架。面对多种攻击类型、攻击资源不确定以及目标偏好权重不同的攻击者，CI的目标是通过预先分配防御资源来最大化生存能力。该框架由两个阶段组成：第一阶段是确定防御选项（单独防御或合作防御），第二阶段是输出最优资源分配结果。数值实验表明了所建立框架的有效性。此外，还分析了攻击类型数量、攻击者对目标偏好的敏感性分析，为防御决策提供有意义的见解。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600102X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[协同方法：多用途K近邻和主动学习克里格法，用于高效的故障概率函数估计]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001110?dgcid=rss_sd_all</link>
+      <description><![CDATA[涉及指定设计参数的失效概率（称为失效概率函数（FPF））在基于可靠性的设计中至关重要。由于重复昂贵的模拟，传统方法需要复杂系统的高计算成本。尽管已经提出了具有主动学习克里金法（AK）的单循环方法来降低这些成本，但其效率仍然受到次优采样和不准确的核密度估计（TEK）的限制。为了解决这些挑战，这项工作介绍了一种新的多用途K-最近邻（KNN）框架集成了增强AK在增强空间，称为SL-AK-KNN方法。该方法在两个关键方面利用了KNN的自适应能力：（1）作为空间信息引导的学习函数，其通过探索和利用不同区域上的样本密度变化来提高AK的全局和局部效率，以及（2）作为用于近似条件联合概率密度函数（PDF）的自适应非参数密度估计器，从而减轻KDE的边缘区域不准确性，而不依赖于内核函数和固定带宽。它直观地非常适合未知密度分布的探索性分析。数值算例表明，所提出的框架显着降低了计算成本，同时提高了FPF估计的准确性，为支架结构和液压管道系统的工程应用提供了稳健的可靠性设计。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001110?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于有限区间云模型的多船碰撞风险态势评估]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001067?dgcid=rss_sd_all</link>
+      <description><![CDATA[多船碰撞风险态势评估对于加强水上船舶安全监管、保障航行安全具有重要的理论价值和现实意义。然而，海上多船航行风险往往受到水文气象条件和多船航行情况的耦合影响，表现出明显的不确定性和模糊性。为了解决这些差距，本研究旨在提出一种多船碰撞风险评估方法。首先，构建了集水文气象因素和多船舶特征为一体的二维评价指标体系，并附有六种指标值计算方法，为准确的风险评估提供了操作依据。随后，利用博弈论整合最佳-最差法和可拓相关函数法得出的加权结果，以减轻单一加权方法的片面性。最后，根据设计的指标区间等级，构建有限区间云生成器来描述指标的模糊性和不确定性，从而实现多船碰撞风险的精确量化评级。通过渤海四组多船潜在遭遇情景的验证表明，所提出的方法可以准确区分不同情景的风险水平。而且，评估结果的方差是传统扩展云模型的1至4.17倍，表明具有更高的置信度和敏感度。该方法为多船潜在相遇场景下的航行态势监测提供客观、精确的技术支持。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001067?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于双向错误数据注入攻击的检测框架，以增强网络物理电力系统的可靠性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000839?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着网络攻击技术的快速发展，网络物理电力系统（CPS）面临着更定制和更隐蔽的网络攻击的威胁。其中，双向虚假数据注入攻击（BFDIA）已成为最具破坏性的攻击类型之一。然而，现有关于虚假数据注入攻击（FDIA）的研究大多集中在单向FDIA的检测上，现有方法在检测高度隐蔽的BFDIA方面的有效性有限。有鉴于此，本文提出了一种基于多层检测模型的CPS中BFDIA检测方法。首先，采用基于优化的卷积神经网络来执行浅层应用层BFDIA检测并过滤出IEC 60870 -104协议（IEC 104）数据中的异常消息。随后，过滤后的IE 104数据集被输入协方差矩阵模型，以检测深层应用层的传统BFDIA，并将检测结果以警报的形式集成到原始警报数据集中。此外，将警报事件集输入到双向隐马尔科夫模型中，以检测深层应用层中的高度隐蔽的BFDIA。提出的多层检测框架利用三阶段机制--基于MFO-CNN的浅层应用层检测、基于协方差的深层检测和双向隐马尔科夫建模--将协同优化学习与时间相关性分析集成，从而增强针对高度隐蔽的双向FDIA的检测性能。最后，在现实世界的126个节点电力系统中对BFDIA检测进行了验证，证明了该方法的准确性和实用性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000839?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于宏中尺度融合建模的随机多尺度非均质嵌套法复合材料结构稳定可靠性分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001109?dgcid=rss_sd_all</link>
+      <description><![CDATA[材料的多尺度差异导致结构的不确定失效行为。提出了一种基于随机多尺度异类嵌套（SMHN）方法的可靠性分析方法，将积木测试转化为积木建模和分析。首先，一个关键贡献是并行动态模糊度约减（PDDR）方法，该方法使用实验性碳纤维增强树脂数据，通过动态保留跨尺度的区分性特征来解决多尺度映射冲突，减少信息传输负担，同时有效预测各向异性弹性参数;其次，建立了以SMHN为核心的多尺度可靠性分析框架，并将数据驱动的介观模型嵌入到物理模拟驱动的宏观模型中，实现异类嵌套;在案例验证中，以加强板的弯曲可靠度为研究对象，与PDDR结合提高模预测准确性（相对标准偏差误差，RSDE）降低了62.646%，实现了基于SMHN的考虑复杂结构中高维细观特征参数的直接可靠性评估。为多尺度可靠性问题提供了一种新的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001109?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用人类活动知情的本地化输入对核电站场外电力系统进行野火风险评估：科里核电站的案例研究]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001055?dgcid=rss_sd_all</link>
+      <description><![CDATA[野火是一种重大自然灾害，有可能破坏核电站（NPP）的场外电力系统（OPS）。由于气候变化，预计它们的频率和强度将会增加。野火造成的OPS损失可能会严重影响NPP的安全和运营稳定性，凸显了全面风险评估的必要性。本研究比较了野火风险评估的结果的基础上，传统的，广义的输入数据来自区域统计数据的基础上，结合人类活动的特点，以提高评估精度的详细数据。建议的方法适用于科里核电厂网站，考虑野火发生频率在地方行政级别，根据网站的可达性，野火持续时间和区域统计的调整。Kori核电厂案例研究的结果表明，纳入这些详细的因素可以大大改变OPS损失的估计年概率;在本案例研究中，估计值相对于基线下降了95%。在所有因素中，野火频率的区域变化被确定为最具影响力的参数。这一发现强调了空间特定输入数据在提高野火风险评估可靠性方面的重要性。提出的方法有助于避免高估和低估风险，通过本地化和准确的分析为制定核电站的运营策略和安全政策提供实用见解。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001055?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有伤亡不确定性的分布式稳健、基于公平的最后一英里救援网络优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001213?dgcid=rss_sd_all</link>
+      <description><![CDATA[自然灾害的突发性和伤亡的不确定性迫切需要对医疗物资分配和伤员后送进行公平、稳健的网络设计，以减少灾后影响。本研究为最后一英里救援网络中的医疗物资分配建立了一个分布稳健的机会约束模型，目标是最大限度地降低供应短缺的最坏情况条件风险值（CVaR）。通过纵向模糊集来描述重伤人员的分布，从而将所提出的模型重新表达为一个可处理性的混合整线性规划问题。基于四川地震的数值实验得出了几个重要发现。首先，总供应量和原材料表现出类似的效果--增加要么会减少最初的短缺水平，但进一步的减少会受到另一个因素的限制;其次，为了应对高风险，倾向于建造更多的医疗站，而不是扩大现有医疗站的规模来分散风险。相反，当风险较低时，扩大现有医疗站的规模比建立临时设施更可取;最后，在样本外数据波动下，CVaR模型表现出比样本平均逼近模型更强的鲁棒性，具有一致更小的标准差和更好的稳定性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001213?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[退化和随机冲击综合效应下部分可观察系统的基于变形器增强深度Q网络的风险知情维护策略]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001171?dgcid=rss_sd_all</link>
+      <description><![CDATA[许多现实世界的系统都会经历自然退化和随机冲击，退化通常仅使用部分信息进行评估。当考虑这两个因素时，潜在的退化过程可能具有迅速转变为更严重状态的高风险，使得部分观察结果的解释尤其具有挑战性。为了应对这一挑战，我们将自然退化和随机冲击综合影响下的部分可观察系统制定为部分可观察的连续时间马尔科夫模型。基于此模型，我们引入了一个风险知情的检查和维护政策，计划检查，根据预定义的风险阈值，旨在降低成本。我们证明了最优的维护方法遵循控制限制政策，适用于由不断变化的风险状况决定的决策时期。利用这种结构上的洞察力，我们设计了一个量身定制的Transformer-augmented Deep Q-Network算法，以有效地优化部分观测下的检查和维护策略，这被认为是一种新颖的在线算法，用于多维连续状态空间的部分可观测马尔可夫决策过程。所提出的方法进行了验证，通过案例研究，涉及锂离子电池的维护。结果表明，与传统的定期检查方案相比，我们的方法平均降低了57.4%的检查成本。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001171?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[车载简易爆炸装置的爆炸压力变化及其对渐进性倒塌风险的影响]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000864?dgcid=rss_sd_all</link>
+      <description><![CDATA[恐怖分子针对大型基础设施的首选武器是恐怖分子车载简易爆炸装置（VNIED）。最近在澳大利亚内陆地区进行了一项VBIED爆炸现场试验，以概率地模拟车辆在不同方向的能量吸收性质，该试验显示了空中爆炸与假设半球形表面爆炸的传统模型有何不同。还对压力和脉冲的鼓风空间变异性进行了概率描述，包括相邻结构部件（例如柱子或窗户）上鼓风的相关性。对于相邻的结构部件（例如建筑柱），相关程度可能很高，而对于间隔更远的结构部件，相关程度降低到弱。定向空袭因素的空间分布也来自最近的VBIED炸药试验。针对遭受WBIED攻击的5层、10层和20层钢筋混凝土建筑，研究了空爆炸空间变异性对损坏和倒塌风险的影响。结构可靠性分析考虑了失效柱的载荷重新分配、恒载和活载变异性以及爆炸载荷和阻力模型误差。研究发现，与更保守的裸装药半球形表面爆炸相比，当模拟VBIED的爆炸载荷时，倒塌概率降低了50%以上。使用替代路径方法进行针对渐进倒塌的设计将损坏风险降低了99%以上。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000864?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于虚拟节点模型的空间复杂网络脆弱区域的图神经网络识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001201?dgcid=rss_sd_all</link>
+      <description><![CDATA[许多基础设施系统被建模为空间嵌入式网络，其中拓扑结构受到几何和距离成本的约束。一个中心问题是确定空间区域的节点/边缘去除导致最大的下降，在一个固定的扰动预算下，在指定的网络功能，从疾病预防到缓解拥塞的应用。然而，现有的区域识别模型难以准确和直接地描述网络损坏的真实程度，并且大多数方法无法将地理信息与网络拓扑无缝集成，导致识别脆弱区域时精度不高。本文首先介绍了一种虚拟节点模型，该模型通过粒度增强机制更有效地捕获网络损坏。此外，我们提出了一种基于图神经网络的深度学习框架（SNDM-VN），该框架在一大组小型合成空间网络上通过监督学习进行训练，并准确地识别以前从未见过的现实世界网络中的脆弱区域。大量实验表明，SNDM-VN在脆弱区域检测任务中的表现显着优于基线方法。通过大规模数据驱动学习，提出的框架有效地集成了地形和空间特征，以准确地识别可能严重损害网络可靠性的脆弱区域--传统方法认为这很困难。我们的结果提供了准确的区域级识别，并扩展了空间网络分析中深度学习应用的范围。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001201?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[无人机准实时飞行时数可靠性评估的最大信息矩求积法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001092?dgcid=rss_sd_all</link>
+      <description><![CDATA[在紧急通信中继、洪水调查和野火监测等场景中，对无人机准实时飞行持续时间可靠性意识的需求越来越受到重视。本研究提出了一个针对多源不确定性下固定翼无人机飞行持续时间的高效可靠性评估框架，允许近实时估计任务风险。该框架集成了基于物理模型的飞行持续时间模型，其中空气动力学参数和环境风属性作为不确定变量。在此基础上，采用矩求积法获取飞行持续时间的统计矩，并提出采用最大信息量法重建飞行持续时间的概率密度函数，实现快速准确的可靠性评估。研究了一种真实的记录保存长续航时间无人机，并使用所提出的方法利用实际气象数据进行了评估。与具有106次模拟的Monte Carlo方法相比，该方法仅需要96次模型评估，而可靠性估计的最大绝对误差约为1%。结果表明，该方法可以最大限度地减少计算需求，同时保持足够的准确性，为近实时了解飞行持续时间可靠性提供了可行的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001092?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[评估社会物理洪水缓解规划和优先顺序的综合方法，以增强社区的复原力]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001195?dgcid=rss_sd_all</link>
+      <description><![CDATA[基础设施的物质功能和社会功能之间的显着相互作用，凸显了缓解策略的必要性，平衡面临频繁增加和加剧的危害的物质和社会考虑。然而，现有模型通常要么专注于单独评估物理或社会影响，要么将社会脆弱性指数作为韧性驱动的恢复目标函数中的修改参数，这未能将社会后果明确地协调和整合到战略制定过程中，并在社区内以同等程度的细节评估物理和社会策略的有效性。为了填补这一空白，本文开发了一个集成的数学模型，用于洪水灾害预规划阶段缓解策略的制定和优先顺序，目标是缓解身体机能退化和居民满足多样化社会需求的能力丧失。该模型的优势在于其细粒度的物理协同仿真模型，用于生成主动洪水场景，其多维策略制定能力，包括内涝特征，链路级交通性能指数（TPI），居民适应性路由行为（由介数可达性（BA）量化），以及其以综合方式评估物质和社会功效以减轻灾害引起的影响的能力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001195?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复杂故障域可靠性分析的线重要性抽样]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001122?dgcid=rss_sd_all</link>
+      <description><![CDATA[可靠性分析对于评估不确定性下工程系统的安全性至关重要。然而，现代结构系统通常涉及高度非线性的性能函数和复杂的失效域，使得有效的可靠性估计具有挑战性。线采样（LS）通过将多维问题转化为沿着预定义的重要方向的一系列条件一维问题来提高效率，但它仅在弱/轻度非线性情况下表现良好，并且严重依赖于重要方向。为了克服这些限制，通过将LS的效率与重要性抽样的灵活性相结合，提出了一种新型的线重要性抽样（LIS）框架。在LIS中，采样是在旋转的（n-1）维空间中进行的，在其中推导出理论上最佳重要性采样密度。此外，通过最小化最佳采样密度和假设采样密度之间的Kullback-Leibler偏差，开发了一种自适应的基于交叉信息的LIS（CE-LIS），并为高斯混合模型和von Mises-Fisher-Nakagami混合模型推导了分析更新规则。即使初始方向次优，这种机制也会自适应地将样本集中在主要故障区域周围。对五个具有多个设计点或非凸极限状态表面的问题的应用表明，所提出的CE-LIS具有很高的准确性和鲁棒性，有效地克服了原始LS方法的固有局限性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001122?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[全球废镍供应网络脆弱性：内生结构性暴露和外部冲击传播]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001559?dgcid=rss_sd_all</link>
+      <description><![CDATA[在地缘政治紧张局势升级的背景下，全球废镍供应网络（GSNSN）的系统可靠性面临越来越大的挑战。本文构建了一个将内生结构暴露与连锁故障模拟相结合的分析框架，以评估GSNSN的结构脆弱性机制。结果表明，从内生结构暴露的角度来看，系统表现出明显的非线性突变特征，揭示了网络从稳态到崩溃过渡的结构临界性。对于外部冲击，国家进出口禁令或合作中断通常表现为四种风险传播模式：长期大规模、长期小规模、短期大规模、短期小规模。具体来说，由于严格的供需依赖性（例如，GBR-USA、DEU ParticipSWE、CHN和USA），而具有高风险容忍度的节点通过阈值消散机制充当物理防火墙。研究结果强调，资源供应链的治理范式必须从流量监控转向布局优化，这表明构建战略冗余对于增强全球供应网络的韧性至关重要。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001559?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[超越内涝：评估极端降雨对道路网的影响]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001249?dgcid=rss_sd_all</link>
+      <description><![CDATA[现有关于极端降雨对交通网络影响的研究主要考察了内涝的影响。尽管其他两个主要因素--能见度降低和交通信号灯停电--已被证明会显着影响道路运营，但它们在网络规模上的贡献仍然没有得到充分的研究。本研究采取宏观方法，通过对大伦敦及其周边地区26个地方政府区的案例研究，衡量了这三个因素在极端降雨期间对道路网连通性和效率的影响。结果表明，在不同降雨情景下，仅关注内涝而忽视能见度下降和交通信号停电会高估道路通行能力15-30%，并低估网络效率影响1-23%。特别是，观察到30年一遇的降雨风险的最大影响低估，其中内涝不太占主导地位，而能见度差在很大程度上加剧了影响。分析还表明，降雨期间信号电源故障对网络层面的影响有限、局部化。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001249?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于因果推理与概率机器学习相结合的城市掺氢天然气管道泄漏故障及事故演变分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001390?dgcid=rss_sd_all</link>
+      <description><![CDATA[将氢纳入城市天然气管网是能源转型的关键技术，但也构成了严重的安全威胁，因此需要对氢混合天然气管道进行全面的风险评估。这项研究通过提出一种新颖的框架，将因果推理（蝴蝶结分析）与概率机器学习（Bayesian网络）相结合，对泄漏故障和事故演变进行全面定量风险评估，从而实现系统性故障因素识别和动态事故进展模拟。主要研究结果表明，人为因素和管道材料降解是主要触发因素。所研究的管道表现出较低的基线故障概率，泄漏最有可能的后果是分散。由于氢的点火能量较低，较高的氢混合比显着提高了喷射火灾的风险，而氢固有的浮力和高扩散性则显着降低了闪光火灾和蒸汽云爆炸的可能性。案例研究验证了模型的实用性，宏微观分析提供了整体见解，为指导能源转型中管道安全可靠性提高提供了可靠的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001390?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机车车轮磨损和滚动接触疲劳问题：机制与对策]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000608?dgcid=rss_sd_all</link>
+      <description><![CDATA[磨损和滚动接触疲劳（RCF）严重恶化铁路车轮的摩擦学行为和材料完整性，对其健康管理构成重大挑战。因此，迫切需要更深层次的机械理解并制定有效的缓解策略。在这项研究中，开发了一个长期机车车轮磨损和RCF演变预测模型，该模型结合了重载机车-轨道耦合系统的完全非线性动力学、非赫兹轮-轨摩擦接触行为以及不断变化的磨损和RCF分布的迭代更新。数值计算结果表明，机车车轮磨耗和RCF增长主要是由曲线运行时轮轨应力的突出引起的，在急弯时尤为严重。随后的数值和现场调查验证了两个有效的策略，以减轻机车车轮磨损和RCF的发展：（Ⅰ）优化设计的车轮轮廓，采用创新的约束多目标优化（CMOO）方法，（Ⅱ）增强车轮防滑（WSP）控制器。研究结果进一步表明，这两种对策可以大大减轻机车车轮磨损和RCF的进展，通过降低轮轨摩擦学相互作用和接触应力水平。总的来说，这项研究提供了宝贵的洞察机制，车轮磨损和RCF的演变，并支持通过科学明智的维护实践，提高重载运行的可靠性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000608?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[采用异类图神经网络级联故障后无人机辅助物联网的网络恢复]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001365?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着无人机（UF）辅助物联网（IOT）的日益采用，其针对连锁故障的恢复能力受到了广泛关注。级联故障可能会严重损害此类网络的布局完整性，使高效恢复成为一项重大挑战。为了应对这一挑战，提出了一种使用异类图神经网络（NRHG）的网络恢复方案。所提出的方案采用了一个异类图形神经网络（HGNN），其中包括处理来自各个无人机的本地观察的图形感知层，以及实现无人机之间信息交换的图形通信层。进一步采用多智能体强化学习（MARL）框架来实现无人机的协作行动决策。实验结果表明，提出的NRHG方案可以有效地调度幸存的无人机以覆盖连锁故障造成的网络盲点。与其他方案相比，该方案在网络覆盖恢复和系统吞吐量恢复方面都表现出优越的性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001365?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[强随机风扰动下可靠性驱动的可重复使用运载火箭自适应多层预优化控制方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001432?dgcid=rss_sd_all</link>
+      <description><![CDATA[强随机风扰动对可重复使用运载火箭的着陆可靠性构成重大威胁，可能导致姿态不稳定、轨迹偏差，甚至结构损坏。传统的控制方法严重依赖于精确的动态模型和在线状态观察或预测，在这种条件下常常难以确保可靠性。为了应对这一挑战，这项工作提出了一种可靠性驱动的着陆预优化方法，该方法结合了区域随机风特征，从而消除了在线观察或预测的需要。建立了着陆动力学和随机风场模型，以量化风对着陆可靠性的破坏性影响。然后引入了一种自适应多层控制策略，该策略基于实时高度和速度分层部署简化的控制律。该设计有效地补偿了时变风干扰，而无需依赖在线观察者或预先计划的轨迹。此外，还开发了可靠性驱动的离线优化框架来调整控制参数和着陆启动条件。这些关键参数通过跨不同风力场景的大规模蒙特卡洛模拟进行离线优化，从而避免在线优化的计算负担。最后，对最佳参数和条件进行预优化，以适应区域随机风。结果表明，该方法的着陆可靠性超过99.5%，最大着陆偏差降低了99.52%。在比较研究中，离线预优化方法表现出优于典型在线模型预测控制的性能，可靠性提高了14.1%。所提出的策略提供了一个强大的和实用的解决方案，实现高可靠性的着陆在强随机风。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001432?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[连锁故障下城市交通相互依赖网络的韧性评估与增强]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001183?dgcid=rss_sd_all</link>
+      <description><![CDATA[城市交通系统对于维持城市增长和确保资源高效配置至关重要。现有的研究主要集中在评估系统扰动后的网络弹性，对扰动期间的响应机制以及扰动后的弹性增强关注不够。因此，我们提出了考虑乘客换乘阻力的连锁故障模型，并为故障节点设计了恢复优先策略，以最大限度地提高城市交通相互依赖网络（UTIN）的弹性。具体来说，我们基于交通感知数据构建一个以车站为中心的UTIN，以评估各种中断场景和不同传输距离下的结构弹性。通过结合阻抗函数和流量重新分配，考虑乘客行为和节点负荷更新。此外，还讨论了故障节点的恢复优先级策略。结果表明：1）转移距离较长的UTIN对风险的抵抗力更强。考虑到阻抗成本时，最佳传输距离为800 m。2)在级联故障传播过程中，优化流量分布有效降低系统稳定所需的关键容量阈值，从而增强网络韧性。3)在恢复阶段，不同的恢复策略在恢复系统弹性方面表现出显着差异。研究结果为城市交通系统的防灾、应急响应和灾后恢复提供了宝贵的参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001183?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于预测工业报警事件的多维序列嵌入和改进的Informer]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600133X?dgcid=rss_sd_all</link>
+      <description><![CDATA[作为一种有效的警报监控策略，警报事件预测通过提供潜在未来警报的早期警告，有助于减轻警报洪水的影响和工业事故风险，从而让操作员有更多时间采取纠正措施。然而，在连续工业过程中，变化的操作条件和异常状态会导致警报率的实时波动，这对现有方法实现令人满意的预测性能提出了挑战。针对这些问题，本文提出了一种新的报警事件预测方法，该方法使用多维序列嵌入和改进的Informer，适应长期连续报警监测周期内变化的报警率。贡献有三重：1）设计了自适应报警序列分割策略，生成适应报警率的输入报警序列; 2）提出了一种基于报警标签和时间间隔的多维序列嵌入方法，将文本报警消息转换为数字载体; 3）开发了基于Informer的警报事件预测模型，用于在警报洪水和非洪水期。通过基于醋酸乙烯酯单体公共模型的案例研究来证明所提出方法的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600133X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于时间因果图的注意门控循环单元用于核电站可解释故障诊断]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001481?dgcid=rss_sd_all</link>
+      <description><![CDATA[智能故障诊断对于核电站（NPP）的安全运行至关重要，但由于复杂的架构和动态时间序列数据，挑战仍然存在。此外，传统数据驱动模型的黑匣子性质也阻碍了它们在故障诊断场景中的实际部署。为了解决这些问题，本文提出了一种新颖的基于时间因果图的门控循环单元，具有单元级图关注度（GraphAttGRU-Cell）网络，用于NPP中可解释且高效的系统级故障诊断。首次采用将领域专业知识与数据相结合的时间因果发现方法来学习稳定可靠的时间因果图，该图结合了多元传感器数据的瞬时和滞后依赖性。拟议的GraphAttGRU-Cell网络是在细胞级别自下而上设计的，其中注意力和门控机制可以捕捉图形中的空间和时间特征。所提出的方法通过模拟的第四代核电站模拟事故数据集进行了验证。实验结果表明，所提出的方法在准确性和可解释性方面明显优于最先进的基线，为核电站维护决策提供了一个强大且可解释的工具。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001481?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[主震-余震序列下CAP 1400核电站钢混屏蔽建筑的地震脆弱性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001043?dgcid=rss_sd_all</link>
+      <description><![CDATA[CAP 1400核电站（NPP）的地震安全至关重要，因为其故障将导致重大人员伤亡和经济损失。目前，CAP 1400核电站的地震脆弱性分析仅在单一地震动下进行。由于强烈的地面运动经常引发多次余震，本文对CAP 1400核电站在主震-余震（MS-AS）序列下进行了全面的地震脆弱性分析。增量动力分析结果和地震脆弱性曲线是使用20条MS-AS记录得出的，并以1：0.6、1：0.8和1：1的不同强度比进行缩放。结果表明，与主震记录相比，MS-AS序列对CAP 1400核电站造成了更严重的破坏，并且随着余震比率的增加，破坏加剧。此外，由于CAP 1400核电站通常采用钢混（SC）盾牌建筑，而不是传统的钢筋混凝土（RC）盾牌建筑，因此在MS-AS序列下对CAP 1400核电站与SC和RC盾牌建筑进行了比较地震脆弱性分析。研究发现，由SC屏蔽建筑组成的CAP 1400核电站在MS-AS序列下的脆弱性明显低于RC屏蔽建筑，并且随着余震比的增加，SC屏蔽建筑的地震优势变得更加明显。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001043?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于系统动力学理论的不同类型铁路事故原因分析及演变特征]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600150X?dgcid=rss_sd_all</link>
+      <description><![CDATA[世界范围内铁路事故频繁发生，风险严重。以2013年至2023年美国、德国、日本和英国发生的547起铁路事故为基础，运用系统动力学方法分析了铁路运营事故的关键原因和事故演变特征。首先确定不同事故的高频事故链和高危事故链，并利用系统动力学方法建立不同事故的因果回路图和库存流程图。铁路冲突、脱轨、列车碰撞事故与“人机耦合故障”有关，而火灾爆炸事故则与铁路设备设施的运行故障有关。此外，根据构建的库存流图，铁路事故的演变可分为潜伏期、加速期、关键期和爆发期，每个时期都有独特的主导效应。最后，定义了“虚假安全期”术语，以反映控制措施延迟实施对系统风险积累和不同事故演变的影响。铁路冲突事故的演变受延误效应的影响最小，而脱轨事故的演变受延误效应的影响最大。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600150X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于无人机群网络中包丢失缓解的故障预测激活包重广播]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600147X?dgcid=rss_sd_all</link>
+      <description><![CDATA[无人机群与地面控制站（GSK）之间的通信可靠性对其安全部署至关重要，但不可预见的干扰可能会导致通信故障。缺乏缓解此类失败的建议。在这里，我们建议通过无人机（基于分组丢失计数（PLC）的概率）和GMS进行分组转播，以减少分组丢失以维护安全。当使用修改后的吞吐量作为可靠性代理预测故障时，在航路点控制模式中激活此缓解方案。针对具有代表性的UAVs-GSK网络，该网络跨越了从低到高干扰强度的无人机和自NET干扰场景，评估了我们的新型方法的性能。我们修改后的吞吐量与可靠性的相关性远高于吞吐量，实现了类似的高平均特异性（RST 1）的故障预测，但总体平均假阴性率低得多，同时故障风险低。我们提出的缓解方案优于其变体（具有转播策略（混合/仅适用于无人机）和概率（PLC/固定/基于距离）的不同组合，以及无转播），实现了三次连续分组丢失的最低概率（√ 2%），并具有最高的转播效率。我们的方法使无人机群部署具有高度安全性，即使遇到强干扰。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600147X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[航空发动机结构概率缺陷容限评估的区域协同集成框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001547?dgcid=rss_sd_all</link>
+      <description><![CDATA[传统的航空发动机涡轮整体叶盘缺陷容限评估方法存在空间覆盖不完整和不确定性量化不足的问题，因为基于热点的方法只关注预定的高应力区域，而忽略了结构表面的随机缺陷分布。本研究开发了一个区域协作集成框架，通过三个集成组件系统地解决了这些限制：区域概率分解，使用改进的高斯混合模型与K均值初始化表面分区和组合抽样方法的缺陷坐标不确定性量化;遗传算法增强克立格法与系列系统理论集成的（GA-Kriging）代理建模用于多区域可靠性评估;以及系统化的实现算法，实现全面的空间覆盖，具有计算效率。通过缺口板和涡轮整体叶盘案例研究进行的验证表明，与传统方法相比，GA-Kriging计算效率提高了63.3%，训练/测试精度提高了31.8%/26.7%，标准化RSSE低于0.02。ZCI框架相对于直接模拟具有94.95-98.70%的准确性，同时在等效可靠性水平下预测疲劳寿命比热点方法高12-76%（热点为720次循环，而两区ZCI为1518次循环，情况2中R = 0.99）。敏感性分析揭示了缺陷几何参数在可靠性结果中占据主导地位（缺陷半径：-1.75，缺陷深度：-1.25），为结构设计优化提供定量指导。提出的框架将计算上令人望而却步的全尺寸可靠性问题转化为可管理的基于区域的评估，为关键航空航天部件的概率缺陷容限设计提供了一种系统方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001547?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:23 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[利用集成统计机器学习进行交通事故伤害严重程度建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001377?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于事故数据集固有的复杂性、不确定性和多样性，对交通事故严重程度进行建模仍然具有挑战性。传统的统计模型通常忽视相互作用和结构依赖性，而机器学习方法虽然对大型数据集有效，但很难捕捉空间和时间动态。为了解决这些差距，我们提出了具有树增强模型的潜在高斯过程（LGPboost），它将基于树的机器学习与高斯过程混合效应模型集成在一起。该框架考虑了空间、时间和分组依赖性，同时捕获了非线性特征-结果关系。为了证明LGPBoost的优越性，我们进行了一个精心设计的模拟实验，重点是具有复杂特征关系和潜在分组随机效应以及空间和时间变异性的数据集。将该方法应用于佛罗里达州的摩托车事故（2014-2023年）显示，农村和城市化程度较低的地区面临着更高的严重和致命的碰撞风险，强调了有针对性的执法和基础设施改善的必要性。时间不稳定性分析进一步表明，各区域的碰撞风险不断变化，特别是在非城市区域。通过统一空间异类和时间变异性，LGPboost为面向可靠性的碰撞严重度建模提供了严格的基准，提供了一个全面的框架来识别风险因素、量化非线性影响并捕捉内在的时空动态。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001377?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于网络和系统动力学的煤矿瓦斯爆炸风险防控研究：安全投资决策优化模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001146?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了缓解灾难性煤矿瓦斯爆炸（CMGE）事故，提高整体安全绩效，实现安全相关资源的高效配置，本研究通过集成系统动力学（SD）和Bayesian Network（BN），提出了安全投资决策优化框架。首先，根据对2000年至2022年间发生的298起CMGE重大事故的敏感性分析，确定了关键原因。其次，制定最佳安全投资组合，以在有限的投资资源下最大化安全结果。模拟结果表明，实现给定安全水平所需的预期时间越短，所需的最小初始总安全投资就越高。安全管理对煤矿安全影响最大，其次是安全技术、培训和设施，强调资源配置的优先领域。最后，案例研究验证了所提出的模型，展示了其实际适用性和现实世界实施的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001146?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复合材料壳脆弱性分析的真交分解辅助多项混乱展开法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000645?dgcid=rss_sd_all</link>
+      <description><![CDATA[采用适当的正交分解（Pod）辅助的广义多项混乱（gPC）展开法，建立了一种计算高效的层合复合材料壳脆弱性评估的降阶元模型。开发的自适应POD-gPC扩展方法绕过了壳上空间分布节点的传统计算密集型随机方法。轻型复合材料结构用于飞机、航天器、高速列车以及基础设施。由于材料性能和施加载荷不可避免地存在不确定性，概率脆弱性评估对于组合结构的安全设计至关重要。利用新开发的元模型确定了对称和反对称交叉层合复合材料板、圆柱壳和球形壳以及亚瓦尔壳的脆性函数。发现自适应参数，即，有针对性的Pod截断和误差容限参数提高了所开发的元模型预测随机响应空间分布的准确性，而目标方差系数限制了计算失败概率的变异性。研究表明，几何参数，即弯曲类型、弯曲半径和层结构顺序对复合材料结构的脆弱性有很大影响。与圆柱形壳和板相比，观察到球形壳的概率脆弱性较小。尽管如此，与考虑的板和壳相比，Hypar壳的脆弱性最小。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000645?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[相互依存的交通-医疗保健系统在不确定性下的弹性驱动加固和恢复决策]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000530?dgcid=rss_sd_all</link>
+      <description><![CDATA[这项研究为相互依赖的交通和医疗保健系统（SEARCH）开发了一个弹性增强框架。提出了一个两阶段随机优化模型，以支持预算约束下的地震前加固和地震后恢复决策。该模型为SEARCH引入了增强的基于可访问性的指标，其中纳入了个别医院内患者排队的影响。通过集成基于K-means++的场景约简技术，该模型旨在在不确定场景中最小化加权预期功能损失（FL）和恢复时间（WRT）。为了提高计算效率和解决方案质量，在改进的自适应遗传算法（AGA）中嵌入了用于快速预测SEARCH功能的基于神经网络的代理模型，以解决与大规模优化相关的计算挑战。通过对中国的SEARCH的分析来说明该方法框架，作为现实世界相互依存系统的一个例子。当应用于7.8级地震时，考虑到各种不确定性，加固后SES的FL和WRT分别降低了21%和37%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000530?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:04 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[电动客车系统设计可靠，可抵抗随机电网甩负荷和不确定充电效率]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001638?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了发展可持续和宜居的城市，世界各地的公共交通系统，如公共汽车，正在迅速电气化。这带来了新的挑战，因为外部因素可能会影响电动公交（eBus）系统的运行，导致延迟和中断。本研究解决了多个能源供应的不确定性，即，电网减载和充电效率的不确定性，并提出了一个框架，同时设计一个可靠的eBus系统及其充电时间表。该框架被建模为混合鲁棒-随机混合整线性规划，其中电网甩负荷随机建模，充电效率不确定性使用鲁棒公式进行建模。考虑到电价随时间变化，在终端安装储能系统（ESS）以降低成本并提高可靠性。介绍了印度德里公交网络的案例研究。该框架能够考虑多种能源供应不确定性来源，并通过同一网络的确定性设计实现边际成本增量。结果表明，充电效率的不确定性主要需要改变充电基础设施，而甩负荷会导致电动巴士车队电池容量发生巨大变化。eBus系统设计的基准测试表明，混合方法可以非常有效地处理不断增加的概率不确定性。该框架将帮助交通机构以成本最优的方式设计和调度可靠的电动公交系统，以应对电网减负荷和充电效率不确定性的威胁。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001638?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[序贯协同攻击下输电网络物理系统可靠性改进的多阶段鲁棒优化：极端攻击场景搜索辅助框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001353?dgcid=rss_sd_all</link>
+      <description><![CDATA[越来越多地部署的信息组件使得输电网络物理系统（PTCPS）更容易受到网络物理攻击（CPA）。攻击者经常以通信网络中的关键设备为目标，破坏它们的运行，这种攻击越来越多地表现出连续和协调的模式。为了解决这个问题，我们开发了一个多阶段的强大的优化框架，明确的恢复持续时间PTCPS下顺序协调CPA。该框架包括一个强化组件的防御者、一个协调行动的攻击者以及一个执行功率重新分配和系统恢复的操作员。保护中继入侵与故意的传输线停电联合建模，虚拟故障流表示捕获线路、中继和公交车上的故障传播。一个关键要素是极端攻击场景搜索，它通过基于故障传播的无目标优化来识别关键场景。发现的场景和约束被嵌入到主问题中，允许列和约束生成算法更快地收敛，并提高多阶段鲁棒优化的总体效率。对标准IEEE RTS-96系统的案例研究表明，极端场景搜索框架可以将总体计算时间减少约44.8%。此外，添加欧几里得距离选择可以总体减少约49.0%的计算时间，同时确保协调的CPA下的稳定收敛。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001353?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[车站-城市综合空间的消防韧性：融合空间和行为相互作用的多阶段评估和优化框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001523?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着城市化和交通枢纽的不断扩大，集交通、商业和居住于一体的站城综合空间（SCIS）越来越常见。然而，其复杂的结构和高行人密度构成了重大的消防安全挑战。这项研究开发了一个弹性评估框架，该框架集成了空间和行为维度，以改善SCIS的安全管理。该框架由弹性指标识别、综合加权和基于敏感度的优化组成。它通过五个有代表性的SCIS案例研究得到了验证。结果确定了关键的弹性因素，包括关键风险节点的强化、多机构协调能力、消防安全培训频率、设施维护频率以及空间感知和监控能力。最后，敏感性分析指导了空间优化和行为管理的有针对性的策略的制定。该框架是一个决策支持模型，用于SCIS中火灾复原力的面向管理的筛选和比较优先顺序。它具有广泛的适用性，为增强不同站城一体化网络背景下的消防能力提供了理论支持和实践指导。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001523?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[量化地震结构健康监测对电力系统地震灾后恢复的价值]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001080?dgcid=rss_sd_all</link>
+      <description><![CDATA[地震后电力网络（EPN）的恢复对于社区复原力至关重要。传统的恢复流程通常依赖于长时间且不精确的手动检查来进行损坏诊断，导致维修优先顺序不佳并延长服务中断时间。地震结构健康监测（SSHM）通过实现更准确、及时的损害评估，有望加快地震后恢复。然而，SSHM的部署是有成本的，而且SSHM在系统级弹性方面的可量化收益仍然没有得到充分的探索。本研究开发了一个集成的概率模拟框架，以量化SSHM在增强EPN弹性方面的系统级价值。该框架结合了基于EPN配置、地震危险、脆弱性函数和损害功能映射模型的损害模拟，以及考虑修复调度、资源限制、转移和修复持续时间的恢复模拟。通过基于图形的孤岛检测和电气约束下的最佳潮流分析来评估系统功能。使用从时间演变功能恢复曲线推导出的缺乏弹性（LoR）指标来量化弹性。SSHM的影响是通过改变用于创建维修计划的损坏信息的质量来体现的。具体来说，不同的监控场景（例如，无SSHM基线、部分SSHM和具有不同评估准确度水平的完整SSHM）使用模拟部件损坏状态错误分类的观察矩阵进行建模。结果表明，SSHM提高了损害意识，可以显着加速恢复，并将LoR降低高达21%。这项研究为评估SSHM的系统级弹性效益并指导关键基础设施的循证传感器投资决策提供了定量基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001080?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于轨迹预测的虚拟列车运行安全防护方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001444?dgcid=rss_sd_all</link>
+      <description><![CDATA[本研究提出了一种基于轨迹预测（SPTP）的虚拟列车运行安全防护方法。具体来说，开发了一个集成了时间卷积网络（TCN）、长短期记忆（LSTM）和多头自我注意力（MATT）的混合TLMA模型，以预测领先列车的轨迹。根据预测结果，根据后续列车运行的空间要求、列车在车站站台静止时的安全要求以及不同不利条件下的运行安全要求等原则，引入了SPTP方法。此外，还构建了微观多状态列车跟随模型来验证SPTP方法的有效性。预测模型的比较结果表明，TLMA模型优于基线模型，实现了很高的准确性，并且对列车轨迹预测具有良好的适用性。然后，将SPTP方法与现有的安全防护方法进行了比较。数值模拟结果表明，SPTP方法有效地减少了列车间距34.6%，列车速度差7.0%，到达时间偏差65.0%。这些研究结果表明，SPTP方法可以有效提高城轨列车的运营效率，提高乘客服务质量。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001444?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[隐私增强的多方工业控制系统协作框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001341?dgcid=rss_sd_all</link>
+      <description><![CDATA[作为关键基础设施的核心组件，工业控制系统（ICS）生成大量细粒度的运营数据。分布式人工智能为ICS客户端之间的安全协作提供了机会，但可编程逻辑控制器（PLC）、远程终端单元（RTI）以及监督控制和数据采集（DCS）系统等设备仍然仅限于基本控制和监控，缺乏智能分析的能力。隐私问题进一步阻碍了数据的有效利用。为了应对这些挑战，我们提出了一种分布式、可靠性增强的协作培训框架，称为ICS物理设备边缘服务器区块链（IEEB），它集成了联邦学习、边缘计算和区块链。边缘服务器可以在资源限制下实现本地化模型训练，而区块链和智能合约则提供去中心化管理、流程自动化、动态激励和反中毒机制。IEEB确保异类ICS之间的可互换性、可追溯性和安全协作。IEEB使用Hyperledger Fabric实施并在五种类型的PLC上进行评估，将SWaT、WADI和MSL数据集的平均AUC9提高了9.1%，将训练时间减少了64.7%，批处理时间减少了80.3%，并保持了针对高达20%的恶意客户端的稳健性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001341?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[极端事件下国家多式联运系统的旅行时间弹性：以乘客为导向的框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000724?dgcid=rss_sd_all</link>
+      <description><![CDATA[国家多式联运系统（NMTS）对于城际流动性和经济发展至关重要，但越来越容易受到极端事件的影响。考虑到NMTs的大规模、多模式、可预见性依赖性，现有的弹性评估主要集中在单一模式或区域规模系统上，未能解决NMTs的弹性问题。为了应对这一挑战，论文提出了一个以供应商为导向的框架来评估NMTS在极端事件下的弹性。构建了一个动态功能网络，集成了定期服务、联运换乘和时间相关的旅行路径。基于该网络，利用每日乘客需求和最短旅行时间矩阵建立了弹性模型。两种计算方法，基于关键节点的方法和基于分段计算的方法，旨在确保计算效率。该框架适用于中国大陆在COVID-19封锁和郑州暴雨期间的道路、高铁和航空公司联合系统。结果显示，城市封锁期间每日受影响乘客比例在0.01%至10.07%之间，影响与城市GDP和网络规模密切相关。在暴雨情况下，6.44%的乘客受到影响，平均延误时间为167.12分钟。拟议的框架为全国范围的复原力评估和交通规划提供了一种可移植且计算效率高的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000724?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[不确定性和专家分歧下人因可靠性分析的新型综合依赖评估方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001158?dgcid=rss_sd_all</link>
+      <description><![CDATA[依赖性评估是人体可靠性分析（HRA）中的一个关键问题，尤其是在不确定和相互冲突的专家评估下。这项研究实施了共识达成过程（CR）、完全一致性方法（FUCOM）和Dempster-Shafer证据理论（DTET）的结构化集成，以支持依赖性评估和以THERP兼容的方式计算条件人为错误概率（CHEP）。首先，专家对依赖水平的判断被表示为基本信念分配，并通过一致性约束的CR进行协调，该CR在明确的协议要求下减少分歧，同时保持接近原始评估。随后，FUCOM用于推导依赖性影响因素的内部一致的重要性系数，减少启发负担并减轻不一致的因素优先顺序。然后使用DTET聚合共识细化的信念结构和基于FUCOM的系数并映射到CHEP。案例研究证明了所提出方案的可行性，并表明最终的CHEP在数字上是合理的，并且与通过代表性依赖评估方法获得的结果相当，同时提供了从引出的专家输入到最终条件概率的更透明和可追溯的链。敏感性分析进一步表明，在关键共识参数和因素权重的合理变化下，结果保持稳定。建议的框架提供了一个基于面板的依赖性评估在安全关键的应用程序中的分歧管理和加权一致性是必需的一个可辩护的过程。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001158?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用基于知识的Bayesian网络预测控制室警报管理的操作员可靠性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000773?dgcid=rss_sd_all</link>
+      <description><![CDATA[尽管工业警报管理制定了全面的标准，并且现有的对操作员行为的人类可靠性研究，但警报管理活动中以操作员为中心的定量可靠性评估仍然有限。本文提出了一个Bayesian网络框架，该框架集成了警报响应任务分解、认知建模和上下文因素，以评估感知、规划和执行阶段的警报管理可靠性，同时捕获任务有效性和时间约束。该模型使用HUGIN Software中的面向对象的Bayesian网络实现将性能塑造因素与特定阶段的认知机制相结合。该模型是在模拟实验的背景下建立的，以便将来进行数据验证。模型参数通过文献确定，如果无法获得，则通过专家假设确定。信息的价值和敏感性分析表明，性能主要是由操作员的经验和任务的复杂性，通过建立文献参数化的因素。相比之下，支持系统的影响显示最小的影响，可能反映了实验的范围有限。不同经验水平的失败模式不同：新手很可能会因超时而失败，而经验丰富的操作员通常会因不正确的操作而失败。敏感性分析强调，感知阶段对参数变化最敏感。该框架展示了如何将既定HRA原则扩展到警报管理环境，建立一种结构化方法来评估操作员与警报的交互，等待经验验证。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000773?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于动量通量法的泥石流作用下砖混结构易损性曲线]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001602?dgcid=rss_sd_all</link>
+      <description><![CDATA[中国北方泥石流的频率和强度都在增加，这突出表明需要建立可靠的脆弱性评估框架。本研究将动量通量与结构侧移反应整合，以建立砖混结构的易损性曲线。2023年台风“渡渡鸟”过后，持续降雨引发京津冀地区多场泥石流。对583座建筑物的实地调查提供了支持基于动量通量的脆弱性曲线的数据。完全、广泛和中度损坏的已确定阈值为31.01、22.64和13.74 m³/s²。根据区域建筑物损坏数据经验估计的模型参数β提高了各个灾害强度的脆弱性曲线的预测准确性，并比理论估计更真实地捕捉建筑物种群之间的变异性。结果表明，建筑稳定性随着楼层数量的增加而增加，从而降低了损坏的可能性-例如，在中度损坏条件下，两层建筑的损坏可能性比单层建筑低5%。低于80 m³/s²，中国北方的填充框架建筑（C3 L）比美国的裸框架建筑（C1 L）高出30%的损坏概率，后者忽略了填充墙;在此之上，危险强度占主导地位，概率收敛。较新的建筑物显示出15%的损坏概率降低，反映出更好的弹性。该脆弱性曲线可作为一种基于物理的概率风险评估工具，为我国北方山区泥石流灾害的防治提供支持。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001602?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[增强网络物理电力系统针对跨域连锁故障的稳健性：网络物理动态重新配置]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001456?dgcid=rss_sd_all</link>
+      <description><![CDATA[跨域连锁故障是网络物理电力系统（CPPS）安全稳定运行的最重大风险之一。传统的防御机制专注于物理域或网络域内的独立保护，因此难以有效解决复杂的跨域传播过程，其中故障在物理域和信息域之间触发、传播和放大。提出了一种基于软件定义网络（Software Defined Networlding，DNW）的网络-物理联合动态重建方法，以阻止连锁故障的跨域传播，从而增强CPPS的鲁棒性。首先，开发了基于SEN的CPPS架构，利用隐马尔科夫模型（Markov）来表示通信网络路由的动态重建过程，并量化网络重构对电网可观测性和可控性的影响。接下来，建立了具有时效性约束的网络-物理联合重建模型：网络层进行动态路由重建以最大化故障恢复指数，物理层根据重建效果触发最优潮流以最小化甩负荷。最后，以节点可观测性、节点可控性和甩负荷率为评估指标，提出了基于“动态路由-最优潮流”联合重建的CPPS鲁棒性评估过程。IEEE-30和IEEE-118节点系统的实验结果表明，在级联故障传播过程中，单次故障下的平均甩负荷率分别降低了4.59%和7.46%，多次故障下的平均甩负荷率降低了4.22%和8.32%，显着提高了CPPS的鲁棒性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001456?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高坝变形分析与安全评估的物理约束数字孪生框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S095183202600164X?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确的变形分析对于高坝的安全评估和风险管理至关重要。虽然传统的代理辅助优化提高了预测准确性，但忽视固有物理参数相关性通常会导致非唯一解、有限的准确性收益和数值分歧。这项研究提出了一种物理约束的数字双胞胎（DT）框架，可以实现高保真虚拟物理同步。关键创新是一种物理约束机制，利用β-变分自动编码器（β-VAE）从全球实验数据集中提取参数相关性作为先验知识。通过将此机制与多目标优化和精英归档策略集成，该框架确保了稳定且物理一致的模型进化。在303 m高的LHK大坝上进行验证，结果表明预测准确性提高了28%，并过渡到近实时计算性能。该框架为智能大坝运行和生命周期风险评估提供了一种更可靠、物理一致的建模方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600164X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[医院地震韧性增强策略和技术回顾：最新技术水平、挑战和未来]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001018?dgcid=rss_sd_all</link>
+      <description><![CDATA[医院作为地震后应急响应系统的支柱，其功能复杂性和关键重要性远远超出了典型建筑，必须表现出卓越的运营连续性和可靠性。虽然发展具有韧性的城市已成为社会稳定和可持续发展的战略当务之急，并且已经提出了评估医院地震韧性的初步框架，但仍然缺乏明确、有科学依据的技术途径来增强医院地震韧性。本研究总结了医院建筑的功能特征、地震破坏和功能量化，回顾了过去医院建筑中应用的地震改造技术的研究，并提出了一个整合结构、非结构和组织策略的以增强为导向的框架。本文将医院的功能分为实体维度、临床维度和组织维度。医院地震韧性增强应基于地震韧性的概念，考虑“资源-服务-管理”的综合需求，将基于机制的技术选择、快速预测模型、平衡成本效益和运营功能的多目标优化以及适应性管理策略融为一体。这项研究将该领域从被动评估推向主动增强，弥合政府、用户和从业者之间的信息和协调差距，并为未来的医院地震韧性研究和应用提供技术上可行的基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001018?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于BERT分类器和主题建模的航空事故中驾驶员故障自动识别]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001006?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于可能造成生命损失，航空事故是一个重大关切问题，人为因素已成为主要的根本原因。航空业保存着大量的记录，包括事故调查报告，为决策提供了宝贵的见解。本研究探讨了自然语言处理（NLP）作为分析这些文件和进行风险评估的解决方案的应用，使专家能够更好地管理事故并制定有效的预防措施。我们提出了一种新的方法，利用双向编码器表示从变压器（BERT）为基础的分类器，结合主题建模技术，自动标记的事故数据集，并确定关键的飞行员故障导致航空事故。这种自动标记过程是有效创建高质量数据集的关键步骤，对于训练能够准确检测特定故障类型的分类器至关重要。通过将该方法应用于美国国家运输安全委员会（NTSB）的事故报告，我们成功地训练了一个分类器，该分类器可以识别飞行员故障，例如基于技能的错误，常规违规和感知错误。本研究通过引入上下文嵌入和主题建模的创新集成，大大减少了数据准备的人工工作，同时提高了航空事故数据分析的精度和效率，为该领域做出了贡献。研究结果表明，NLP有潜力简化事故报告的分析，协助专家制定有针对性的培训计划、程序改进和风险缓解策略，以有效解决与飞行员相关的错误。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001006?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:23:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[以高级相互作用为特征的超图上的非线性随机游动]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026001237?dgcid=rss_sd_all</link>
+      <description><![CDATA[随机游动作为网络上的经典动力学之一，能够提取有关交互系统结构的信息。虽然现有的研究已将经典网络随机游走扩展到更高级网络，但流行的模型主要假设转移概率和节点超度或超边大小之间的线性关系，这不足以代表更高级相互作用的非线性属性。为了解决这个问题，我们提出了超图上的非线性随机游走，它明确考虑了更高级的协作结构和非线性动力学。通过在转移概率和节点超度之间引入非线性映射，我们超越了传统随机游走的线性假设约束。具体来说，节点选择超边的概率与其超度的功率函数成正比，其中功率指数由交互顺序确定。我们首先对星团结构的模型进行定性分析，将其与经典随机游走和线性随机游走进行比较，以揭示更高层相互作用影响节点重要性排名的机制。随后，我们对三个大规模数据集进行了节点删除实验，通过比较三个结构完整性指标来验证模型的有效性。结果表明，在所有数据集和指标中，提出的模型始终优于经典模型和线性模型。这些发现证实，考虑更高级相互作用的非线性特征对于准确识别关键节点和了解系统稳健性至关重要。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026001237?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[气候变化影响下钢筋混凝土老化交通基础设施风险资产管理的先进Petri网建模方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000694?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文提出了一种先进的Petri网（PN）建模框架，用于气候变化下老化钢筋混凝土（RC）交通基础设施的基于风险的管理。提出的框架引入了模块化PN架构，该架构将基础设施系统分解为互连的子模块，其中包括退化机制、检查策略和维护策略。这些子模块集成到组件、系统和网络级PN模块中，实现资产级决策的整体模拟和优化。每个子模块中都嵌入了概率退化过程，纳入了与气候相关的参数，并允许无缝集成区域/国家气候预测。此外，还采用多元统计公式来捕捉组件退化率之间的相互依赖性，从而实现系统级可靠性评估。为了演示该框架的应用，使用UKCP 18气候预测数据集为案例研究RC桥梁实施了该模型，该数据集包括28种不同的气候情景。蒙特卡洛模拟针对三个环境轨迹进行：基线老化、预期和悲观气候变化。结果表明，气候变化加速了腐蚀引起的恶化，凸显了自适应检查和维护策略的必要性。拟议的PN框架为不确定性下的长期基础设施耐久性和生命周期风险管理提供了通用的数据驱动工具。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000694?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:23:47 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[动态SCGE-NEG建设可靠性：交通升级、工作区运营和区域劳动力流动的概率决策支持]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0951832026000840?dgcid=rss_sd_all</link>
@@ -237,6 +650,13 @@
       <pubDate>Mon, 19 Jan 2026 14:27:32 GMT</pubDate>
     </item>
     <item>
+      <title><![CDATA[推进金属结构疲劳裂纹扩展预测：具有不确定性量化的物理信息顺序关注方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000578?dgcid=rss_sd_all</link>
+      <description><![CDATA[对可变幅载荷下的疲劳裂纹扩展（FCG）进行准确且物理一致的预测对于关键工程系统的结构健康监测和风险知情维护至关重要。传统的基于物理的模型，例如巴黎定律，提供了以断裂力学为基础的透明公式，但依赖于静态参数，限制了其对不断变化的加载条件和样本间变异性的适应性。相比之下，纯粹的数据驱动的深度学习方法提供了很强的预测灵活性，但往往普遍性较差且缺乏物理一致性。为了弥合这一差距，本文提出了一个物理信息顺序注意力网络（PI-STAN），这是一个统一框架，将基于LSTM的时间编码与PINN公式下的Transformer自我注意力集成在一起。该模型明确捕捉参数的动态演变，从而能够对裂缝生长轨迹进行可解释和物理约束的预测。基于微空间物理学的损失迫使训练期间遵守断裂力学原则，增强了合理性和概括性。此外，蒙特卡罗Dropout用于推断来量化预测的不确定性，为裂缝长度和参数演变提供置信区间。对基准数据集的实验评估表明，PI-STAN实现了最先进的预测准确性，同时保持了物理透明度和值得信赖的不确定性估计。通过联合建模时间动力学、物理约束和预测信心，提出的框架为疲劳预测提供了实用且可靠的解决方案，加强了结构完整性管理和维护规划的决策支持。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000578?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 19 Jan 2026 14:27:27 GMT</pubDate>
+    </item>
+    <item>
       <title><![CDATA[地铁突发事件中人群疏散行为研究]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0951832026000517?dgcid=rss_sd_all</link>
       <description><![CDATA[拥挤的公共空间往往存在重大安全风险，因为行人的情绪和行为在紧急事件发生后发生了重大变化。为了检查相关影响，本研究建立了一个大规模地铁模拟平台，对恐慌事件、碰撞场景和踩踏事件进行建模，以评估情绪因素、行李特征、人群密度、初始感染比例和性格特征对紧急疏散的影响。结果表明，情绪必须超过一定的阈值才能被触发，具有不同性格特征的人对情绪感染表现出不同的敏感性，其中开放性（O型）性格最容易受到影响。人群密度被认为是决定疏散效率的主要因素，高密度条件会显着增加疏散时间并加剧恐慌程度。在碰撞情况下，行人通常沿着弯曲的路径行驶以避免接触。值得注意的是，仅增加行李重量往往会减少总体疏散时间，而在行李重量不变的情况下，较大的行李尺寸会延长疏散时间并增加踩踏风险。这表明行李尺寸对疏散结果的影响比重量本身更大。最初感染者比例最高通常会引起恐慌，这种影响在高密度条件下会加剧。有趣的是，较高的初始感染者比例对恐慌保持了一定的缓解影响，但当人群密度和身体障碍达到临界水平时，其有效性就会减弱。最后，通过将环境熟悉度纳入领导者-跟随者模型，有效提高了紧急疏散效率。通过说明这些因素如何相互作用影响恐慌蔓延、碰撞避免和踩踏风险，我们的研究为交通当局设计疏散演习、分配资源和优化疏散协议提供了实用基础，从而增强大规模城市交通系统的安全性和弹性。]]></description>
@@ -272,300 +692,6 @@
       <pubDate>Mon, 19 Jan 2026 14:27:03 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过高斯自适应重置观察器进行异常检测：预测性维护的一种信息量方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202501381X?dgcid=rss_sd_all</link>
-      <description><![CDATA[智能操作和维护越来越被认为对于现代复杂系统的进步和可靠性至关重要。在各种策略中，预测性维护提供了一种替代但有效的方法来防止潜在的连锁故障并减轻严重的意外故障。然而，所考虑的系统中不确定参数和外部干扰的存在给可行且可靠的预测维护框架的开发带来了相当大的理论挑战。本文通过提出两个关键贡献来解决存在不确定性和干扰时的预测性维护问题。开发了高斯自适应重置观察器，将高斯核融入开创性的重置观察器框架中，以在可能的弱激励下实现快速参数识别收敛，同时保留原始重置结构并增强瞬时性能。此外，还引入了一种基于信息量的异常检测框架，该框架具有瞬时和稳态时间常数、滑动窗口信息策略和精确调节参数，以确保快速、准确和鲁棒的异常检测，而不需要完整的系统知识，实际上，由于不确定参数和干扰的参与，不可能获得完整的系统知识。所提出的方法为不确定动态环境中的预测性维护提供了实际适用性。通过仿真算例验证了所提出策略的有效性和优势。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202501381X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[风险规避下两状态恶化模型的期望公用事业维护规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013687?dgcid=rss_sd_all</link>
-      <description><![CDATA[在这项研究中，我们提出了一个规避风险的维护决策模型，该模型基于受非自我宣告故障影响的二元状态公式，其中系统故障仅通过定期检查检测。我们概括了基本的二元状态公式，以允许系统逐渐老化，并分析系统干预决策如何随着风险规避程度的变化而变化。维护决策问题在风险规避预期效用框架内建模，并使用更新理论来解决。我们的研究结果表明，在风险规避较高的情况下，风险干预替代方案不太可取，尤其是当与系统停机时间相关的参数显着较高时。在某些情况下，我们还观察到，尽管风险中性的决定是保持运营，但对于规避风险的系统管理员来说，继续业务可能会变得不经济。结果还表明，随着模型的调整以进一步强调有风险的维修和无风险的更换替代方案之间的权衡，维护决策对风险偏好的敏感性也会增加。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013687?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于异类互联和自动化车辆排控制模型中不确定性量化和可靠性验证的增强元模型策略]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013821?dgcid=rss_sd_all</link>
-      <description><![CDATA[车辆排队可以通过协调车辆紧密行驶同时保持安全的车间距离来提高交通安全、效率和燃油消耗。排的性能严重取决于控制器模型，不确定性可能会降低控制有效性，增加碰撞风险。本文提出了一种新颖的方法来验证参数不确定性下的异类车队的可靠性，重点关注间距误差。该方法将多输入单输出（MISO）非线性自回归外生（NARX）模型与克里格插值器相结合，将不确定参数与每辆车辆的非线性动态响应联系起来。提出了两种策略：一个优先考虑最多五辆车的排的预测准确性，而另一个优先考虑更大排的准确性和计算成本。元模型结构经过优化，以选择最重要的回归量，保持高预测性能。使用蒙特卡洛模拟进行验证，与经典KNARX和PC-NARX模型的比较表明可扩展性、效率和可靠性得到了改进。虽然当前的研究假设理想的PLF布局，但该框架可以适应其他布局和信息延迟。此外，该方法可以集成稀疏传感器数据，从而实现潜在的数字双胞胎实施，未来的工作可能会将其扩展到非参数不确定性，例如变化的道路状况或交通干扰。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013821?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不确定协同攻击下网络物理电力系统的三级网络安全风险评估模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000050?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着新型智能电力系统的发展，网络物理电力系统（CPPS）面临着协同攻击的重大风险。本文提出了一种新颖的攻击风险评估模型来量化不确定协同攻击场景下CPPS的协同攻击风险。首先，基于单一商品流理论和直流潮流模型，提出了网络-能量流模型来描述网络系统与电力系统之间的拓扑和功能相互作用。其次，考虑动态N-k攻击准则，构建了针对通信链路和电力线的不确定协同网络物理攻击模型，以描述CPPS的协同攻击机制。然后，基于不确定协同攻击场景的概率分布规范约束和网络能量流模型，采用概率-攻击者-防御者优化框架，提出了CPPS的三层网络安全风险评估模型。最后，提出了四个风险评估指标来量化评估CPPS在不确定协同攻击下的网络安全风险。在IEEE RTS-79和IEEE RTS-96系统上的仿真结果验证了所提出的风险评估模型的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000050?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[不同动态运行条件下直接甲醇燃料电池特性的多模型集成及其可移植性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202501378X?dgcid=rss_sd_all</link>
-      <description><![CDATA[准确估计健康状态（SOH）和预测剩余使用寿命（RUL）对于确保燃料电池的可靠运行至关重要。在直接甲醇燃料电池（DMFC）老化过程中，可以实时监测输出电压以获取退化趋势。然而，仅依赖观察到的电压趋势回归的传统预后方法无法应对操作中的动态变化。深层次的退化信息仅受环境因素影响，可以通过电化学阻抗谱（EIA）测量来获取。使用等效电路模型（EM），可以识别和跟踪内部阻抗等退化协变量随着时间的推移。本文提出了一种将内部特征化和直接观察相结合的方法来预测动态操作条件下DMFC的RUL。所提出的方法在两个相同类型的DMFC上实施，准备在不同场景下进行加速老化测试：一个DMFC遵循中国轻型汽车测试周期（CLTC）进行培训，另一个遵循世界轻型汽车测试周期（WLTC）来验证该方法的可移植性。与传统的数据驱动预测方法相比，实验结果表明，所提出的基于多层退化指标的方法可以提供更准确的SOH估计和RUL预测。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202501378X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[加强涉及有毒气体释放的室内紧急情况的路线规划框架：模型和应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000128?dgcid=rss_sd_all</link>
-      <description><![CDATA[涉及有毒气体释放的紧急情况的路线计算在很大程度上取决于路线规划框架，目前该框架因建筑物的复杂性和动态事件而紧张。本研究提出了一种增强的路线规划框架，该框架优化了室内网络图结构、成本模型和规划算法，以解决尽可能多的应急响应策略中的限制。采用修改后的约束德劳奈三角测量（m-CDT）来细化室内网络图（TING），确保与人类导航行为和结构特征更好地保持一致。随后，基于耦合成本函数（CTF）开发了多目标应急路线规划（MERP）方法，该方法集成了替代风险集（ARS）和时间要求指标。ARS有助于选择特定于事故场景的适应性风险因素。此外，MERP还结合了双向优化机制（B多姆），利用优先级调度来最大限度地减少疏散冲突。在两层氯化蜡设施中的验证表明，优化的3D-TING克服了传统拓扑方法的局限性。通过建立主动风险规避范式，提出的方法将计划路线的累积风险降低了32.34%，而B多姆可以消除潜在的拥堵。至关重要的是，时间偏好分析确定了一个最佳平衡点，这表明在灾难性环境中，救援风险和暴露持续时间之间的战略平衡至关重要，而不是单一地追求速度。该框架为制定相关领域的安全策略提供了强有力的理论参考。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000128?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[考虑特征值灵敏度分析方法的冗余平面机械臂时变周期轨迹精度可靠性分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000104?dgcid=rss_sd_all</link>
-      <description><![CDATA[对于汽车冲压线中的冗余机器人机械手来说，周期轨迹准确度的可靠性对于生产质量和效率至关重要。然而，现有方法往往忽视复杂工作条件下动态周期性的累积效应。针对这一问题，本文提出了一种特征值灵敏度分析方法，用于2冗余度平面机械臂的时变周期轨迹精度可靠性分析和增强。首先，构建了一个结合傅里叶变换和泰勒展开的可靠轨迹生成模型，能够描绘从Cartesian到关节空间的关键误差传播路径。在此基础上，开发了可解释的建模-量化-分配轨迹修正框架，其中利用误差传播热图来识别高贡献关节，并结合动态缩放矩阵来实现末端效应器误差的精确定位和有效补偿。为了验证所提出方法的有效性和通用性，在三个代表性的工作空间范围内进行了系统测试：紧凑、中型和大型。通过与蒙特卡洛模拟（MC）实验的比较分析，证明所提出的方法能够一致地提高所有测试的工作组的轨迹准确性，为工业机器人中的高精度运动可靠性提供了一种新颖且稳健的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000104?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过在线混合监测增强单个飞机寿命预测的数字孪生进化机制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013808?dgcid=rss_sd_all</link>
-      <description><![CDATA[近年来，数字双胞胎（DT）的新概念在进行结构性生命预测方面引起了广泛关注。尽管已经进行了一些探索，但研究仍然有限，特别是利用结构健康监测（SHM）方法在每个DT模块中共同进化多参数的进化机制，与普通的无损检测（NDT）/无损评估（NDE）方法相比，可以提供更及时、有效的交互。本文以实现高保真生命预后DT为目标，提出了一种通过在线损伤和负载混合监测增强的新型生命预后DT模型进化机制，以共同进化多个DT参数。建立了一种新的寿命预测DT，通过将载荷谱和物理单个结构在线跟踪的损伤相互作用，提出了DT中的多个参数共同进化，包括3D裂纹特征、裂纹演变率和裂纹演变模型参数、应力强度因子和相应的替代模型，用于Bayesian过滤估计和预测模块。通过使用光纤布拉格栅和针对关键飞机附件结构DT建立的基于引导波的混合监测来证明所提出的方法，显示在疲劳测试中各种严重载荷谱下的寿命预测准确性提高了40%以上。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013808?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[系统安全复杂性建模：D2<sup>T2</sup>方法论的<sup></sup>]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013390?dgcid=rss_sd_all</link>
-      <description><![CDATA[故障树（FT）和事件树（ET）分析仍然是最广泛采用的系统安全评估方法，因其效率和透明度而受到重视。然而，它们的静态结构和独立基本事件的假设限制了它们表示动态行为和依赖性的能力，特别是在控制、自动化和共享资源发挥核心作用的现代系统中。现有的扩展和替代方案提高了表达能力，但通常以牺牲通用性、可解释性或计算可行性为代价。动态依赖树理论（D 2 T 2）通过保留全局FT/ET结构同时使依赖性能够以多个保真度级别表示来解决这些缺点。在这项工作中，我们提出了一个扩展，该扩展将框架推广为直接捕获子系统和训练级依赖关系，从而避免分解为基本事件交互，否则会加剧模型复杂性和状态空间增长。该功能几乎不限制依赖类型或位置，并保留了对审查和认证至关重要的FT/ET可追溯性。通过在经典FT/ET和全动态形式主义之间提供连续的建模选择，D 2 T 2为安全关键系统的依赖性分析的最新技术水平做出了独特的贡献。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013390?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[冲击环境中具有由保护装置支持的多状态子系统的平衡系统的最佳重新分配策略]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000013?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于重新分配政策在提高具有功能可互换组件的系统的可靠性方面有效，因此人们对重新分配政策进行了广泛的探索。此外，带保护装置（PD）的平衡系统的可靠性也引起了研究兴趣。为了满足具有PD的平衡系统的平衡要求，应用重新分配策略来延长系统生命周期至关重要。然而，没有文献调查的平衡系统与PD的再分配政策。因此，本文研究了一个平衡的系统包含多个子系统的PD的最优再分配策略。系统平衡的特征在于子系统的最大和最小状态之间的适当差异。构造了一个新的冲击模型来模拟所提出的系统的退化，其中冲击的幅度和持续时间被集成到分类的冲击。一旦PD降级到阈值，PD就会被激活以增强相应子系统的抗冲击性。利用有限马尔科夫链嵌入方法推导系统的可靠性指标。以最大化系统可靠性为目标，通过求解优化模型来获得最佳重新分配策略和时间。最后，通过一个实例来验证所提出的模型。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000013?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[配电系统中纠正性维护人员优化部署的面向可靠性的模型：使用Benders分解的随机动态规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000025?dgcid=rss_sd_all</link>
-      <description><![CDATA[配电系统发生故障后进行纠正性维护，以尽快恢复服务。尽管增加维护人员和仓库的数量可以提高可靠性，但也会导致巨大的投资成本。本文提出了一种动态规划模型，用于配电系统中维护人员的优化部署，以最大限度地减少运营和投资成本以及中断成本。由于非线性、大的解决方案空间以及与服务要求相关的不确定性，规划问题在计算上很复杂。为了解决现实世界系统中的棘手问题，本文提出应用Benders分解方法将问题分解为主问题和子问题，两者都以混合整线性规划格式表达。主问题决定了仓库的数量和位置，以最大限度地减少仓库相关成本和机组人员出行时间造成的停电持续时间。子问题优化了分配到每个仓库的维护团队数量，以最大限度地减少由于维护人员不可用而造成的延误。为了证明该模型的适用性，我们在一个实际的大规模配电系统上实现了该模型。仿真结果表明，与当前非最优状态相比，优化情况下的系统总成本可以降低29.25%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000025?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于退化建模的具有矩匹配估计的通用多元伽玛过程]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202501350X?dgcid=rss_sd_all</link>
-      <description><![CDATA[可靠性工程领域对退化建模的兴趣越来越大。迄今为止，大多数研究都致力于单变量降解数据，而多元降解数据，尤其是单调降解数据，有些未充分研究。本文提出了一种多元伽玛过程（MGP），其中每个边缘过程都被构建为一组公共的独立单变量伽玛过程的线性组合。该模型描述了灵活的相关结构，并包含某些多元模型作为其变体。此外，所提出的模型使人们能够通过改变底层常见独立伽玛过程的数量来在模型复杂性和适配准确性之间做出权衡。参数估计是通过嵌入在尤利西斯遗传算法中的矩匹配来实现的，该算法最大限度地减少了拟议MGP与数据的均值和协方差之间的差异。可靠性和寿命评估是通过分析得出的，并使用蒙特卡洛模拟进行的。进行了两项模拟研究来验证所提出的MGP的匹配性能，并提出了两个现实世界的案例研究来说明所提出方法的适用性。本文的补充材料可在网上找到。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202501350X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于协作领域自适应的双向时间卷积网络用于滚动轴承跨条件和跨设备剩余使用寿命预测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000098?dgcid=rss_sd_all</link>
-      <description><![CDATA[准确预测滚动轴承的剩余使用寿命（RUL）在工业环境中至关重要。然而，传统的深度学习预测模型在处理复杂、多条件的数据方面面临挑战，并且在不同操作场景中的概括能力往往不足。现有的基于域自适应（DA）的跨域RUL预测方法存在决策边界模糊和综合特征识别较差的问题。本研究提出了一种基于DA的协作双向时间卷积网络（CDBTCN），用于滚动轴承的跨条件和跨设备RUL预测。该模型采用创新的并行双向架构，同时处理正向和反向时间序列，增强时间特征提取并减少噪音干扰。通过构造两个独立的RUL预测器头，通过计算最大预测差来减轻决策边界的模糊性。本研究进一步引入了一种基于自适应沃瑟斯坦集成多核MMD（AWI-MK-MMD）的策略，以最大限度地减少源域和目标域之间样本的分布差异。大量实验表明，该方法在跨条件和跨设备场景下实现了更准确的RUL预测结果，优于基于CNN、基于TCN和传统基于DA的模型。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000098?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[地震流型滑坡下不同时代设计公路桥梁地震脆弱性评估的多危险考虑]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000116?dgcid=rss_sd_all</link>
-      <description><![CDATA[位于中至高地震活动地区山坡附近的公路桥梁往往受到地震和随后地震引发的山体滑坡的共同威胁。虽然过去已经记录了许多在这种多危险情况下桥梁损坏的例子，但现有文献在多个方面存在缺陷。其中包括缺乏考虑危险之间的条件依赖性、滑坡影响的静态建模而不是动态分析、忽略相关不确定性的确定性滑坡剖面假设以及忽视结构设计规范对桥梁响应的影响。拟议的框架开发了能够捕捉弯曲和剪切破坏模式的桥梁模型，并进行滑坡跳动分析以估计泥石流引起的力。然后采用非线性时程分析来评估桥梁在连续地震和动力滑坡载荷下的反应。生成脆性曲线以评估一系列危险强度下的桥梁脆弱性，并严格审查设计规范演变的影响。这项研究的结果表明，在某些情况下，地震事件后额外的山体滑坡载荷会加剧结构性能，并强调了更广泛的需要在脆弱性评估中考虑多种灾害和设计时代差异，以增强高风险地区的基础设施弹性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000116?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[可重复使用分阶段任务系统基于可靠性的维护优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000037?dgcid=rss_sd_all</link>
-      <description><![CDATA[针对可重复使用分阶段任务系统（R-PMSs）的可靠性建模和维护规划，提出了一种基于可靠性的维护优化方法。最初，创建了一种基于多阶段维纳过程的可靠性建模方法，结合基于二元决策图的模型，以评估R-PMs的可靠性。该方法认为组件的初始状态是完美/不完美固定的，作为反映R-PMs多次使用的影响的基础。随后，构建了基于可靠性评估并结合多种维护行动的维护优化模型，以在R-PMs后续任务之前将维护资源分配到维护活动中。该模型平衡了维护成本、总体可靠性和任务要求。通过数值分析和工程分析验证了该方法的优越性和性能。结果表明，该方法有助于R-PMs的可靠性建模和维护调度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000037?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种主动学习多保真克里格模型，用于利用多保真数据预测时间和空间相关结构系统的预期寿命]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000086?dgcid=rss_sd_all</link>
-      <description><![CDATA[预测预期寿命是量化设计阶段不确定性的关键指标。然而，它通常需要大量计算昂贵的模拟。这项研究提出了一种基于回归的多保真克里格模型，以利用多保真数据预测时间和空间相关系统的预期寿命。该模型集成了高保真度、中和低保真度数据，其中高保真度模型表示为较低保真度模型与差异模型的加权组合。初始多保真克里格模型是用来自不同保真度级别的有限数量的训练样本构建的。为了提高模型的准确性，提出了一种新颖的学习函数，通过考虑随机变量、时间和空间变量以及保真度水平自适应地选择训练样本。当预测寿命和预期寿命之间的相对误差低于0.001时，细化过程终止，从而确保寿命预测准确性。通过三个数值算例来验证所提出的方法，证明了其在预测涉及非线性、随机场和隐式性能函数的结构系统预期寿命方面的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000086?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[概率风场下大跨度桥梁的极端抖振响应：环境轮廓与蛮力蒙特卡罗方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000153?dgcid=rss_sd_all</link>
-      <description><![CDATA[湍流参数具有很大的不确定性，在极端抖振评估中通常被忽视。本研究考察了大跨度桥梁在概率风场作用下的长期极端抖振响应。首先，分析平均风场和湍流风场，构建风环境等值线。然后，使用eXtreme Gradient Boosting（XGBoost）的基于机器学习的代理模型来有效地预测抖振响应，同时降低计算成本。研究了计算长期极端抖振响应的两种策略：（1）沿着风环境轮廓的响应评估和（2）使用蒙特卡洛模拟（MC）和替代模型直接估计年度极端响应。结果表明，湍流参数的不确定性对西侯门大桥的抖振响应有显着影响，在不同风况下出现最大的扭转和垂直响应。此外，长期极端风环境参数并不总是与长期极端结构响应相对应，这凸显了结合多个湍流参数来准确描述风致效应的必要性。环境轮廓法提供了一种有效的以危险为导向的设计策略，未来的工作可以探索直接针对结构性能的以响应为导向的设计方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000153?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用地铁公交双层网络衡量城市医疗服务可用性对极端干扰的弹性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013663?dgcid=rss_sd_all</link>
-      <description><![CDATA[气候变化和频繁发生的极端事件对城市交通系统的运营构成重大挑战，从而影响城市服务可用性的稳定性。然而，大多数研究都集中在道路网络上，忽视了在骚乱期间支持城市服务访问的公共交通（PT）系统。医疗保健服务作为一项重要的城市公共服务，本研究将其作为案例研究进行探讨。本研究提出了一个多层网络框架，用于在PT系统干扰下对医疗服务可用性进行弹性评估。我们通过整合社区人口、医院容量和PT网络特征的数据，使用蒙特卡洛方法模拟了各种干扰场景。我们的研究结果揭示了地铁和公交系统之间的连锁风险效应，一个系统中的干扰可以通过交通传播到另一个系统，从而显着降低医疗保健的可用性。与随机干扰相反，关键结构站点的干扰对服务可用性产生更严重的影响，尤其是对于顶级医院来说。此外，这种干扰加剧了社区之间在获得医疗保健方面的差距，扩大了服务提供方面的不平等。本研究强调了从系统的角度理解复杂PT系统在支持服务可用性方面的作用的重要性，为城市抗灾规划和管理提供了新的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013663?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用GO-FLOW方法通过降阶模型量化共因故障]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202600013X?dgcid=rss_sd_all</link>
-      <description><![CDATA[共因故障（BCC）是损害安全相关系统可靠性性能的关键因素，因为它们有可能导致多个组件在共同原因下同时发生故障。传统的CPD分析方法通常依赖于静态群体假设，无法考虑技术进步和运营数据更新驱动的动态调整。本文提出了一种采用GO-FLOW方法进行降阶模型的CPD分析的新算法。通过GO-FLOW和故障树分析（FTA）之间的核电站（NPP）辅助供水系统（AFW）泄漏故障基准案例，证明了该方法的优越性和有效性。在β、a和MGL模型之间的比较研究中，还检查了与观察到的部件故障以及计划的维护和测试相关的共因部件组（CCCG）的共因故障概率的条件处理。结果表明，CCCG内的动态配置更改对共因故障有显着影响。通过整合各种参数模型，对共因故障进行定量和定性分析，可以实现精确的GO-FLOW解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600013X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过脱钩多概率密度进化方法实现混合事件和认识不确定性传播的统一框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013705?dgcid=rss_sd_all</link>
-      <description><![CDATA[本文提出了一个涉及混合事件不确定性和认识不确定性的动态系统中不确定性传播的统一框架。该框架容纳精确的概率、不精确的概率和非概率表示，包括无分布概率盒（p-box）。该框架的一个核心方面是将原始的不确定性输入转换为增广随机空间，这提出了在给定认识不确定性参数的情况下确定感兴趣响应量的条件概率密度函数（PDF）的主要挑战。采用最近提出的脱钩多概率密度进化方法（M-PDEM）来数值求解复杂动力系统的条件PDF。几个数字示例说明了所提出框架的适用性、效率和准确性。这些示例包括受高斯白噪音影响的线性单自由度（SDOF）系统，其自然频率被建模为p盒;受不精确地震载荷影响的10自由度（DOF）滞后结构;以及具有混合随机和区间系统参数的碰撞盒模型。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013705?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[D2 R：探索网络结构稳健性增强潜力的距离指标]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013729?dgcid=rss_sd_all</link>
-      <description><![CDATA[确保网络系统在各种结构性中断下的持续运行在很大程度上依赖于系统的有效鲁棒性，最好是进行优化。为了使这一过程更加高效，提前评估稳健性增强潜力（BEP）有助于节省资源并降低设计和运营成本。本文提出了一种与规则性的距离（D2 R）结构性指标，用于测量网络的度序列与其最近的规则变体之间的距离，以捕获REC。实现了两个基于欧几里得距离和Kullback-Leibler分歧的变体;两者都表现出强相关性，具有连通性和可控性措施下的鲁棒性增强。实验结果证明，D2 R可以有效捕捉与BEP相关的结构性异类，增强机器学习模型在预测BEP方面的性能。与深度神经网络方法相比，基于D2 R的模型在提高计算效率的同时实现了更低的预测误差。特征选择分析进一步证实了D2 R相对于其他基准的一致改进。这些发现确立了D2 R作为鲁棒性感知网络分析的可靠轻量级描述符。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013729?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[极端降水下城市系统性风险的核心原因识别和控制]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000268?dgcid=rss_sd_all</link>
-      <description><![CDATA[极端降水极易造成城市系统性风险方面的严重后果。识别和管理城市系统性风险的核心原因是有效治理的关键。为了准确识别和管理城市系统性风险的核心原因，本文提出了一种利用社会网络分析的极端降水下城市系统性风险的核心原因分析方法。该方法已通过“7·20”中国郑州特大暴雨灾害进行验证。得出以下结论：（1）结合度中心性、共线性频率和集群分析的交集，将核心原因分为三类：中心核心、重要核心和共同核心原因。(2)两个核心原因是预警准备失败和信息报告失败。两个重要的核心原因是工程维护危险和响应激活失败。常见的核心原因有9个原因。(3)有证据表明，城市系统性风险的核心原因在不同阶段极端降水是动态差异的。(4)消除中心核心原因，削弱重要核心原因，可以使原因网络密度降低22%，平均路径长度增加20%，从而有效控制城市系统性风险。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000268?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[城市下水道系统服务可靠性的系统回顾：从故障分析到预防性管理]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025012244?dgcid=rss_sd_all</link>
-      <description><![CDATA[城市下水道基础设施在维护公共健康和环境质量方面发挥着至关重要的作用，但这些系统越来越多地遇到服务中断，可能使城市运营瘫痪。本文通过六个相互关联的方面：故障模式，影响因素，检测方法，影响，预防策略和新兴技术，审查下水道系统服务故障。通过对现有研究的广泛分析，该研究确定了四种主要类型的服务故障模式：堵塞，溢流，渗透和气味排放。基于这些发现，系统地组织和分析了各种影响因素与特定故障模式之间的关系。然后，该综合全面评估了当前的检测方法，从物理检查到化学监测，同时彻底评估系统故障对社区的经济、社会和环境影响。在这一全面分析的基础上，该研究针对每种故障类型提出了有针对性的预防措施，并探索了可以帮助预测和最大限度地减少系统中断的新兴技术。此外，它还确定了关键的研究差距和未来的调查方向。通过整合多学科专业知识，本综述为分析下水管道服务故障提供了全面的知识综合，同时为预防和控制措施提供实用指导。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025012244?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于时空图卷积网络的无监督瓦斯突出危险预警方法研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000347?dgcid=rss_sd_all</link>
-      <description><![CDATA[煤与瓦斯突出受地质因素、瓦斯产状和煤物理性质的共同影响。因此，分析隧道过程中的时空数据特征并构建时空数据融合模型对于应对此类灾难至关重要。本研究首次提出将基于深度学习的BN-时空图卷积模型应用于瓦斯突出预警。首先提取时空数据的风险特征，通过相关性分析获得有效特征。其次，构建STGAT模块来学习时空数据之间的耦合关系并获取异常分数。最后，利用BN层构建时空数据的滞后图结构，实现煤与瓦斯突出的预警。使用现场时空数据对该模型进行了测试，结果表明无监督异常分数的分布遵循正态分布。该模型使用现场时空数据进行测试;风险阈值是基于观察到的异常率和风险百分位数确定的，同时对无监督异常评分进行正态检查作为二次统计验证。最终分类结果对危险和高风险的准确率分别达到96.7%和80%。该方法为融合煤炭开采领域的多源异类时空数据提供了概念框架，为瓦斯突出预警提供了一种新颖的方法，并显着提高了矿山的安全和运营效率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000347?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[随机输出对随机输入分布参数的灵敏度估计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000074?dgcid=rss_sd_all</link>
-      <description><![CDATA[计算模型已成为众多领域决策不可或缺的工具。鉴于输入变量固有的随机性，这些模型的输出通常是随机的，因此敏感性估计（SE）对于了解输入的变化如何影响随机输出至关重要。在实践中，输入随机变量由其分布参数描述。本研究引入了SE方法来评估输入分布参数对输出矩和分布的影响。敏感性指数（SI）是基于前三个矩和输出的累积分布函数定义的，自然地为超出概率提供SI。作为不确定性量化的后处理，开发了一种数字方法来量化这些SI，采用基于矩的模型来逼近输出分布。分析了包括非线性公式和有限元素模型在内的三个例子，以证明所提出的SE方法的适用性和有效性，突出了其提供输入分布参数和模型输出之间关系的更全面视图的能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000074?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过集成个人和社会风险的计算流体动力学进行高级定量风险分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000396?dgcid=rss_sd_all</link>
-      <description><![CDATA[定量风险分析（QRA）广泛应用于过程工业，以评估和管理重大危险。然而，其结果往往受到重大不确定性的挑战，这主要是由于使用了分散、火灾和爆炸场景的简化模型。这些不确定性主要源于有关气象条件、当地地形和输入参数的假设，这可能会影响对个人和社会风险的估计。为了解决这些局限性，将计算流体动力学（CFA）集成到QRA中已成为一项有前途的发展。计算流体动力学通过结合局部影响和障碍物，提供了大气扩散的更详细的表示，能够更准确地模拟火灾动态和热辐射，并通过动态和现实的方法加强个人和社会风险曲线的可靠性。在这项研究中，综合方法被应用于一个关键场景：阿尔及利亚贝查尔工业区大气碳氢化合物储罐的灾难性破裂。研究结果表明，QRA-CFA耦合可以对疏散路径沿线的动态个人风险进行更真实的量化，增强对动态社会风险的评估，并作为应急规划和提高工业弹性的宝贵决策支持工具。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000396?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有顺序更新的移动广义log正态分布的Bayesian推断]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013407?dgcid=rss_sd_all</link>
-      <description><![CDATA[在Bayesian推理中，不确定性由概率密度函数（PDF）表示，其参数是概率建模的。Bayesian推理在可靠性工程中越来越受欢迎，但仍然存在关键的研究空白，特别是传统PDF模型捕获复杂数据模式的灵活性有限、顺序Bayesian更新的不足以及先验选择策略的局限性。为了弥合这些差距，本文提出了一个高级的Bayesian框架。首先，Bayesian推理结合了一个灵活的四参数PDF模型，即Shifted Generalized Lognormal Distribution（SGLD），它涵盖了广泛的分布形状，并且在分布类型未知时是理想的。所有参数相关性都在先验和后验分布中考虑。其次，开发了一种高效的顺序Bayesian更新方法，该方法在准确性上与批量更新相匹配，在需要频繁更新且数据量大的应用程序中提供了明显的优势。第三，提出了指定先验分布的实用程序。该过程是通用的，与许多PDF模型兼容，并且所有超参数都是和谐地获得的。使用真值系统生成的合成数据系统地评估了拟议的Bayesian框架，并通过涉及实际海浪高度记录的案例研究进一步说明了该框架。这些研究证明了所提出的方法在量化不确定性、集成可用信息以及通过Bayesian更新对复杂工程问题进行预测方面的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013407?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于预测热电耦合工作条件下多层陶瓷电容器可靠性的混合建模框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202600027X?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于测试的故障物理（POF）方法在很大程度上不足以满足大规模生产的可靠性预测需求。相比之下，纯数据驱动的方法严重依赖于样本质量和完整性，导致外推弱且机制不明确。本文提出了一种将POF与数据驱动方法相结合的建模框架，将其外推的可扩展性和准确性相结合，以解决多层陶瓷电容器（MLCC）在热电耦合（TEC）条件下可靠性预测的缺点。考虑操作条件和制造参数，针对MLCC改进了性能分布退化POF模型，并开发了结合了Schottky Barrier和Weibull分布的击穿可靠性POF模型。此外，神经网络能够通过捕获操作条件、制造参数和时间序列特征来补偿POF模型的预测误差。此外，还采用Bayesian优化（BO）来优化超参数，从而在有限样本量的情况下提高预测准确性。与POF模型相比，混合模型的均方误差（RSSE）降低了高达82.78%。最后，建模框架通过2000小时的外推概念验证展示了其潜力，该验证使用了具有相同结构的新MLCC类型并研究了材料。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600027X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从安全II角度对复杂社会技术系统进行系统性风险分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000165?dgcid=rss_sd_all</link>
-      <description><![CDATA[现代复杂的社会技术系统需要系统性风险分析方法，这些方法可以整体解决人力、技术和组织组成部分之间的相互依赖性。传统模型往往无法捕捉这些相互作用的动态和紧急性质。这项研究引入了一种基于Safety-II范式的新颖、集成的风险分析框架，该框架强调了解系统如何在不同条件下取得成功，而不是仅仅关注失败。所提出的方法将功能共振分析方法（FRAM）与Bayesian Network相结合，以克服FRAM的定性局限性，并能够对性能变异性进行定量评估。通过集成补充技术（包括蒙特卡洛模拟和典型概率模型）进一步丰富了该框架。这个整体工具包能够采用严格且可扩展的方法来建模复杂运营环境中的不确定性和系统性可变性。该方法通过海港运营的案例研究来演示，海港运营是复杂社会技术系统的代表性例子。结果表明，集成的Safety-II知情框架改进了系统性风险的量化，并增强了管理现实世界环境中复杂性和不确定性的能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000165?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[回归中无监督域自适应的不确定性引导对齐]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013420?dgcid=rss_sd_all</link>
-      <description><![CDATA[在统计学和健康管理系统中，模型必须可靠地预测不同操作条件、设备制造商或退化模式下的资产健康状况。然而，为每个新的操作上下文获取标记数据通常是不切实际的，尤其是对于运行到故障的轨迹。这项工作通过回归的无监督域自适应解决了这一挑战，它可以从标记的源域到未标记的目标域的自适应。由于学习特征之间的固有相关性，传统的特征对齐方法（例如对抗性或矩匹配）在PHM回归任务中表现不佳，导致操作条件变化时预后预测不可靠。这项工作提出了不确定性引导对齐（UGA），这是一种将预测不确定性明确集成到特征对齐过程中的新型方法。UGA采用证据深度学习来预测目标值及其相关的不确定性，使用该不确定性信息来指导域对齐并规范嵌入空间。这直接满足了PHM的关键要求：（1）量化在新的操作条件下部署时预测的信心，（2）实现可靠的跨操作上下文部署。该方法在两个计算机视觉基准测试和电池荷电状态预测的真实PHM案例研究上得到了验证，其中域由不同的制造商（LG、Panasonics）和工作温度（-20 ℃至25 ℃）定义。在52项转移任务中，UGA的平均性能优于现有的最先进方法。我们的方法不仅提高了适应性能，而且还提供了经过良好校准的不确定性估计。该代码可在https://github.com/ismailnejjar/UGA上找到。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013420?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[具有知识图和因果推理的实体和数据驱动的缺陷诊断：在重力坝风险管理中的应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000402?dgcid=rss_sd_all</link>
-      <description><![CDATA[复杂环境下的重力坝作为安全关键基础设施，面临着多源缺陷演化的挑战，可靠性和风险管理。传统的诊断方法严重依赖于专家的判断，这限制了效率，并导致不完整的缺陷覆盖。因此，本研究提出一个整合本体建构、知识图表示与因果推理的面向可靠性的缺陷诊断架构。一个特定领域的本体建立形式化的缺陷概念，因果关系和监测指标。然后，使用大型语言模型从非结构化检测报告和监测数据构建缺陷知识图。此外，路径衰减系数驱动的传播机制和双向因果推理框架的介绍，使两个缺陷演化的前向推理和潜在原因的向后跟踪。应用结果表明，该方法能够识别出“局部帷幕破坏→扬压力异常→局部坝体开裂或破坏→结构破坏”等关键缺陷链，同时能够追踪到“水库长期冲刷→下游面钙质离析”等潜在风险，显著提高了大坝结构缺陷诊断的准确性和可靠性。除了大坝工程之外，该方法还适用于其他大型安全系统，为可靠性工程和系统安全提供了可推广的决策支持工具。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000402?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[维护时间和持续时间相关成本重叠的多状态系统的动态机会性维护优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000141?dgcid=rss_sd_all</link>
-      <description><![CDATA[分布式维护是一种具有成本效益的策略，用于降低维护成本和提高系统性能，特别是在多状态系统中。然而，大多数现有模型都关注基于时间或条件阈值的简单化维护触发，忽视了动态系统评估和共享设置成本之外的经济依赖性，例如重叠的维护持续时间和生产损失。本文提出了一种用于多状态系统中机会性维护的动态优化方法，结合了多个维护阶段和重叠的维护时间。该方法被建模为具有混合离散-连续状态和动作空间的无限视界马尔科夫决策过程。维护决策是通过集成纠正性更换、预防性维护和机会主义策略来做出的。我们使用多任务邻近策略优化框架来解决优化问题。在托管大型语言模型（LLM）的现实计算网络上的验证表明，我们的方法有效地平衡了维护成本和系统性能，为实际工程应用中的动态维护优化提供了创新的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000141?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于客观Bayesian方法的多分量应力-强度模型可靠性估计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000256?dgcid=rss_sd_all</link>
-      <description><![CDATA[多分量应力-强度模型在可靠性分析中有许多重要的应用。大多数现有的研究假设压力和强度遵循相同的分布，并采用最大似然（ML）估计进行可靠性推断。然而，这一假设限制了模型的适用性，因为要求相同的应力和强度分布通常没有物理依据。因此，本文讨论了在强度和应力变量属于不同分布的假设下多分量应力-强度模型的可靠性推断。应用客观Bayesian方法（OBM）框架根据推导出的Jeffreys和两个参考先验来推断模型参数和系统可靠性。为了保证可靠性推断的有效性，证明了模型参数后验分布的适当性质，并开发了Gibbs抽样算法。通过仿真将OBM与所考虑的方法进行比较，结果表明了所提出的OBM对于小样本量情况的优越性。最后，分析了一个实例，以说明问题。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000256?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[运营干扰下面向可靠性的冲突泊位分配鲁棒优化模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000335?dgcid=rss_sd_all</link>
-      <description><![CDATA[泊位分配问题涉及为集装箱码头的船舶分配服务时间和码头空间。确保在不确定的干扰下可靠、安全的港口运营变得越来越重要。本研究解决了考虑不可预测的船只抵达的泊位分配问题。可能的场景由不确定性集而不是概率分布来表示，而概率分布通常在决策之前不可用。引入基于冲突的可靠性衡量来量化调度稳健性和可恢复性。提出了一个两阶段冲突鲁棒优化模型，其中第一阶段确定基线停泊时间和位置，第二阶段最大限度地减少代表潜在运营故障的冲突。两个模型扩展，即扩展变体和风险约束变体，明确纳入了保守性、成本和安全性之间的可靠性权衡。开发了一种精确迭代算法来有效地求解模型。计算实验表明，所提出的算法优于几种基准方法。结果表明，运营成本的小幅增加可以大幅提高调度可靠性和系统弹性，而扩展的和风险约束的模型为平衡成本、可靠性和最坏情况下的性能提供了灵活的选择。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000335?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于货运代理中基于鲁棒动态Bayesian网络的系统风险分析的深度强化学习方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000062?dgcid=rss_sd_all</link>
-      <description><![CDATA[全球供应链的波动性日益加剧，需要转向稳健的、最坏情况的风险评估。这一要求对于充当全球贸易核心中介机构的货运代理行业尤其重要。作为轻资产协调员，货运代理面临着源自其合作伙伴的系统性风险。例如，一个小小的文件错误可能会升级为巨额滞期费，而波动不定的贸易航线上新承运人的可靠性往往会带来巨大的不确定性。传统的静态风险模型不足以解决这些动态且相互关联的挑战。本文解决了一个关键的研究问题：轻资产货运代理商如何在如此动态、不确定且相互关联的环境中进行稳健的、最坏情况的风险评估？为了解决这个问题，我们提出了一个量身定制的鲁棒动态Bayesian Network（R-DBN）框架。我们的方法结合了Noisy-MAX模型，以促进这个数据稀缺领域的参数化。然后，我们采用深度强化学习（DRL）算法来解决由此产生的多维非凸优化问题。我们的计算结果证明了两个主要贡献。首先，训练有素的DRL代理识别关键的最坏情况场景并学习可重复使用的策略。该政策能够对新问题实例进行近乎即时的风险评估，从而提供了显着的运营优势。其次，敏感性分析和案例研究提供了关键的管理见解：货运代理的内部运营弹性是减轻系统性风险的最关键因素，大大超过了外部中断的直接影响。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000062?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[TARD：在不断变化的操作条件下进行鲁棒故障检测的测试时间域自适应]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013341?dgcid=rss_sd_all</link>
-      <description><![CDATA[故障检测对于复杂的工业系统至关重要，可以通过区分异常和正常操作条件来防止故障并优化性能。随着状态监测数据的日益可用，数据驱动方法越来越多地应用于检测系统故障。然而，这些方法通常需要大型、多样化且具有代表性的训练数据集，以捕捉全方位的操作场景，而这一假设在实践中很少得到满足，尤其是在部署的早期阶段。工业系统通常在高度变化和不断变化的条件下运行，因此很难收集全面的培训数据。这种变异性导致训练和测试数据之间的分布变化，因为未来的操作条件可能会与之前观察到的情况不同。此类领域转移阻碍了传统模型的通用化，限制了它们跨时间和系统实例传输知识的能力，最终导致实际部署中的性能下降。为了解决这些挑战，我们提出了一种用于连续测试时间域自适应的新颖方法，旨在在存在域转移和训练数据代表性有限的情况下支持稳健的早期故障检测。我们提出的框架--鲁棒故障检测的测试时间域自适应（TARD）--明确地将输入特征分离为系统参数和传感器测量值。它采用专门的域适应模块，使用不同的策略适应每种输入类型，从而能够更有针对性、更有效地适应不断变化的操作条件。我们在来自多相流设施的两个现实世界案例研究中验证了我们的方法，在现实世界变化性下，与现有的域自适应方法相比，在故障检测准确性和模型稳健性方面都取得了重大改进。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013341?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多状态情况下的线性二维连续<em>k</em>型系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000311?dgcid=rss_sd_all</link>
-      <description><![CDATA[在连续k型系统的背景下，由于涉及的复杂性，多状态系统模型仅在一维情况下考虑，而不在二维情况下考虑。本文首次考虑多状态情况下的几个线性二维连续k型系统，作为连续k-满分n系统和l-连续k-满分n系统的推广。这些系统包括多状态线性连接-（k，r）-out-（m，n）：G系统、多状态线性连接-（k，r）-或-（r，k）-out-（m，n）：G系统、多状态线性l -连接-（k，r）-out-（m，n）：没有/有重叠的G系统，以及多状态线性l -连通-（k，r）-或-（r，k）-out-（m，n）：没有/有重叠的G系统。然后，我们以一种新的方式使用有限马尔科夫链嵌入方法（FMCIA）推导出它们的可靠性函数。我们还提供了几个例子来说明这里开发的所有结果。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000311?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于漂移扩散模型的3级人工自动驾驶系统协同驾驶中驾驶员过度信任和欠信任的概率风险不确定性评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000281?dgcid=rss_sd_all</link>
-      <description><![CDATA[对自动驾驶系统（ADS）的过度信任可能会引发严重的事故，而信任不足可能会降低系统的接受度和效率。因此，评估风险不确定性对于确保驾驶安全和提高系统性能至关重要。本研究旨在开发一种基于认知模型的框架，用于人类-ADS合作驾驶中的风险不确定性评估，从而能够精确跟踪过度信任和信任不足的风险。我们提出了一种适用于不同驾驶任务场景的基于漂移扩散模型（DDM）的风险不确定性评估方法。在三个ADS可靠性水平和五个任务难度水平下进行了驾驶模拟实验，产生了7200个行为观察结果，用于模型匹配和验证。分层Bayesian DDM表现出强大的预测性能，模拟分布与实验数据密切匹配。结果表明，较高的ADS可靠性显着缩短了信任决策时间，而任务难度的影响是非单调的。更重要的是，该模型成功量化了过度信任和不足信任的时变风险不确定性。这些发现凸显了拟议的框架是评估人类与ADS合作中时变风险不确定性的有效且可解释的工具，为实时风险预测和干预系统的未来开发提供了重要的模型基础。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000281?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[NGBoost-Naïve Bayes协作深度学习用于桥梁结构安全评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000463?dgcid=rss_sd_all</link>
-      <description><![CDATA[在结构安全评估中，基于机器学习（ML）的方法通常表现出强大的数据匹配能力，但很难有效处理结构响应数据中的不确定性。幸运的是，Bayesian深度学习（BDL）算法可以通过将Bayesian理论与ML算法集成来解决这一缺陷，从而将感知和推理任务统一在一个框架内。为此，提出了一种BDL框架，该框架结合了自然梯度增强（NGBoost）和天真Bayes理论。NGboost充当感知组件，捕获健康结构各个测量位置处的偏转之间的相关性，而Shapley添加解释（SHAP）则用于增强可解释性。在训练过程中，通过Bayesian优化（BO）客观确定NGBoost的最佳超参数。这些偏转的预测概率分布被视为铰链变量。通过应用三重标准差原则，定义了结构安全区间，以识别需要进一步评估的场景。然后利用基于天真Bayes理论的特定任务组件来评估结构状况。采用桥梁基准模型验证了有限训练样本下的安全评估性能。此外，还采用了连续箱梁桥来进一步验证拟议结构状况指标的有效性。随着结构退化的加剧，条件指标准确反映了退化变化。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000463?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[加拿大铁路危险品运输的数据驱动风险分析和管理框架：机器学习方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000414?dgcid=rss_sd_all</link>
-      <description><![CDATA[危险材料（危险品）的铁路运输对加拿大经济至关重要，但也存在重大的安全和环境风险。这项研究为铁路事故后危险品释放开发了一个数据驱动的预测风险评估框架，将多年事件记录与来自多个公共来源的运营、环境和地理变量整合在一起。受监督的机器学习模型（逻辑回归、决策树和神经网络）用于对铁路事故后的危险品释放结果进行分类。关键预测因素包括轨道类型、危险品级别、天气条件、列车配置和运营密度。性能最好的模型展示了具有竞争力的预测性能，AUC-ROC、F1评分和平衡准确性等指标表明尽管存在严重的阶级失衡，但行为一致，同时还提供了对关键风险因素的可解释见解。我们还开发了铁路危险品释放预测器，这是一个基于网络的工具，应用我们的模型来评估铁路事故中的危险品释放风险。调查结果为符合加拿大公共安全部应急管理框架的有针对性的缓解策略提供了信息，包括限制危险品车辆数量、实施预测性维护以及根据区域风险状况定制应急协议。通过将多源数据集成与高级建模相结合，这项研究推进了积极主动的、基于证据的决策，以实现更安全的危险品铁路运营。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000414?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于自适应阈值聚集因果发现的可解释多元机械设备剩余使用寿命预测方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S095183202600030X?dgcid=rss_sd_all</link>
-      <description><![CDATA[准确预测机械设备的剩余使用寿命（RUL）对于确保机械系统的安全性和可靠性至关重要。然而，现有的基于深度学习的RUL预测方法在处理复杂的多元时间序列数据时经常面临与可解释性和稳健性相关的挑战。为了解决这个问题，本文提出了一种基于自适应阈值聚集因果发现的多元RUL预测方法。具体来说，采用基于Bayesian信息准则的因果发现方法来探索变量之间的关系（即，传感器信号）跨多个样本，产生相应的因果图。然后设计自适应阈值机制来将这些样本级图聚合到突出关键依赖关系的全局结构中。在此基础上，结合前门和后门调整方法进行因果效应估计，生成因果效应矩阵。该矩阵与多元时间序列数据一起被输入到时间图卷积网络中，以捕获RUL预测的动态依赖性和因果关联。C-MAPSA数据集的实验结果表明，所提出的方法实现了13.3的平均RME，优于最先进的基准，并为RUL预测提供了更可靠和可解释的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S095183202600030X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:23:54 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[宽带随机激励下MDOF Duhem滞后系统的响应和可靠性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000426?dgcid=rss_sd_all</link>
-      <description><![CDATA[承受随机外载的工程结构经常表现出滞后非线性行为。分析具有滞后恢复力的系统的动态响应对于结构疲劳评估和可靠性评估至关重要。然而，滞后系统的理论分析仍然具有挑战性。由于滞后力不能直接用数学方法处理，因此通常需要等效线性化技术。这对于多自由度（MDOF）系统来说变得尤其困难，因为大多数现有的研究都集中在单自由度（SDOF）系统上，并且简化多自由度（MDOF）系统中滞后力的系统方法尚未建立。很少有研究推导出多自由滞后系统的解析等效表达。为了解决这一差距，本文提出了一种针对MDOF Duhem滞后系统的新颖策略。通过将等效方法与随机平均方法相结合，可以降低复杂的多自由滞后系统的维度，从而能够获得稳态响应和系统可靠性的分析解。通过两个数值例子来证明所提出的方法。在这两种情况下，都会推导出Duhem滞后恢复力的解析等效公式，从而得出静态响应的解析解。此外，第二个示例还提供了条件可靠性函数（RF）和平均首次通过时间（MFPT）的计算。对两个例子进行的蒙特卡洛模拟验证了理论预测，证实了所提出方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000426?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:23:50 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[通风气穴预测的边界约束非平稳高斯过程回归]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0951832026000384?dgcid=rss_sd_all</link>
       <description><![CDATA[这项研究的动机是在通风气穴实验中预测空腔长度的需要。给定自由速度和通气率，潜在的物理机制会产生信息界限和不同的脱落状态，这反过来又会导致系统中的非平稳性。本文提出了一种新型的非平稳有界高斯过程回归模型，该模型同时结合了非平稳性和界约束。我们采用高斯过程投影框架来强制约束，并提出有界高斯过程的混合来捕获非平稳性，其中每个组件建模与约束一致的局部平稳行为。模型参数和混合物成分通过两阶段程序估计。重要的是，提出的模型通过识别不同的成分揭示了潜在的物理机制，从而为投入产出关系提供更深入的科学见解。测试函数和通风气穴实验的数值结果验证了该方法的优越性。具体而言，所提出的方法有效捕捉通风腔结构的演变，从而显着增强高速水下航行器在复杂环境条件下的适应性和运行可靠性。代码可在https://github.com/tbai114/Nonstationary-bounded-Gaussian-process上获取。]]></description>
@@ -578,132 +704,6 @@
       <description><![CDATA[城市供水网络老化结构恶化和部分地区非线性需求激增的协同影响对供水安全构成双重威胁。当前的研究没有充分解决老化管道对网络运行可靠性的动态时间相关影响。本研究提出了部分需求激增场景下老化WDN的成本可靠性优化框架，集成了时间相关可靠性理论和进化算法。该框架采用基于高斯随机过程的腐蚀功率律模型来量化时间相关的管道失效概率，随后转化为恶化系数。这些系数与拓扑连通性、枢纽水力重要性和管道均匀性系数系统集成，以制定新型的时变可靠性指数（TRI）。全面评估管道应力强度，建立恶化压力边界，确保老化WDN的安全运行条件。在非主导排序遗传算法II（NSGA-II）架构中，为变速泵组的操作决策建立了帕累托前沿，同时最大限度地降低能源成本并最大限度地提高可靠性。实施Anytown和中国城市的大规模WDN揭示了重要的见解：TRI在量化WDN的长期时间相关系统可靠性方面提供了比传统可靠性指标更稳健的评估，基于压力阈值的预防性维护有效地缓解了与管道恶化相关的渐进可靠性下降。一个更关键的发现是，WDN布局和规模的差异导致部分需求激增，从而略微增强大规模老化WDN的可靠性，而小规模WDN则表现出较弱的可靠性。该框架提供了科学的WDN可靠性增强模式，可在老化的WDN中提供经济高效且高度可靠的运营解决方案。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000554?dgcid=rss_sd_all</guid>
       <pubDate>Mon, 19 Jan 2026 14:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[时间-Vertex机器学习，用于时间图信号中的最佳传感器放置：结构健康监测中的应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013523?dgcid=rss_sd_all</link>
-      <description><![CDATA[结构健康监测（SHM）在维护基础设施的安全性和弹性方面发挥着至关重要的作用。随着传感器网络规模和复杂性的增长，识别信息最丰富的传感器对于在不影响监控质量的情况下降低部署成本至关重要。虽然图信号处理（GPT）通过利用传感器节点之间的空间相关性显示出了希望，但传统方法通常忽视结构行为的时间动态。为了克服这一限制，我们提出了时间-极点机器学习（TVML），这是一种新型框架，集成了GMS、时间域分析和机器学习，通过识别代表性节点，在保留关键信息的同时最大限度地减少冗余，实现可解释且高效的传感器放置。我们在两个桥梁数据集上评估了拟议的方法，用于损伤检测和时变图形信号重建任务。结果证明了我们的方法通过提供稳健、自适应且高效的传感器放置解决方案来增强SHM系统的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013523?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[航程对海上事故的影响：航行因素和事故原因分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832026000049?dgcid=rss_sd_all</link>
-      <description><![CDATA[海上运输是全球贸易的基石，面临着海上事故的巨大风险，这可能导致严重的人员伤亡、巨额财产损失和广泛的环境破坏。本研究旨在通过系统分析各航程的航行特征和风险影响因素（RIF），提高对不同航程段（沿海水域、公海和限制水域）如何影响海上事故的了解。该研究采用树增强天真Bayes（TAN）模型来量化RIF对事故发生的概率影响，从而能够对传统方法无法捕捉的相互依赖性进行显式建模。进一步进行情景分析，以评估特定于路段的事故模式，并确定操作、环境和以人为本的因素在航行环境中的变化。结果揭示了共同和部门独特的根本原因，以及部门之间事故可能性显着变化的高风险过渡区。通过将航段分析与SEN结构集成，本文超越了先前的应用，并为基于风险的决策提供了可操作的见解。这些研究结果支持优化航线规划、设计特定于分段和以过渡为重点的安全措施，以及在不同运营环境中制定更有效的海上安全管理策略。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832026000049?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[非均匀非静态腐蚀下船体板的极限强度评估]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013614?dgcid=rss_sd_all</link>
-      <description><![CDATA[已经开发出一种先进的方法来评估船体板的极限强度，考虑到腐蚀过程的非均匀和非平稳行为。采用随机伽玛过程与随机场理论相结合来模拟腐蚀降解的时空变异性。使用非线性有限单元法生成并分析了具有不同腐蚀程度的时空随机板的大样本。此外，还进行了几项敏感性分析，以检查腐蚀降解不均匀性、相关长度、板配置和腐蚀进展中的潜在干扰等因素对极限强度估计的影响。与当前最先进的方法相比，所提出的方法对船板的最终强度提供了更现实的评估。该方法考虑了腐蚀的时间非平稳性、空间相关性和不均匀性，以及初始缺陷、腐蚀进展中可能的干扰以及板配置和边界条件的变化对极限强度评估的影响。此外，该框架保持了腐蚀过程的累积性和单调性，确保随着时间的推移物理一致的退化，并为船舶部件的时间相关可靠性分析和维护规划提供了一个强大的框架，促进在整个使用寿命内做出更明智的决策]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013614?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 15 Jan 2026 12:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于部分可观测马尔可夫决策过程的异构退化组件再分配维护]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013122?dgcid=rss_sd_all</link>
-      <description><![CDATA[我们考虑一种设备，其具有分布在不同空间位置的多个相同组件，这些组件承受不同的空间应力，因此表现出不同的退化率，例如热成型加热系统中的加热砖。将这些组件重新分配作为维护策略可能有助于提高设备可靠性并降低维护成本。考虑到异构加热瓦片，我们提出了一种基于部分可观测马尔可夫决策过程（POMDP）的动态维护策略，该策略通过整合组件重新分配机制和设备健康的概率推理来优化维护决策。建立了一个包含状态转换、动作空间和成本函数的POMDP模型来构建决策框架。理论分析揭示了最优策略的结构特性，并通过值迭代算法优化了维护决策。实验结果表明，该策略利用基于POMDP的概率状态推理和长期成本优化，实现了即时维护需求和长期系统成本之间的平衡，从而降低了整体运营成本并延长了设备寿命。与传统方法相比，它实现了维护成本的节约，证实了其在工业环境中的实际适用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013122?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[模型表示的部分梯度增强多输出稀疏多项式混沌展开方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013316?dgcid=rss_sd_all</link>
-      <description><![CDATA[多项式混沌展开（PCE）作为一种常用的替代模型来近似计算模型。提高代理模型性能的两种典型策略涉及整合不同的输出和模型梯度。然而，将这两种类型的信息合并到PCE方法中在计算工作方面提出了重大挑战。为了应对这一挑战，提出了一种部分梯度增强的多输出稀疏PCE（PGMSPCE）代理模型。受多元高斯过程的启发，通过结合多输出相关性和梯度信息，推导出了一种梯度增强的多输出稀疏PCE方法。推导了一种不动点迭代方案来估计最优超参数并诱导稀疏结构。此外，还开发了一种基于多输出导数敏感性指数的筛选策略，以评估输入变量对模型输出的影响。随后，选择与重要输入变量对应的部分梯度信息集来构建PGMSPCE，从而减少计算工作量。基准函数和工程实例验证了PGMSPCE的性能，这表明PGMSPCE在模型表示的效率和准确性之间进行了权衡。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013316?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[电力系统建设与运行中安全风险的人为风险耦合与智能解耦技术的有效性研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013791?dgcid=rss_sd_all</link>
-      <description><![CDATA[在电力系统建设和运行（PSC&amp;O）中，人为因素是事故的关键因素，经常与机器、环境和管理因素相结合，放大风险。为了应对这些挑战，必须利用与工业5.0相关的智能安全技术，从传统的人机系统过渡到以人为本的人机协作。本研究基于专家访谈和对2019年至2023年165起人员伤亡事故报告的分析，采用扎根理论在“人机环境管理”框架内系统地识别安全风险。采用N-K模型识别关键的人为因素-风险耦合模式，然后通过基于工作流的事故因果链分析对其进行检验，以详细说明人为因素相互作用和相应的技术需求。在此基础上，采用熵权和TOPSIS法对六种具有代表性的工业5.0智能安全技术的解耦效果进行了评估。结果表明，“人-管理”交互不仅是事故最常见的来源，而且涉及风险最高的子因素耦合。此外，多因素风险耦合通常比双因素耦合表现出更高的风险水平。在评估的技术中，智能检测和监测系统以及智能风险预警系统表现出最强的解耦性能，而智能控制技术的效果相对较差。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013791?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[考虑风险传播影响的风电-光伏储能混合动力系统风险评估：基于复杂网络的MIC-MsWOA-CatBoost框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013717?dgcid=rss_sd_all</link>
-      <description><![CDATA[风力光伏储能混合动力系统（WPSHPS）对全球能源转型至关重要，需要有效的风险评估来确保运行安全。本研究提出了一种新的风险评估框架，该框架整合了复杂网络、最大信息系数（MIC）、混合策略鲸鱼优化算法（MsWOA）和分类增强（CatBoost）模型。首先，构建一个复杂的风险因素网络，分析WPSHPS风险因素之间的传播影响，并通过PageRank算法确定因素权重。其次，采用MIC进行降维，选择MIC值超过0.6的风险因素作为模型输入。第三，MsWOA用于优化CatBoost模型的超参数，以提高预测性能。最后，该框架用真实的WPSHPS风险数据集进行了验证。对比实验表明，所提出的模型优于四个基线分类器，并且与三种群体智能算法相比表现出更优的收敛行为。结果表明，所提出的框架实现了高精度，在训练集和测试集上都超过了91%，证实了该框架作为WPSHPS风险评估和控制的可靠工具的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013717?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于GO方法和改进贝叶斯网络的闭环反馈系统可靠性分析新方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013730?dgcid=rss_sd_all</link>
-      <description><![CDATA[在工业工程领域，闭环反馈的利用在许多系统中都很普遍。当利用传统的可靠性方法来分析闭环反馈系统时，可能会出现逻辑回路或信号流回路等问题，导致计算不准确。为了解决这个问题，本文提出了一种新的可靠性分析方法。该方法采用GO方法建模，然后使用相应的映射规则将其转换为贝叶斯网络（BN）。创新性地将可靠性参数与转移熵（TE）理论相结合，创建了一个适用于数据稀缺场景的因果强度计算框架。这种方法的核心涉及准确量化循环中的因果强度，识别最薄弱的因果关系，并将其从静态逻辑依赖转化为动态时间关系。这种转换通过在特定时间范围内将静态回路网络分解为动态非循环网络，实现了可靠性的准确计算。一个特定形式的飞机燃料控制系统的案例研究可以说明所提出的方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013730?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于观察-决策-行动模型的民航风险事件应急决策模式分析]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013766?dgcid=rss_sd_all</link>
-      <description><![CDATA[航空紧急情况对飞行安全至关重要，但核心决策模式及其动态仍然没有得到实证研究。本研究利用大规模ASRS数据分析航空火灾场景中的决策模式及其与事件后果严重程度的关联。本研究整合了观察-决定-行动（ODA）决策模型，开发了一个数据驱动的框架，该框架结合了基于大语言模型（LLM）的深度语义提取、多级聚类和动态序列分析，系统地检查了300份ASRS火灾事件报告。这一多层次分析表明，应急决策特征与最终事件结果严重程度有很强的相关性。在要素层面，该研究确定了官方发展援助的核心决策要素，表明其功能重要性和协调性随着事件的严重程度而系统地变化。在模式层面，它揭示并描述了六种在操作上不同的官方发展援助决策模式，其使用频率与分类的严重程度密切相关。在动态层面，它表明决策过程通常从探索行为过渡到随后的收敛，这种收敛在高严重性事件结果中更为明显。总的来说，这些发现全面描述了航空应急决策模式如何与不同事件严重程度的情景相关联。本研究为高风险环境中的人类决策提供了实证理解，这对于优化飞行员培训和应急程序设计至关重要。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013766?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[供应链连锁故障的系统回顾与未来展望：建模与优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013493?dgcid=rss_sd_all</link>
-      <description><![CDATA[在级联故障的影响下，供应链网络中少数节点的故障会引发连锁反应，导致整个供应链系统受损甚至崩溃。级联故障已成为影响供应链稳定性和可靠性的关键瓶颈，引起了研究人员的广泛关注。为了更好地理解供应链级联故障的复杂机制，本文系统地回顾了当前的研究进展，涵盖了网络度量、故障触发因素、建模方法和优化策略。最后，本文强调了现有研究在网络耦合、模型真实性、恢复优化和风险预测方面的挑战，并提出了未来的研究方向，为缓解供应链中的级联故障提供了理论支持和决策指导。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013493?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[主震余震序列下高层混凝土结构的概率风险和恢复力评估：案例研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013742?dgcid=rss_sd_all</link>
-      <description><![CDATA[余震加剧了结构破坏，提高了地震风险。现有的高层混凝土结构研究主要集中在主震上，忽视了余震的累积效应。本文提出了一种综合分析方法，用于评估遭受主震余震序列的高层混凝土结构的概率风险和恢复力。以一座高度超过400米的钢筋混凝土电视塔为例，基于Park-Ang损伤模型对其累积结构损伤进行了定量分析。利用Copula函数构建主震余震序列的联合地震危险面，系统地揭示了余震对结构风险的显著放大效应。此外，从多个维度进行了全面的弹性评估，包括功能损失和恢复时间。结果表明，与单独主震相比，主震余震序列下结构的地震风险显著增加，风险水平达到单独主震的2.0至3.5倍。尽管余震加剧了结构功能损失并显著延长了恢复期，但对比分析表明，该塔的主体结构具有很强的损伤容限和恢复能力。该案例研究强调了在高层混凝土结构的抗震设计和维护中充分考虑余震效应的必要性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013742?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于系统动力学的化工园区多米诺骨牌事故预防安全投资决策优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013778?dgcid=rss_sd_all</link>
-      <description><![CDATA[化工园区的多米诺效应可能会导致严重的事故和巨大的经济损失。关于预防CIP多米诺骨牌效应的安全投资，传统方法在定量分析、动态控制和预测能力方面存在不足。基于蒙特卡洛模拟、G1改进熵权法和系统动力学（SD）理论，本研究提出了一种安全投资优化决策方法，以减轻CIP中的多米诺骨牌风险。此外，还计算了CIP多米诺骨牌事故可能造成的经济损失，以及安全投资和降低多米诺骨牌风险，为决策者提供了指导。结果表明，安全评估投资是降低多米诺骨牌风险的最重要因素，其次是应急管理、防护设备和安全培训投资。根据SD模拟获得的最佳比例提高安全投资，大大降低了CIP中的多米诺骨牌风险。此外，使用中国湖南省CIP的数据验证了该模型的可行性。所提出的优化决策模型可以动态预测各种投资策略下的结果，使管理者能够精确分配资源，有效预防或减轻多米诺骨牌风险。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013778?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[DB-DDPG-ET：地铁站台上下车过程中人群安全的新型风险评估框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013559?dgcid=rss_sd_all</link>
-      <description><![CDATA[地铁站台门口区域的乘客之间总是会发生动态互动，而用于监控拥堵的监控视频则存在盲点。乘客拥挤是最直接的指标，不足以准确捕捉由交织的乘客轨迹和方向冲突引起的非线性拥堵。为了量化上下车过程中的拥挤风险，本文提出了一种综合风险评估框架（DB-DDPG-ET），该框架将双分支DDPG算法与熵加权TOPSIS方法相结合。首先，开发了一个双分支DDPG模型来提取乘客在上下车过程中的运动特征。其次，引入了三个基于熵的指标——位置熵、速度熵和角度熵来量化拥挤无序。最后，采用熵加权TOPSIS方法将三个基于熵的指标综合成一个统一的综合熵驱动障碍指数（IEDDI），表示乘客的整体运动障碍。结果表明，IEDDI与传统密度度量之间的Spearman秩相关系数为0.8986（p=0.0149），表明它们之间存在显著的单调关系，并表明在识别潜在拥堵和异常行为方面具有更高的灵敏度和实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013559?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[人工智能驱动的医学影像设备预测性维护：基于IoMT数据的深度学习框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013511?dgcid=rss_sd_all</link>
-      <description><![CDATA[医学成像设备是现代诊断的重要工具，但其可靠性和操作安全性仍然是医疗机构的关键问题。传统的定期维护往往无法预测突然的异常，导致计划外停机、图像质量受损和辐射相关风险增加。虽然人工智能（AI）在临床诊断中显示出了希望，但它在成像系统的预测性维护（PdM）中的作用仍未得到充分探索。本研究提出了一种称为门控融合网络（GFN）的PdM框架，用于使用来自医疗物联网（IoMT）的实时传感器数据的计算机断层扫描（CT）设备。该框架有助于检测和预测两种关键的X射线管异常：过热和电弧。它集成了基于卷积神经网络（CNN）的去噪模块、结合双向长短期记忆（BiLSTM）和Transformer编码器的门控融合块以及分类头。2019年至2023年间，华西医院的CT设备收集了一个包含200多万次暴露的大规模数据集。GFN在20分钟窗口内预测过热的F1得分为0.958，在大约提前1到2天预测电弧的F1得分是0.632。这些发现突显了基于人工智能的物联网框架在降低运营风险和提高关键医疗设备可靠性方面的潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013511?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[级联突发事件下弹性电力系统的增强电压稳定性评估和补救措施方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013535?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着现代电力系统日益互联和复杂，它们对连续突发事件的敏感性已成为一个关键的可靠性问题。传统的N-1可靠性标准评估单个组件故障下的系统安全性，不足以解决连续中断带来的复合风险。本研究提出了一种基于级联应急（N-1-1）标准的综合框架，用于评估系统对两个非同时发生的组件故障的弹性。在首次停电后，提出了一种结合发电机重新调度和最佳甩负荷的纠正策略，以降低连锁故障的风险。甩负荷方法采用发电机停运敏感系数（GOSF）来快速准确地估计发电机停运对线路流量的影响，从而在没有大量通信开销的情况下做出快速、分布式和物理接地的决策。为了增强电压稳定性评估，引入了改进的电压稳定性指数（IVSI），在量化系统在应力条件下接近电压崩溃的程度方面提供了更高的准确性。该框架在N-1和顺序N-1突发事件下在IEEE 39和118总线系统上进行了验证，表明所提出的IVSI有效地量化了级联漏洞并指导了纠正控制措施。仿真结果证实了电压稳定性、运行可靠性和整体系统弹性的显著改善，强调了所提出的方法在N-1-1情景下的预防性控制的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013535?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[考虑地面风险和噪声缓解的城市空中交通飞行路径规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013754?dgcid=rss_sd_all</link>
-      <description><![CDATA[电动垂直起降（eVTOL）技术的快速发展使城市空中交通（UAM）成为解决城市交通拥堵的有前景的解决方案。然而，由于公众对人口稠密地区的碰撞风险和噪音的担忧，可靠的eVTOL操作仍然具有挑战性。因此，设计高效、安全、低噪音的飞行路径至关重要。本文研究了考虑噪声和风险的UAM路径规划。我们提出了一个全面的地面风险评估模型和一个为低空eVTOL作战量身定制的噪声评估模型。除此之外，还开发了一个混合整数规划模型，以优化eVTOL路线的风险和噪声性能指标。为了解决这个问题，我们提出了一种两阶段路径规划方法，该方法首先采用量身定制的双向风险a*（BiRA*）算法来生成风险感知路径，然后采用噪声缓解路径优化（NMPR）算法来进一步减少噪声暴露。在合成和真实世界实例上的实验证明了我们的方法的准确性、效率和有效的风险噪声权衡。除了这些场景外，解决方案框架还可以扩展到处理时间约束和动态障碍，从而实现无冲突、低风险和低噪声的多eVTOL操作。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013754?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于双重可解释信念规则库的复杂系统健康状态评估方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013651?dgcid=rss_sd_all</link>
-      <description><![CDATA[复杂系统的健康评估是确保工程稳定运行的关键。其核心是为决策者提供可靠的评估依据。作为一种可解释的专家系统，信念规则库（BRB）在复杂系统的健康评估中得到了广泛的应用。然而，现有的研究主要集中在参数可解释性上，对结构可解释性的系统探索仍然不足，这在一定程度上限制了BRB模型在高风险领域的实用性和可靠性。本文提出了一种基于双重可解释性（DI-BRB）的BRB健康评估方法，以构建一个更可靠、可高度解释的BRB模型。首先，为了解决结构可解释性问题，提出了基于聚类集成和属性相关性的模型设计原则，以构建更清晰、更合理的模型结构。其次，引入了一种使用综合平衡度量的模型优化方法，以平衡建模精度和双重可解释性。最后，基于双重可解释性分析构建了DI-BRB健康评估模型。实验证明，DI-BRB在健康评估中具有较高的评估精度，并通过明确的结构和参数解释增强了工程决策的可信度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013651?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[智能设备嵌入式系统软硬件故障交互的耦合故障模式及影响分析方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0951832025013833?dgcid=rss_sd_all</link>
-      <description><![CDATA[故障模式与影响分析（FMEA）是一种有效的风险预防和控制方法，已被广泛应用于各个领域，以识别潜在故障并提高系统可靠性。然而，传统的FMEA方法通常孤立地分析软件和硬件故障，因此很难充分识别或评估硬件-软件交互对系统安全的影响。为了解决这一局限性，本文提出了一种考虑硬件-软件故障耦合（HSFC-FMEA）的FMEA方法，重点研究了这种耦合对风险优先级（RPN）的影响。通过结合哈达玛积和基于幂指数的内积/外积映射，构建了故障模式耦合矩阵和计算模型，以计算耦合故障模式的RPN。此外，使用稀疏矩阵压缩，HSFC-FMEA方法可以扩展到具有嵌入式系统之外的集成硬件软件功能的大规模系统。对智能充气控制装置的案例研究证明了该方法的有效性。通过在严重性、发生率和可检测性方面结合软件和硬件故障模式之间的耦合效应，它为集成系统中的风险评估引入了一个新的维度，从而解决了孤立分析引起的耦合故障模式的监督问题。与经典方法的比较进一步证实了HSFC-FMEA的适应性和有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0951832025013833?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

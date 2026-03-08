@@ -7,144 +7,143 @@
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [动态SCGE-NEG建设可靠性：交通升级、工作区运营和区域劳动力流动的概率决策支持](https://www.sciencedirect.com/science/article/pii/S0951832026000840?dgcid=rss_sd_all)
-     * [利用因果神经网络对船舶检验数据与海上事故的因果分析](https://www.sciencedirect.com/science/article/pii/S0951832026000712?dgcid=rss_sd_all)
-     * [供水管道故障预测的知识-数据融合：一种物理信息和数据驱动的混合方法](https://www.sciencedirect.com/science/article/pii/S0951832026000797?dgcid=rss_sd_all)
+     * [利用改进的博弈论和动态变权理论对运营地铁盾形隧道进行安全评估](https://www.sciencedirect.com/science/article/pii/S0951832026000955?dgcid=rss_sd_all)
+     * [集成真实图和虚拟图：离散制造系统中异常检测的双联合网络方法](https://www.sciencedirect.com/science/article/pii/S0951832026000621?dgcid=rss_sd_all)
+     * [车辆运动学波动在高速公路碰撞预测和分析中的作用：从道路特征到碰撞的两部分框架](https://www.sciencedirect.com/science/article/pii/S0951832026001134?dgcid=rss_sd_all)
    </details>
 
  - Information_fusion [https://rss.sciencedirect.com/publication/science/15662535](https://rss.sciencedirect.com/publication/science/15662535) -> [Information_fusion](rss/Information_fusion.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [SU-RMT：医学图像分割的语义表示和结构细节建模的桥梁](https://www.sciencedirect.com/science/article/pii/S1566253526000618?dgcid=rss_sd_all)
-     * [PGSC：非平衡热力学的梯度稀疏通讯优化准则](https://www.sciencedirect.com/science/article/pii/S1566253526000679?dgcid=rss_sd_all)
-     * [低资源语言的大型多模式模型：调查](https://www.sciencedirect.com/science/article/pii/S1566253526000680?dgcid=rss_sd_all)
+     * [多传感器和马尔科夫衰落环境下折扣平均加权标准的多通道接入和功率控制](https://www.sciencedirect.com/science/article/pii/S1566253526000709?dgcid=rss_sd_all)
+     * [具有连体双边差异网络和文本引导图像特征增强的视觉语言模型用于CT血管造影预测急性缺血性中风结局](https://www.sciencedirect.com/science/article/pii/S1566253526000746?dgcid=rss_sd_all)
+     * [用于模态缺失会话理解的具有多级对比度的无监督多模态图完备网络](https://www.sciencedirect.com/science/article/pii/S156625352600076X?dgcid=rss_sd_all)
    </details>
 
  - Information_sciences [https://rss.sciencedirect.com/publication/science/00200255](https://rss.sciencedirect.com/publication/science/00200255) -> [Information_sciences](rss/Information_sciences.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [图像超分辨率Transformer的全局上下文建模](https://www.sciencedirect.com/science/article/pii/S0020025526000666?dgcid=rss_sd_all)
-     * [两阶段信任风险调整的多属性群体共识决策](https://www.sciencedirect.com/science/article/pii/S0020025526000939?dgcid=rss_sd_all)
-     * [使用贝塞尔曲线对MR图像进行可解释结构建模：超越深度学习的几何感知范式](https://www.sciencedirect.com/science/article/pii/S0020025526000782?dgcid=rss_sd_all)
+     * [一种避免在归因的异类信息网络上进行社区搜索搭便车的方法](https://www.sciencedirect.com/science/article/pii/S0020025526000824?dgcid=rss_sd_all)
+     * [使用加权l1冲突度量进行具有多可信度证据的可靠性评估的新融合方法](https://www.sciencedirect.com/science/article/pii/S0020025526001040?dgcid=rss_sd_all)
+     * [双重异类下通过知识蒸馏实现通信高效的去中心化联邦图学习](https://www.sciencedirect.com/science/article/pii/S0020025526001234?dgcid=rss_sd_all)
    </details>
 
  - IJMTM [https://rss.sciencedirect.com/publication/science/08906955](https://rss.sciencedirect.com/publication/science/08906955) -> [IJMTM](rss/IJMTM.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [支撑支架的印刷机构：双尺度散热框架，控制激光粉末床融合中的印刷工艺、热传递和成型性能](https://www.sciencedirect.com/science/article/pii/S089069552600012X?dgcid=rss_sd_all)
      * [编辑委员会](https://www.sciencedirect.com/science/article/pii/S089069552600009X?dgcid=rss_sd_all)
      * [用于制造的机器人末端效应器：最近的发展和未来的研究挑战](https://www.sciencedirect.com/science/article/pii/S0890695526000040?dgcid=rss_sd_all)
-     * [超快电子显微镜和原子模拟揭示费米激光诱导纳米材料转移中的热应力波驱动机制](https://www.sciencedirect.com/science/article/pii/S0890695526000039?dgcid=rss_sd_all)
    </details>
 
  - MSSP [https://rss.sciencedirect.com/publication/science/08883270](https://rss.sciencedirect.com/publication/science/08883270) -> [MSSP](rss/MSSP.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [编辑委员会](https://www.sciencedirect.com/science/article/pii/S0888327026001160?dgcid=rss_sd_all)
      * [“弱磁激励下钢管环缝远场磁信号响应的定量研究”的更正。[机械。系统。信号处理。240（2025）113404]](https://www.sciencedirect.com/science/article/pii/S088832702600107X?dgcid=rss_sd_all)
-     * [使用自然观察过滤器和平均过滤指数的新型在线研磨颤动检测](https://www.sciencedirect.com/science/article/pii/S0888327026000622?dgcid=rss_sd_all)
-     * [2-DOF自激和强制联合激励非线性机械谐振器的同步换相机制](https://www.sciencedirect.com/science/article/pii/S0888327026000841?dgcid=rss_sd_all)
+     * [具有独立可调的惯性和衰减的新型可变惯性衰减器](https://www.sciencedirect.com/science/article/pii/S0888327026001111?dgcid=rss_sd_all)
    </details>
 
  - Nature_machine_intelligence [https://www.nature.com/natmachintell.rss](https://www.nature.com/natmachintell.rss) -> [Nature_machine_intelligence](rss/Nature_machine_intelligence.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [通过引导树搜索提出和求解奥林匹克几何](https://www.nature.com/articles/s42256-025-01164-x)
-     * [使用生物学信息双分支Transformer模拟药物诱导的细胞扰动反应](https://www.nature.com/articles/s42256-025-01165-w)
-     * [附录：解决数据偏差提高结合亲和力预测的普遍性](https://www.nature.com/articles/s42256-025-01174-9)
+     * [视觉语言模型在神经心理学测试中显示出广泛的视觉缺陷](https://www.nature.com/articles/s42256-026-01179-y)
+     * [关于学术出版中生成人工智能怀疑的令人不安的上升](https://www.nature.com/articles/s42256-026-01178-z)
+     * [使用图Transformer识别空间单单元级交互](https://www.nature.com/articles/s42256-026-01191-2)
    </details>
 
  - JMS [https://rss.sciencedirect.com/publication/science/02786125](https://rss.sciencedirect.com/publication/science/02786125) -> [JMS](rss/JMS.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [对“ChatNC：通过大型语言模型和实时数据检索增强代进行对话机监控”[J Manuf Syst 79（2025）504-514]](https://www.sciencedirect.com/science/article/pii/S0278612526000208?dgcid=rss_sd_all)
-     * [智能制造系统的综合数字孪生模型的自动提取](https://www.sciencedirect.com/science/article/pii/S0278612526000221?dgcid=rss_sd_all)
-     * [智能服装制造的基于物理信息的嵌入式智能框架](https://www.sciencedirect.com/science/article/pii/S0278612526000269?dgcid=rss_sd_all)
+     * [利用上下文感知的认知路径图阐明工业焊接检测中的视觉隐性知识](https://www.sciencedirect.com/science/article/pii/S0278612526000300?dgcid=rss_sd_all)
+     * [质量不确定性下基于分解的并行机调度优化方法](https://www.sciencedirect.com/science/article/pii/S0278612526000312?dgcid=rss_sd_all)
+     * [集成数据和领域知识实现预测智能：智能制造中DKF-SYS的全面回顾](https://www.sciencedirect.com/science/article/pii/S0278612526000324?dgcid=rss_sd_all)
    </details>
 
  - RCIM [https://rss.sciencedirect.com/publication/science/07365845](https://rss.sciencedirect.com/publication/science/07365845) -> [RCIM](rss/RCIM.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [VL-GRiP 3：利用视觉语言模型进行自主机器人3D抓取的分层管道](https://www.sciencedirect.com/science/article/pii/S0736584526000232?dgcid=rss_sd_all)
-     * [8轴机器人辅助DED中喷嘴方向的基于约束的冗余解析：旋转部件的案例](https://www.sciencedirect.com/science/article/pii/S073658452600027X?dgcid=rss_sd_all)
-     * [BrepHGNet：一种用于特征识别的面部-顶点交互异类图神经网络](https://www.sciencedirect.com/science/article/pii/S073658452600030X?dgcid=rss_sd_all)
+     * [将智能眼镜和智能手套集成到混合组装/拆卸系统中：STPA驱动的半自动风险管理工具](https://www.sciencedirect.com/science/article/pii/S0736584526000323?dgcid=rss_sd_all)
+     * [使用大型语言模型的多智能体制造系统中的自适应任务规划和协调](https://www.sciencedirect.com/science/article/pii/S0736584526000244?dgcid=rss_sd_all)
+     * [复杂产品的智能装配一致性验证：旋转不变的多视图视觉框架](https://www.sciencedirect.com/science/article/pii/S0736584526000268?dgcid=rss_sd_all)
    </details>
 
  - Computers_in_industry [https://rss.sciencedirect.com/publication/science/01663615](https://rss.sciencedirect.com/publication/science/01663615) -> [Computers_in_industry](rss/Computers_in_industry.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [TropicCal：用于物联网增强流程的多视角跟踪集群](https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all)
-     * [FarrowSight：一个用于产房早期小猪生长表现预测的智能系统](https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all)
-     * [编辑委员会](https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all)
+     * [用于结构可靠性评估的集成学习增强的协同代理建模方法和改进的粒子群优化](https://www.sciencedirect.com/science/article/pii/S0166361526000084?dgcid=rss_sd_all)
+     * [张力混凝土铁路桥梁基础设施动态分析和生成式设计的自动化](https://www.sciencedirect.com/science/article/pii/S0166361526000072?dgcid=rss_sd_all)
+     * [使用知情机器学习和图注意力网络对流程工业时间序列进行异常检测](https://www.sciencedirect.com/science/article/pii/S0166361526000126?dgcid=rss_sd_all)
    </details>
 
  - Advanced_engineering_informatics [https://rss.sciencedirect.com/publication/science/14740346](https://rss.sciencedirect.com/publication/science/14740346) -> [Advanced_engineering_informatics](rss/Advanced_engineering_informatics.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [“二氧化碳对通过行为克隆进行自动驾驶的卷积网络模型训练的影响”的更正[Adv. Eng. Inform 56（2023）101968]<sub></sub>](https://www.sciencedirect.com/science/article/pii/S1474034625006457?dgcid=rss_sd_all)
-     * [社论：EG-ICE研讨会2024：建筑环境工程的数据和智能方法](https://www.sciencedirect.com/science/article/pii/S1474034625006603?dgcid=rss_sd_all)
-     * [社论：建筑中的人机互动](https://www.sciencedirect.com/science/article/pii/S1474034625006809?dgcid=rss_sd_all)
+     * [PE-MPINN：参数增强多物理信息神经网络在空间变化土壤渗流-固结耦合问题数据同化中的应用](https://www.sciencedirect.com/science/article/pii/S1474034626000686?dgcid=rss_sd_all)
+     * [在运动控制的端到端强化学习中将视觉-主体感觉与Mamba 2融合](https://www.sciencedirect.com/science/article/pii/S1474034626000819?dgcid=rss_sd_all)
+     * [FRA和SwinLCGnet框架二维图像深度融合诊断Transformer线圈故障](https://www.sciencedirect.com/science/article/pii/S1474034626000534?dgcid=rss_sd_all)
    </details>
 
  - Knowledge_based_systems [https://rss.sciencedirect.com/publication/science/09507051](https://rss.sciencedirect.com/publication/science/09507051) -> [Knowledge_based_systems](rss/Knowledge_based_systems.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [UECNet：利用区域级提示进行暴露纠正的统一框架](https://www.sciencedirect.com/science/article/pii/S0950705126001085?dgcid=rss_sd_all)
-     * [利用语义感知元路径扩散和双重优化增强异类图学习](https://www.sciencedirect.com/science/article/pii/S0950705126001280?dgcid=rss_sd_all)
-     * [具有非平稳时间序列动态概念漂移抑制的可推广异常检测框架](https://www.sciencedirect.com/science/article/pii/S0950705126001231?dgcid=rss_sd_all)
+     * [FedPCAN：联邦学习中动态黑盒后门攻击的鲁棒缓解](https://www.sciencedirect.com/science/article/pii/S095070512600208X?dgcid=rss_sd_all)
+     * [DBCA-RTI：基于双向自适应门控交叉注意机制的双分支多模式框架，用于药物与目标相互作用预测](https://www.sciencedirect.com/science/article/pii/S0950705126002066?dgcid=rss_sd_all)
+     * [用于CT的频率-空间互补注意网络](https://www.sciencedirect.com/science/article/pii/S095070512600211X?dgcid=rss_sd_all)
    </details>
 
  - Nature [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature](rss/Nature.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [适用于可穿戴技术的可弯曲人工智能芯片](https://www.nature.com/articles/d41586-026-00037-6)
-     * [肺部的再生能力能否帮助逆转疾病？](https://www.nature.com/articles/d41586-026-00107-9)
-     * [子部门XZ-74的不幸压印](https://www.nature.com/articles/d41586-026-00126-6)
+     * [肠道免疫细胞推动大脑帕金森病的发展](https://www.nature.com/articles/d41586-026-00284-7)
+     * [驱逐通知](https://www.nature.com/articles/d41586-026-00138-2)
+     * [大西洋洋流无视冰河时代](https://www.nature.com/articles/d41586-026-00324-2)
    </details>
 
  - Science_podcast [https://feeds.megaphone.fm/AAAS8717073854](https://feeds.megaphone.fm/AAAS8717073854) -> [Science_podcast](rss/Science_podcast.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
+     * [设计更安全的足球头盔以及药物过量背后的科学](https://www.science.org/doi/10.1126/science.z8curin)
      * [保护宇航员免受宇宙射线的侵害，并规划化石燃料的终结](https://www.science.org/doi/10.1126/sciences.z90r72y)
      * [通过音爆追踪坠落的太空碎片，并从自己的微生物中喝醉](https://www.science.org/doi/10.1126/science.science.zny4ts2)
-     * [扭转加拉帕戈斯群岛的生态破坏，最终绘制南极洲表面地图](https://www.science.org/doi/10.1126/science.zzphu10)
    </details>
 
  - Science_signaling [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=signaling) -> [Science_signaling](rss/Science_signaling.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [一个充满敌意的环境](https://www.science.org/doi/abs/10.1126/scisignal.aef7044?af=R)
-     * [表皮生长因子受体激活使三叉神经LMA受体增敏，促进口腔癌疼痛和吗啡镇痛耐受](https://www.science.org/doi/abs/10.1126/scisignal.adt3026?af=R)
-     * [T细胞极化和NMat激活是硬度依赖性的，并受到通道PIEZR 1和ORTI 1的差异调节](https://www.science.org/doi/abs/10.1126/scisignal.adt9566?af=R)
+     * [解码溃疡性结肠炎中的细胞因子网络以确定致病机制和治疗靶点](https://www.science.org/doi/abs/10.1126/scisignal.adt0986?af=R)
+     * [胎儿滋养层细胞标志物HLA-G通过受体KIR 2DL 4激活原代NK细胞中的I型干扰素反应](https://www.science.org/doi/abs/10.1126/scisignal.adv2400?af=R)
    </details>
 
  - Science_translational_medicine [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm) -> [Science_translational_medicine](rss/Science_translational_medicine.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [SREBP-1增加葡萄糖吸收以促进肿瘤对髓鞘抑制的抵抗](https://www.science.org/doi/abs/10.1126/scitranslmed.adx6873?af=R)
-     * [一种靶向AVIL的一流小分子抑制剂在胶质母细胞瘤临床前模型中表现出安全性和抗肿瘤功效](https://www.science.org/doi/abs/10.1126/scitranslmed.adt1211?af=R)
-     * [皮肤热动力学和下视丘温敏感性将REM睡眠和发作性睡病的恶化区分开来](https://www.science.org/doi/abs/10.1126/scitranslmed.adu8570?af=R)
+     * [研究文章“钙调素抑制剂改善Diamond-Blackfan贫血的红细胞生成”的Erratum](https://www.science.org/doi/abs/10.1126/scitranslmed.aef4957?af=R)
+     * [1期和临床前研究揭示了鼻内递送流感抗体CR 9114的安全性、药代动力学和有效性](https://www.science.org/doi/abs/10.1126/scitranslmed.adz1580?af=R)
+     * [针对IGHPV 4 -34 B细胞受体的嵌入抗原受体T细胞特异性消除肿瘤和自身免疫B细胞](https://www.science.org/doi/abs/10.1126/scitranslmed.adr9382?af=R)
    </details>
 
  - Science_immunology [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciimmunol](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciimmunol) -> [Science_immunology](rss/Science_immunology.xml)
    <details>
      <summary>Latest Updates (Click to expand)</summary>
 
-     * [表皮生长因子受体控制肺2型对吸入过敏原反应的性别差异](https://www.science.org/doi/abs/10.1126/sciimmunol.adk1673?af=R)
-     * [T细胞的短暂破坏有助于损害老年中心动力学和记忆反应](https://www.science.org/doi/abs/10.1126/sciimmunol.adu9280?af=R)
-     * [PTMA保护线粒体完整性，以维持CD 8 T细胞的代谢功能和抗肿瘤活性](https://www.science.org/doi/abs/10.1126/sciimmunol.adz7275?af=R)
+     * [甲醛和寻求：有毒的甲醛导致肿瘤渗透T细胞衰竭](https://www.science.org/doi/abs/10.1126/sciimmunol.aef9196?af=R)
+     * [斑点的阴暗面：黑素体如何削弱T细胞活性](https://www.science.org/doi/abs/10.1126/sciimmunol.aef9200?af=R)
+     * [单细胞分析揭示溃疡性结肠炎中不同的γδ T细胞亚群](https://www.science.org/doi/abs/10.1126/sciimmunol.adx8474?af=R)
    </details>
 
  - Science_robotics [https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=scirobotics](https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=scirobotics) -> [Science_robotics](rss/Science_robotics.xml)

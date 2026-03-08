@@ -4,7 +4,28 @@
     <title>ScienceDirect出版物：制造系统杂志</title>
     <link>https://www.sciencedirect.com/journal/journal-of-manufacturing-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 30 Jan 2026 13:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:34:05 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[利用上下文感知的认知路径图阐明工业焊接检测中的视觉隐性知识]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000300?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业智能制造对人类专家经验的深刻依赖已成为一个关键瓶颈，因为传统方法难以有效地计算专家视觉直觉中固有的深层、上下文化的隐性知识。为了应对这一挑战，本文提出了一种系统的方法论，用于专家视觉隐性知识的显式化和上下文化建模。首先，为了解决专家直觉形式化的基本挑战，这项工作定义了视觉隐性知识及其从隐性直觉到显式规则的转换路径，并引入了Weld-VTK，这是一种用于焊接检测的多模式数据集，提供了坚实的数据基础。其次，提出了一种显式分析方法，从非结构化的原始视觉行为中提取结构化注意力线索，提供建立上下文关联所需的关键结构化输入。最后，为了对专家的认知过程进行建模，引入了视觉思维链，利用大型语言模型来建立线索之间的上下文语义关联。然后聚合这些链以构建分层的上下文感知认知路径图，完全重建专家的认知策略。定量结果表明，所提出的方法优于基线模型，专家评估证实了其在因果有效性和诊断精确度方面的出色表现。这种方法为专家视觉隐性知识的上下文化建模和结构化显化提供了一种新的范式。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000300?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[质量不确定性下基于分解的并行机调度优化方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000312?dgcid=rss_sd_all</link>
+      <description><![CDATA[我们解决了一个并行机调度问题，其中每个作业处理后的质量是不确定的，但取决于作业和分配给它的机器。在这个问题中，在机器上的不同工作系列之间切换需要设置，这会产生额外的时间，而且工作有截止日期。目标是最大限度地减少设置数量，同时确保所有作业满足其截止日期和质量限制。这个问题的动机是真实的芯片制造环境，我们提出了一种基于分支检查的精确算法，将作业分配和排序分开。主问题将作业分配给机器，同时最小化设置并确保质量约束，而子问题则在满足截止日期约束的同时优化排序。为了提高计算效率，我们引入了基于模式的方法，可以消除多余的作业分配并限制不必要的搜索。计算实验表明，所提出的算法优于整规划模型、调度规则和遗传算法。现实世界的案例研究进一步验证了其在实际芯片制造环境中的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000312?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:33:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[集成数据和领域知识实现预测智能：智能制造中DKF-SYS的全面回顾]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000324?dgcid=rss_sd_all</link>
+      <description><![CDATA[数据和知识融合驱动的预测模型（DKF-SYS）因其在复杂制造场景中实现高准确性和鲁棒性的能力而受到广泛关注。通过将数据驱动学习与物理和领域知识集成，DKF-SYS能够对非线性、多源和高度不确定的过程进行更可靠的建模和预测。该综述系统地回顾了DKF-SYS在智能制造领域的最新进展，重点关注其建模框架、在失效和疲劳寿命、切割力和残余应力、加工质量和最佳加工参数方面的代表性应用。此外，还讨论了当前的局限性和未来的研究方向，以强调关键的挑战和机遇。总体而言，这项研究得出的结论是，数据驱动方法与领域知识的集成是开发更可靠、可解释和自适应的智能制造预测系统的重要途径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000324?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 09 Feb 2026 21:33:47 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[对“ChatNC：通过大型语言模型和实时数据检索增强代进行对话机监控”[J Manuf Syst 79（2025）504-514]]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0278612526000208?dgcid=rss_sd_all</link>
