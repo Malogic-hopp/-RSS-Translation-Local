@@ -4,7 +4,182 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 09 Feb 2026 21:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:33:13 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000633?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年8月资料来源：机器人与计算机集成制造，第100卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000633?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于实时装配验证的时空感知和运动相似性学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000372?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业4.0对个性化产品和运营灵活性的需求不断增长，暴露了传统质量保证体系的严重局限性，特别是在人在环手动装配中。为了应对这些挑战，本文引入了一个集成的基于视觉的框架，该框架将时空对象检测和运动相似性评估相结合，以自动验证程序正确性。采用利用同步的Ruby和深度数据的多模式采集系统来支持精确的3D手部关键点重建。对于流程分割，开发了STM-YOLO（Spatiotporal Multi-View You Only Look Once）。通过将标准检测头重新配置到阶段转换分类器中，该模型实现了87%的平均准确率，比单视图、单帧基线（S-S）高出27.67%的绝对差距，并进一步验证了时间建模和多视图感知模块对性能改进的补充贡献。为了评估操作员的动作一致性，而不需要手势级注释，暹罗Transformer编码器网络（STEN）的介绍，评估3D手部运动轨迹对黄金标准的参考。经过过滤后的FPTA（第一人称手部动作）基准验证，STEN的准确率为99.28%，F1评分为0.9858，超越了经典方法。拟议的系统在实验室硬件上以超过10帧/秒的速度运行，并在不同操作员和任务中表现出强大的通用性，为灵活制造环境中的程序验证提供了可扩展的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000372?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于机器人现场加工具有复杂特征的大型部件的视觉NPS激光融合测量方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000360?dgcid=rss_sd_all</link>
+      <description><![CDATA[大型零部件是高端设备的核心部件，其特点是外形尺寸大、局部特征小、复杂，对工作精度要求高。这些特征对测量和处理提出了重大挑战。为了满足大型零部件复杂特征测量和加工的需求，本文开发了一种基于视觉和激光技术的跨尺寸多传感器融合机器人现场测量系统。该系统引入了基于图像先验和点云增强的融合算法，实现了多峰测量数据的集成。该系统通过设备、算法和数据的三层集成，实现了大型零部件的整体重建和局部特征的高精度测量，为大型零部件的全面3D重建和机器人原位加工提供了必要的数据支持。最后，航天器部件的实验结果表明，机器人测量系统的局部测量RSSE不&gt;0.015 mm，全局测量平均误差为0.985 mm，比双眼视觉测量系统提高约49.4%，总体效率提高&gt; 90%。最终加工精度满足航空航天行业严格的精加工要求。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000360?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[CDSP：用于机器人检查引导的通信偏差驱动神经视觉伺服策略]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000438?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人检查引导需要视觉伺服策略，同时提供可概括性、可靠的收敛性能和针对视觉干扰的卓越鲁棒性，而现有方法的要求是不够的。经典方法可以实现高精度，但通常依赖于细致的先验，而当代基于学习的方法要么需要特定场景的培训，要么忽视视觉干扰。为了克服这些限制，我们提出了一种新型的对应偏差驱动的伺服策略（CDSP），它通过图神经网络（GNN）主干显式编码和集成对应偏差到图结构化表示中，并对伺服控制进行建模，从而实现可靠且鲁棒的伺服性能。具体地，提出了一种动态屏蔽机制（DMM）来增强基于分布先验的对应关系的可靠性。随后，提出了锚点引导特征融合（AGFF）模块，通过基于空间先验的集群对对应偏差进行编码和融合，以获得区域差异表示，并通过DMM产生的屏蔽序列进一步构建为全局锚点图表示，以提高模型对扰动引起的不匹配的鲁棒性。与此同时，引入了混合基于位置的视觉伺服（HyPBVS）监管器，可在引导期间保持相机视野（FoV）内的目标可见性，以减轻具有挑战性的配置中的目标消失。广泛的模拟和现实世界实验表明，与最先进的（SOTA）方法相比，CDSP实现了更可靠的收敛性能和更好的对扰动的鲁棒性，以及对不同机器人检查场景的卓越的实时概括性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000438?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[超声波焊接机器人线圈缠绕的控制器一致性和运动学感知的运动调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000414?dgcid=rss_sd_all</link>
+      <description><![CDATA[采用超声波焊接的机器人缠绕中的均匀能量沉积取决于保持恒定的工具中心点速度，但在工业机械手上执行紧密缠绕的螺旋轨迹经常会导致严重的速度调制和近停止事件。这些偏差源于运动控制器的有限前瞻窗口内的平移和方向的动态耦合，其中旋转饱和通常主导离散片段的执行时间。为了解决离线几何规划和执行动态之间的差异，提出了一种分层的、运动学约束的轨迹规划框架。首先推导出一个理论上的耦合前瞻速度包络，以预测有限预见下平移和旋转关节约束之间的竞争所施加的可实现的速度限制。这个信封的分析揭示了一个严格的窗口式的时间规律，表明均匀的离散化是结构次优的螺旋路径，涉及重大的工具重新定位。因此，开发了一种执行感知的最优段分配策略来重新分配离散化密度，有效地合并旋转主导区域中的段以恢复巡航潜力，同时细化旋转主导区域以进行精确的驻留调节。最后的约束加速度反演阶段调制分段加速度缩放，以线性化可行性包络内的速度分布。对与定位器同步的六轴工业机器人进行的实验验证证实，这种方法可以减少速度波动，并显着增加工艺关键速度范围内的有效线路长度，同时保持名义线圈几何形状。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000414?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用可变准入控制和受约束区域演示的强化学习的机器人组装]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000384?dgcid=rss_sd_all</link>
+      <description><![CDATA[柔性钉孔的机器人插入通常会带来乏味的挑战。来自演示的强化学习对于训练机器人复制老师表现的入学行为可以有效。然而，大多数演示的数据对部件的位置很敏感，并且力和扭矩传感对于训练机器人的准入行为至关重要。在这项研究中，我们从约束区域的演示中引入了具有强化学习的可变准入控制，以仅通过力传感来学习组装技能。利用所提出的方法，机器人的准入行为首先从约束区域中的演示中离线学习，然后通过强化学习算法在线适应。首先，根据配置空间中形成的约束区域生成插入过程的演示数据。随后，在平移空间中建立变准入学习方法来跟踪演示运动，并在约束区域中实施被动顺从运动以消除柔性桩的方向。通过对平移空间中的导纳技巧和旋转空间中的约束的在线自适应，机器人可以有效地管理环境的不确定性。最后，几个钉孔插入实验进行了基于位置的机器人，其中状态无关的约束，提出了保持稳定性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000384?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MVUN-DP技能库驱动的LLM人工智能机器人组装方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000426?dgcid=rss_sd_all</link>
+      <description><![CDATA[如今，多品种、小批量生产给机器人组装带来了重大挑战，并推动了对先进并行人工智能（EAI）的需求。然而，目前还没有足够的有效方法来构建能够准确、稳健地执行变形部件装配的技能库，以及在EAI方面培训面向装配的技能。为了解决这些局限性，本文引入了一种基于MobileViT + U-Net扩散政策（MVUN-DP）技能库驱动的装配框架，该框架采用一种构建多样化装配技能的方法，该技能具有高精度和对环境干扰的鲁棒性。首先，提出了一种基于MVUN-DP算法构建机器人装配技能库的系统方法。我们的方法专为具有不同几何形状的对象设计，通过域随机化和数据集增强来训练装配技能，从而显着增强了针对姿态不确定性和环境变化的鲁棒性。其次，引入MVUN-DP算法，增强技能学习能力。MVUN-DP基于扩散策略（DP）的表达性动作生成能力，采用了移动视觉Transformer（MobileViT）进行细粒度视觉特征编码，实现精确和自适应的运动合成。第三，通过将MVUN-DP技能库与基于LLM的任务规划和执行无缝集成来实现语音到运动的组装。所提出的框架在配备双RB摄像头和力/扭矩传感器的UR 5机器人平台上进行了广泛评估。对于行星齿轮装配和其他变形任务，MVUN-DP的平均成功率为94.7%，在成功率和复合事件奖励方面都优于模仿学习基线，同时保持较低的接触力和扭矩。此外，数据增强将政策对环境干扰的稳健性提高了7.12%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000426?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于物理信息传递学习的并行机器人位姿预测与补偿方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000402?dgcid=rss_sd_all</link>
+      <description><![CDATA[并行机器人末端效应器位姿精度直接决定加工质量和系统稳定性，高精度位姿补偿至关重要。然而，传统的模型驱动校准方法需要对每个机器人进行大量测量来建立参数误差模型，从而限制了其可移植性和可扩展性，而数据驱动的神经网络方法需要大量的标记数据，而在工业环境中获取这些数据的成本很高。这项研究提出了一种基于物理信息转移学习（TL）策略的新型姿态预测和补偿方法，该方法利用来自理论模型的运动学和动态先验知识，在有限的实验数据下增强姿态预测和补偿的准确性。首先，提出了一个集成运动学和动态先验的基于物理的迁移学习模型。比较单个运动学模型与运动学和动力学模型源域的受控实验证实，结合动态建模来捕获与负载相关的变形显着增强了知识转移的有效性。其次，我们采用Shapley Additive exPlanations（SHAP）方法来量化并揭示移动平台姿态和滑动器位移表现出显着的方向依赖性。第三，我们提出了一个综合的误差指标来确定TL模型的适用性边界。研究发现，在小样本范围（50-120个样本，阶段B）下，TL模型表现出明显优于其他模型的预测性能，是实现有效姿态补偿的唯一方法。与改进的Denavit-Hartenberg（MD-H）方法相比，TL模型将位置和方位的最大绝对误差分别降低了92.5%（y方向）和62.2%（β方向），充分验证了其有效性、便携性和复杂工作条件下的工程应用价值。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000402?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分层多机器运动规划和两级机器人轨迹优化：以汽车冲压线为例]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600044X?dgcid=rss_sd_all</link>
+      <description><![CDATA[为了解决串联多机系统中高速、平滑的协同运动问题，本研究以汽车冲压线为应用背景，提出了一种分层协同规划方法。在上层，系统被分解为一系列机器人-站-机器人（RSR）子系统。全球合作基于瓶颈期循环进行。在下层，实施区域两阶段轨迹优化策略。在共享区域规划了时间最优的轨迹，以确保效率。在自由区，利用协同冗余时间进行局部高位重构，抑制起停段的加加速度和扭矩抖动。为了实现安全、高效、协调运行，提出了集延时和速度调节为一体的混合调节机制。总体而言，比较研究、物理原型测试和协同模拟表明，所提出的方法增强了动态性能并提高了多机操作效率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600044X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于新型两阶段策略的机器人研磨刀具动态性能优化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000451?dgcid=rss_sd_all</link>
+      <description><![CDATA[提出了一种用于车轮中心表面研磨的专用3-RCU平行研磨顺从机构（GCM）的动态性能优化方法。关节空间中GCM的时变惯性特性导致加速和减速期间的动态性能次优。为了解决这个问题，提出了一种两阶段优化策略。该策略将结构惯性特性与控制模型相结合，并采用Alpha Evolution（AE）算法来协同优化结构尺寸和控制参数。第一阶段，利用虚功原理分析机构动力学，并通过AE算法进行具有惯性特性指标的尺寸综合。第二阶段，建立基于双惯性系统的控制模型，并采用相同的AE算法以轨迹跟踪误差指标优化控制参数。所提出的方法通过数值模拟进行了理论验证，并通过实际测试进行了实验验证。比较结果表明，优化后的GCM提高了轨迹跟踪精度和研磨力控制精度，使表面研磨质量显着提高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000451?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[VLAbot：人类视觉-语言-动作建模机器人组装的交互框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000475?dgcid=rss_sd_all</link>
+      <description><![CDATA[在这项工作中，我们提出了一种智能人机协作系统，旨在帮助体现智能学习复杂的、长期的制造装配任务。该系统集成了多个专家代理和增强现实（AR）交互界面，使机器人能够向人类请求规划和执行指导，并有效地完成复杂的任务。具体来说，配备高级规划者和视觉-语言-动作（VLA）模型的专家代理通过文本、视觉和动作模式与用户积极互动，以获取关键信息、学习特定任务技能并制定子任务规划策略。分布式数据和模型架构确保不同模型之间的实时交互，并促进无缝人机协作。我们对两项具有挑战性的长期制造装配任务（齿轮装配和销钉插入）进行了评估，以证明所提出方法的有效性。该系统在五次试验内成功学习了两项组装任务，并使具体智能能够以逐步减少的执行时间来完成它们。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000475?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[3DVAC-HiPRoM：基于3D视觉和对齐控制的高精度机器人操纵，提高制造弹性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000463?dgcid=rss_sd_all</link>
+      <description><![CDATA[精确的机器人操纵对于有弹性的智能制造至关重要，因为它可以确保对重复性和定位准确性的干扰的容忍度。然而，用于精确机器人对准的传统方法通常依赖于传感器融合（例如，激光跟踪仪器和扭矩传感器），高成本或笨重的设备限制了机器人的灵活性和效率。为了解决这一瓶颈，本文提出了一种基于3D视觉感知和对齐控制的高精度机器人操作方法3DVAC-HiPRoM，以增强制造弹性。首先，构建了3D视觉系统，并开发了混合校准方法来解决大视野摄像机校准的挑战。接下来，为了确定机器人的位姿，引入了配准技术，包括基于分组的全局配准方法、计算机器人与工件之间相对位姿的方法以及生成机器人运动数据的策略。使用混合方法校准的视觉系统的测量准确度从0 . 563毫米至0。068 mm。提出的配准方法有效地将重建数据与现有数据对齐，在钉孔机器人对齐中实现了0.04的最小无因次间隙。这种方法有利于提高机器人的自动化制造能力和智能制造。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000463?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于自动拆解电子废物的机器人系统：基于视觉的嵌入式螺丝钉孔]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000499?dgcid=rss_sd_all</link>
+      <description><![CDATA[电子废物（电子废物）的产生量不断增加需要新的程序来回收稀土元素（REE）等关键材料。作为手动拆除的替代方案，强大的自动化系统可以提供高效的解决方案。本文介绍了一种用于拆解报废悬浮滑板（一种富含稀土的废物流）的机器人感知系统。这项工作的主要目标是在拆除操作中对凹陷的、经常退化的盖螺丝进行稳健的3D姿态估计，其中高度的几何变异性和位置不确定性构成了重大挑战。作者确定了阻碍可靠螺丝定位的三种主要感知故障：检测故障（DF）、阻塞错误（OR）和姿势不准确（PI）。为了应对这些挑战，我们提出了多阶段主动愿景策略。首先，经过微调的YOLOv 8-X型号改进了初始螺丝检测，减轻DF。其次，我们引入SmartScan，这是一种新颖的方法，可以使用YOLO检测器和Segment Anything Model（Sam）动态调整扫描路径以适应元件几何形状，消除OR。第三，下一最佳视图（NBV）细化执行闭环机器人运动，以获取每个螺丝的最佳轴向对齐视图，从而解决PI问题。通过物理接触点验证的实验验证表明，集成的SmartScan + NBV系统实现了98.4%的成功率，显着优于优化静态基线的90.3%。SmartScan组件完全消除了OR，而NBV策略则大幅降低了PI。因此，这项工作为电子废物拆解过程中的关键任务提供了一种稳健、自适应的感知解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000499?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从人工智能基金会到大型语言模型：协作机器人领域的挑战和机遇调查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000487?dgcid=rss_sd_all</link>
+      <description><![CDATA[近年来，人工智能的进步显着增强了机器人在协作环境中的能力，改善了感知、推理、规划以及与人类合作伙伴的互动。这项调查对制造、组装和工业生产中人机协作（HRC）中使用的不同方法进行了全面分析。我们特别关注大型语言模型（LLM）和视觉语言模型（VLM）的新兴角色，它们最近被引入以支持协作机器人中的高级推理、任务规划和自然语言交互。此外，我们还探讨了HRC的关键方面，包括允许机器人解释环境的感知技术、定义实现目标的动作序列的推理和任务规划策略，以及实现自然人机交互（HRI）的交互模式。我们还研究了这些系统中使用的硬件组件，例如传感器、摄像头和机器人平台，强调它们在改善感知和任务执行方面的作用。通过对文献的定量分析，我们表明，虽然基于LLM和VLM的方法代表了一个不断发展的研究方向，但大多数现有的HRC系统仍然依赖于更经典的方法，而不是基于基础模型。最后，我们讨论了当前的技术局限性，使用工业案例研究比较了基于LLM/VLM的方法和传统方法的报告性能，并概述了在工业环境中推进人工智能驱动的HRC的未来研究方向。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000487?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[避免视觉对准平台逐步误差传播的视觉运动学联合校准方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000554?dgcid=rss_sd_all</link>
+      <description><![CDATA[视觉对齐平台在高精度制造系统中至关重要。传统的平台校准方法通常遵循分步程序，将摄像机校准与运动学识别分开，从而导致误差传播并限制系统的最终定位准确度。为了解决这些问题，这项工作新提出了一种视觉运动学关节校准方法。通过将远心仿射成像模型与系统运动学误差模型集成，建立组合校准框架。这种方法能够使用单个单目摄像机同时识别摄像机本质、失真系数和平台机械部件的结构几何参数，从而显着简化了校准工作流程。在4-PPR平行视觉对准平台测试台上的实验结果表明，该联合校准方法相对于分步校准方法的优越性和鲁棒性。所提出的方法在视觉参数识别方面实现了卓越的稳定性，保持了高精度的视觉准确性基线。此外，对验证数据集的定位精度评估表明，关节模型有效地补偿了残余耦合误差。具体而言，与逐步结果相比，Y轴定位误差减少了约20.8%，而X轴和角轴精度则稳健地保持在高精度水平，为高精度工业对准任务提供了稳健且高效的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000554?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大规模自由曲面机器人光学测量的曲线自适应扫描路径规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000530?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于机器人的光学测量系统已被广泛用于大规模自由曲面的检查。满足机器人运动学约束和扫描仪光学要求的扫描观点和扫描路径的规划对于提高测量准确性和效率至关重要。本文提出了一种创新的机器人光学测量系统扫描路径规划方法。首先，提出了一种基于弯曲自适应的视角生成策略，根据被测部件的弯曲特征实现全表面覆盖。随后，提出了一种将改进的遗传算法与动态规划相结合的新型分布式优化算法来优化机器人的扫描路径，仿真和实验结果表明，该方法在保持所需的测量精度的同时显着提高了计算效率。此外，与两种基准方法相比，该方法在机器人测量系统的扫描效率和运动消耗方面都具有显着优势。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000530?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过人类演示实现机器人高精度钉孔装配的集成强化学习框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600058X?dgcid=rss_sd_all</link>
+      <description><![CDATA[对于智能制造中的机器人装配自动化来说，高精度销孔装配是一项基础但具有挑战性的任务，微小的位姿误差可能会导致大的接触力和卡涩。本文提出了一种集成机器人装配技能学习框架，该框架集成了模仿学习（IL）和强化学习（RL），并采用基于几何约束的自动姿态细化方法，将少量人类演示适应机器人主体感受技能复制。通过定义与插入相关的变量，我们训练离线多层感知器（MLP）网络以获得初始IL策略，然后构建一个集成RL架构，其中动作层生成软行动者评论（SAC）探索性动作，参数层输出混合力位置控制系数和融合权重，将IL、混合力位置和SAC动作结合到任务执行命令中。我们首先在模拟中学习，然后转移到真实的机器人上，我们首先使用冻结的RL参数更新IL网络，然后使用一些现实世界的事件微调RL策略。实验证明了圆孔组装的快速实收敛，以及从圆孔到三角形和方孔以及从方孔到USB插入的稳健交叉几何图形转换。消融研究以及与最先进方法的比较证实了样本效率提高、插入力降低和跨几何通用成功率更高。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600058X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多机器人协同3D测量技术综合分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000505?dgcid=rss_sd_all</link>
+      <description><![CDATA[三维（3D）测量技术是智能制造的基石。然而，传统的单机器人测量系统固有地受到单一视角和有限范围的限制，导致对大规模物体的数据采集不完整且效率低下。多机器人协作3D测量系统为这些挑战提供了新颖且有效的解决方案。本文基于该协同系统的关键技术，对最新技术进行了系统分析，提出了一个技术路线图，将复杂的工作流程构建为多机器人多传感器校准、多机器人协同规划、多视角云配准和多特征检测四个核心阶段。在此框架下，分析了每个阶段的最新进展和局限性，形成了该领域的综合视角。这一观点可作为指导未来研究在复杂和动态环境中稳健部署多机器人协作3D测量系统的宝贵参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000505?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于3D剩余优化的复杂曲线叶片机器人研磨轨迹规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000542?dgcid=rss_sd_all</link>
+      <description><![CDATA[在复杂曲线叶片的机器人皮带研磨中，叶片的弹性接触特性和可变的弯曲分布导致弦向和展向方向的剩余高度分布不均匀，从而阻碍了严格的尺寸公差的实现。本文提出了一种新型的机器人叶片研磨轨迹规划方法，以有效提高表面残余均匀性。首先，通过曲面几何特性建立3D剩余理论模型。随后，通过迭代验证算法重新计算相邻刀具接触（CC）点之间的最大弦高，并提出优化弦高方法，以在允许范围内最大化步进长度。进一步，分别提出了3D剩余优化的等参轨迹和等距轨迹，根据CC点的弯曲变化动态调整行间距。仿真和实验结果从加工效率和加工质量的角度验证了所提出方法的有效性。优化后的等距曲线法的加工效率比优化前提高了7.4%，这两种建议轨迹的表面轮廓误差波动范围分别下降了28.7%和38.5%。所提出的轨迹规划方法为提高机器人复杂曲面研磨加工表面质量一致性提供了有价值的参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000542?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过线弧增材制造对电动汽车结构进行可制造性感知的布局优化的双环框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000529?dgcid=rss_sd_all</link>
+      <description><![CDATA[线弧增材制造（WAAM）能够高效制造大型电动汽车（EV）结构，但其与离散拓扑优化（DTO）的集成通常受到静态和保守可制造性约束的限制。这项研究提出了一个双环框架，通过自适应约束细化和现场流程反馈将DTO与WAAM紧密耦合。内循环基于几何偏差监控执行实时路径补偿和工艺参数调整，而外循环使用积累的制造知识更新基于倾斜度的可制造性约束。可印刷性的特征是最小的自支撑角度阈值和最大的可补偿角度阈值，允许可制造性建模为分级设计变量。DTO制定中纳入了硬约束策略和软约束策略，以监管过度悬挂敏感成员。全文中使用全尺寸电动汽车底盘作为运行案例来演示所提出的框架，该框架涵盖受约束的DTO、沉积实验和机器人WAAM制造，并在保留负载高效的布局的同时显示出改进的可印刷性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000529?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[EDNPOS：一种开放式的基于线粒体的人类动作识别方法，用于通过异常值暴露实现的人机协作]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000578?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着工业5.0背景下以人为本的制造范式的出现，人与机器人协作（HRC）成为实现制造系统灵活性和适应性的关键策略。人类动作识别（HAR）作为HRC部署的基础，可以推断人类的操作意图，并使机器人能够做出相应的响应。然而，现有嵌入HRC系统中的HAR方法主要侧重于将动作准确地分类到训练过程中遇到的已知类别中，而对真实场景中未知样本的考虑有限，这可能会破坏HRC系统的稳定性和安全性。为了解决这个问题，本工作提出了一种具有开放集识别能力的基于卷积的HAR算法。该模型采用三个并行分支进行特征提取的集成主干，并设计了相应的基于能量的多样性非参数离群值合成（EDNPOS）学习框架，该框架能够生成虚拟离群值作为监督信号，并优化已知和未知数据之间的决策边界。在三个公共数据集NTU RB +D 60（NTU 60）、NW-UCLA和InHARD上进行了全面实验。结果验证了我们模型出色的开放集识别能力，同时保持了有竞争力的封闭集准确性。最后，对压缩机装配案例的定量和定性评估证明了我们的方法在HRC应用中的有效性和前景。这项工作有望为HRC系统中实现更可靠的HAR功能提供参考。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000578?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向以人为本的制造：人-机器人协同装配中不确定性下的任务规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000724?dgcid=rss_sd_all</link>
+      <description><![CDATA[任务规划通过在代理之间有效分配任务和调度可用资源，在确保人类和机器人之间的顺利协作方面发挥着关键作用。尽管一些最近提出的任务规划者将人为因素纳入其框架中，但很少有人明确考虑与人为相关的不确定性，这可能会导致任务失败。为了解决这一差距，这项研究引入了一种体力消耗感知的任务规划器，它明确考虑了人为因素和任务执行时间的不确定性。与体力消耗和执行时间相关的不确定性使用单值三角中性（SVTN）数方法建模。此外，还开发了一种基于强化学习的方法来学习这些不确定性下的自适应任务分配策略和调度。实验结果表明，与基准方法相比，基于强化学习的方法有效地降低了性能变异性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000724?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用具有教学效果的增强型NSGA-II，在传统和人机机器人系统中实现具有人体工程学考虑的双资源约束灵活车间调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000517?dgcid=rss_sd_all</link>
+      <description><![CDATA[双资源约束的灵活车间调度问题（DRCFJT）解决了现代生产系统中的实际挑战，特别是在人力和机器人资源联合管理的情况下。本研究提出了一种考虑人体工程学的DRCFJSP-ER，旨在同时提高传统系统和人机系统中工人的生产力和福祉。通过引入三个新颖的评估指标，使用快速上肢评估（RSYS）评分来评估车间环境中的人体工程负荷：操作的加权平均RSYS评分、操作的累积RSYS评分以及整个车间周期的累积RSYS评分。为了有效地解决DRCFJSP-ER，我们提出了具有教与学效应的增强NSGA-II（ENSGA-TL），以同时最大化完工时间和最大累积RSYS分数。基于标准性能指标进行全面分析，以使用新生成的测试实例评估ENSGA-TL对DRCFJSP-ER的有效性。此外，农业生产环境中的两个现实案例研究（因其劳动密集型和机器人相关特征而选择）展示了该模型对传统和智能机器人生产系统的有效性和适应性。结果验证了DRCFJSP-ER模型和ENSGA-TL算法在提高生产效率和保护工人福祉方面的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000517?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[弥合语义差距：轨迹引导的域修复以实现可靠的规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000694?dgcid=rss_sd_all</link>
+      <description><![CDATA[制造机器人的象征性规划受到脆弱领域模型的破坏。虽然大型语言模型可以从语言生成PDDL（规划域定义语言）域，但它们经常会引入微妙的缺陷，例如弱先决条件或不完整的效果。这些缺陷造成了一个关键的语义差距，即语法正确的计划在物理执行中失败，对机器人的可靠性构成了重大挑战。我们引入了一个由智能引导的领域修复框架，该框架系统地将符号模型与物理现实联系起来。它的两级反馈循环首先使用迭代束拓宽搜索来选择一组紧凑、信息丰富的轨迹，最大限度地降低交互成本-即，环境相互作用（EI）的数量。其次，它对执行错误进行失败归因-区分有缺陷的先决条件和上游效应-并生成结构化提示来指导LLM的修复。我们的框架经过12个基准测试（包括工业模拟和物理机器人）的验证，实现了71.2%的最先进执行成功率，优于相同评估协议下的所有比较基线。值得注意的是，这种性能是以低得多的交互成本获得的，平均每个任务需要231个EI，与2014年基于探索的方法所需的EI相比，这相当于接近数量级的减少。我们的结果强调了弥合高级符号推理和强大物理执行之间差距的实用途径，增强复杂制造环境中LLM驱动的自动化的可靠性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000694?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[工业5.0中人机协作的多模式感知、相互认知和具体执行的回顾和展望]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000591?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业5.0代表着从以效率为导向的自动化向以人为本、弹性和可持续制造的范式转变，其中人机协作（HRC）通过将人类灵活性与机器人精确度相结合而发挥着至关重要的作用。然而，当前的HRC系统仍然是反应性和碎片化的，缺乏无缝协作和稳健概括所需的感知、认知和执行之间的一致性。虽然生成式大模型（GLM）正在成为应对这些挑战的一个有希望的解决方案，但与机器人领域相比，它们与HRC的集成表现出显着的时间滞后，这需要系统性的跨领域协同。本文回顾了GLM增强的HRC，并提出了工业5.0中HRC的多模式感知、相互认知和具体执行的前景蓝图。该蓝图概述了通过协同生成性人工智能和体现智能实现以人为本的智能制造的潜在途径。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000591?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:30:46 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[将智能眼镜和智能手套集成到混合组装/拆卸系统中：STPA驱动的半自动风险管理工具]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000323?dgcid=rss_sd_all</link>
@@ -132,13 +307,6 @@
       <pubDate>Mon, 26 Jan 2026 11:40:42 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[数字孪生工业环境中大语言模型引导的强化学习的统一框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业环境中的数字孪生（DT）优化面临着持续的挑战，包括样本效率低下、大量的培训要求以及有限的跨领域适应性。本文提出了一个统一的三阶段框架，该框架通过模仿学习（IL）将大型语言模型（LLM）与强化学习（RL）集成在一起。所提出的方法包括三个关键组件：（1）使用LLM生成的多代理协调策略进行离线专家演示收集，（2）离线和受监督的IL使用集中式训练和分散式执行（CTDE）架构克隆这些策略，以及（3）轻量级RL微调以优化预训练的策略。该系统解决设备分配冲突并利用协调历史进行自适应决策。多智能体工业场景中的实验（包括人机协作和疲劳感知维护）表明，我们的IL+RL混合体可将在线训练时间缩短高达96%，同时保持超过66%的最佳任务性能，仅使用标准RL所需的4%的训练场景。该方法还在零触发跨域设置中实现了30%-40%的任务完成（例如，仓库、制造业），在最低限度的微调下，最高可达99.7%。从概念上讲，该框架建立了“语言条件IL”的新范式，其中通用LLM的推理充当DT中高效多智能体协调的自适应先验。结果强调了LLM指导的演示如何连接符号推理和适应性学习，为工业5.0系统中可扩展、样本高效的决策提供概念和实践进步。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002698?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:42:01 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[基于学习的高精度制造机器人加工误差预测]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584525002716?dgcid=rss_sd_all</link>
       <description><![CDATA[使用机器人进行高精度加工是一项公开的挑战。通过机器人加工实现尺寸和几何特征的精确度需要通过依赖于准确误差预测的反馈控制进行补偿。加工误差预测是高精度制造中的一个复杂问题，有效的解决方案必须准确估计不同工件的几何误差，同时最大限度地降低质量检查成本。反馈控制的实时估计的需要也使其变得更加复杂。本文介绍了一种使用低成本的过程中信号和机器学习来预测铣削工件质量的新型方法。所提出的方法将内部机器控制器命令（包括机器人臂中的末端效应器轨迹坐标和六个旋转关节的角度变化）与外部激光跟踪器传感信号融合，该信号捕获铣削刀具的真实轨迹并预测尺寸误差，将获得由坐标测量机（坐标测量机）。为了克服缺乏对零件尺寸误差对可用信号的依赖性的了解，评估了具有不同传感器组合和包含在模型中的历史数据时间窗口长度的模型。此外，还根据来自两个不同工件和各种空间配置的数据选择、训练、评估和验证了五种机器学习算法。与仅使用激光跟踪器数据相比，最好的机器学习模型在尺寸误差预测方面实现了七倍的改进，平均绝对误差从0.0756毫米降低到0.0097毫米。这项研究证明了使用低成本的过程中传感信号来预测通常由昂贵的坐标测量机测量的高精度质量尺寸数据的可行性，实现快速零件质量检查并显着降低潜在成本。]]></description>
@@ -221,167 +389,6 @@
       <description><![CDATA[Digital Twin实现了机械加工过程的高保真数据集成、动态预测和自适应决策。稳健的刀具磨损监测（TWM）模型对于确保数字孪生系统中的数据保真度并提供刀具磨损状态的准确评估至关重要。然而，现有方法通常依赖于理想化假设或高质量数据集，而忽视物理磨损机制，在变化的加工条件下表现出弱的物理一致性和有限的概括性。为了克服这些挑战，本研究提出了一种TWM模型，该模型将基于物理的高斯过程回归与转移学习集成在铣削过程的数字双胞胎智能监控中。具体地，从监测信号中提取多域特征，并通过综合相关性分析构建高相关性特征子空间。然后，开发基于物理的模型并将其嵌入高斯过程回归框架中，以提供刀具退化的先验知识。此外，引入了两阶段迁移学习策略，促进有效的跨条件知识适应，显着增强模型的概括能力。最后，在PHM 2010数据集和铣削实验上对所提出的方法进行了验证。实验结果表明，在不同加工条件下，该方法的RMES在0.20 μm和0.63 μm之间，MAE在0.14 μm和0.39 μm之间，证实了其预测准确性和鲁棒的跨条件适应性。提出的模型为数字双胞胎监测系统提供可靠的刀具磨损数据，促进智能决策和维护。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000153?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 15 Jan 2026 12:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[编委会]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年6月来源：机器人与计算机集成制造，第99卷作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000049?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 16:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[从图纸到决策：将2D工程图纸解析为结构化制造知识的混合视觉语言框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002406?dgcid=rss_sd_all</link>
-      <description><![CDATA[从二维工程图纸中高效准确地提取关键信息对于推进数字化制造工作流程至关重要。这些信息包括几何尺寸和公差（GD&amp;T）、度量、材料规格和文本注释等元素。手动提取仍然缓慢且劳动密集，而通用光学字符识别（OCR）模型由于复杂的布局、工程符号和旋转注释，往往无法准确解释2D图纸。这些限制导致输出不完整和不可靠。为了应对这些挑战，本文提出了一种混合视觉语言框架，该框架将旋转感知对象检测模型（YOLOv11-obb）与基于变换器的视觉语言解析器集成在一起。我们引入了一个结构化解析管道，该管道首先应用YOLOv11-obb来定位注释并提取面向边界框（obb）的图像块，随后使用微调的轻量级视觉语言模型（VLM）将其解析为结构化输出。为了开发和评估这一管道，我们整理了一个包含1367张2D机械图纸的数据集，这些图纸在九个关键类别上进行了手动注释：GD&amp;Ts、一般公差、测量、材料、注释、半径、表面粗糙度、螺纹和标题栏。YOLOv11 obb在此数据集上进行训练，以检测obb并提取注释补丁。然后使用两个微调的开源VLM解析这些图像补丁。第一个是Donut，这是一种基于转换器的模型，将Swin-B视觉编码器与BART文本解码器相结合，可以直接从图像进行端到端解析，而无需依赖OCR。第二个是Florence-2，这是一种提示驱动的编码器-解码器模型，集成了DaViT视觉骨干，并通过多模式令牌对齐支持结构化输出生成。这两种模型都是轻量级的，非常适合在有限的计算开销下执行专门的工业任务。在对图像补丁与结构化注释标签的精选数据集进行微调后，进行了一项比较实验，以评估四个关键指标的解析性能。Donut的表现优于Florence-2，准确率为89.2%，召回率为99.2%，F1得分为94%，幻觉率为10.8%。最后，一个案例研究展示了提取的结构化信息如何支持下游制造任务，如工艺和工具选择，展示了所提出的框架在实现二维图纸解释现代化方面的实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002406?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[3DprintMIND：一个使用大型语言模型和动态制造知识图进行智能制造的AI Agent系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002686?dgcid=rss_sd_all</link>
-      <description><![CDATA[作为一种先进的制造范式，3D打印为智能制造（SM）提供了重大机遇。然而，其生产线中数据孤岛的普遍存在经常阻碍有效的流程分析和决策。虽然大型语言模型（LLM）具有强大的分析能力，但它们在工业场景中的可靠性受到幻觉和与实时操作数据脱节的限制。动态制造知识图（MKG）作为结构化数据库，可以集成结构化和非结构化制造数据，同时为LLM提供实时数据支持。同时，检索增强生成（RAG）和AI Agent技术的发展为LLM的工业应用提供了可行的途径。本研究提出了一个从知识集成到3D打印生产线应用的端到端框架，以实现可靠的LLM驱动的SM。首先，利用LLM的语义分析能力，将生产数据和制造知识集成到动态MKG中。随后，开发了一种先进的时态图网络（TGN）模型，用于动态MKG上的表示学习，形成了RAG系统的检索基础。提出了一种针对3D打印生产线量身定制的闭环制造逻辑和用于异常分析的“语义到结构化”工作流。最后，开发了AI Agent系统和原型软件平台，并对实验室3D打印生产线进行了案例研究，以评估TGN模型的性能和AI Agent系统的有效性。结果表明，动态MKG能够为SM提供持续学习，并为行业提供强大的AI驱动数据支持。TGN模型明显优于基线模型，为下游知识检索任务提供了更高质量的动态嵌入。此外，AI Agent系统为3D打印生产线提供了SM可靠的智能分析和决策支持。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002686?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于高通量和多视图3D数字图像相关（3D-DIC）的机器人框架：增加变形分析的测量体积和多功能性]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002418?dgcid=rss_sd_all</link>
-      <description><![CDATA[三维数字图像相关（3D-DIC）是一种广泛应用的非接触式光学成像技术，用于精确量化材料和结构中的全场表面位移和应变。然而，依赖于固定立体相机位置的传统3D-DIC实现面临着视场和空间分辨率之间的权衡，并且缺乏长时间测量的高通量。在这里，我们提出了一种集成的机器人3D-DIC框架，该框架采用工业机器人手臂自主地反复重新定位立体相机。这实现了自动校准、长时间监测多个样本，并扩展了有效的空间覆盖范围和数据吞吐量，同时保持了校准稳定性和测量保真度。我们在刚性和变形参考样品上验证了这种方法，并证明了它在干燥过程中同时量化生物复合材料样品材料变形的能力。在机器人重新定位下，刚性样品表现出稳定的位移和应变测量，同时受益于显著增加的体积覆盖率和减少的人工监督。因此，所提出的系统提高了实验效率，并允许结合多视图拼接等先进技术，以更高的有效分辨率表征复杂的几何形状。当应用于缓慢变形的生物复合材料时，该系统可以从多个角度捕获延时图像，从而对复杂、不断变化的材料行为进行更全面的评估。3D-DIC中的这些增强进一步提高了几何精度，增加了数据密度，并将适用性扩展到更广泛的材料和实验条件。最终，所提出的机器人辅助3D-DIC系统为生物制造、增材制造和先进复合材料加工创建了一个强大的高通量监测框架，为形状变化的有针对性编程以及其他应用铺平了道路。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002418?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[双机器人机械手增材制造的一种新型枢轴移动策略：在不停止沉积的情况下实现碰撞避免]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002315?dgcid=rss_sd_all</link>
-      <description><![CDATA[机器人辅助增材制造（AM）因其极大的灵活性和可达性而越来越受欢迎。此外，具有由机器人操纵器保持的双沉积头的AM系统将显著缩短构建时间，特别是对于大型零件。然而，由于设置和AM过程施加的各种约束，双机器人操作器AM的运动规划（MP）极具挑战性，旨在提高组件的质量，例如保持沉积头的行进速度和姿态并避免碰撞。本文提出了一种新的枢轴移动策略，用于具有双机器人操作器的AM中的MP。给定每个沉积头的顺序沉积刀具路径段，首先分别为每个机器人操纵器生成初始MP解决方案，包括每个时间点的机器人配置。随后，在每个航路点进行检查和纠正过程，识别并纠正两个机器人操纵器连杆之间的碰撞。特别地，机器人操作器被设计为在保持行进速度不变的同时同时枢转和移动以避免碰撞。通过数值模拟、物理实施和基准测试，我们发现采用所开发的策略，沉积时间减少了78.295%，沉积质量高。据作者所知，这项研究代表了解决沉积在同一加热床上的双机器人操作器碰撞问题的开创性努力，在不中断正在进行的沉积过程的情况下实现了碰撞避免。它可以成为这一领域最新技术的宝贵补充。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002315?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[制造与物流的双重服务组合优化：云制造中的自我管理和第三方物流模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002327?dgcid=rss_sd_all</link>
-      <description><![CDATA[服务组合（SC）是云制造中的一项关键技术，它能够集成多种服务以提供增值解决方案。物流在供应链中起着关键作用，确保各个制造阶段的无缝协调，从而最大限度地提高生产流程的效率。这意味着供应链过程必须整合制造服务（MS）和物流服务（LS），以确定最佳组合策略。之前的研究主要集中在MS性能上，往往忽视了物流对SC结果的关键影响。尽管一些研究考虑了物流因素，但它们在很大程度上将物流属性视为MS评估的次要组成部分，或采用线性聚合方法联合配置MS和LS。这些方法未能捕捉到物流绩效的动态性质以及MS和LS之间的相互依赖性。为了解决这些差距，本研究为供应链开发了两个优化模型，整合了MS和LS，专为自我管理和第三方物流模式量身定制。特别是，引入了一种创新的双层优化模型，以捕捉物流外包中MS和LS之间的顺序依赖关系和动态交互，确保无缝集成。上层侧重于优化MS选择，而下层则根据确定的MS确定最佳LS。开发了结合自适应和并行机制的改进遗传算法来解决模型问题，动态调整参数以提高求解精度和效率。案例研究和数值实验验证了所提出的模型和算法的有效性，并基于结果提供了可操作的管理见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002327?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[集成多尺度语义细化的带钢缺陷轻量级检测网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452500242X?dgcid=rss_sd_all</link>
-      <description><![CDATA[在计算约束下，钢带表面缺陷的实时检测需要高精度。现有的方法往往难以在保持计算效率的同时检测复杂背景中的低对比度缺陷。本文提出了MSR-Det，这是一种基于多尺度语义细化框架的轻量级网络，可以解决这一挑战。核心创新包括：一个加强区分性纹理模式的分层纹理增强模块（HTEM），一个促进跨网络深度的粒度特征融合的特定跨层交互模块（SCLIM），以及一个通过从深到浅的语义指导来细化缺陷表示的特征增强模块（FEM）。该架构还包含两个关键模块：一个用于有效扩展感受野的轻量级大内核瓶颈模块（LLKBM），以及一个用于动态多尺度上下文集成的自适应门控空间金字塔池（AGSPP）。在NEU-DET、GC10-DET和我们的工业SS-DET数据集上进行的广泛实验表明，MSR-DET在SS-DET上仅使用5.0M参数即可实现86.6%的平均精度（mAP50）。这项工作为工业环境中的自动视觉检测提供了一种稳健实用的解决方案，有效地平衡了高精度和操作效率。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500242X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[工业机器人轨迹规划的时间-扭矩协调优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002534?dgcid=rss_sd_all</link>
-      <description><![CDATA[轨迹优化对于提高工业机器人手臂的运行效率和可靠性至关重要。然而，任务执行速度的提高经常会导致关节扭矩的急剧波动，从而增加能耗，对执行器施加过大的应力，并激发结构振动。为了解决这些问题，本研究引入了一个统一的时间-扭矩优化框架，该框架将预测建模与启发式搜索相结合。该框架采用结合频域相关性和延迟感知机制的神经网络来模拟动态扭矩变化。基于预测的扭矩分布，机器人的运动轨迹由五次多项式参数化，并构建了一个多目标损失函数，以共同最小化执行时间和扭矩变化率。粒子群优化（PSO）用于对中间关节速度和加速度进行全局搜索，提高了接近最优解的收敛性。在六轴工业机器人平台上的实验表明，所提出的方法有效地减少了执行时间，平滑了扭矩转换，证实了其在工业应用中的实用性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002534?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[机器人镜面铣削用关节同步结构和调谐质量阻尼器支撑头的设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002546?dgcid=rss_sd_all</link>
-      <description><![CDATA[机加工薄壁零件对轻量化航空航天结构至关重要;然而，它们的低刚度在加工过程中对控制变形和振动提出了重大挑战。为了抵消这些力引起的误差，机器人镜面铣削已经成为一种有前景的技术，因为支撑机器人可以主动抵消切削力。然而，支撑机器人需要一个合适的末端执行器来保护工件表面，同时提供稳定的支撑。在这项研究中，开发了一种带有塑料辊和多分支调谐质量阻尼器（TMD）的支撑头。与支撑机器人的关节6同步的支撑头通过塑料辊接触薄壁部件。提出了一种后续运动规划算法，使支撑头的运动与铣刀同步。多分支TMD旨在抑制薄壁部件和支撑头在不同方向上的振动，从而确保它们之间的有效接触。提出了TMD的频率响应函数模型，用于参数设计。仿真和实验证实，所设计的运动规划算法使关节6的速度降低了78.6%，而TMD在轴向切削深度为1.0和1.5 mm时分别使加工表面粗糙度降低了32.8%和21.4%。结果表明，关节同步支撑头与多分支TMD相结合，有效地保证了对工件的稳定支撑，同时防止了对其表面的损坏。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002546?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种用于安全高效人机协同装配的分层人类行为建模框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S073658452500256X?dgcid=rss_sd_all</link>
-      <description><![CDATA[人机协作（HRC）通过结合人类灵巧性和机器人效率，为工业装配提供了有前景的解决方案。然而，人类和机器人的接近引发了安全问题，这可能会限制效率。以前的研究通常分别解决安全或效率问题，依赖于不完整的人类行为模型，这导致机器人控制策略的适应性有限。为了弥合这一差距，本文提出了一种将人体运动预测（HMP）和人体动作分割相结合的分层人体行为建模框架。所提出的模型捕获了细粒度的运动动力学和更高层次的任务结构，从而能够更完整、更具情境意识地理解人类行为。该模型可以增强机器人主动安全机制和动态任务分配的决策能力。HMP比较了三种预测模型（卷积神经网络-长短期记忆（CNN-LSTM）、时空图卷积网络（ST-GCN）、Transformer）。CNN-LSTM和ST-GCN的表现优于Transformer，显示出更好的短期预测准确性。人类行为分割包括特征提取、降维、聚类和两阶段时间分割。基于HMP（CNN-LSTM）的特征实现了最高的聚类性能。两阶段分割显示出很高的准确性，任务级和子任务级分割的归一化编辑距离（NED）分别为0.029和0.07。评估结果表明，使用预测运动的主动避碰增加了安全距离（从0.4633米增加到0.4717米），而基于动作分割的动态任务分配提高了机器人效率（从84.95%提高到98.56%）。这些结果验证了所提出的分层人类行为建模框架在同时提高HRC装配的安全性和效率方面的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452500256X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[面向目标的无碰撞机器人抓取任务出勤教师学生知识提取用于各种密集杂波场景]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002558?dgcid=rss_sd_all</link>
-      <description><![CDATA[在密集杂波场景中，面向目标的无碰撞机器人抓取取得了重大进展。然而，之前的研究主要集中在物体数量增加带来的复杂问题上。事实上，各种情况也会带来挑战。这意味着随着更多子任务的出现，技能模型将不可避免地开始膨胀。我们之前的研究提出了一种多教师蒸馏策略，从而有效地避免了臃肿。不幸的是，当场景有更多的子任务和高度相似的子任务时，它在执行能力方面仍然存在问题。根本原因是被提炼的学生在子任务识别方面的能力不足。当人类经验无法工作时，基于传统的数据驱动方式开发子任务分类器是幼稚的。因此，我们通过将教师的分类能力迁移到学生身上，提出了一种无数据集的分类器。然后，我们进一步提出了一种任务出勤教师-学生知识蒸馏策略，以提供涉及更多且高度相似的子任务的各种场景，从而显著提高抓取性能。我们还利用语言指令通过LLM确保目标对象的掩模图，提高了人机协作的直观性。广泛的对比实验验证了我们框架的优势。我们衡量了教师-学生蒸馏的能力，以及我们框架中无数据集分类器的价值。重要的是，在模糊指令、视觉遮挡和颜色冲突下测试了分割策略的性能。此外，根据涉及看不见对象、看不见任务模态和存在干扰的真实世界实验，表现出了出色的泛化能力和鲁棒性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002558?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种用于模拟具有不确定性的人类行为的时空人类数字孪生方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002571?dgcid=rss_sd_all</link>
-      <description><![CDATA[在人机交互（HRI）过程中，对人类行为进行建模至关重要。HRI期间的人体运动是不确定的。即使同一个人执行相同的动作，也不可能确保每次的运动轨迹都是相同的。这些因素使得模拟人类行为极具挑战性。除了人类的不确定性，HRI中还存在动态的时空依赖性。在充分整合时空特征的同时有效地捕捉不确定性是一个重大挑战。此外，仅通过人体骨骼来表现人类行为是不够的。最近，人类数字双胞胎已经被开发出来来表示人类的几何形状。然而，目前的人类数字双胞胎并不适合动态HRI场景，因为它们很难准确地描绘高维人类参数，从而导致非线性映射和关节漂移等问题。总之，现有的方法很难解决人类的不确定性、时空依赖性和高维人类参数。为了应对上述挑战，本研究提出了一种时空人类数字孪生（TSHDT）来模拟HRI中的人类行为。TSHDT基于预测的人类骨骼，整合了正向和反向运动学以及扩散先验分布，以表示高维人类参数，从而防止关节漂移和关节之间的非线性映射。在开发TSHDT时，我们引入了人机时空（HRTS）扩散模型来减轻人体运动的不确定性。HRTS扩散模型的独特扩散和去噪过程可以有效地淹没噪声中的不确定性，并在后续去噪步骤中准确预测人体运动。为了确保去噪过程有利于准确性而不是多样性，我们提出了时空融合图卷积网络（TSFGCN）来捕获人类和机器人之间的时空特征，并将其嵌入HRTS扩散模型中。最后，通过人机织物切割实验中的预测碰撞检测验证了TSHDT的有效性。结果表明，所提出的方法在碰撞检测实验中准确地模拟了人类行为，取得了优异的F1成绩。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002571?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于拍卖的隐私保护云边缘协同调度，考虑多源制造任务的灵活服务能力]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002601?dgcid=rss_sd_all</link>
-      <description><![CDATA[在云制造服务的背景下，调度制造任务是一个至关重要的研究领域，因为它直接影响服务质量和效率。随着智能制造技术的进步，边缘制造服务提供商获得了越来越灵活的能力，使他们能够调整本地生产计划以适应云制造任务。然而，由于本地制造信息是私有的，传统的集中式云制造调度方法无法充分利用边缘灵活性，在不泄露敏感信息的情况下协同调度多源制造任务（包括云制造任务和边缘服务提供商的本地任务），从而限制了云制造服务性能和效率的提高。因此，我们提出了一种基于拍卖理论的隐私保护云边缘协同决策方法来调度多源制造任务。首先，建立了一个数学模型，该模型考虑了服务提供者和需求者的目标，以表征多源任务的协同调度。随后，介绍了一种云边缘协同调度决策框架。在此基础上，提出了一种基于组合迭代拍卖的多阶段调度方法，该方法具有灵活的执行时间线和分布式中标者确定过程，结合了投标合并机制，以提高云边缘协同决策的效率。最后，为了验证所提出方法的优越性，进行了计算实验，将其与传统的集中式制造任务调度方法进行了比较。结果表明，所提出的方法不仅能在相对较短的生产周期内完成云制造任务，还能为需求者提供更高价值的制造服务。此外，随着云制造任务负载的增加，这一优势变得更加明显。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002601?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[iLSPR:一种基于学习的智能制造机器人空间感知场景点云配准方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002583?dgcid=rss_sd_all</link>
-      <description><![CDATA[智能制造的一个关键能力是机器人系统理解空间操作环境的能力，即机器人精确识别和估计工业场景中物体的空间位置和方向的能力。现有的场景重建方法是针对对象精度要求低、数据丰富的一般环境而设计的。然而，制造依赖于高物体精度，并在有限的数据下运行。针对这些挑战和局限性，我们提出了一种新的基于学习的场景点云注册框架，用于自动工业场景重建（iLSPR）。所提出的iLSPR框架利用点云表示并集成了三项关键创新：（i）多特征鲁棒点匹配网络（MF-RPMN），该网络从原始数据和对象的深度特征中学习，以准确对齐点云;（ii）基于几何基元的数据生成（GPDG）方法，用于高效生成合成数据;（iii）工业目标对象的数字模型库。在操作过程中，视觉传感器捕获场景中的点云，iLSPR方法使用MF-RPMN在场景中注册高保真对象模型，并使用GPDG生成的数据进行预训练。我们在IsaacSim中引入了一个工业场景对象点云注册（ISOPR）数据集来对性能进行基准测试。实验结果表明，iLSPR在准确性和鲁棒性方面明显优于现有方法。我们在现实世界的机器人制造系统上进一步验证了该方法，展示了工业场景的可靠数字重建。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002583?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于人机协同拆卸的图形驱动单机器人多认知代理系统架构]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002613?dgcid=rss_sd_all</link>
-      <description><![CDATA[单智能体系统在处理复杂任务方面的固有局限性，再加上传统多智能体范式的低效性——任务分解需要在多个机器人之间分配，导致资源冗余和成本上升。为了解决这一关键约束，提出了一种图驱动的单机器人多认知代理系统架构。首先，构建场景图，将环境中的非结构化视觉数据转换为基于图的三元组。通过将这些三元组与预先构建的知识图对齐，通过图匹配激活历史记忆，为系统决策提供有先例的见解。然后，注意力驱动的协作机制在不同代理之间动态指定领导者和支持者角色，确保基于上下文需求的自适应角色分配。作为补充，全局优化框架促进了单机器人多认知代理系统的集体进化，提高了单个代理的性能和代理间的协作。最后，模型上下文协议通过协调外部资源利用与计算过程来协调机器人执行，确保将决策输出无缝转换为物理动作。实验结果表明，该方法在动态反汇编查询中表现出很强的鲁棒性和泛化能力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002613?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[知识图驱动的报废产品人机协同拆卸策略过程推理]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002650?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于寿命终止（EOL）产品固有的复杂结构和异构信息，基于人机协作（HRC）确定最佳拆卸解决方案仍然是一项具有挑战性的任务。随着EOL产品中结构和功能不确定性的增加，传统的拆卸方法难以满足实际的拆卸需求。尽管已经提出了各种算法来优化拆卸过程，但仍然存在重大挑战。这些问题包括现有模型的适应性有限，以及有效表示动态结构化信息的困难。为了应对这些挑战，本研究提出了一种将知识图驱动的神经网络与信息分解模块相结合的新方法。该机制使网络能够发现结构语义信息和关系连接，促进最优拆卸策略的预测，增强EOL产品数据和知识的过程推理能力。同样，所提出的方法为HRC拆卸任务分配和工具选择提供了可靠的决策支持，使复杂拆卸过程中的拆卸操作高效安全。最后，我们通过使用EOL电池组的示例，推理复杂HRC拆卸场景中的最优拆卸策略和潜在过程关系，证明了该方法的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002650?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[多产品、多生产线布局中人机协同并行双面破坏性拆卸线平衡问题的工业应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002637?dgcid=rss_sd_all</link>
-      <description><![CDATA[人机协作最大限度地发挥了人类和机器人各自的优势，推动了绿色智能制造的深刻变革，并支持在再制造中高效完成各种拆卸任务。然而，现有的研究主要集中在单一的生命周期结束（EOL）产品场景上。随着EOL产品种类和数量的增加，传统的单线布局和拆卸模式难以满足大规模、多类型产品拆卸的需求。为了解决这个问题，本文提出了一种用于多产品、多生产线场景的人机协作并行双面破坏性拆卸线平衡问题（HRC-PTDDLBP）。首先，建立HRC-PTDDLBP的混合整数线性规划模型，以最小化加权工作站数量、平滑度指数和安全风险。为了有效地推导出帕累托最优解，开发了一种改进的增广ε约束方法（AUGMECON-2），该方法引入松弛变量和自适应ε步长参数，以提高收敛稳定性和解的多样性，同时避免弱帕累托最优点。其次，开发了一种改进的多目标离散水波优化算法，用于高效求解模型。该算法基于任务优先级和组件不可拆卸性构建初始种群，结合考虑方向和任务属性冲突的解码策略，并通过精细交叉、局部搜索和重启策略提高搜索性能。在GUROBI商业求解器的范围内验证了模型和算法的正确性。在双边、人机非破坏性和破坏性拆卸模式下，与七种最先进的多目标算法进行基准测试，所提出的方法显示出卓越的性能。最后，将该方法应用于废弃打印机和电视机的拆卸案例中，进一步验证了该方法的有效性。与次优算法相比，平滑度指数降低了87.0%，安全风险提高了20.22%，同时在减少线路长度和减少空闲时间方面取得了显著进展。这些结果说明了所提出的方法在多产品、多线人机协同拆卸线平衡方面的综合优势，为现实世界的拆卸系统提供了一种实用且适应性强的解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002637?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[一种通过视觉运动基元进行接触丰富装配的混合现实辅助人机技能转移方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002625?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业装配是现代制造业的核心，但对机器人系统的可靠性和适应性提出了重大挑战。随着制造业向智能生产转变，迫切需要高效的人机技能转移方法来实现相互认知。然而，目前的具身智能研究主要集中在家庭任务上，而在现实世界的工业应用中，人类在灵巧和长期任务中的表现在很大程度上仍未得到探索。为了弥合这一差距，我们提出了一个技能转移框架，并建立了一个接触丰富的装配基准。它集成了一个用于低成本和多样化演示的MR辅助数字孪生系统，一个用于连续动作的端到端生成视觉运动器模仿学习策略，以及涵盖工业启发任务的原始技能，如插钉、齿轮啮合和拆卸。六项任务的实验证明了高成功率和鲁棒的位置泛化能力。这项研究探索了一条新的途径，希望它能为未来的人机协作提供有价值的见解，并成为物理智能与生成式人工智能整合的关键先驱。项目网站可在：https://h2r-mrsta.github.io/.]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002625?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于气体绝缘开关设备现场检查和维护的移动连续机器人的设计、建模和运动规划]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002595?dgcid=rss_sd_all</link>
-      <description><![CDATA[气体绝缘开关设备（GIS）的现场检查和维护对于确保电网安全和稳定运行至关重要，因为它可以显著减少当前的维护周期，由于GIS的拆卸和清洁，维护周期既广泛又昂贵。然而，在密闭环境（如灭弧室）中通过检查端口进出以执行检查和维护任务是相当具有挑战性的。本研究提出了一种新型的多段超细长（3段，直径与长度比&lt;0.04）电缆驱动的移动连续体机器人（CDMCR），旨在进入密闭空间，执行维护任务，并执行所需的关节配置。移动平台和电缆驱动连续臂之间的耦合引入了显著的冗余。这种冗余使多约束运动规划复杂化，并在探索紧凑的非结构化环境时降低了计算效率。为了解决这个问题，我们开发了一种实时运动规划器，该规划器结合了机械配置约束、执行器限制、避障和弧面约束。规划器生成协调的基础和关节运动，以跟踪平滑的末端执行器轨迹。这使得能够从先前已知场景中的任意初始状态进行全局路径规划。随后，受蛇的自然运动启发，改进的跟随领导者（FTL）算法可确保在末端路径跟踪过程中避免自碰撞。实验室和现场评估证明了有效的工作空间覆盖、高压GIS隔间内的全面视觉检查能力，以及通过响应式计算解决随机6自由度目标的稳健成功——验证了机器人架构和为实际电力设备维护提出的规划框架。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002595?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于飞机装配系统快速开发的图形软件数字孪生建模框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002674?dgcid=rss_sd_all</link>
-      <description><![CDATA[数字孪生（DT）技术正在推动制造业向更高的智能化和适应性发展。然而，现有的DT建模方法仍然严重依赖于定制，缺乏面向装配的制造系统的通用性和可扩展性。为了解决这一局限性，本文提出了一种将图形交互与可重用功能模块相结合的模块化DT控制框架。基于经典的五维DT模型，将虚拟实体细化为几何和物理模型，将服务系统扩展为行为和任务模型，使系统结构和操作逻辑之间能够更清晰地描述和直接对应。建立了面向行为的建模工作流和数据映射机制，以提高场景适应性并减少建模工作量。在此框架之上开发了一个图形化DT建模平台。构建了多个机器人制造原型，包括机器人钻孔、机器人胶合和混合钻孔系统，以评估所提出方法的通用性和可重构性。在机器人钻井系统上进行钻井实验，以验证基于DT的控制执行机制。所得孔的平均定位误差为0.23mm，直径误差为0.012mm，均满足航空航天钻孔要求。这证实了在所提出的DT框架下，虚拟任务命令可以在物理系统上准确执行。总体而言，DT原型实现和演练实验共同验证了框架的可扩展性及其基于DT的控制能力，为飞机装配系统中DT原型的快速开发和部署提供了一种实用的方法。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002674?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于图的多尺度融合学习在STEP-NC加工特征识别中的应用]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002649?dgcid=rss_sd_all</link>
-      <description><![CDATA[将人工智能集成到下一代CAM系统中引起了极大的研究兴趣。其中，自动特征识别是生成相应加工路径的关键前提。因此，研究人员越来越多地利用深度学习方法从B-rep模型中识别几何特征。然而，针对识别加工特征以确保与下游CAM刀具路径生成兼容的研究仍然有限。本文提出了一种多尺度融合图神经网络框架，该框架嵌入STEP-NC加工特征，以提高其在后续刀具路径生成中的效力。首先，根据STEP-NC ISO 14649标准提取特征语义，并通过将GIN的相邻人脸聚合与图变换器的多头自关注机制集成来构建融合网络。在输出层，基于标准定义执行细粒度标签分解，实现特征类别及其相关EXPRESS表示的并发预测。经过预训练后，该模型对未标记的真实世界工件数据进行无监督微调，以提高其在实际制造场景中的泛化性能。实验结果表明，在自动化制造任务中，真实零件加工特征的识别准确率超过85%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002649?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[通过增强现实在实际使用环境中进行协同工业产品定制：机床冷却器的案例研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002704?dgcid=rss_sd_all</link>
-      <description><![CDATA[大规模定制已成为一种商业策略，使公司能够大规模满足个人客户的需求。其技术实现需要设计工具，以便在早期设计阶段进行有效的工程沟通，而不需要物理存在。本研究介绍了一种直接在实际使用环境中进行协同工业产品定制的集成方法，使用增强现实（AR）技术作为界面。本研究引入了一种基于增强现实（AR）的创新框架，使客户能够在真实使用环境中直接进行工业产品定制，从而改变了传统、耗时和面对面的定制过程。现场用户可以通过AR远程访问智能功能，如流媒体内容控制、环境智能创建、参数化建模和现场功能模拟，通过无线网络促进定制过程。工业冷却器设计的一个真实案例证明了原型工具实现所提出方法的可行性。一项比较研究表明，该工具将以前需要数小时或数天的定制步骤缩短到几分钟，并消除了重复迭代，整体效率提高了80%以上。这项工作实现了通过AR接口在现场环境中进行工程设计和仿真的概念。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002704?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[构建生产设备画像及其实时摘要，以实现智能作业调度中的自动问题制定]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0736584525002662?dgcid=rss_sd_all</link>
-      <description><![CDATA[制造车间的中断，如新任务或设备故障，经常使当前的进度表无效，不仅需要调整进度表，还需要快速重新定义进度问题本身。尽管已经为特定的调度问题开发了先进的调度框架，但在能够执行自动问题制定以应对中断的机制中仍然存在关键差距。具体而言，缺乏将复杂和多样化的设备能力信息自动有效地整合到问题约束中的方法。为了解决这个问题，我们提出了一种新的肖像驱动的智能作业调度范式。这种范式引入了动态设备能力画像的视角，它自动将原始设备数据抽象为调度约束。因此，这种范式关闭了从情境感知到问题定义、表述、解决和结果解释的循环。为了支持这一新范式，我们提出了一种分层生产设备能力画像（HPECP）方法，该方法将传统的基于自画像的设备画像方法扩展为决策者的任务驱动画像，从而为调度问题的制定提供一致和可解释的能力表示以及约束。此外，为了确保其在动态研讨会中的通用性和有效性，提出了一个技术实施框架，其中包括四个核心组成部分：标准化能力配置文件构建、任务能力相关性建模、动态肖像重组，以及肖像重组过程的参数优化策略。最后，通过一个实际车间的仿真案例来验证和分析所提出范式的有效性。分析结果表明，所提出的HPECP方法/技术框架为自动问题制定提供了有效的基础，从而支持未来在真实车间中实施和推广纵向驱动的智能作业调度。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584525002662?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 14:58:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[用于小批量生产的新型螺钉紧固机械手：多相操作和贝叶斯扭矩估计]]></title>

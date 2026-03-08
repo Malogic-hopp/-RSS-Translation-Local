@@ -4,118 +4,76 @@
     <title>ScienceDirect出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 09 Feb 2026 21:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:33:58 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[用于结构可靠性评估的集成学习增强的协同代理建模方法和改进的粒子群优化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000084?dgcid=rss_sd_all</link>
-      <description><![CDATA[本研究提出了一种新型的用于结构可靠性评估的分布式协作代理建模框架。它集成了用于特征选择的最小绝对收缩和选择操作符、用于集成预测的梯度提升回归以及用于超参数调整的改进粒子群优化算法，形成了一种新的代理建模方法，缩写为IPSLG。然后应用分布式协作策略将IPSLG扩展为协作建模框架，以下称为分布式协作IPSLG（DCIPSLG）。通过悬挑管的强度可靠性分析和导弹支架-座舱系统的蠕动变形可靠性评估进行验证，证明了DCIPSLG相对于某些已建立的替代建模技术的优越性能。比较结果证实了预测准确性和计算效率的显着提高，从而使拟议框架成为复杂工程可靠性分析的有效工具。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000084?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:35:16 GMT</pubDate>
+      <title><![CDATA[世界模型驱动的流程行业运营：基于条件扩散的线下强化学习解决方案]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000096?dgcid=rss_sd_all</link>
+      <description><![CDATA[流程工业的生产控制优化通常受到难以数学建模的复杂物理化学过程的挑战。作为一种无模型方法，强化学习（RL）提供了一个有前途的解决方案。然而，通过试错法进行在线行动探索可能会损害设备的安全性和效率，而离线培训由于数据集有限且不平衡，特别是错误操作数据的稀缺而受到抽样偏差的影响。为了解决这些问题，本研究提出了一个世界模型驱动的运营框架，将条件扩散与离线RL集成在一起。通过利用扩散模型的分布逼近能力，我们引入了受操作参数和历史状态转变约束的条件轨迹生成机制。这使得扩散模型能够产生近乎现实的状态轨迹和奖励信号，从而构建交互式的虚拟状态-动作-奖励空间。我们进一步采用想象轨迹的自回归生成来支持RL代理训练。在世界模型训练过程中，结合了时空Transformer架构来捕获沿着状态动作轨迹的依赖性。对于离线代理训练，采用了通过行为克隆进行规范化的双延迟深度确定性政策梯度的RL模型。在烟草加工线上的实验表明，提出的基于条件扩散的离线RL方法准确地构建了均方误差为1.27e-4的虚拟样本空间，显着降低了策略获取成本。与其他最先进的离线RL算法相比，由此产生的RL驱动参数调整使产品合格率提高了约12%。我们的算法实现和评估数据集可以在此处找到：https://github.com/sizizuo0076/WM-PIO-ORL。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000096?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:57 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[张力混凝土铁路桥梁基础设施动态分析和生成式设计的自动化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000072?dgcid=rss_sd_all</link>
-      <description><![CDATA[这项研究为承受高速机车多关节（HSLM-A）列车载荷的高速有碴铁路桥梁的动态分析和生成式设计提供了一种创新方法。符合欧洲规范标准，生成了一个包含超过400万个数据点的综合数据库，其中包括受十个HSLM-A模型影响的10，000多座桥梁的最大垂直位移和加速度数据，速度范围为150至350公里/小时。这项研究的关键贡献在于一种新颖的代理模型，该模型结合了语义搜索和高级解码技术，显着提高了单跨高速铁路桥梁动态行为预测的计算时间和准确性。通过现有30 m和50 m跨度桥梁的案例研究验证了所开发模型的性能，R2值为0.999，凸显了该模型的精确性和快速预测能力。此外，该研究还引入了一种先进的框架，用于优化张力混凝土铁路桥梁的横剖面几何形状。然后对一座典型的箱梁桥进行了案例研究，以确定25种在单位长度质量方面优于原始设计的可行方案。这项研究展示了先进技术和结构优化之间的协同效应，并为该领域的未来研究开辟了新的途径。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000072?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:35:14 GMT</pubDate>
+      <title><![CDATA[推进流程监控：运营流程的无分布控制框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000163?dgcid=rss_sd_all</link>
+      <description><![CDATA[统计过程控制和控制图是监控和控制各个行业（包括医疗保健、金融、软件开发和教育）生产过程的重要工具。尽管运营流程（OP）在所有经济领域都很普遍，但没有专门的控制图来监控它们。本文提出了一种新的OP控制图及其相关的匹配过程。使用现实生活中的OP来说明所提出的方法。还研究了非正态情况下控制图的性能，并比较了几种无分布图统计量以确定最有效的设计。提供实用建议来指导决策者为OP选择适当的控制图。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000163?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:53 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用知情机器学习和图注意力网络对流程工业时间序列进行异常检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000126?dgcid=rss_sd_all</link>
-      <description><![CDATA[在工业4.0中，检测多元时间序列中的异常以进行工业设备监控是一项重大挑战。训练数据集中固有的数据偏差可能会导致传统模型学习虚假的相关性，从而导致结果与专家知识不一致。因此，基于知识的表示与顺序数据的集成对于增强捕获高级语义复杂模式并提供有意义的解释的能力至关重要。本文提出了具有图形注意力网络的复合知识融合数据（CKDGAT），这是一种用于流程工业生产监控的无监督异常检测方法。CKDGAT利用两层图注意力网络架构来捕获可变交互和时间依赖性，融合这些元素以生成新特征。采用多头随机注意机制对基于知识的信息进行建模。重建模块利用这些特征来重建输入多元时间序列并生成异常分数。实验表明，CKDGAT在立式磨上优于最先进的基线模型和安全的水处理测试台数据集。此外，进一步的分析表明，CKDGAT为检测到的异常提供了可解释的解释。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000126?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:35:11 GMT</pubDate>
+      <title><![CDATA[防止人类-人工智能交互中数据驱动的风险传播：场景安全架构]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000254?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着数据驱动人工智能（AI），特别是体现人工智能的出现，人与人工智能双向交互在广泛的数字和智能场景中迅速扩展。在此背景下，数据已成为跨系统风险传播的主要媒介。一旦输入数据受到损害，业务流程和控制循环的风险可能会被放大，从而危及系统及其运营环境。为了应对这一挑战，本文提出了一种人机交互的安全架构，该架构围绕“数据流”作为中心线程进行结构化。该架构采用场景建模来构建参考元模型，将安全控制映射到六个方面：性能、业务、数据、算法、应用程序和基础设施。在这种场景建模方法的基础上，我们设计了一个参考元模型，并将其应用于铝电解的工业案例。通过开发工业监控系统，我们探索针对阳极效应的静态和动态保护措施。在此过程中，我们不仅验证了拟议架构的有效性，还旨在提供针对工业场景量身定制的安全解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000254?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:50 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[基于轻量级YOLOv 8和亚像素边缘检测的电梯牵引轮凹槽磨损识别]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000114?dgcid=rss_sd_all</link>
-      <description><![CDATA[为了实现对不同规格电梯牵引轮凹槽磨损的准确识别，提出了一种基于轻量级You Only Look Once（YOLO）模型和亚像素边缘检测的方法。首先，设计并建造了一种检测不同规格牵引轮槽磨损的装置。该设备使用背光来获得车轮槽背光轮廓的稳定、清晰的图像，从而创建车轮槽图像数据集。接下来，使用FasterBlock、SlimNeck和ECHead模块构建了轻量级的YOLOv 8模型，其中FasterBlock和高效多尺度注意力模块融合，以进一步提高模型的性能，并在背光图像上实现兴趣区域检测和牵引轮凹槽类型识别。此外，通过失真修正和预处理消除了图像失真和图像噪音引起的测量误差。最后，基于部分区域效应实现了不同类型牵引轮凹槽的亚像素边缘提取，实现磨损点定位和磨损测量。实验结果表明，改进后的模型的参数数和浮点运算量分别减少了40%和56%，而中央处理器每秒帧数增加了21%，Union 50-95相交处的平均平均精度提高了0.9（%），速度和准确性都得到了平衡的提高。此外，通过边缘推理部署验证了行业相关性。该测量方法的准确性在带切口的V形凹槽上得到验证，最大绝对误差为0.062 mm，均方误差在0.044 mm以内。因此，该方法提供了对牵引轮凹槽磨损的准确识别，为牵引轮凹槽磨损的通用测量提供了理论依据和技术前提。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000114?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:35:06 GMT</pubDate>
+      <title><![CDATA[SyntheITS：具有先验知识和深度生成模型的合成工业时间序列数据，用于小样本下的设备异常检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000278?dgcid=rss_sd_all</link>
+      <description><![CDATA[人工智能（AI）的快速发展和工业时间序列（ITS）数据的指数增长已经改变了智能制造研究。然而，在获取高质量数据方面仍然存在挑战，特别是在多变量、小批量生产中。来自智能设备（I-Equip）的传感器数据通常具有稀疏性和有限的多样性，这使得数据收集成本高且耗时。为了解决这些限制，我们提出了合成ITS，这是一种生成ITS数据的新型方法，将先验知识与深度生成模型集成在一起。首先，我们通过分析产品加工来确定I-Equip的关键加工阶段。结合专家知识的多阶段数据表示方法将时间序列数据分解为基本特征元素。这些元素通过反向融合和迭代优化构建稳健的ITS模板。SynthiITS的核心采用混合架构，该架构结合了TimeDistance和Time Generative Adversarial Network来生成样本数据的潜在空间表示。这种双重方法确保了合成数据的真实性和多样性，为工业异常检测（IAD）模型创建全面的初始数据集。我们通过针对新能源汽车关键电池组收紧过程的大量实验来验证我们的方法，以不同比例集成合成数据和真实数据以进行模型评估。结果表明，ITS数据IAD模型的准确性和稳健性得到了显着提高。为了进一步验证有效性，我们使用两个不同的时间序列数据集进行了额外的实验。研究结果表明，合成ITS将人类专业知识和机器智能联系起来，生成现实的大规模数据，可以补充或替代现实世界的数据。这一突破使得能够在零数据环境中进行初始模型训练，无需大量辅助数据集，实现与在精确匹配的真实数据上训练的模型相当的性能。合成ITS加速了IAD智能系统的开发和评估，为将人工智能技术集成到制造业提供了从理论到应用的全面解决方案。所有数据和代码均可在https://github.com/xluckywang/SyntheITS上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000278?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:46 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[一种基于在线修复技术的风力机叶片图像拼接改进方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000138?dgcid=rss_sd_all</link>
-      <description><![CDATA[当机器视觉技术用于风力涡轮机叶片的在线缺陷检测时，现有的图像拼接方法难以检测图像特征、正确匹配率和准确配准图像。因此，基于改进的加速KAZA（AKAZA）方法，提出了一种适用于风力涡轮机叶片在线修复机器人平台的图像拼接方法。利用AKAze算法检测风力涡轮机叶片裂纹图像的特征点，并利用二进制鲁棒不变可扩展关键点描述符进行描述。采用基于网格的运动统计算法进行特征预匹配，采用随机样本一致性算法优化特征匹配结果并计算图像变换模型。采用加权混合算法对图像的重叠区域进行混合，获得高分辨率、完整的风力发电机叶片裂缝图像。在裂纹风力涡轮机叶片图像上验证了该方法的拼接效果，并在特征点检测、正确匹配率、拼接质量和效率方面与其他算法进行了比较。实验结果表明，该方法有效地实现了高分辨率风力发电机叶片裂纹图像的拼接。因此，改进后的AKAZA图像拼接方法可以支持基于在线修复技术的风力涡轮叶片修复机器人的检修任务。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000138?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:35:01 GMT</pubDate>
+      <title><![CDATA[医疗保健和职业福祉领域的人类数字双胞胎：启用技术、应用程序、数据集和未来趋势]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000308?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着慢性病、职业健康挑战和人口老龄化加剧，传统的被动医疗服务模式越来越不充分，导致数据管理碎片化、资源分配不均衡和个性化有限。人类数字双胞胎（HDT）已成为一种变革性的解决方案，能够通过捕捉生理、心理、认知和行为状态来动态模拟、监测和分析人类健康状况。虽然HDT可以使医疗保健从“碎片化的应急响应”过渡到“系统性生态管理”，但目前的局限性包括概念边界不明确、框架不标准化以及对职业福祉作为整体健康重要组成部分的关注不够。为了解决这些差距，本研究进行了最先进的审查，系统地研究了挑战，使能技术和HDT在全球健康中的应用潜力。提出了一个统一的HDT框架，以集成人工智能（AI），物联网（IoT）和区块链技术，以克服高保真人体建模，数据隐私和人机一体化的技术瓶颈。该综述进一步探讨了工业应用和开源数据集，以加强未来研究的可行性和可扩展性，并为推进HDT在医疗保健和职业健康方面的开发和应用提供了实用指南。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000308?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:42 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[自动化客户需求分析：旅游行业大型语言模型的比较研究]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000151?dgcid=rss_sd_all</link>
-      <description><![CDATA[在自然语言处理（NLP）迅速发展的环境中，大型语言模型（LLM）已成为许多任务的强大工具，例如从大量文本数据中提取有价值的见解。在本研究中，我们对LLM进行了比较分析，以从TripAdvisor和Reddit帖子中提取旅游客户需求。利用各种模型，包括GPT-4和Gemini等开源和专有模型，我们的目标是阐明它们在这个专业领域的优势和劣势。通过涉及BERTScore、面向召回的Gisting Evidence（ROUGE）和BiLingual Evidence Understudy（BLEU）等指标的评估流程，我们评估每个模型在准确识别和总结客户需求方面的表现。我们的研究结果强调了开源LLM（尤其是Mistral 7 B）的功效，可以实现与大型封闭模型相当的性能，同时提供经济实惠和定制优势。此外，我们强调在选择最适合客户需求分析任务的LLM时考虑模型大小、资源要求和性能指标等因素的重要性。总体而言，这项研究为寻求利用先进的NLP技术来增强客户体验并提高旅游行业运营效率的企业提供了宝贵的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000151?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:34:56 GMT</pubDate>
+      <title><![CDATA[LightDefectNet：用于冷轧钢多尺度缺陷和复杂背景的轻量级端到端模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152600031X?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业冷轧过程中准确、快速的缺陷检测对深度学习模型提出了严格的要求，特别是由于缺陷的多尺度性质和制造环境的复杂性。为了应对这些挑战，本研究引入了LightDefectNet，这是一个轻量级的端到端缺陷检测框架，针对实时工业部署进行了优化。所提出的架构结合了一个多尺度自适应和更快的块来增强多尺度缺陷的检测，以及一个高效的动态特征提取器来强调显着特征同时抑制背景噪音。此外，还采用基于深度可分离卷积的模块来最大限度地降低计算复杂性，使模型能够以低资源消耗保持高检测准确性。对两个基准冷轧钢缺陷数据集CR 7-DET和GC 10-DET的实验评估证明了LightDefectNet的卓越性能，在50%相交处分别实现了最先进的平均精度分数0.888和0.804。该模型仅拥有189万个参数和每秒5.72千兆浮点运算，非常适合实时应用。对钢铁缺陷混合数据集的进一步验证证实了其稳健性。在现实生产线中的部署产生了高精度（0.802）和召回率（0.831），凸显了LightDefectNet在复杂工业环境中检测多规模缺陷的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600031X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:38 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[SKDAN：信号知识增强型领域自适应网络，用于滚动轴承的剩余使用寿命预测和不确定性量化]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016636152600014X?dgcid=rss_sd_all</link>
-      <description><![CDATA[基于领域自适应的方法被广泛应用于预测复杂运行条件下滚动轴承的剩余使用寿命（RUL）。然而，轴承的非线性退化过程导致整个生命周期中振动信号明显非平稳特征。尽管不同退化阶段的故障特征存在显着差异，但清楚地识别关键退化信息仍然是一项挑战。本文提出了一种信号知识增强型域自适应网络（SKDAN）来从非平稳降级过程中学习域不变特征，从而改进跨域RUL预测。具体来说，引入具有可变窗口的自适应短期傅里叶变换层来分析时间域中的原始振动信号。该可微层提取能量集中的时频物理信息，增强了退化特征的表示。随后，提出了一种新型的差异度量，称为多阶段最大均值差异（MSMMD），用多个局部差异取代全局平均差异。MSMMD指标有效地增加了集群中心之间的类间距离，从而实现跨域特征对齐。最后，通过分步训练策略构建不确定性测量机制，目标是通过计算预测点的置信区间来量化RUL结果的不确定性。在两个不同的方位数据集上进行了与其他方法的比较测试，结果表明SKDAN在跨域RUL预测方面实现了卓越的性能和可靠性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600014X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 09 Feb 2026 21:34:51 GMT</pubDate>
+      <title><![CDATA[VAVFormer：基于变分融合和自适应波动性关注的通用可解释故障诊断框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000266?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着深度学习和传感技术的快速发展，多源信息驱动的Transformer模型在旋转机械故障诊断研究中受到了广泛关注。然而，现有方法通常在信号融合期间平等地对待所有传感器信号，忽略了它们对故障诊断的贡献的差异，从而导致存在故障传感器的概括性能下降。此外，不透明的决策逻辑限制了基于Transformer的故障诊断结果的可信度。因此，本文提出了一种名为VAVFormer的通用可解释故障诊断框架来解决上述挑战。首先，考虑传感器数据的不确定性和变异性，设计了多源信息变分融合机制来动态估计传感器权重。其次，构建自适应波动性注意力块来量化信号波动性并调整注意力边界，重点关注对准确故障诊断至关重要的高波动性区域。VAVFormer的有效性通过地铁列车转向架变速箱和风力涡轮机系统的实验得到了验证。比较结果表明，所提出的VAVFormer优于先进的变压器为基础的方法在多个诊断任务，表现出良好的鲁棒性和跨域泛化能力。此外，传感器权重和注意力热图的可视化为模型的决策过程提供了清晰的见解，增强了其透明度和可解释性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000266?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:34 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[TropicCal：用于物联网增强流程的多视角跟踪集群]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</link>
-      <description><![CDATA[通过物联网（IoT）技术（例如智能制造流程）增强的业务流程（BP）利用传感器等物联网设备来监控和捕获执行流程的物理环境中的上下文数据。虽然BP的执行通常作为事件日志记录在信息系统中，但物联网增强型BP也会产生可以提供有价值的上下文洞察的物联网数据。然而，现有的流程挖掘技术通常专注于控制流角度，经常错过对流程活动序列和物联网数据动态相互作用的关键见解，例如某些物联网读数可能如何触发或影响特定流程活动。为了解决这一差距，我们提出了TROPICAL，这是一种用于多视角跟踪集群的新技术，它集成了三个关键视角：控制流视角、跟踪属性数据视角和时间序列（TS）传感器数据视角。TROPICCal的主要新颖之处是作为TS数据视角的一部分对所谓的上下文事件进行分析。这些事件标记了TS传感器数据中检测到的过程重要事件。此外，为了从我们的技术的输出中揭示更多见解，我们提出了基于排列特征重要性的集群解释性方法。我们展示了我们方法的有效性，并使用现实世界的制造用例将其与文献中最相关和最先进的方法进行比较。通过深入采访进行的专家评估表明，TROPICCal对该流程的多视角变体提供了更好的见解。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001848?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:42:15 GMT</pubDate>
+      <title><![CDATA[学会在专业文件中提问和回答：通过模块化集成建筑监管文件进行示例]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000291?dgcid=rss_sd_all</link>
+      <description><![CDATA[大型语言模型在一般问答任务中表现良好，但由于特定领域的数据集策展成本高和模型性能不稳定，在专业领域内的本地上下文问答中面临挑战。为了解决这些问题，本文提出了一个两阶段框架。在第一阶段，“学习提问”，经过微调的LLM在上下文相关性的指导下，根据上下文生成问答对（即，问题-上下文对齐）和答案保真度（即，答案的准确性和忠实性）。第二阶段“学习回答”系统地比较不同的CQA范式，包括微调、检索增强生成和专有LLM。该框架使用模块化集成施工监管文件进行演示。广泛的实验产生了三个主要见解：（1）合成数据生成通常反映训练分布，因此需要有效的过滤;（2）尽管存在固有偏差，合成数据仍保留了原始数据和适当模型所实现的90-100%的性能，证明了其实际用途;和（3）特定领域的微调模型可实现最佳性能，凸显了量身定制适应的重要性。这项工作弥合了合成数据质量保证和领域感知语言模型定制方面的差距，为低资源、专业知识驱动和隐私敏感领域的应用程序提供了实用指南。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000291?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:31 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[FarrowSight：一个用于产房早期小猪生长表现预测的智能系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</link>
-      <description><![CDATA[准确预测断奶前小猪生长曲线对于预测断奶体重至关重要，断奶体重是小猪未来发展和遗传育种潜力的关键指标。传统上，记录生长曲线依赖于每日手动称重，这是劳动密集型的，会给小猪带来压力，并且不适合连续监测。为了解决这些局限性，必须开发一种能够非接触式个人体重监测和早期预测断奶前生长曲线的系统。这项研究引入了FarrowSight，这是一种集成了红绿蓝深度（RGB-D）相机的智能系统，旨在识别非接触式自由移动的小猪，并估计每头小猪在产房中的瞬时体重。同时，开发了基于AutoGluon的迭代网络（AG-IterNet）算法，以基于瞬时体重测量精确监测个体小猪时间序列生长动态，尽早实现断奶前生长曲线的预测。FarrowSight仅使用第一周的体重数据就显示出断奶前生长曲线的出色预测准确性，决定系数（R2）为0.827（95%置信区间（CI）：0.816，0.838），平均绝对百分比误差（MAPE）为10.833%（95%CI：10.526%，11.139%）。此外，预测性能表现出逐步增强与纳入额外的早期体重测量，有效地提前评估时间表从传统的3 - 4周断奶体重到关键的出生后第一周。这项创新对于优化饲养管理和选择养猪行业内的优秀个体具有巨大潜力。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001988?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 19 Jan 2026 14:42:11 GMT</pubDate>
+      <title><![CDATA[基于改进可学习Gabor滤波卷积的带钢缺陷纹理识别网络]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152600028X?dgcid=rss_sd_all</link>
+      <description><![CDATA[虽然自动视觉检测被广泛应用于带钢缺陷检测，但传统的卷积神经网络存在有限的接收域和频率混叠，这阻碍了准确的缺陷纹理识别。钢铁缺陷纹理的多样性和复杂性使得在推理精度与速度之间取得平衡具有挑战性。为了解决这些问题，我们提出了轻量级的Gabor纹理识别网络（LGTR-Net），它提高了缺陷纹理推断的准确性和效率。我们的贡献包括用于构建轻量级卷积结构的新型可学习Gabor过滤器、用于进一步精简模型的幽灵图方法以及受约束的可学习过滤器参数。我们还引入了一种基于统计纹理和位置增强的新注意力机制。LGTR-Net是在新提出的条带表面缺陷分类数据集和三个额外的公共数据集上进行评估的。大量实验表明LGTR-Net实现了最先进的推理准确性和速度。该代码可在https://github.com/EtsuHuang/LGTR-Net上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600028X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:27 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[编辑委员会]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年2月资料来源：工业计算机，第175卷作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000047?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 17 Jan 2026 18:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于模糊集特征提取和智能优化的短期综合风速预测系统]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all</link>
-      <description><![CDATA[由于风力发电的持续增长和技术的进步，风能具有巨大的潜力。然而，风速的演变受到多种因素复杂相互作用的影响，使其具有高度的可变性。风速演变的非线性和非平稳性会对整个电力系统产生相当大的影响。为了应对这一挑战，我们提出了一种基于模糊特征提取的集成多帧风速预测系统。该系统采用凸子集划分方法，使用三角隶属函数进行模糊特征提取。通过对子集应用软聚类、构建隶属矩阵和识别聚类中心，该系统引入了内域和边界域的概念。随后，它通过测量类间和类内距离来计算数据点到聚类中心的距离。该方法使用隶属矩阵更新聚类中心，生成最优特征值。在此基础上，我们使用多种机器学习方法将模糊特征输入到预测模型中，并整合学习技术来预测特征值。由于不同的数据集需要不同的建模方法，因此使用集成的权重更新模块通过设置双目标函数来动态调整模型权重，以确保预测的准确性和稳定性。通过对中国蓬莱风电场数据的实证分析，证明了所提出模型在预测性能和泛化能力方面的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001836?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于扩散模型的钢筋混凝土框架结构构件尺寸智能设计]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001939?dgcid=rss_sd_all</link>
-      <description><![CDATA[设计钢筋混凝土（RC）框架结构的构件尺寸是结构设计的一个关键方面。然而，对人工专业知识的依赖导致设计效率低和质量不稳定。使用启发式优化和人工智能算法，如生成对抗网络（GANs）和图神经网络（GNNs），可以提高设计质量和效率。然而，启发式优化算法速度较慢，GANs和GNNs的准确性不足。因此，本研究提出了一种基于扩散模型的方法，称为框架尺寸扩散，用于预测RC框架结构中的组件尺寸。通过集成多通道掩模和梯度加权校正，该模型提高了梁、柱和板的组件尺寸预测的精度和鲁棒性。此外，引入了一种新的数据集构建方法，该方法捕获了关键的标准层特征和地震条件，以促进扩散模型的学习过程。通过综合实验评估和案例研究，证明了所提出方法的有效性。与异构GNN相比，预测精度提高了33%。此外，层间位移比结果与工程师设计的规范一致，材料使用误差在1%以内。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001939?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[评估区块链技术在建筑供应链中的技术效用：基于用例的多KPI决策支持方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001940?dgcid=rss_sd_all</link>
-      <description><![CDATA[区块链技术（BCT）通过解决与透明度、效率和可追溯性相关的长期挑战，在改变建筑供应链（CSC）方面具有巨大的潜力。本研究调查并开发了一个严格的、以KPI为中心的框架，该框架系统地将区块链的使能能力（EC）映射到对CSC绩效至关重要的关键绩效指标（KPI）。通过结合内容分析和设计科学研究（DSR）的混合方法，本文介绍了一种基于网络的决策支持工具（DST），以指导利益相关者评估区块链在建筑项目中的技术适用性。DST分为两个阶段：第一，通过结构化诊断评估区块链的适用性;其次，通过将选定的KPI与相关用例和EC对齐，推荐“最合适”的区块链堆栈。通过模拟案例场景进行验证，证明了DST在支持早期技术基础决策方面的稳健性，并推荐了针对用户定义的KPI和用例量身定制的区块链解决方案。研究结果表明，BCT通过自动化、不可变数据共享、去中心化治理等可以显著提高CSCs的性能。通过弥合概念承诺和实际应用之间的差距，这项研究为建筑行业的数字化转型提供了理论进步和可操作的见解。它为复杂的多利益相关方供应链环境中的技术采用和性能优化提供了一个可复制的决策支持架构。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001940?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[用于优化浓缩-脱水过程能效指标的集成强化学习]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001964?dgcid=rss_sd_all</link>
-      <description><![CDATA[浓缩脱水过程是矿物工业生产的重要阶段，通过优化能耗来提高其能源效率是一个关键的研究方向。然而，关于这一过程的综合优化策略的研究很少。为了解决这一差距并降低浓缩-脱水操作中的能效指数（EEI），本文在该过程中引入了强化学习（RL）。由于强化学习方法容易陷入局部最优，我们将集成学习（EL）与强化学习相结合。基于在调度问题中表现良好的软行动者-批评者（SAC）算法，我们提出了集成SAC（ESAC）算法。在ESAC中，每个参与者都使用自己的参数集与环境交互，只有产生最高奖励的操作才会用于更新所有参与者的参数。还设计了一个加权全局损失函数来防止价值网络的高估。结果表明，ESAC算法明显优于基准RL算法，EL有效地提高了RL的探索效率和决策质量。多策略集成有助于避免局部最优和优化决策。此外，当应用于黄金湿法冶金厂的浓缩-脱水过程时，与手动操作相比，ESAC将EEI降低了44.77%，并将平均底流浓度提高了9.57%。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001964?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[增量学习策略用于改进有限样本晶片图中未知缺陷的检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001976?dgcid=rss_sd_all</link>
-      <description><![CDATA[准确检测晶片上的各种缺陷图案对于提高芯片产量和确保半导体制造系统的可靠性至关重要。随着这一过程变得越来越复杂，晶片上出现了新型缺陷，称为未知缺陷。传统的模式识别方法在这种情况下很困难，因为有限的样本不足以有效地训练深度学习模型。此外，当对新的缺陷类进行增量训练时，这些模型容易发生灾难性的遗忘。为了应对这些挑战，本文提出了一种称为少镜头类对比增量学习（FCCIL）的方法，用于未知晶圆图缺陷检测。FCCIL集成了用于区分新型缺陷类型的对比学习网络和用于动态知识更新的增量学习模型，两者都旨在减轻灾难性遗忘，从而能够在数据有限的情况下检测晶圆图中的未知缺陷。实验结果表明，与最先进的方法相比，FCCIL的抗遗忘能力提高了4%，证实了FCCIL在现实半导体制造场景中的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001976?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[增强现实工具提示跟踪评估的计量方法]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</link>
-      <description><![CDATA[跟踪系统在健康和制造业等各个领域都是必不可少的，可以实现现实世界和数字世界之间的映射。其中，增强现实跟踪系统（ARTS）是最近才出现的，探索较少。这项工作提出了一种定量计量方法来评估ARTS工具提示跟踪性能，促进基准测试、参数优化和特定任务的系统选择。提出了一种特定的3D打印测量工件来指导工具提示定位。对跟踪精度和准确度进行了估计，突出了影响因素的影响。该方法使用基于标记的工具提示用两个最先进的商用ARTS进行了测试，即微软HoloLens 2和配备英特尔RealSense SR305相机的立体相机系统。对计量特性进行评估，在传统的95%置信水平下，HoloLens 2的欧几里德距离扩展不确定度估计为5.071mm，立体声系统的欧几里得距离扩展不确定性估计为6.800mm，从而使HoloLens 2在指定条件下具有优异的计量性能。本研究为定量比较AR跟踪系统提供了一种标准化的方法，为优化其在特定应用中的使用提供了有价值的见解，并在ARTS的背景下创新性地将测量不确定性与跟踪的距离值相关联。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361525001952?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:29 GMT</pubDate>
+      <title><![CDATA[可解释人工智能用于增强数字碰撞模拟的系统理解和可解释性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000333?dgcid=rss_sd_all</link>
+      <description><![CDATA[在新车的开发过程中，工程工作的重点是最大限度地减少碰撞场景中弱势道路使用者和乘客的受伤风险，同时保持结构完整性。为了满足不同的要求，被动车辆安全系统的非线性行为是使用数值伪元（FE）碰撞模拟进行虚拟设计和优化的。然而，由于这些系统的复杂性，相关工程师了解其行为具有挑战性且耗时。为了减少评估碰撞模拟所需的时间，我们引入了一种新颖的分析框架，该框架提供灵活的数据处理并结合了可解释的人工智能（AI）。该框架允许通过匹配监督机器学习（ML）模型来检查参数、传感器和FE网格数据内的任意依赖性，然后使用Shapley Additive exPlanations（SHAP）进行分析。为了将SHAP方法论扩展到工程领域，我们引入了系统和差异SHAP值，它促进了描述系统的特征的聚合，并基于输出空间中的输入特征贡献在两个模拟之间进行比较。这使工程师能够直观地了解对整个系统行为的贡献，并生成可以快速建立的数据驱动的理解。使用来自结构和乘员车辆安全领域的三个行业用例来评估该框架。通过在虚拟工程中有效使用人工智能，获得的观察结果证明了对碰撞加载系统行为的增强和以前从未见过的见解。全面的消融研究表明，使用替代ML模型或敏感性分析方法获得的结果具有可重复性和一致性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000333?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:33:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

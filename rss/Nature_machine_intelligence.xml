@@ -3,63 +3,63 @@
   <channel>
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
-    <description>《自然机器智能》将在机器学习、机器人和人工智能领域广泛主题中发布高质量的原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能有无数的机会可以增强人类在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域的能力和知识。与此同时，出现了许多有关道德、社会和法律问题的重要问题，特别是考虑到发展的快节奏，自然机器智能将提供一个平台来讨论这些广泛的影响-鼓励跨学科对话-与评论、新闻专题、新闻观点文章以及通讯。</description>
-    <lastBuildDate>Mon, 09 Feb 2026 21:33:41 GMT</lastBuildDate>
+    <description>Nature Machine Intelligence将发表机器学习、机器人和人工智能领域广泛主题的高质量原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识。与此同时，出现了许多关于伦理，社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响-鼓励跨学科的对话-评论，新闻特写，新闻观点文章以及通信。</description>
+    <lastBuildDate>Sun, 08 Mar 2026 20:29:03 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[视觉语言模型在神经心理学测试中显示出广泛的视觉缺陷]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01179-y</link>
-      <description><![CDATA[Tangtarakul和Storrs使用标准化的神经心理学测试来比较人类的视觉能力与视觉语言模型（VLM）的视觉能力。他们报告称，虽然VLM在高级对象识别方面表现出色，但它们在低级和中级视觉能力方面表现出缺陷。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01179-y</guid>
-      <pubDate>Mon, 09 Feb 2026 21:33:40 GMT</pubDate>
+      <title><![CDATA[同行评审中大型语言模型反馈的大规模随机研究]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01188-x</link>
+      <description><![CDATA[在ICLR 2025的一项随机对照研究中，Thakkar等人证明，大型语言模型生成的反馈可以使评论更具信息性，同时增强评论者与作者的参与度。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01188-x</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:02 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[关于学术出版中生成人工智能怀疑的令人不安的上升]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01178-z</link>
-      <description><![CDATA[关于学术出版中生成人工智能怀疑的令人不安的上升]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01178-z</guid>
-      <pubDate>Mon, 09 Feb 2026 21:33:40 GMT</pubDate>
+      <title><![CDATA[作者更正：口罩优先引导的去噪扩散改善了蛋白质反向折叠]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01209-9</link>
+      <description><![CDATA[作者更正：口罩优先引导的去噪扩散改善了蛋白质反向折叠]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01209-9</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用图Transformer识别空间单单元级交互]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01191-2</link>
-      <description><![CDATA[从基于成像的空间转录组学中识别细胞-细胞相互作用受到有限基因组的影响。一种新的基于自监督图变换的方法可以解决空间单细胞水平的相互作用，而不需要已知的配体-受体对。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01191-2</guid>
-      <pubDate>Mon, 09 Feb 2026 21:33:39 GMT</pubDate>
+      <title><![CDATA[人工智能和长期游戏]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01203-1</link>
+      <description><![CDATA[大约10年前，AlphaGo在复杂而古老的围棋游戏中击败了世界上最好的职业选手之一。这是一个关键时刻，催生了新的研究方向，并标志着人工智能开发繁忙十年的开始。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01203-1</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[预后人工智能医疗设备的授权]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01171-y</link>
-      <description><![CDATA[美国食品和药物管理局授权的人工智能设备中，只有不到2%具有预后性，预测范围从几分钟到几年不等。随着预后人工智能设备数量可能会增加，解决随之而来的监管和道德挑战非常重要。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01171-y</guid>
-      <pubDate>Mon, 09 Feb 2026 21:33:39 GMT</pubDate>
+      <title><![CDATA[使用根据170万人的数据预先训练的多模式基础模型，跨场景和设备进行心脏健康评估]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01180-5</link>
+      <description><![CDATA[Gu等人引入了一种心脏基金会模型，该模型可以从数百万个心脏信号和文本解释中学习，使其能够处理在医院或家中收集的心脏数据。它为不同设备和设置提供清晰可靠的见解。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01180-5</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[知识的归因和定位不能留给语言模型]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01193-0</link>
-      <description><![CDATA[知识的归因和定位不能留给语言模型]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01193-0</guid>
-      <pubDate>Mon, 09 Feb 2026 21:33:38 GMT</pubDate>
+      <title><![CDATA[加速量子材料发现的普适旋转轨道耦合Hamilton模型]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01196-x</link>
+      <description><![CDATA[Zhong等人介绍了Uni-HamGNN，这是一种图神经网络模型，可以快速准确地预测旋转轨道耦合的电子结构，从而实现快速筛选并发现整个周期表的先进量子材料。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01196-x</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[附录：解决数据偏差提高结合亲和力预测的普遍性]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01174-9</link>
-      <description><![CDATA[附录：解决数据偏差提高结合亲和力预测的普遍性]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01174-9</guid>
-      <pubDate>Fri, 30 Jan 2026 13:04:58 GMT</pubDate>
+      <title><![CDATA[用于材料研究的大型语言模型家族，深入了解持续预训练中的模型适应性]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01199-8</link>
+      <description><![CDATA[Dhruv等人介绍了LLaMat，这是材料科学的LLM家族，展示了专业培训如何使较小的模型超越较大的通用LLM。该研究表明，LLaMA-3等广泛预训练的模型对新科学领域的适应效率不如LLaMA-2。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01199-8</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[教机器混合电解质鸡尾酒]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01181-4</link>
-      <description><![CDATA[混合物在工业配方中无处不在。统一预测和生成式机器学习的框架现在为多成分电池电解质的数据驱动设计提供了蓝图。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01181-4</guid>
-      <pubDate>Fri, 30 Jan 2026 13:04:57 GMT</pubDate>
+      <title><![CDATA[具有局部感知模式对齐的条件扩散用于生成不同蛋白质形态集合]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01198-9</link>
+      <description><![CDATA[Wang等人引入了Mac-Diff，这是一种具有跨模式局部感知关注的条件扩散模型，为未见蛋白质生成多样化的形态集合，捕捉动态灵活性和结构多样性。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01198-9</guid>
+      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[针对液体电解质配方的统一预测和生成解决方案]]></title>
-      <link>https://www.nature.com/articles/s42256-025-01173-w</link>
-      <description><![CDATA[Yang等人引入了液体电解质设计的统一框架，将正向预测模型与逆生成方法集成在一起，其中识别了三种生成的高导电率候选物并进行了实验验证。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-025-01173-w</guid>
-      <pubDate>Fri, 30 Jan 2026 13:04:57 GMT</pubDate>
+      <title><![CDATA[针对SequenTX不断变化的肿瘤格局的基于强化学习的序贯药物治疗设计]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01192-1</link>
+      <description><![CDATA[Chen等人介绍了SequenTX，这是一个受虚拟细胞启发的框架，用于合理设计序贯治疗。它提供了一种计算策略，通过建模动态细胞状态转变来导航治疗诱导的肿瘤演变。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01192-1</guid>
+      <pubDate>Sun, 08 Mar 2026 20:28:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

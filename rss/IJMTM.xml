@@ -4,7 +4,35 @@
     <title>ScienceDirect出版物：国际机械工具与制造杂志</title>
     <link>https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 09 Feb 2026 21:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:21:58 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000180?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年3月资料来源：国际机械工具与制造杂志，第216卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000180?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[多层金属纳米线的纳米切割机制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000131?dgcid=rss_sd_all</link>
+      <description><![CDATA[结构精度是纳米器件性能和可靠性的关键决定因素，实现高精度制造是纳米模具领域的核心目标。纳米切割为构建复杂纳米结构开辟了新途径，展现出广泛的应用前景。然而，这一过程中的微观变形行为具有多尺度和多机制特征的强耦合性，其形成和演变机制仍有待充分阐明。特别是，应变率对非均匀界面应力分布的影响以及协同变形机制仍缺乏系统的研究。本研究以金/银/金纳米线为研究对象，系统揭示切割方向和应变率对原子尺度演化行为的影响机制。结果表明，形态演变由各向异性约束机制主导，切割方向直接决定了应力释放途径的变化。在高应变率下，银层内的应力分布变得明显不均匀，引发金/银界面处的裂纹萌生并导致明显的应变局部化。同时，层间原子迁移表现为热-机械-缺陷耦合驱动过程，其中应变率引起的错位充当高速“管道扩散”通道。该研究系统地阐明了高应变率下多层金属系统中不稳定行为与层间扩散之间的内在相关性，为纳米结构的确定性加工提供了理论基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000131?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有咬合损失引起的时变延迟的余旋线铣削非线性动力学建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000143?dgcid=rss_sd_all</link>
+      <description><![CDATA[接合损失是一种几何时间切换机制，使芯片厚度演变不光滑，延迟状态依赖且时变，从而充当系统非线性。然而，先前的研究主要依赖于再生颤动理论，而忽视了刀具与工件接合损失的影响，导致余旋线铣削的动态模型不准确。本文开发了一个用于余旋线铣削的精确动态模型，该模型考虑了接合损失效应，并能够分析过程非线性动力学。首先分析了双余旋线轨迹的特点，阐明了铣削过程中产生咬合损失的机制。在上述分析的基础上，提出了一种新颖的数值方法来准确计算刀具与工件咬合条件变化引起的咬合损失率。随后，采用时间域模拟方法开发了余旋线铣削的非线性动力学模型，该方法结合了时变延迟和接合损失效应。然后引入自适应预测时间域算法，利用斜坡引导迭代预测初始轴向切割深度。该算法显着缩小了稳定性边界的搜索范围，提高了计算效率。最后，通过水平螺旋和余旋线铣削实验对所提出的模型进行了验证，并与经典稳定性预测进行了比较。结果表明，接合损失减少了再生波纹的重叠并调节了有效延迟，从而削弱或间歇性地破坏了再生回路，从而提高了稳定性极限。提出的时变混合延迟动态模型可高准确地预测铣削稳定性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000143?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过连续可变传输启发的粉末沉积层内梯度在微喷嘴控制的激光粉末床融合中实现非均匀界面均匀性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000210?dgcid=rss_sd_all</link>
+      <description><![CDATA[通过激光粉末床聚变（LPBF）实现空间多材料结构，需要每个建筑层内的水平梯度界面，但由于设备能力、工艺设计和概念框架的限制，该界面仍然欠发达。我们展示了一种受连续可变传动（CVS）力学启发的微喷嘴控制粉末床布局策略，通过对接两个不同粉末层的厚度梯度来制造非均匀梯度界面。这种方法在全球范围内首次实现了灵活的成分调整，无需模型材料316 L和IN 718之间进行粉末预混合，即使在每个NPS 100 μ m厚的粉末层内也是如此，同时允许层内两种材料的可编程垂直空间排列。以三种不同顺序堆叠层内梯度粉末床产生了CVT型界面结构，称为CVT_IN/SS、CVT_SS/IN和CVT_IN/SS/SS/IN。NO预混合梯度策略减少了材料交叉污染，并允许粉末床和激光束之间发生可选择的熔化/凝固动力学。热场、凝固动力学和材料对接顺序之间的强相互依赖性在CVS_SS/IN界面上实现了1.9 x 106 K/s的最高冷却速率，其中每个倾斜的316 L粉末层沉积在相应的IN 718粉末层斜坡上方，与CVS_IN/SS和CVS_IN/SS/SS/IN界面相比，导致细化和光滑的材料转变和粒度梯度。因此，CVS_SS/IN型粉末布局允许动态控制界面成分，并反过来增强界面结构完整性和机械连续性，界面机械连续性的平均绝对误差降低至0.036 ± 0.02 GPa就证明了这一点。重要的是，受CVT启发的粉末沉积策略为特定地点的材料定制和功能梯度设计建立了一条可扩展的途径，即使在多材料LPBF的每个精确层中也可以实现。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000210?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 08 Mar 2026 20:21:31 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[支撑支架的印刷机构：双尺度散热框架，控制激光粉末床融合中的印刷工艺、热传递和成型性能]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S089069552600012X?dgcid=rss_sd_all</link>
