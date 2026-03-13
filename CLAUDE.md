@@ -23,7 +23,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ### 两级缓存系统
 
-- **Feed 级别**: [StateManager](src/utils/state.py) 使用 `data/rss_state.json` 中的 MD5 哈希检测源变化，避免处理未变更的 feed
+- **Feed 级别**: [StateManager](src/utils/state.py) 使用 `data/rss_state.json` 中的 SHA256 哈希检测源变化，避免处理未变更的 feed
 - **Item 级别**: [ItemStore](src/utils/item_store.py) 使用 `data/items_cache.json` 存储完整翻译缓存，带状态跟踪：
   - `success`: 完全处理，直接使用缓存
   - `partial`: 不完整（如 Elsevier API 失败），冷却期后重试
@@ -41,7 +41,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ### 增量处理
 
 [main.py:87-100](main.py#L87-L100) 实现增量更新逻辑：
-- MD5 匹配且无 partial 条目时跳过处理
+- SHA256 哈希匹配且无 partial 条目时跳过处理
 - 只处理新增或变更的条目，避免冗余 API 调用
 
 ## 关键配置文件
@@ -59,14 +59,14 @@ RSS 源定义和全局设置：
 ```ini
 [cfg]
 base = "rss/"          # 输出目录
-cooldown_hours = 0     # partial 条目重试冷却时间
+cooldown_hours = 0     # partial 条目重试冷却时间（小时）
 service = "tencent"    # 翻译服务: auto, deepseek, tencent, baidu
 
 [source001]
 name = "RESS"
 url = "https://rss.sciencedirect.com/publication/science/09518320"
 max = "100"
-action = "auto"
+action = "auto"        # 翻译语言: auto (= auto->zh) 或 en->zh, zh->en 等
 ```
 
 ## 重要实现细节

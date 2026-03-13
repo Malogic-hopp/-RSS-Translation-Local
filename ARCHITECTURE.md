@@ -14,7 +14,7 @@
 ├── config/
 │   └── config.ini         # RSS 源配置文件 (Git 提交)
 ├── data/
-│   ├── rss_state.json     # RSS 状态记录 (MD5/时间，自动更新，Git 忽略)
+│   ├── rss_state.json     # RSS 状态记录 (SHA256/时间，自动更新，Git 忽略)
 │   ├── items_cache.json   # 条目级增量缓存 (本地数据库，Git 忽略)
 │   └── debug/             # 调试用的原始 XML 文件和日志 (Git 忽略)
 ├── rss/                   # 生成的翻译 RSS 文件输出目录
@@ -30,7 +30,7 @@
     ├── fetchers/          # 特定来源获取 (采购部)
     │   └── elsevier.py    # Elsevier API 摘要提取
     └── utils/             # 工具函数 (后勤部)
-        ├── helpers.py     # MD5、时间处理、HTML 清洗
+        ├── helpers.py     # 哈希、时间处理、HTML 清洗
         ├── config.py      # 配置管理
         ├── state.py       # 状态管理
         └── item_store.py  # 条目缓存管理
@@ -45,7 +45,7 @@
 *   **环境配置**: 从 `.env` 文件加载敏感信息（百度 API、腾讯云 API、DeepSeek API、Elsevier API 密钥）。
 *   **配置读取**: 通过 `ConfigManager` 读取 `config.ini` 中的 RSS 源配置，包括全局翻译服务选择。
 *   **翻译器初始化**: 根据配置（`service` 参数）和环境变量自动选择或手动指定翻译服务。
-*   **MD5 过滤**: 利用 `rss_state.json` 的 MD5 指纹进行**第一道防线**检查（源文件是否变化）。
+*   **哈希过滤**: 利用 `rss_state.json` 的 SHA256 哈希值进行**第一道防线**检查（源文件是否变化）。
 *   **容错机制**: 当 RSS 获取失败时，自动降级使用本地已生成的 XML 文件，确保 README 更新不中断。
 *   **README 更新**: 所有 RSS 处理完成后，调用 `readme_updater` 自动更新 README.md。
 
@@ -59,9 +59,9 @@
     *   **New**: 执行完整处理流程。
 
 2.  **源特定清洗**:
-    *   **Nature**: 使用正则表达式匹配 DOI 并提取后续摘要内容，去除引用信息。
-    *   **Elsevier**: 优先尝试 API 获取完整摘要，失败则回退使用 RSS 描述，并在缓存中标记为 Partial。
-    *   **HTML 清洗**: 使用 BeautifulSoup 统一处理 HTML 标签和实体解码。
+    *   **Nature**: 使用正则表达式匹配 DOI 并提取后续摘要内容，去除引用信息（[processor.py:34-38](src/core/processor.py#L34-L38)）。
+    *   **Elsevier**: 优先尝试 API 获取完整摘要（[processor.py:92-151](src/core/processor.py#L92-L151)），失败则回退使用 RSS 描述，并在缓存中标记为 Partial。
+    *   **HTML 清洗**: 使用 BeautifulSoup 统一处理 HTML 标签和实体解码（[helpers.py:46-55](src/utils/helpers.py#L46-L55)）。
 
 3.  **时间处理**:
     *   使用 `getTime()` 函数提取 RSS 条目的 `published_parsed` 时间。
@@ -101,8 +101,8 @@
 
 2.  **源级过滤**:
     *   遍历配置中的所有 RSS 源。
-    *   下载 RSS 内容并计算 MD5 哈希。
-    *   对比 MD5，跳过无变化的源。
+    *   下载 RSS 内容并计算 SHA256 哈希。
+    *   对比哈希值，跳过无变化的源。
 
 3.  **条目级过滤**:
     *   解析 RSS，对每篇文章检查 `Item Store`。
@@ -136,14 +136,25 @@ ELSEVIER_API_KEY=...
 ### 6.2 RSS 源配置 (`config/config.ini`)
 ```ini
 [cfg]
-base = "rss/"
-cooldown_hours = 0
-service = "auto"  # 选择: auto, deepseek, tencent, baidu
+base = "rss/"          # 输出目录
+cooldown_hours = 0     # partial 条目重试冷却时间（小时）
+service = "tencent"    # 翻译服务: auto, deepseek, tencent, baidu
+
+[source001]
+name = "RESS"
+url = "https://rss.sciencedirect.com/publication/science/09518320"
+max = "100"
+action = "auto"        # 翻译语言: auto (= auto->zh) 或 en->zh, zh->en 等
 ```
 
 ---
 
 ## 更新日志 (Changelog)
+
+### 2026-03-13
+*   **文档更新**: 修正文档中的哈希算法描述（MD5 -> SHA256）。
+*   **文档更新**: 更新 cooldown_hours 默认值描述（实际为 0，而非文档中所述的 24）。
+*   **文档更新**: 完善目录结构说明，确保所有文件都被正确列出。
 
 ### 2026-01-15
 *   **Feature**: 集成腾讯云 TMT 翻译接口。
