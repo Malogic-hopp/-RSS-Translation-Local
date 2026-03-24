@@ -4,7 +4,140 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:49:36 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[从结构到协同：多模式大型语言模型中视觉语言感知范式演变概览]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001648?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模式大型语言模型（MLLM）最近在统一视觉语言理解和推理方面取得了显着进展，特别是在OpenAI的O系列和DeepSeek的R系列等模型的引入之后，这些模型推动了范式向以感知为中心的智能转变。然而，仍然缺乏系统性的调查来从真正统一的视觉语言角度来检查感知--将视觉和语言视为不可分割的模式。现有的评论通常是碎片化的，分别关注视觉或语言，因此很少将感知的跨模式演变作为一种综合能力。为了弥合这一差距，我们首次对MLLM中的统一视觉语言感知进行了系统调查。具体来说，我们（1）将MLLM感知形式化为一种与人类先天感知类似的内在、统一的视觉语言能力，（2）引入跟踪MLLM感知范式演变的五阶段分类法，并调查每个阶段的代表性方法和里程碑，（3）确定开放的挑战并概述有希望的研究方向，以实现真正通用、统一的多模式智能。我们希望我们的研究能够提供基础性的理解和可操作的路线图，以促进人工通用智能（AGI）道路上的进一步创新。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001648?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[FairAnon：通过垂直语义指导进行人口公平面孔分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001612?dgcid=rss_sd_all</link>
+      <description><![CDATA[面部匿名化对于隐私保护至关重要，但现有的生成模型往往表现出人口统计偏见，导致亚洲人等代表性不足的群体的质量下降。这种偏见源于文本嵌入空间内的语义纠缠，其中人口统计学概念没有与默认的（通常以高加索人为中心的）表示充分分离。为了解决这个问题，我们提出了FairAnon，这是一个通过有原则的两阶段优化过程从源头上解决人口偏见的框架。首先，我们引入了垂直语义指导（OSG），这是一种新颖的损失，通过强制人口指导载体之间的垂直性来重新结构语义空间，从而确保基本的公平性。其次，基于这种内在规则化消除了对外部参考模型的需要的认识，我们采用简单偏好优化（SimPO）来高效且有效地将模型与人类的审美偏好对齐。我们的框架允许通过空间掩蔽和文本提示进行灵活的多模式控制。对普通和医学面部数据集的广泛实验验证了FairAnon实现了最先进的匿名性能、稳健的人口公平性和高质量的图像生成。这项工作通过建立公平生成建模的新范式，有助于公平隐私保护技术的发展。代码：https://github.com/dusrb37/FairAnon]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001612?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[社论：现代能源系统中的数据融合]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001454?dgcid=rss_sd_all</link>
+      <description><![CDATA[现代能源系统的特点越来越多地体现在大规模可再生能源集成、深度数字化以及物理基础设施和网络智能之间的紧密耦合。这些趋势显着放大了能源生产、输电、分配和消费过程中产生的数据的数量、多样性和复杂性。因此，集成多模式、多源和多规模信息的数据融合已成为现代能源系统预测、优化、安全和弹性的基础使能。本期特刊题为“现代能源系统中的数据融合”，汇集了十篇原创研究文章，共同推进了聚变驱动能源智能的最新发展水平。已接受的贡献分为三个主要研究方向：（i）通过时空和多模式数据融合的预测智能，（ii）融合驱动的优化和运营决策，（iii）通过跨领域数据融合的值得信赖和有弹性的能源系统。这些作品共同说明了数据融合如何从支持数据处理技术演变为智能、安全和弹性能源系统的核心范式。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001454?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[分治：基于预算的分布学习用于多模式情绪分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001727?dgcid=rss_sd_all</link>
+      <description><![CDATA[虽然与内射嵌入的多模式融合在多模式情感分析中表现出了显着的有效性，但它受到单点嵌入要求和多模式信号内在模糊性的限制，限制了其实际应用。在本文中，我们提出了基于预算的分布学习（PDL），这是一种专为多模式情感分析而设计的新型分而治之下框架。PDL旨在通过联合执行即时调整和情感分布学习来增强多模式信息的表示。具体来说，PDL利用感知模式的提示作为探测器来分解多模式特征并挖掘每个模式的潜在情感分布，从而捕获广泛的情感信息。我们对三个基准数据集进行了广泛的实验：CMU-MOSI、CMU-MOSEN和CH-SIMS，以评估PDL。实验结果验证了PDL的功效，表明PDL在捕获和表示多模式数据中存在的复杂情感信息方面优于现有方法。代码可在https://github.com/Dongri404/PDL上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001727?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种融合偏好分解和社会网络布局的决策者约简方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600179X?dgcid=rss_sd_all</link>
+      <description><![CDATA[在社交网络群体决策（SNGDM）研究中，决策者（DM）数量的增加往往会导致更高的计算需求和网络结构复杂性。本文以偏好分解范式和社会网络理论为基础，提出了一种基于DM评价维度和群体优化维度的决策者约简方法。在DMs评估维度，该方法选择社交网络属性作为评估DMs重要性的指标。通过利用添加性效用函数恢复间接偏好的能力，构建偏好学习模型，识别能够保留节点局部和全局特征的关键网络评估指标，并计算节点效用，作为评估节点重要性的基础。在群体优化维度上，该方法根据DM提供的替代方案的成对比较信息，识别出具有代表性且能够准确反映整个群体偏好的有效DM。这反过来又降低了决策复杂性并优化了决策过程。最后，通过案例研究验证了所提方法的有效性，并利用空手道俱乐部的真实网络数据进一步测试了该方法的可推广性。结果表明，所提出的决策者约简方法不仅简化了评估标准和DM数量，而且在确保偏好一致性的同时有效恢复了群体偏好。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600179X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过联合利用结构图和完成图的分步不完全多视图聚集]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001478?dgcid=rss_sd_all</link>
+      <description><![CDATA[现有的不完整多视图集群（IMVC）方法通常分为信息探索或信息完成方法。然而，大多数现有方法都集中在单个任务上，无法联合捕获结构和语义信息，这导致高缺失率下的共识表示不可靠，并限制了其建模复杂数据关系的能力。为了解决这些问题，提出了一种称为分步联合利用结构和完成图（SJSCG）的新方法。SJSCG联合执行信息探索和完成，与自适应融合机制，动态调整每个视图的结构和完成图之间的权重。在探索阶段，图拉普拉斯正则化和自我表达重建学习表示，保持局部几何和全局语义关系。在完成阶段，每个视图通过视图特定的低秩子空间单独恢复，增强了估算数据的语义一致性。在不完整多视图数据集上的大量实验表明，SJSCG在ACC，NMI，ARI和纯度方面优于最先进的IMVC方法。随着缺失率从0.1增加到0.9，SJSCG的性能下降速度较慢，基准数据集中的集群准确性下降不到17%。即使在0.9的极端缺失率下，SJSCG也与以较低缺失率运行的基线相比保持有竞争力的性能，证明了其稳健性。该作品的源代码可访问：https://github.com/QingyangShu/SJSCG。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001478?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过融合模拟和测量压力信号的信息来检测轴向活塞泵的弱异常]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001818?dgcid=rss_sd_all</link>
+      <description><![CDATA[轴向活塞泵是液压系统中重要的动力部件，其异常检测对于电液设备的状态监测至关重要。由于排放压力信号对内部故障敏感且在实际液压系统中的可用性，因此通常使用排放压力信号来评估泵的健康状况。然而，由于故障信号稀缺，使用压力信号检测轴向活塞泵的异常具有挑战性。针对这一问题，提出了一种基于实测压力信号和模拟压力信号信息融合的弱异常检测方法，该方法不需要错误的训练样本。所提出的框架解决了基于相似性的异常检测的两个关键挑战：缺乏标准的参考和建设有效的指标。首先，建立了轴向柱塞泵的计算流体动力学（CFD）模型，以生成作为参考的模拟排出压力信号。其次，通过计算来自参考和测量压力信号的加权图（WG）矩阵之间的相似性来构建度量以评估泵的健康状况。对比实验表明，该方法是唯一一种在轴向活塞泵弱异常检测任务中达到100%准确率的方法。提出的方法的间隙值高达0.145，比现有方法至少高出0.17，验证了所构建的相似性度量的敏感性。所提出的方法提供了一种可靠的方法来检测轴向活塞泵中的异常，而不需要错误数据。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001818?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NAM-CR：通过融合SAR数据来消除光学遥感图像的噪音感知多传感器云]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001740?dgcid=rss_sd_all</link>
+      <description><![CDATA[光学遥感图像经常受到广泛的云覆盖，导致宝贵的原始数据丢失，并严重阻碍其对地观测能力。近年来，人们探索了利用辅助合成口径雷达（SAR）数据的云去除方法，而不是使用来自同一地区不同日期的光学无云参考图像，因为表面变化和无云图像的不可用会产生不确定性。经常遇到。然而，SAR数据中固有的斑点噪音给将SAR的纹理信息解释为光学图像以去除云带来了挑战。在这项研究中，我们通过融合SAR数据，提出了一种针对多光谱图像的数据驱动的噪音感知多传感器云去除（NAM-CR）方法。该网络由自注意多模式聚合器（SMMA）和深浅特征交叉融合（DFFF）模块组成，用于更好地集成SAR数据的纹理信息和光学图像的光谱信息。为了进一步减少斑点噪音影响，所提出的方法配备了一种新颖的云引导噪音优化损失函数。我们在包含全球全季节Sentinel光学和SAR图像的SEN 12 MS-CR数据集的100，000个补丁三重组上训练和测试了我们的方法。实验结果表明，NAM-CR的性能优于其他六种最先进的云去除方法，并以最高PSNR为34.22分贝和最少的参数使用实现了出色的性能。公众可以通过http://jiasen.tech/访问源代码。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001740?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HyPoFSG：混合池异类图融合针灸处方推荐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001776?dgcid=rss_sd_all</link>
+      <description><![CDATA[针灸是治疗疾病的有效方法，在世界各地广泛使用。然而，基于症状集的针灸处方推荐研究仍处于探索阶段。为了解决这一差距，我们提出了一种混合池化异类图融合（HyPoFSG）算法。具体来说，我们首先构建一个包含2325个处方的针灸异类图（AcuHG）数据集。它包括464种症状、414个经络和26个经络属性。然后，我们采用频率感知图卷积网络进行节点之间的消息聚合，并利用子图聚合来学习症状、经络和经络属性之间的复杂关系。接下来，使用混合池机制来生成主辅穴预测分数。最后，对AcuHG数据集和公共草药处方数据集的广泛实验表明，HyPoFSG优于最先进的算法。这项工作发布了第一个公共针灸处方推荐数据集及其源代码，可访问：github.com/LONGsci/HyPoHGF。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001776?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过预训练语言模型在动态关系数据库中实现语义感知数据插补]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001703?dgcid=rss_sd_all</link>
+      <description><![CDATA[信息和表示管理的数字系统依赖于数据库架构，其有效性会因缺失值的存在而受到损害。数据插补（DI）是一个众所周知的过程，它用可靠的常数替换缺失值（通常用空值表示）。然而，现有的方法通常假设数据库的静态视图，忽视了现实世界的数据库通常会通过添加新的（可能不完整的）信息随着时间的推移而更新的事实。我们解决了动态数据插补（DID），即在增量更新的数据库中插补空值的问题。我们表明，现有的基于学习的方法不适合DID，因为每当数据随着时间的推移而增加时，它们都需要进行昂贵的再培训。相反，我们提出了一种新型增量算法，称为基于SEentence Transformer的推断（SENTI），该算法使用先进技术，通过利用预训练语言模型的推断能力来执行快速准确的相似性搜索，而无需任何训练。实验表明，我们的技术优于国家的最先进的静态DI方法（适用于解决DDI）的有效性和效率。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001703?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过投影学习和高级相关性开发的增强锚点多视图集群]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001764?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着多视图数据规模的不断扩大，基于锚点的多视图集群方法越来越流行。然而，大多数现有的集群方法都专注于提高效率，而可能会忽视集群性能。此外，现有的大多数基于锚点的多视图集群方法都选择原始空间中的锚点，而原始空间可能会受到噪音的影响。为了解决上述问题，我们提出了一种通过投影学习和高级相关性利用的增强型锚多视图集群（EAMVC）。具体来说，我们设计了投影学习策略，将原始数据投影到低维空间中，并在低维空间中选择锚点，以提高鲁棒性，进一步提高计算效率。此外，为了利用视图之间的一致性，我们引入了一种低阶多尺度纠缠重正化逆矩阵（MERA）分解，该分解可以处理高级张量（至少3阶），并利用垂直/半垂直因子之间的多重相互作用来捕捉视图之间的高级关系。为了捕获样本之间的高级关系，引入了超拉普拉斯正规化来捕获视图内的局部几何结构。提出了一种基于交替方向乘数法（ADMM）的高效算法来求解EAMVC，并保证理论收敛性。八个数据集的结果表明，我们的方法比类似的基于锚点的多视图集群方法实现了更好的集群性能。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001764?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SGDFuse：用于高保真红外和可见光图像融合的ASM引导扩散模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001697?dgcid=rss_sd_all</link>
+      <description><![CDATA[红外和可见光图像融合（IVIF）对于将热显着性与纹理细节集成以支持下游感知至关重要。然而，大多数现有方法都存在“语义盲”，导致热目标的错误抑制和视觉伪影的引入。为了解决这个问题，我们提出了SAM-Guided扩散融合网络（SGDFuse），这是一种新型的语义引导生成（SGG）框架，它将IVIF重新构建为一项语义引导的生成任务，而不是简单化的像素映射。我们的方法将来自Segment Anything模型（Sam）的高级语义先验与条件扩散模型的高保真生成能力独特地结合起来。我们采用了一种深思熟虑的两阶段策略来将多模式对齐与迭代细化脱钩：第一阶段通过初步融合建立了强大的结构基础，而第二阶段利用双模式语义掩蔽作为空间锚点来引导扩散过程走向语义一致、高保真度重建。全面的实验表明，SGDFuse不仅提供最先进的图像质量，而且还增强了下游任务性能，证实了其作为语义感知图像融合的新方法论框架的有效性。该代码可在https://github.com/boshizhang123/SGDFuse上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001697?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:41 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Let Two Graphs Talk：面向多模式推荐的自监督双图重构]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001788?dgcid=rss_sd_all</link>
+      <description><![CDATA[多模态推荐旨在融合多模态信息以提供更加个性化的推荐。现有的方法已经取得了显着的成功，通过捕捉项目之间的语义相关性和构建用户-项目交互图。然而，这些方法仍然表现出以下两个局限性：（1）仅在空间域中构建项目-项目图容易引入由模态相似性引起的噪声。(2)对稀疏的用户项交互图执行图卷积会放大受欢迎程度偏见并加剧冷启动问题。为了解决这些问题，我们提出了一种名为自监督Du al- G Recommendation（DuGRec）的新颖方法，该方法利用双图重建学习来建模用户偏好。具体来说，为了消除形态冲突噪音，我们通过整合空间、光谱和同现视图的多视图相似性、去除有噪的边缘并获得去噪的项-项重建图来重新加权和修剪原始项-项关系。然后，我们使用项-项图的内容关系重建用户-项交互图，以减轻稀疏性和冷启动。此外，我们设计了一个多视图对比学习任务，以提高ID嵌入和多模态特征的质量，最终生成稳定的用户和项目表示。我们在五个公开的数据集上进行了广泛的实验。实验结果表明，与基线模型相比，所提出的DuGRec导致Recall@10和NDCG@10的平均改善分别为7.94%和9.78%。我们的代码在https://github.com/HubuKG/DuGRec。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001788?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[走向图形概念认知学习：调查及超越]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001831?dgcid=rss_sd_all</link>
+      <description><![CDATA[图是连接数据网络化结构的强大表示，广泛应用于社会系统、生态系统、生物网络、知识图和信息系统等领域。随着图形学习技术与认知科学的深入融合，图形概念认知学习（GCCL）已成为一种新型范式，将概念认知学习（CCL）与图形分析融为一体。本文全面概述了GCCL，介绍了其基本框架，并详细介绍了将概念认知学习集成到各种图形表示中的方法。这些表示可以实现图结构分析、知识发现和图分类等任务。此外，论文还探讨了关键应用领域，包括社交网络分析、知识图推理和组合优化，同时介绍了为GCCL研究量身定制的数据集和模拟平台。最后，我们讨论了有前途的研究方向，将GCCL定位为更广泛的图形学习领域的变革方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001831?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用疾病知情扩散先验进行诊断可靠的fMRI-dMRI合成]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001806?dgcid=rss_sd_all</link>
+      <description><![CDATA[功能性磁共振成像（fMRI）和扩散磁共振成像（dMRI）对于研究阿尔茨海默病至关重要，但常常缺少模式。现有的生成模型无法捕捉fMRI和dMRI之间的基本信号不匹配，也无法纳入与疾病相关的解剖结构，从而产生诊断弱的输出。我们提出了模式感知扩散合成（PDC），这是一种模式感知扩散框架，它将解剖地图集的结构功能耦合先验集成到双模式3D扩散模型中，从而实现语义连贯的双向合成。组织感知投影网络和微观结构细化模块进一步增强解剖保真度。OASIS-3、ADNI和内部队列的实验表明，DDS实现了最先进的PSNR/SSIM：29.83分贝/0.908（fMRI）和30.00分贝/0.776（dMRI）。至关重要的是，合成扫描支持稳健的诊断：使用混合的真实合成数据，DDS在正常对照（NC）/轻度认知障碍（ICI）/阿尔茨海默病（AD）分类中产生67.92%的准确性;当仅在合成数据上进行训练并在真实扫描上进行测试时，它实现了77.35%的准确性（所有方法中最高的）证明了具有临床意义的信息的出色保存。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001806?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001533?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年8月资料来源：信息融合，第132卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001533?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迪夫利奥：多元概率金融时间序列预测和投资组合构建的扩散模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600165X?dgcid=rss_sd_all</link>
+      <description><![CDATA[概率预测在多元金融时间序列中对于构建考虑复杂横部门依赖性的高效投资组合至关重要。在本文中，我们提出了Divolio，这是一种新型的基于扩散的模型，专门为多元金融时间序列预测和投资组合构建设计。与现有的基于扩散的金融时间序列模型不同，这些模型通常处理金融协变量而没有结构性差异，迪夫利奥采用具有分层注意力架构的去噪网络，该架构包括资产级和市场级层。这种结构不仅有效地从历史回报中提取显着特征，而且以资产定价理论的启发方式从特定资产和系统性协变量中提取显着特征，并显着增强了预测和投资组合的性能。此外，为了严格反映横剖面相关性，我们引入了一个由目标相关矩阵的稳定估计提供信息的相关引导正规化器。通过显式地将注意力地图与这种目标相关性对齐，我们的方法确保所学习的依赖结构条件良好且具有经济意义。对12个行业投资组合每日超额回报率的实验结果表明，迪夫利奥在统计多元预测准确性和投资组合绩效方面都优于各种概率预测基线。此外，在投资组合实验中，根据迪弗里奥的预测构建的投资组合表现出一致的稳健表现，从而通过实现均值方差切向投资组合的夏普比率显着更高，增长最优投资组合的确定性更高，从而优于基准投资组合。这些结果强调了我们提出的迪夫利奥不仅在统计准确性方面而且在经济意义方面的优越性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600165X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[iHOMER+：用于流媒体多标签学习的增量多视图输出专业化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001624?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于呈指数级大的输出空间和不断变化的分布，挖掘多标签数据流带来了巨大的计算挑战。大多数增量多标签学习器依赖于轻量级本地模型的集合，这些模型将任务分解为更简单的单标签组件。这些方法虽然高效，但却难以应对极其稀疏的标签和复杂的标签依赖关系。全局方法考虑了整个输出空间，可以更好地利用标签相关性来提高预测性能。为了结合这两种策略的优点，我们引入了iHOMER+，这是一个使用全局预测器预测输出空间子集的输出专用模型的集合。通过将标签空间划分为在完全局部和全局极端之间平衡的多视图集群，iHOMER+可以捕获标签相关性和稀疏模式。该方法还结合了全局和局部水平的漂移检测，使标签分区和子树的动态重组，通过一个替代的背景替换过程进行验证。对九个具有注释概念漂移的合成数据集的实验表明，iHOMER+比当前最先进的全球方法将预测性能提高了5%，比六种基准本地方法提高了29%。代码和数据集可在https://github.com/larasneves/iHomer上公开获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001624?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[大型视觉语言模型中的对齐：综述]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001739?dgcid=rss_sd_all</link>
+      <description><![CDATA[近年来，视觉语言预训练模型（VLPMs）因其在跨模态任务上的出色表现而受到广泛关注。多模态对齐是这些模型的核心技术，涉及建立视觉元素和语言单元之间的语义对应关系，以实现统一的理解和生成。随着大型视觉语言模型（LVLM）的出现，对齐已经从简单的特征映射演变为多维优化挑战，包括架构和策略，包括表示一致性和行为忠实性。本文对80多篇核心出版物进行了全面回顾，创新性地提出了一种二维架构：代表性一致和行为一致。我们将最先进的策略系统地分为五个关键技术支柱：（1）隐式对齐，（2）编码器级表示性对齐，（3）融合阶段架构对齐，（4）基于指令和偏好的行为对齐，（5）推理时动态对齐。最后，论文总结了关键挑战，包括效率、社会偏见和可解释性，并概述了统一多模式系统的前瞻性研究蓝图。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001739?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:48:12 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[通过平均子序列约简的网络物理系统弹性分布式卡尔曼过滤]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1566253526000977?dgcid=rss_sd_all</link>

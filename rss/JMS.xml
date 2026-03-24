@@ -4,7 +4,70 @@
     <title>ScienceDirect出版物：制造系统杂志</title>
     <link>https://www.sciencedirect.com/journal/journal-of-manufacturing-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:55:54 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[“电动汽车电池的机器人拆解：系统性文献回顾”的更正[JMSY，74（2024）第901-921页]]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000336?dgcid=rss_sd_all</link>
+      <description><![CDATA[由于Horizon EU确认政策，作者希望将确认部分的内容修改为以下内容：这项研究得到了欧盟地平线2020研究和创新计划下的欧洲研究委员会（ERC）的支持[资助号101103972、101069890、101104241]，由英国研究与创新（UKRI）项目[资助号FIRG 005、FIRG 057]和意大利伦巴第区域项目[审议XI/4730 2021年5月17日]。该项目还获得了欧盟地平线欧洲计划的资助，赠款协议号为101103706。然而，所表达的观点和观点仅限于作者的观点和观点，并不一定反映欧盟委员会的观点和观点。欧盟和授予当局都不能对此负责。作者对由此造成的任何不便深表歉意。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000336?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[“具有工业应用中数字孪生系统可信进化机制的SFDPose网络[《制造系统杂志》，第86卷，2026年6月，第38 - 49页]“工业应用”的更正[J Manuf Syst 86（2026）38-49]]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000622?dgcid=rss_sd_all</link>
+      <description><![CDATA[作者对原始出版物中无意中省略了资助信息感到遗憾。致谢部分应更正如下：本研究由国家自然科学基金资助，批准号：62373026、62225302、92567303，由中央大学基础研究基金支持。作者对由此造成的任何不便深表歉意。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000622?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000543?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年4月资料来源：《制造系统杂志》，第85卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000543?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SHURH：一种新型多域表示融合框架，用于航空航天结构件铣削中的在线颤动监控]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000592?dgcid=rss_sd_all</link>
+      <description><![CDATA[颤动是航空航天结构部件铣削中的一种自激振动现象，会严重损害表面完整性并降低生产率，因此准确的在线监控至关重要。尽管多域表示融合显示出对颤动监测的前景，但当前的方法依赖于经验特征组合，而没有系统的理论指导，从而限制了其性能和概括能力。物理与人工智能的混合体通过将系统动态与数据驱动方法集成来提供潜在的解决方案。然而，航空航天结构件铣削中的时变切割条件挑战显式动力学建模。为了应对这些挑战，我们提出了信号多维统一表示假说（SHURH），这是一个为多域融合提供理论基础的新颖框架。SHURH将时间、时间-频率和相空间表示视为共同潜在空间的投影;因此，有效的融合可以被公式化为最大限度地减少表示间的不一致性。在对稳定切割和颤动状态的振动信号特征进行全面分析的基础上，我们开发了时间、时频和相空间域的特定领域特征提取模块。最后，在SHURH的指导下，我们引入了一致性对齐损失（CAL）函数，该函数将信号固有物理嵌入到神经网络中，而无需显式动力学建模，从而形成端到端神经网络架构。跨越三个类别的37种切割条件的实验验证在测试集的准确率为98.81%，在未可见条件集的准确率为98.30%，比最强基线高出3.03%，具有优异的特征可分性。Grad-CAM可视化确认了物理上可解释的注意力模式，证明了该模型适合实时工业部署。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000592?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑多台起重机之间的干扰，改进大型部件灵活作业车间的基于GA的调度]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000646?dgcid=rss_sd_all</link>
+      <description><![CDATA[随着现代制造业的快速发展，弹性作业车间调度问题（FJS）引起了全球的关注。在涉及多个工件、流程、机器和起重机的大型零部件车间中，作业调度和起重机调度必须共同考虑。然而，很少有研究同时解决这两个紧密耦合的问题。提出了一种改进的遗传算法（IGA）来实现带起重机运输的柔性作业车间（FJSP-CT）的高效智能调度。遗传算法（GA）通过染色体编码、选择、交叉和突变四个关键方面进行改进，以确保可行的解决方案生成，同时增强全局优化能力。在解码阶段，开发了一组基于起重机动作的操作员，将运输任务分解为可执行的起重机动作，从而确保无干扰起重机调度。这些组件形成了一个基于IGA的集成调度框架，该框架明确地结合了作业、机器和起重机之间的时空耦合约束。使用具有代表性的FJSP-CT场景滚磨生产线作为案例研究。以完工时间（所有工件的最大完工时间）作为性能指标，通过算法计算和场景验证将拟议的IGA与企业当前的调度方法和通用改进遗传算法（GIGA）进行比较。结果表明，IGA实现了卓越的调度性能，为现实世界的大零部件制造环境提供了有效且实用的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000646?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于任务引导多层知识图的LLM增强型制造工艺规划知识服务方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000609?dgcid=rss_sd_all</link>
+      <description><![CDATA[制造工艺规划是一个渐进的设计过程，设计师使用数字建模信息作为起点，精心规划和优化产品制造工作流程。该过程涉及对加工单元、制造操作和操作步骤等要素的重复考虑。流程规划的特征是由特定阶段任务目标驱动的分层设计流程，其中决策约束渐进演变。不同阶段任务的知识要求不仅影响知识焦点的优先顺序，而且对知识粒度、关联模式和推理方法提出了差异化的要求。因此，在统一的知识组织框架内同时支持多阶段、多类型的决策提出了一个关键而复杂的挑战。本研究提出了一种基于多层知识图的工艺规划知识服务模型。提出了知识进化与流程规划之间的迭代交互模型，该模型明确描述了四个有代表性的规划场景，以反映跨阶段推理需求。定义了四种面向流程规划的检索策略，使差异化的检索机制能够适应不同的任务需求和规划目标。采用集成大语言模型（LLM）和知识图的协同工作流，实现多源流程知识的统一语义建模和结构化知识提取。以民用飞机支架零部件制造工艺规划任务为验证案例，对所提出的方法进行了验证。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000609?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[深层品牌类比设计体系：增强基于LoRA的汽车风格转移的创造力和品牌风格一致性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000634?dgcid=rss_sd_all</link>
+      <description><![CDATA[在人工智能（AI）对产品设计的范式转变影响下，平衡品牌一致性与创意造型已成为汽车设计中的一项关键竞争策略。本研究提出了一种融合类比推理理论和稳定扩散模型的人-人工智能混合智能设计方法。我们开发了一个涵盖数据处理、模型训练、设计生成和评估的框架。基于这个框架，我们建立了一个系统，该系统可以解决效率和创造力的传统限制，同时将汽车设计从体验驱动的实践推进到人工智能驱动的实践。该研究首先构建多品牌汽车图像数据集并训练特定品牌的稳定扩散模型，目标是捕获继承的设计元素并建立数据模型基础。随后，基于Control Net的多距离类比设计生成实现了形态特征和细节的语义映射。该研究评估了生成式设计结果的品牌风格一致性，展示了类比设计在维护品牌认同方面的潜力。本研究的贡献在于生成性人工智能和类比推理的跨学科融合，以及提出了以品牌为中心的造型探索的人机协同设计框架。这表明了在产品外观变化中协调造型设计和品牌继承的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000634?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[动态-静态知识图增强的LLM推理用于钢铁制造智能工艺规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000658?dgcid=rss_sd_all</link>
+      <description><![CDATA[作为钢铁制造的关键一步，工艺规划显着提高了生产效率和产品质量。随着知识图（KG）技术的发展，利用历史知识进行智能工艺规划取得了重大进展。然而，现有的基于KG的方法大多依赖于静态知识重用，无法适应钢铁制造中冶炼条件的实时波动。此外，流程规划策略的生成仍然严重依赖于人类专业知识，使得其耗时且劳动密集型。为了应对这些挑战，本文提出了一种基于动静态KG增强大语言模型（LLM）的钢铁制造智能工艺规划方法。首先，引入静态熔炼过程KG（SSPKG），使用卷积块注意力机制增强的分区融合Kolmogorov-Arnold网络（CBAM-PFKAN）来组织历史熔炼知识。然后，建立动态熔炼条件KG（DSCKG），根据预定义的规则将实时熔炼条件转换为结构化知识三重组。其次，设计了计划求解（PS）提示策略，以指导LLM分解复杂的流程优化查询、从KG中检索静态和动态知识以及逐步生成流程方案。最后，通过行业案例对所提出的方法进行了验证。与基线方法相比，所提出的方法在流程知识提取方面实现了卓越的性能，在DeepSeek上将生成的流程策略的准确性分别提高了11.13%和8.63%。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000658?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[迈向工业5.0的智能可重构制造]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0278612526000580?dgcid=rss_sd_all</link>
+      <description><![CDATA[现代制造企业日益面临复杂的挑战，包括产品定制需求激增、产品生命周期缩短以及供应链中断加剧的全球竞争加剧。与此同时，该领域越来越重视将以人为本、可持续性和弹性嵌入到制造系统中，以实现工业5.0。本研究介绍并探索了智能可重构制造（SOM）的范式，该范式集成了可重构制造（RM）和智能制造（SM）的原理。通过系统的文献回顾，本研究识别并组织了自诞生以来不断演变的可重构性和智能性的基本特征。为了阐明趋同趋势，我们开发了单词分布的可视化，使用抽象的一元语法库，并计算语义相似性，以揭示RM和SM范式内的独特焦点和重叠优先级。在这些见解的基础上，本研究正式定义了SR范式及其核心特征--智能可重配置性，这是一种从可重配置性和智能性之间的相互作用中产生的独特能力。此外，还在资源和系统级别上审查了支持智能可重新配置性的使能技术、方法和研究证据。对于每个级别，我们分析了RM和SM之间的潜在协同效应，通过集成其独特特征来提供提高智能重新配置性的途径。研究结果强调了SR范式在促进动态、精确和多功能重新配置以解决现代制造业面临的内部和外部刺激方面的潜力。通过对CRM进行结构化和全面的研究，本研究不仅推进了现有的SM和RM实践，而且还为开发能够满足日益复杂和不断变化的制造需求的下一代制造系统铺平了道路。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0278612526000580?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:24 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[“智能制造系统综合数字孪生模型的自动提取”的更正[J. Manuf. Syst. 85（2026）287-306]]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0278612526000415?dgcid=rss_sd_all</link>

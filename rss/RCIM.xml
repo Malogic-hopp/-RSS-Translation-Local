@@ -4,7 +4,84 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:56:54 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Copilot：集成LLM和BMI以增强人机交互的框架]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000700?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文提出了一种名为Copilot的创新人机交互（HRI）框架，旨在弥合人类意图和机器人智能之间的差距。目前，现有的HRI系统很难推断人类意图，并且严重依赖预定义的规则，这一局限性严重阻碍了该领域的发展。为了解决这个问题，Copilot框架首次将大型语言模型（LLM）的环境理解能力与脑机接口（BMI）的意图识别优势集成在一起。它构建了三个核心模块：（1）基于LLM的视觉诱发电位（LLM-VEP）范式模块，利用LLM进行场景理解和动态标记;（2）BMI模块，采用闪烁触发的多元变分模式分解与典型相关分析（BT-MVMD-CCA）算法;（3）智能代理灵活地适应不同的任务要求。通过12名参与者的在线实验验证，系统在使用基于EEG的双眨眼触发（EEG-DBT）方法时表现最佳：0%的错误触发率，94.09%的眨眼检测率和84.00%的任务完成率。在离线实验中，提出的BT-MVMD-CCA算法取得了92.3%的分类准确率和峰值信息传输速率（ITR）为71.1比特/分钟，DTW = 1.5秒。该研究不仅为HRI领域提供了理论支持，而且为辅助机器人和制造场景提供了有前途的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000700?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于机器人恒力刀片研磨的多模式融合增强型模糊自适应变阻抗控制和改进的DBN]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000736?dgcid=rss_sd_all</link>
+      <description><![CDATA[航空发动机叶片刃口研磨过程中，复杂的时变非线性耦合和不确定干扰对恒定力研磨的自适应调节构成挑战，降低了过程的稳定性和精度。提出了一种基于改进深度信任网络（DBN）的多模式融合增强型模糊自适应变阻抗控制用于机器人恒力刀片研磨。具体来说，集成刀片的三维模型和点云模型，提取准确的几何信息并生成参考研磨轨迹。此外，使用基于线性成功历史的自适应差异进化（LSHADE）优化DBN训练超参数。这改进了DBN配置，并克服了传统的基于DBN的力补偿的局限性，具有固定网络结构和单一模式输入。在此基础上，提出了一种基于改进DBN的模糊自适应变阻抗控制方法。融合几何、力/姿态和误差模式以动态调整力补偿项。该设计使控制器能够在强时变条件下优于传统的自适应可变阻抗方法。它改善了机器人与环境之间的交互作用，实现了机器人研磨中的自适应主动顺从恒力控制。对比实验验证了该方法的稳定性和可靠性。与主流方法相比，该方法的研磨力误差分别降低了66.7%和28.6%。关键误差指标SSE、RSSE、MAPE和MAE分别降低了71%和20%以上，平均表面粗糙度分别降低了约15.6%和5.8%]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000736?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[机器人制造中可转移模型的运动学引导多任务学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000748?dgcid=rss_sd_all</link>
+      <description><![CDATA[能源感知路径规划是机器人制造的核心，因为它需要对轨迹可行性和能源消耗进行准确、低延迟的预测。基于物理的估计器准确但速度慢且特定于平台，而现有的学习代理器速度快，但经常对不可行的路径进行错误评分，并且在机器人模型中传输效果较差。我们提出了运动学引导多任务（KG-MT），这是一种运动学感知架构，可在机器人增材制造过程中联合执行路径可行性和能源消耗的预测。通过将反向运动学作为共享计算基础注入共享主干中，KG-MT内化了可达性、关节和速度限制以及局部雅可比条件反射，产生对这两项任务都有利的特征。我们通过Bayesian优化调整超参数，并研究两种适应机制：仅架构和带权重的架构传输，以减少目标数据需求和训练时间。同质和异类机器人场景下的综合评估表明，所提出的模型不仅优于传统的两级流水线，而且在保持高预测准确性的同时大幅减少了计算时间。在跨机器人传输测试中，KG-MT在均质传输设置中实现了97.98%的可行性准确性，能量MAE为2.60%，在非均质设置中实现了96.82%的准确性，MAE为3.79%。至关重要的是，对于现实世界的增材制造应用来说，KG-MT的执行速度比分析模拟快312倍，比级联神经网络代理快2.2倍。KG-MT为机器人制造中的跨平台、能源感知规划提供了实用基础，支持路径优化、机器人放置和可持续运营，并且易于扩展到其他目标（例如，加速度或热约束），而无需重新构建模型。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000748?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[具有高斯过程剩余补偿的自适应物理知识的Transformer，用于人-机器人协作中的逆动力学建模]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000785?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确的逆动力学建模对于安全有效的人-机器人协作（HRC）至关重要，机器人与人类近距离操作，并且必须确保精确性和安全性。传统的基于模型的方法依赖于线性化模型，通常无法捕捉非线性和摩擦，导致HRC逆动力学建模不准确。最近的基于学习的方法改进了逆动力学建模，但由于序列建模能力有限和物理约束集成不足，通常无法捕捉机器人运动中的时间依赖性。为了解决这些限制，应用了一种自适应的物理信息Transformer，它利用多头自我注意力来捕捉时间动态。此外，还引入了具有节能规则化的分层训练策略来增强身体一致性。最后，引入高斯过程剩余补偿模块来考虑非线性效应和未建模动态。在两个HRC平台上进行的实验验证，包括执行激励轨迹并收集运动数据的UR 5e机器人臂，以及UR 10 e机器人臂，证明所提出的方法始终优于先进基线，将平均关节扭矩误差降低了31.7%。结果证实了所提出的方法在实现为HRC应用量身定制的可靠、准确的逆动力学建模方面的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000785?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[考虑模型不确定性的工业机器人接触力估计的物理信息自适应卡尔曼过滤器]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000712?dgcid=rss_sd_all</link>
+      <description><![CDATA[准确的外部接触力估计对于缺乏扭矩传感器的机器人交互任务至关重要。考虑模型不确定性的现有力观测方法常常无法有效解决关节间隙引起的动态不确定性。本文提出了一种用于机器人动力学和摩擦的混合物理数据建模方法，利用物理信息神经网络（PINN），并将其应用于观察器设计。首先，使用高斯基函数制定与间隙相关的动态误差模型，从而能够实时补偿关节间隙引起的模型不确定性。在此模型的基础上，提出了一种基于物理信息的自适应卡尔曼过滤器（PIAKF）来解决模型的不确定性。进一步分析了观测过程中干扰的传播，并应用变时间周期模式切换移动平均过滤器实现了干扰噪音的有效抑制。最后，数值模拟和物理实验证明了所提出的PIAKF的性能，显示出比现有先进观测技术的显着改进。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000712?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于多机器人视觉集成制造的高效遮挡感知可见性保证方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000803?dgcid=rss_sd_all</link>
+      <description><![CDATA[将机械手与视觉系统相结合的柔性制造越来越被视为工业自动化的重要趋势。然而，当前的制造系统通常缺乏感知相机视线内遮挡的能力，并且通常依赖于机械手运动来预设姿势来恢复可见性，这会损害可靠性和效率。为了克服这一挑战，本文引入了一种感知遮挡的可见性保证方法，该方法通过组成两个核心模块，将实时遮挡检测与在线可见性恢复集成在一起。检测模块采用二次形式的最小特征量来将摄像机的可见区域作为机械手运动学模型中的圆锥形扩展联动装置。并利用Minkowski差将机械手凸联动机构之间的咬合关系转化为简洁的分离关系。移除模块采用分段人工势场方法，生成三相排斥场，利用视觉联动的结构有效引导机械手从摄像机的工作视野中撤回。双机械手协作实验验证了该方法实现了准确的遮挡检测和快速恢复，从而提高了可靠性和效率。该方法具有推广性，非常适合多机器人视觉集成制造场景。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000803?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ACT-FLEX：一种符号性和生成性人工智能集成架构，用于可概括和可解释的机器人任务]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000566?dgcid=rss_sd_all</link>
+      <description><![CDATA[对个性化产品的需求不断增长，给可持续制造带来了新的挑战，特别是循环经济举措所需的大规模拆解。传统的机器人系统缺乏适应不同产品类型和机器人形态所需的灵活性和通用性。在这项工作中，我们介绍了ACT-FLEX，这是一种受人类认知心理模型启发的认知架构。我们使用ACT-FLEX来表明，预训练的大型语言模型（LLM）以及视觉语言模型（VLM）可以实现跨机器人形态和任务的灵活、可解释和可推广的机器人拆解。为此，我们的架构结合了符号推理、多模式感知和形态感知动作生成，以支持动态环境中的决策。我们通过模拟和物理实验验证ACT-FLEX，涉及多种拆解场景、产品配置和各种机器人平台，包括UR 10、KUKA iiwa、Panda Franka和uArm Swift Pro。结果显示了跨机器人平台的可移植性以及对产品变化的稳健性，物理试验的成功率高达80%。这项工作表明，朝着实现工业5.0透明、可重新分配任务和可持续的机器人系统迈出了一步。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000566?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复杂表面高精度机器人研磨的多参数卷积协调规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000797?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人研磨已成为一种有前途的复杂表面精加工技术，利用刀具合规性来提高加工效率和表面质量。然而，复杂表面零件往往具有弯曲变化和余量不均匀的特征，这使得研磨参数的确定变得复杂。此外，顺从工具的大幅变形可能会导致接触建模和力规划的不准确，从而可能导致过度研磨。为了解决这个问题，本文引入了一种能够同时适应弯曲和余量变化的多参数卷积协调研磨（MPCCG）方法。首先，通过分析小变形假设的误差并构造虚拟干涉体（VIV），提出了大变形接触模型。在此基础上，准确规划接触力，以适应弯曲变化，同时保持恒定的最大接触压力。定义和调节速度比，以控制单位弧长的研磨能量输入，从而有效适应公差变化。最终，通过压力和速度比的卷积来协调接触力、刀具速度和送进速度，每个参数保留了不同的功能焦点。对比仿真和实验验证了该方法的有效性，接触建模精度提高了83.3%以上，研磨精度提高了35.5%以上。这项研究定量描述了保形接触行为，并实现了机器人研磨中多个参数的系统级协调。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000797?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[一种基于机器学习的工具，用于通过减少的数据集增强工业机器人的位置准确性]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000682?dgcid=rss_sd_all</link>
+      <description><![CDATA[工业X.0机器人制造需要更高的准确性和灵活性，能够通过模拟和数字双胞胎设计和优化的持续自适应流程。为了在高附加值流程中实现这种水平的灵活性和生产力，有限的机器人位置准确度成为关键限制，需要先进的工程方法和数字化工具。这些解决方案必须预测性地补偿不可避免的机器人位置准确性误差，消除手动姿态细化的需要，并能够生成“首次正确”的机器人代码。这项工作旨在通过引入一种能够预测性地纠正整个工作空间的机器人定位不准确性的工程工具来解决这些挑战，从而实现准确的点对点运动生成。它旨在用于过程相互作用力有限的任务，其中定位误差主要由几何、顺应性和关节相关影响决定。该工具利用在减少的实验数据集上训练的多参数机器学习（ML）错误预测器，最大限度地减少数据采集时间和生产停工时间。它作为一个基于Python的框架实现，可以无缝集成到商业离线编程环境中，以自动生成经过验证的机器人程序。论文详细介绍了框架结构，重点关注基于ML的位置误差预测器的定义，及其在配备高有效载荷KUKA机器人和FARO激光跟踪器的机器人单元上的实现。初步实验分析将有效载荷、进近方向和点位置确定为影响定位准确性的关键操作参数，可在代码级别访问。这些见解指导了特征选择和精简训练数据集的设计。特别是，仅由64个点组成的均匀空间网格（相当于约一小时的测量时间）足以实现接近最佳的模型准确度。比较了几种ML算法，其中表格先验数据匹配网络在小数据集上实现了卓越的概括。KUKA机器人的实验验证显示，所有测试点的定位误差和一致的性能减少了98.4%，证实了工具的稳健性和适合在不同工业环境中部署。所有数据集、源代码和实现脚本均公开发布，以实现可重复性并促进工业部署。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000682?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:11 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[<sup>M2</sup>OSS：机器人加工误差的系统研究视角]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000773?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人加工已成为继传统机械工具之后的关键制造范式，由于其广阔的工作空间、高灵活性和易于集成多源传感设备，在研磨、铣削和各种工业场景中得到广泛应用。然而，由于连续结构、关节硬度弱和空间配置不对称等限制，机器人加工系统表现出以大规模、不均匀和倾斜分布为特征的误差特征。这些因素严重限制了机器人加工在高精度场景中的部署。人们在五个不同的层面进行了广泛的研究：建模、测量、优化、预测和补偿，所有这些都在特定背景下表现出显着的有效性。然而，为了实现机器人加工系统的终极精度性能，需要系统性的研究视角，而不是孤立的、离散的单元工作。为此，本文提出了一种新型的系统视角，称为M2 OSS（机器人加工系统误差的建模、测量、优化、规划和视觉）来研究机器人加工系统误差。在这个系统框架下，利用建模和测量从理论和实践的角度深入了解系统误差的潜在规律;利用优化来在不主动干预的情况下提高系统的基线精度性能;利用推测来推断过程中的加工误差;监督是误差控制的最终策略。此外，推测和监督的集成为工业场景中的视觉自主提供了一个强大的范式，并推进了机器人加工系统的智能开发。本文为机器人加工误差领域的研究提供了系统的视角，并为未来的研究提供了统一的研究路线图，促进对系统误差的更深入了解并进一步提高机器人加工精度。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000773?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[针对大型复杂部件的最先进移动机器人辅助研磨技术]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000761?dgcid=rss_sd_all</link>
+      <description><![CDATA[大型复杂部件对于航空、航空航天和能源等国家战略部门至关重要，通常具有极端尺寸、有限的结构刚性和复杂的几何表面/结构的特征。实现高效率、高质量的加工，同时满足几何精度和表面完整性的严格要求，这对这些零部件构成了巨大的制造挑战。本文对移动机器人研磨技术和为LCC设计的集成系统的最新全球进展进行了全面回顾和分析。首先，系统回顾了大型零件机器人加工的研究成果，涵盖了高精度零部件表面检测、机器人研磨轨迹规划、末端效应顺从力控制以及表面质量监测与控制四个关键技术领域。随后，介绍了机器人研磨设备和集成系统的工业实施和验证，展示了涉及代表性复杂部件的国内外著名工程案例。最后，从大型零部件的多机器人协同控制、多流程重构与优化、通用设备向专用系统的转变以及灵巧手工工艺的迁移等方面展望了未来的研究方向。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000761?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:56:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[编辑委员会]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000633?dgcid=rss_sd_all</link>

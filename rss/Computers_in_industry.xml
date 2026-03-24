@@ -4,7 +4,28 @@
     <title>ScienceDirect出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:57:07 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[编辑委员会]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000382?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年5月资料来源：工业计算机，第177卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000382?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[循环经济的物质护照实体]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000321?dgcid=rss_sd_all</link>
+      <description><![CDATA[本文的目的是介绍材料护照Ontology（MPO），其旨在实现材料护照数据跨利益相关者（包括制造商、供应商、收藏家和回收商）的互操作性。MPO提供了一种新颖的统一的实体基础设施，用于代表产品和回收过程的属性。这些属性对于估计潜在的回收率并使利益相关者能够就回收的可行性做出明智的决定至关重要。该本体是与行业利益相关者共同创建的，遵循务实的本体开发方法。MPO被组织为描述产品、组件和材料的物理性质、组成和循环性、生物学和其他性质的方面。开发了一组约束来解决行业利益相关者发现的不一致语法或价值范围不一致的问题。这些不一致发生在材料护照知识图中表示的国际产品识别号和质量相关属性等属性中。知识图谱提供的信息可以评估产品、零部件和材料的循环性。MPO是使用推理工具并与代表两个用例的工业合作伙伴领域专家合作进行验证的：机动车辆零部件和风力涡轮机叶片的制造。这些用例展示了其在识别可回收材料、最大限度地利用资源和增强可持续发展实践方面的有效性和适用性，从而促进向循环经济的过渡。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000321?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:57:03 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MSDS CIR-AD：通过多标准语义距离和约束图像重建进行无监督异常检测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000345?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于图像重建的方法广泛用于无监督异常检测。这些方法的有效性取决于它们准确重建正常区域的能力。然而，概括能力有限的模型往往无法在异常区域中重现细粒度的细节，从而导致误报。具有强大重建能力的模型也可能无意中有效重建异常区域，从而使异常定位变得复杂。鉴于在异常检测任务中识别受损区域比复制图像细节的重要性，我们通过多准则语义距离和约束图像重建（MSDS CIR-AD）提出了一种新型的无监督异常检测框架，该框架在两个关键方面表现出色。首先，我们提出了一个具有潜在约束的无异常重建模型，通过潜在字典、变化约束和位置编码控制其概括边界，以确保测试图像重建到正常状态。随后，我们引入了多标准异常测量，该测量可以比较测试图像和重建图像之间的颜色、纹理和深层语义特征，从而实现精确的异常定位。三个不同数据集和现实世界的工件检测应用程序的实验结果凸显了MSDS CIR-AD在检测各种现实世界异常方面的有效性，超越了现有的异常检测和定位方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000345?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 19 Mar 2026 16:57:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[世界模型驱动的流程行业运营：基于条件扩散的线下强化学习解决方案]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0166361526000096?dgcid=rss_sd_all</link>

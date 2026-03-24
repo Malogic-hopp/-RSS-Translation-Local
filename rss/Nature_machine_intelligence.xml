@@ -4,55 +4,55 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence将发表机器学习、机器人和人工智能领域广泛主题的高质量原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识。与此同时，出现了许多关于伦理，社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响-鼓励跨学科的对话-评论，新闻特写，新闻观点文章以及通信。</description>
-    <lastBuildDate>Sun, 08 Mar 2026 20:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:55:17 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[同行评审中大型语言模型反馈的大规模随机研究]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01188-x</link>
-      <description><![CDATA[在ICLR 2025的一项随机对照研究中，Thakkar等人证明，大型语言模型生成的反馈可以使评论更具信息性，同时增强评论者与作者的参与度。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01188-x</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:02 GMT</pubDate>
+      <title><![CDATA[从大规模自然驾驶数据中主动学习碰撞风险]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01189-w</link>
+      <description><![CDATA[Jao等人为自动驾驶系统引入了一种通用安全措施，可以从没有标签的日常驾驶中了解碰撞风险。它实时准确地警告崩溃和濒临崩溃，并确保有时间做出早期反应。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01189-w</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:17 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[作者更正：口罩优先引导的去噪扩散改善了蛋白质反向折叠]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01209-9</link>
-      <description><![CDATA[作者更正：口罩优先引导的去噪扩散改善了蛋白质反向折叠]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01209-9</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
+      <title><![CDATA[用于在嵌入式人工智能中使用大型语言模型的机器人操作系统框架]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01186-z</link>
+      <description><![CDATA[Mower、Wan等人推出了ROS-LLM，这是一个开源系统，可让非专家使用自然语言控制机器人，从演示和反馈中学习新技能，并自动调整动作以在现实世界任务中实现可靠的性能。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01186-z</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:16 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[人工智能和长期游戏]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01203-1</link>
-      <description><![CDATA[大约10年前，AlphaGo在复杂而古老的围棋游戏中击败了世界上最好的职业选手之一。这是一个关键时刻，催生了新的研究方向，并标志着人工智能开发繁忙十年的开始。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01203-1</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
+      <title><![CDATA[体现神经形态因子的基准框架]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01197-w</link>
+      <description><![CDATA[将软机器人技术与神经形态工程相结合是实现具身智能的一种很有前途的方法。Giulia d&#39;Angelo等人通过开发用于在软机器人平台上对神经形态控制器进行基准测试的框架来促进该领域的进展。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01197-w</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:16 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[使用根据170万人的数据预先训练的多模式基础模型，跨场景和设备进行心脏健康评估]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01180-5</link>
-      <description><![CDATA[Gu等人引入了一种心脏基金会模型，该模型可以从数百万个心脏信号和文本解释中学习，使其能够处理在医院或家中收集的心脏数据。它为不同设备和设置提供清晰可靠的见解。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01180-5</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:01 GMT</pubDate>
+      <title><![CDATA[自动语音识别中利益相关者驱动的人工智能审计案例]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01207-x</link>
+      <description><![CDATA[自动语音识别中利益相关者驱动的人工智能审计案例]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01207-x</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:15 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[加速量子材料发现的普适旋转轨道耦合Hamilton模型]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01196-x</link>
-      <description><![CDATA[Zhong等人介绍了Uni-HamGNN，这是一种图神经网络模型，可以快速准确地预测旋转轨道耦合的电子结构，从而实现快速筛选并发现整个周期表的先进量子材料。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01196-x</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
+      <title><![CDATA[使用归纳先验在小数据体系中预测和解释细胞类型特定的药物反应]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01202-2</link>
+      <description><![CDATA[Alsulami等人提出了PrePR-CT，这是一种计算方法，可以使用有限的数据预测不同细胞类型如何对药物样化合物做出反应。通过将生物网络与机器学习集成，它提高了早期药物发现的准确性、可解释性和效率。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01202-2</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:15 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于材料研究的大型语言模型家族，深入了解持续预训练中的模型适应性]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01199-8</link>
-      <description><![CDATA[Dhruv等人介绍了LLaMat，这是材料科学的LLM家族，展示了专业培训如何使较小的模型超越较大的通用LLM。该研究表明，LLaMA-3等广泛预训练的模型对新科学领域的适应效率不如LLaMA-2。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01199-8</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
+      <title><![CDATA[认知偏见较少的法学硕士不一定是更好的决策者]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01208-w</link>
+      <description><![CDATA[大型语言模型（LLM）不仅包括社会刻板印象，还包括认知偏见。当研究人员努力识别、描述和纠正这些偏见时，我们鼓励科学界认识到，尽管认知偏见经常被视为错误，但也可以反映推理中功能性的、特定背景的适应。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01208-w</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:14 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[具有局部感知模式对齐的条件扩散用于生成不同蛋白质形态集合]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01198-9</link>
-      <description><![CDATA[Wang等人引入了Mac-Diff，这是一种具有跨模式局部感知关注的条件扩散模型，为未见蛋白质生成多样化的形态集合，捕捉动态灵活性和结构多样性。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01198-9</guid>
-      <pubDate>Sun, 08 Mar 2026 20:29:00 GMT</pubDate>
+      <title><![CDATA[使用记忆操纵的样本高效生成式分子设计]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01200-4</link>
+      <description><![CDATA[Guo等人训练了一种基于Mamba的语言模型用于分子生成，并发现数据增强和经验重放可以有效生成性能优化的小分子。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01200-4</guid>
+      <pubDate>Thu, 19 Mar 2026 16:55:14 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[针对SequenTX不断变化的肿瘤格局的基于强化学习的序贯药物治疗设计]]></title>
