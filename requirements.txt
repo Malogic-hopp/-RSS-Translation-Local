@@ -1,14 +1,10 @@
-bs4
-feedparser
-jinja2
-requests
-lxml
-html5lib
+# Runtime dependencies used by the project.
 beautifulsoup4==4.11.1
-configparser
-markdown
-python-dotenv
-tencentcloud-sdk-python
 elsapy==0.5.1
-pandas
-openai
+feedparser==6.0.12
+jinja2==3.1.6
+lxml==6.0.2
+openai==2.15.0
+python-dotenv==1.2.1
+requests==2.32.5
+tencentcloud-sdk-python==3.1.32

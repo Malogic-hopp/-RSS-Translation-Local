@@ -4,7 +4,42 @@
     <title>ScienceDirect出版物：机器人技术和计算机集成制造</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 19 Mar 2026 16:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 22:36:28 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[制造业中用于增强现实头戴式显示器远程协作的图像内容控制]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000852?dgcid=rss_sd_all</link>
+      <description><![CDATA[头戴式显示器（HMD）增强现实（AR）技术由于其移动性和免提操作，已在工业环境中被采用以支持实时远程工程协作。当使用AR头显执行协作任务时，必须保护敏感的现场图像内容，以防止用户在现场移动时通过视频流无意中泄露。为了解决这个问题，本文提出了两种信息控制方法，显示一个特定的区域在场景中的低视觉保真度。第一种方法分割和跟踪每张图像中的目标区域，应用模糊效果来模糊敏感内容。第二种方法通过全息渲染管道将预先构建的具有减少细节的3D模型叠加到区域上，从而掩盖其内容。测试场景演示了实现这两种方法的原型系统的有效性，通过性能指标进行评估。进行了一项实证研究，以确定所提出方法的局限性，并比较其在实际制造环境中的部署挑战。这项工作通过引入可行的信息安全机制，增强了基于HMD的远程协作的实用性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000852?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过圆路径误差补偿优化机器人加工]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000815?dgcid=rss_sd_all</link>
+      <description><![CDATA[机器人加工提供灵活性和成本效益，为传统机械工具提供了可行的替代方案。然而，其固有的较低刚性和可重复性通常会导致加工精度降低。为了提高加工质量，机器人加工的增强通常通过参数优化、精度校准、路径误差补偿和工艺细化来实现。本研究提出了一种基于平面外球杆方法的离线路径误差测量和补偿策略来解决这些挑战。改进的小圆适配器与雷尼绍伸缩球杆相结合，用于在加工和非加工条件下测量和补偿约35 mm至50 mm半径范围内的圆形路径误差。为了进行验证，使用激光跟踪器作为参考。机器人加工和非加工条件下球杆测量的实验结果证实了所提出的基于球杆的方法在圆轨迹误差测量和补偿方面的有效性。具体而言，对于小于30°的面外角度（对应于半径在43 mm和50 mm之间的圆形路径），新的测量方法表现出与激光跟踪仪相当的性能，如由相似的圆形偏差范围、一致的径向误差模式、表面粗糙度、超过40%的圆度补偿率以及尺寸变化减小到小于0.066 mm所指示的。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000815?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[PATras：用于协作应用程序机械风险评估的实用辅助工具]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S073658452600075X?dgcid=rss_sd_all</link>
+      <description><![CDATA[如今，协作应用程序的风险评估通常依赖于从业者的专业知识，这些专业知识由头脑风暴、检查表和安全相关标准中描述的简化计算等方法和工具支持。这种方法存在两个主要缺点：由于依赖于显着的简化，它往往是保守的;而且它可能是主观的，因为它取决于专家的经验。因此，这些限制可能会限制机器人速度，使风险评估过程复杂化，并增加专家可能忽视某些危险的风险，从而阻碍工业中采用协作应用程序。因此，本文介绍了一种在评估机械安全标准期间为安全专家提供支持的工具。PATras在模拟环境中估计人与机器人的接触力以及机器人的停止时间和距离，模拟环境通过结构良好的最先进模型、方法和算法集成而构建，符合相关标准。这使得协作应用程序能够更安全、更高效地实施，并为基于模拟的机械风险评估的有希望的方法迈出了有希望的一步。PATras与当前标准和既定的工业风险评估实践兼容，有助于其转移到现实世界的应用程序。通过一个代表性的用例演示了概念验证，其中该工具识别了以前被忽视的危险，实现了更安全的工作站设计，并揭示了减少部署成本和周期时间的机会。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S073658452600075X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于物理信息和机器学习的五轴铣削TC 4钛合金刀具磨损融合预测模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000827?dgcid=rss_sd_all</link>
+      <description><![CDATA[在铣削难以切割的材料（例如钛合金）期间，刀具磨损会明显。几十年的研究在磨损预测方面取得了一些进步的结果。然而，如何构建深层物理信息并有效地将领域知识作为先验信息嵌入到模型中仍然非常具有挑战性。为了解决这些问题，本文建立了基于物理信息和机器学习（ML）的五轴叶片铣削过程中刀具磨损的融合预测模型。在数据集构建中，模拟信号作为输入特征，并通过刀具工件接合（CWE）和瞬时未变形芯片厚度（IUCT）计算。在刀具磨损预测中，提取了三种信息，包括物理特征、手动特征、自动深度特征。具体来说，加工信息和模拟信号作为集成学习器的输入数据。为了提取多通道传感器信号的手动特征，使用自注意和双向门控循环单元网络（Bi-GRU）。为了从不同传感器提取局部特征，使用了卷积神经网络和Transformer（CNN_TR）。最后，基于这些特征数据预测磨损值。实验结果表明，该模型具有良好的性能，数据集1的MAE、RMSE和R2值分别为9.968、11.900和0.942，数据集2的MAE、RMSE和R2值分别为6.708、7.707和0.935。此外，在高频超声波振动的帮助下，与传统铣削（CM）相比，粘合剂磨损显着减少。这项工作可用于开发更智能的数字系统并优化加工过程，以减少极端复杂制造条件下的刀具磨损。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000827?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[抽象HRC：通过记忆实现人机协作的上下文对齐]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0736584526000864?dgcid=rss_sd_all</link>
+      <description><![CDATA[传统的人机协作（HRC）系统存在记忆隔离问题，人类和机器人维持着独立的认知过程。这种分离迫使人类解释任务环境中的协作上下文并发出显式命令，从而增加认知负荷并降低协作效率。为了克服这一限制，我们提出了扩展HRC框架，该框架为人类和机器人构建了一个共享的、可解释的存储结构。通过代理层，这些记忆被转换为人类可读的摘要，以实现记忆对齐和任务预测，从而实现主动机器人执行。动态电动汽车电池拆解平台上的实验表明，该框架显着提高了任务成功率。用户研究进一步证实了人类操作员的认知负荷大幅减少，验证了该框架在增强人机协作方面的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0736584526000864?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:32:17 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Copilot：集成LLM和BMI以增强人机交互的框架]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0736584526000700?dgcid=rss_sd_all</link>

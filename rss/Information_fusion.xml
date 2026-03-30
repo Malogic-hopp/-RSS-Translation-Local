@@ -4,7 +4,133 @@
     <title>ScienceDirect出版物：信息融合</title>
     <link>https://www.sciencedirect.com/journal/information-fusion</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 19 Mar 2026 16:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 22:35:38 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[<sup>M3</sup>Net：宏&gt; Meso&gt;微型临床启发的分层3D网络，用于肺结节分类]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002137?dgcid=rss_sd_all</link>
+      <description><![CDATA[CT扫描中良性和恶性肺结节的准确分类对于早期肺癌筛查至关重要，但由于肺结节的多尺度和不均匀性，仍然具有挑战性。虽然深度学习提供了辅助诊断的潜力，但大多数现有模型都充当“黑匣子”，缺乏值得信赖的临床集成所需的透明度和可解释性。为了解决这个问题，我们提出了M3 Net，这是一种新型的肺结节分类3D网络，其灵感来自放射科医生的分层诊断工作流程，它集成了从细粒度结构到全局解剖关系的多尺度上下文信息。我们的框架构建了渐进的多尺度输入，从细粒度的结节结构到局部语义和全球空间关系。M3 Net采用特定规模的编码器，并通过潜在空间投影和互信息最大化确保跨规模语义一致性。对公共LIDC-IDRI数据集和自收集临床数据集（USTC-FHLN）的广泛实验表明，我们的方法实现了最先进的性能，准确率分别为86.96%和84.24%，比最佳基线高出3.26%和2.17%。结果验证了M3 Net为肺结节分类提供了一种更强大且具有临床相关性的解决方案。该代码可在https://github.com/jylEcho/M3-Net上获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002137?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于长期多元时间序列预测的扩散去噪和物理正规化系列间模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002046?dgcid=rss_sd_all</link>
+      <description><![CDATA[工程系统中的长视野多元时间序列预测（LTSF）需要三种能力：（i）在保留显着结构的同时抑制域噪音，（ii）跟踪稀疏的、依赖于状态的跨序列耦合，以及（iii）保持稳定的、物理上合理的部署。我们提出了PRism（物理正规化系列间结构模型），这是一个统一模型，按顺序组成基于分数的扩散预处理器、相关阈值的动态图编码器和反应扩散（RD）正规化预测头。因果链去噪搜索引擎估计可靠的稀疏动态搜索引擎稳定是关键：去噪提高了用于布局估计的有效SNR;动态稀疏图暴露了可解释的、状态感知的依赖性; RD步骤通过软物理启发的结构惩罚来抑制多步漂移，速度和加速度，而不是硬的特定领域的保守定律。我们进一步澄清，扩散在推断时用作一步去噪预处理器，而不是用作迭代生成采样器，从而保持延迟适度。我们提供的分析表明，诱导视界图在温和条件下是收缩的，并且图块承认显式的Lipschitz界，从而澄清了组合何时稳健。从经验上看，在六个标准基准（电力、交通、天气、ILI、汇率、ETT）上，PRISM在标准化调整预算下比强大的Transformer、MLP、图表和最近的分解式基线提供了一致的改进。我们报告多个种子的平均值±标准差、逐层细分、对相关性阈值和约束权重的敏感性、顺序交换和删除消融以及显式训练/推理成本细分。诊断进一步表明低频基本面得到了保留，杂散高频分量得到了减弱。因此，PRism为LTSF工程提供了一种准确、可解释且稳定的解决方案，同时保持软结构规范化和硬实体执法之间的区别的透明性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002046?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[跨接多尺度变换和稀疏表示：多维医学图像融合的统一Gabor张量稀疏表示]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002149?dgcid=rss_sd_all</link>
+      <description><![CDATA[多维（MD）医学图像融合对于临床诊断至关重要，因为它将来自多模式采集的补充信息整合到单个信息描述中。基于多尺度变换（MST）和基于稀疏表示（SR）的方法长期以来一直是该领域的两种流行范式，两者都基于严格的线性基础。然而，它们固有的局限性限制了进一步的进步：MST依赖于非自适应定向过滤器组，限制了其数据驱动的灵活性，而SR提供自适应字典学习，但采用各向同性稀疏编码，这无法捕获复杂的各向异性纹理。认识到这些限制是互补的，我们提出了一个统一的框架，称为Gabor张量稀疏表示（Gabor-TSR），弥合方向性和自适应性之间的理论差距。具体而言，引入了两个关键创新。首先，基于张量的Gabor小波变换（Tensor-GWT）的设计通过制定MD方向滤波器作为秩一张量，从而分解高维滤波到有效的1D操作直接应用于字典原子，并使可控方向在MD空间与线性计算复杂度。其次，联合方向稀疏编码策略的开发堆叠定向组件成一个块对角字典，利用内在的方向间的相关性下的全局稀疏性约束。涉及100对2D图像和70卷3D数据的7个融合任务的广泛实验表明，提出的基于Gabor-TSB的融合方法在保持结构完整性和对比度保真度方面始终优于17种最先进的融合方法，证实了其作为MST和SR理论之间稳健桥梁的价值。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002149?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[可穿戴健康监测多传感器数据融合研究进展]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001983?dgcid=rss_sd_all</link>
+      <description><![CDATA[对准确、连续和无创健康监测的需求不断增长，已将多传感器数据融合推向医疗保健技术的前沿。本评论旨在概述文献中融合框架的发展以及融合文献中使用的常用术语。该评论介绍了与算法开发最相关的融合分类标准和方法。还讨论了所审查的融合框架在国防、自动驾驶、机器人和图像融合等领域的应用，以提供有关该领域已开发的各种融合方法的上下文信息。本综述旨在对应用于健康监测系统的多传感器数据融合方法进行全面分析，重点关注关键算法、应用、挑战和未来方向。我们研究了常用的融合技术--包括卡尔曼过滤器、Bayesian网络和机器学习模型。通过集成来自不同来源的数据，这些融合方法增强了健康监测系统的可靠性、准确性和弹性。然而，数据质量和采集系统差异等挑战也出现了，近年来需要智能融合算法。该综述最终集中在融合算法在生物医学推理任务中的应用，例如心跳检测、呼吸频率估计、睡眠呼吸暂停检测、心律失常检测和心房颤动检测。本评论中提出的见解预计将指导下一代用于健康监测的多传感器融合系统的开发。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001983?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:35:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[轻量级通道动态融合模型：通过信息量分析进行非平稳时间序列预测]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001922?dgcid=rss_sd_all</link>
+      <description><![CDATA[非平稳性是现实世界时间序列的固有属性，在时间序列预测中发挥着至关重要的作用。之前的研究主要采用实例规范化来减弱原始系列的非平稳性，以获得更好的可预测性。然而，直接消除固有非平稳性的实例规范化可能会导致三个问题：（1）破坏全局时间依赖性，（2）忽略特定于通道的差异，（3）产生过度平滑的预测。为了解决这些问题，我们从理论上证明，标准差可以是一个有效的和可解释的代理量化时间序列的非平稳性。在此基础上，提出了一种新的轻量级序列动态融合模型（CDFM），该模型能够选择性地动态恢复原始序列的固有非平稳性，同时保持归一化序列的可预测性。首先，我们设计了一个双预测模块，包括两个分支：一个时间平稳预测捕获稳定模式和时间非平稳预测建模全局动态模式。其次，我们提出了一个融合权重学习器，根据标准差动态地表征不同样本之间的内在非平稳信息。最后，我们引入了一个渠道搜索器，通过评估特定渠道的非平稳性、相似性和分布一致性，选择性地恢复特定渠道的非平稳信息，使模型能够捕获相关的动态特征并避免过度匹配。对七个时间序列数据集的综合实验证明了CDFM的优越性和概括能力。代码可访问：https://github.com/Tianyu-Jia/CDFM。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001922?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 22:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[波浪作为深度学习的多尺度物理先验：从结构嵌入到神经重新定义的融合路径分类]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002010?dgcid=rss_sd_all</link>
+      <description><![CDATA[子波理论和深度学习的协同融合已成为解决数据驱动模型中关键瓶颈的关键策略，特别是在频谱偏差和高频细节丢失方面，这在多规模任务中至关重要。本文以信号处理和逼近理论的数学基础为基础，提出了一个统一的分类法，包括三种渐进融合路径：结构同质化、隐式归纳偏差和神经重新定义。该框架有助于系统地阐明将多尺度物理先验与深度再现联系起来的潜在机制。首先，我们研究如何集成子波原理以减轻频谱偏差、减轻混叠并增强模型的可解释性。其次，我们对前两种整合路径进行了深入分析：显式结构嵌入和隐式归纳偏差。我们阐明了数学严谨性（物理一致性）和学习灵活性之间固有的融合权衡。随后，我们探索了第三条路径--用基于子波的计算单元（概念上称为Wavelons）取代纯量神经元的基本神经重新定义--讨论了其实现高度紧凑参数效率的潜力。在此分析的基础上，我们对代表性架构进行了系统比较，描绘了最佳应用场景。最后，我们总结了开放的挑战并概述了未来的方向，强调了这些基于子波的融合路径在弥合数据驱动的表达能力和科学发现所需的物理可解释性之间差距方面的潜力。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002010?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:22:10 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于节点的多源自适应知识聚合的低资源分类完成]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001910?dgcid=rss_sd_all</link>
+      <description><![CDATA[分类法是组织领域知识的基本结构。分类完成的目标是在父子节点之间插入新的概念，以细化层次粒度，但在低资源领域，这项任务面临着稀缺的标签，模糊的节点语义和结构的不确定性。我们提出了MANTA-TC（Multi-source Adaptive Node-centric Transfer for Taxonomy Completion），一个以节点为中心的多源传输框架。MANTA-TC使用本地结构上下文（父、兄弟和邻居信息）对每个节点进行建模，应用节点级自适应注意力机制来选择相关的源域知识，并区分共享语义与特定域的语义。基于最大均值偏差（MMD）的跨域对齐损失确保跨域嵌入一致性。实验表明，MANTA-TC的性能显着优于现有方法，特别是在低资源设置下的非叶概念插入方面。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001910?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[HG-Mamba：基于状态空间模型的多视图动态超图建模用于医学图像分割]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002058?dgcid=rss_sd_all</link>
+      <description><![CDATA[医学图像分割技术在临床诊断、手术规划和术后评估中发挥着至关重要的作用。然而，医学图像通常表现出高度复杂的非线性空间相关性，其不规则的几何形态和模糊的边界特征使得准确的分割极具挑战性。基于卷积神经网络、Transformer和Mamba的方法很难有效地捕捉复杂解剖结构中的高阶依赖关系。尽管基于超图的方法可以缓解这一问题，但现有的方法大多局限于静态建模，不仅忽视了超图之间的互补性和拓扑一致性，而且缺乏对超图之间动态依赖关系的显式建模。为此，本文提出了一种基于动态超图建模和Mamba的新型医学图像分割方法，称为HG-Mamba。具体来说，我们提出了多视图超图聚合模块，以同时捕获全局层面的跨结构高级依赖性和局部社区内的细粒度高级相关性。其次，提出了动态超图卷积。它通过显式建模超文本之间的高级上下文交互来增强组级上下文信息的传播。此外，我们还引入了多规模双域聚合模块。它通过空间域和频率域的双重约束共同捕获局部细节和全局轮廓特征。为了评估HG-Mamba的分割性能，我们对四个数据集进行了实验。结果表明，HG-Mamba在分割准确性和概括能力方面都优于当前最先进的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002058?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[从物种特定模型到通用Re-ID：动物重新识别的调查]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526002022?dgcid=rss_sd_all</link>
+      <description><![CDATA[自动动物重新识别（Re-ID）已成为野生动物生态、保护管理和精准畜牧业的重要工具。深度表示学习、Transformer架构、多模式学习和视觉语言建模的最新进展加速了用于识别图像和视频中个体的可扩展、非侵入性系统的开发。这项调查对2020年至2025年间发表的动物Re-ID研究进行了全面回顾，涵盖41部同行评审的作品。我们提出了动物Re-ID方法的结构化分类，并提供了方法、数据集和评估实践的综合分析。我们还强调了持续存在的挑战，包括领域转移、时间变异性、注释稀缺性和不一致的评估协议，并概述了面向通用、时间稳健且具有生态意义的动物Re-ID系统的广阔未来研究方向。这项调查为在未来十年推进稳健且可部署的解决方案提供了统一的基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526002022?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:55 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于标签一致性的跨模式生成特征融合促进VAE的迁移学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001958?dgcid=rss_sd_all</link>
+      <description><![CDATA[高光谱图像（HSI）分类的持久挑战在于标记样本的稀缺性。通过用源场景数据和相应的标签训练模型，然后应用这种学习来在目标域数据上进行概括，跨场景HSI分类会产生良好的结果。解决这个问题的一种新颖方法涉及利用有关土地覆盖类别先验知识的文本信息来指导图像特征的学习，从而增强模型的概括能力。然而，图像和文本信息的有限性给提高模型的训练准确性带来了困难。为了解决这些限制，本文提出了一种跨模式生成网络（CMGnet）。该网络旨在通过生成不同的图像和文本样本来扩展可用样本，从而减轻数据有限的跨场景中训练样本不足的挑战。该方法采用两个分支，一个用于图像，另一个用于文本，来进行样本多样性生成。为了确保生成样本的准确性，纳入了标签一致性约束。图像编码器由生成的图像与源域图像一起训练，生成的文本特征与原始文本特征一起形成跨域共享空间。在这个空间中，文本-图像对齐是通过监督对比学习来实现的，从而促进语言模型指导的领域不变特征的学习。三个数据集的实验结果证明了CMGnet在领域综合（DG）方面的优越性。这些代码可在网站上获取：https://github.com/wbq330/CMGnet。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001958?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[将高位图托管到低阶张量的多视图聚集方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600196X?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于图的多视图集群方法因其能够有效地建模复杂数据结构而引起了相当大的关注。然而，仍然存在三个重大挑战：1）传统方法主要依赖于一阶邻近信息，使得捕获样本之间的高级结构关系具有挑战性。2)平衡各个视图的高级表示之间的一致性和多样性仍然是一个关键问题。3)张量阶的凸替代函数经常引入估计偏差。4)现有方法很难实现多维和大规模数据集的计算效率。为了解决这些挑战，我们提出了一种新方法，称为多视图集群方法，通过将高位图托管到低等级张量（AHLT）中。AHLT通过跨视图扩散构建高级图，使样本能够捕获视图内和视图间的高级邻近结构。我们还设计了一种基于锚点的跨视图传播策略来构建高级图，使AHLT能够高效地处理多维和大规模数据集。此外，我们将高位图和基于锚点的低阶张量表示集成到一个统一的框架中，其中表示张量被分解为一致性和异类性组件。张量核规范约束和特定于视图的正规化项分别被施加到这些组件上，以保留视图间多样性，同时捕获全局跨视图相关性。我们还设计了一个非凸张量核规范，以更准确地逼近真实的张量等级。在基准数据集上进行的大量实验验证了AHLT的性能明显优于最先进的方法。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600196X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[重新审视歌词在音乐情感识别中的作用：对语义感知情感差距和方法论挑战的批判性分析]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S156625352600182X?dgcid=rss_sd_all</link>
+      <description><![CDATA[基于歌词的音乐情感识别（MER）面临着持续的性能差距：处理完整歌词的模型通常表现不佳根据简短摘录训练的音频系统。本评论认为，这种差距在很大程度上是方法论上的，而不是抒情语义的固有限制，并综合了2017-2025年的证据来确定三个复合原因。首先，注释实践通常将语义（纯文本）和感知（整合音乐）情感结合起来，针对编码文本无法观察到的声学信息的目标来训练歌词模型。其次，标准的NLP管道将歌词视为普通散文，放弃了诗句合唱结构、叙事推进以及承载情感线索的具象和音素装置，从而导致表现低估了歌词原则上可以传达的内容。第三，尽管有系统证据表明模式维度不对称，但流行的融合架构假设各个影响维度的模式贡献是一致的;对称设计因此注入了可能会降低而不是改善预测的噪音。在这些发现的指导下，我们制定了三项设计原则：通过适应领域的、结构感知的编码器提取歌词的潜在信号;在隔离文本贡献的条件下进行评估;并将模式与其维度特定优势结合起来。本评论将这种性能差距重新定义为设计一致问题，为推进以歌词为中心的MER研究提供了诊断框架和可测试原则。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S156625352600182X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[用于联合实体和关系提取的不确定性感知上下文学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001673?dgcid=rss_sd_all</link>
+      <description><![CDATA[从非结构化文本中提取结构化知识是自然语言处理中的一个基本问题，支持知识图构建和信息检索等应用。实体和关系提取是该过程的核心组件，可以实现从非结构化文本到结构化知识的转换。现有的上下文学习（ICL）方法在这些任务上取得了出色的性能，但它们往往忽视了主题实体提取、对象实体提取和关系提取这三个子任务之间的依赖性引起的错误传播问题，从而导致提取任务的不准确性。在本文中，我们提出了U-ICL（用于联合实体和关系提取的不确定性感知内上下文学习），这是一种通过ICL和不确定性估计的联合实体和关系提取方法。在U-ICL中，我们引入了一种基于类型限制的不确定性估计方法来量化每个子任务预测的置信度，并利用这种估计为ICL组织多样化且信息丰富的演示。此外，我们设计了一种基于思想链的演示格式，该格式按照不确定性从高到低的顺序分解三个子任务。实验表明，U-ICL持续提高性能，在CoNLL 04（实体提取）上的F1评分为72.59%，在ACE 05（关系提取）上的F1评分为27.76%，在NYT 11-HRL（关系三重提取）上的F1评分为17.69%，与所有任务的强基线相比，平均提高超过4%。这些结果提供了证据，证明不确定性可以在改善信息提取的上下文学习方面发挥关键作用。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001673?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[学习适应：双路由器专家混合功能融合，用于偏好感知的自适应视频流]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001855?dgcid=rss_sd_all</link>
+      <description><![CDATA[自适应比特率（DAB）算法在动态网络环境下优化视频流应用的体验质量（QOE）方面发挥着关键作用。然而，大多数目标驱动的DAB方法在训练期间依赖于固定的QOE目标函数，当实际用户偏好与预定义指标显着偏离时，这会限制其适应性。为了解决这一局限性，本文引入了一种新型的多偏好感知DAB算法，名为双路由器基于专家混合的多偏好（DMMP），该算法通过适应用户之间的不同QOE偏好来增强概括性。具体来说，我们设计了一种双偏好感知门控机制作为深度强化学习框架的策略负责人，从而能够动态捕获异类用户QOE意图。此外，受反向强化学习的启发，我们训练了一个偏好预测模型，该模型实时感知不断变化的网络条件，从而允许在不同的网络状态和用户需求下进行自适应优化目标调整和改进概括性。实验结果表明，DMMP在Qoe优化方面优于几种代表性的DAB算法，不仅在训练的偏好设置下，而且在之前未见过的偏好场景下都表现出鲁棒的概括性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001855?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:26 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[高保真高光谱图像融合的双自适应图拉普拉斯正规化]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001880?dgcid=rss_sd_all</link>
+      <description><![CDATA[超光谱-多光谱图像（HSI-MSi）融合是解决成像系统中分辨率权衡并生成高分辨率超光谱图像的有效方法。对于融合建模，图拉普拉斯正规化（GLR）是抑制噪音和增强结构平滑度的强大工具，但大多数作品仅将其用作通用插件正规化器，忽略了复杂的谱空间依赖性，并且缺乏对细规模结构的适应性。为了克服这些限制，我们提出了一个受Bayesian启发的双自适应图拉普拉斯正规化（DAGLR）框架。DAGLR构建基于超像素的二元图，联合编码光谱和空间线索，然后引入具有马蹄先验的自适应GLR，以进行动态边正规化，以高分辨率反映局部结构。AGLR充当数据驱动的图形过滤器，有效地减少噪音，同时保留独特的平滑度和尖锐的过渡。进一步开发了一种基于ADMM的高效算法，用于联合融合信号估计和GLR自适应权重学习。全面的实验表明，与最先进的替代方案相比，DAGLR实现了卓越的融合质量，在具有复杂结构的区域中提供了更好的定量准确性、增强的视觉保真度和鲁棒性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001880?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SISSEN：多元时间序列的规模独立自我监督表示学习]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001867?dgcid=rss_sd_all</link>
+      <description><![CDATA[时间序列分析在许多领域发挥着重要作用。自监督方法对于时间序列表示学习非常有效，因为标记样本通常很少。为了捕捉时间序列复杂的时间变化模式，最近的研究在单个模型中引入了多个子序列尺度。然而，时间序列的周期性和趋势在不同的尺度上有所不同，因此很难在综合模型中不妥协地准确地代表每个尺度的特征。因此，在本文中，我们提出了一个模型来学习时间序列的多个独立尺度的表示，名为SISSEN。首先，为了准确地表示不同尺度的时间序列，我们用一组独立的自动编码器来构建这个模型，以学习不同尺度的时间序列表示，并联合优化它们。其次，为了在不损失准确性的情况下提高模型的鲁棒性，我们添加了一个专门针对屏蔽数据训练的额外自动编码器。现有的掩蔽训练直接应用于表示自动编码器，其遭受掩蔽数据与原始数据的分布漂移。第三，为了协调这些自动编码器，我们设计了一种新颖的动态权重调整机制，以平衡它们不同规模的训练过程。现实世界数据集的实验结果表明SISSEN实现了最先进的性能。该代码可访问：https://github.com/caozhongbjtu/SISSEL]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001867?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[MMDrive：通过多表示融合实现超越视觉的交互式场景理解]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001934?dgcid=rss_sd_all</link>
+      <description><![CDATA[视觉语言模型通过多源信息融合能够理解和推理复杂交通场景，使其成为自动驾驶的核心技术。然而，现有的视觉语言模型受到2D平面图像理解范式的限制，这限制了它们感知3D空间信息和执行深度语义融合的能力，导致在复杂的自动驾驶环境中性能不佳。这项研究提出了MMDrive，这是一个多模式视觉语言模型框架，可将传统图像理解扩展到广义3D场景理解框架。MMDrive融合了三种补充模式，包括占用地图、LiDART点云和文本场景描述。为此，它引入了自适应跨模式融合和关键信息提取的两个新组件。具体来说，面向文本的多模式调制器根据问题中的语义线索动态加权每个模式的贡献，指导上下文感知特征集成。跨模式抽象器采用可学习的抽象标记来生成紧凑的跨模式摘要，突出关键区域和基本语义。对DriveLM和NuScenes-QA基准的全面评估表明，MMDrive比现有的自动驾驶视觉语言模型实现了显着的性能提升，DriveLM上的BLEU-4评分为54.56，METEOR为41.78，NuScenes-QA上的准确性评分为62.7%。MMDrive有效地打破了传统的仅图像理解障碍，在复杂驾驶环境中实现稳健的多模式推理，并为可解释的自动驾驶场景理解提供了新的基础。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001934?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[使用生成式对抗网络生成合理的反事实实例以进行异常解释]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001892?dgcid=rss_sd_all</link>
+      <description><![CDATA[异常解释在理解高风险决策系统中的异常行为方面发挥着关键作用。反事实解释（CE）是一种新兴技术，通过生成假设场景，通过最小的扰动将异常转变为正常状态，从而提供了希望。然而，当专门应用于异常解释时，现有的CE方法存在三个关键局限性：（i）距离最小化CE方法产生聚集在异常附近的反事实实例，无法到达核心正常区域;（ii）基于子集的CE方法在异常所在的复杂边界附近遭受几何不稳定性;（iii）仅在正常实例上训练的CE方法会从异常中生成不分布的反事实实例。为了解决这些问题，我们提出了GLEAN（G generating p L ausible count Erfactual instants for A nomaly i N pretation with generally i N pretation），这是一个利用生成式对抗网络来生成合理且分布式反事实解释的新型框架，专门用于异常解释。从技术上讲，GLEAN在正常实例原型的指导下，采用对抗性扰动将异常转换为正常实例分布内看似合理的反事实实例，以确保可解释性并降低对决策边界的敏感性。该框架建立了一种对抗均衡，其中生成器最大限度地减少了特征扰动、生成的反事实实例和查询异常之间的距离以及生成的反事实实例和内点原型之间的相似性，而基于密度的收件箱以确保生成的反事实实例遵守正常的数据分布。GLEAN输出最合理且分布最广泛的反事实实例作为对所识别异常的解释。经验结果表明，GLEAN在密度、距离、接近度和稀疏度四个关键指标方面实现了最先进的性能，在10个现实世界数据集上优于15种基线方法。我们的数据集和源代码可在https://github.com/KDDElab/GLEAN上公开获取。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001892?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:21:07 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[从结构到协同：多模式大型语言模型中视觉语言感知范式演变概览]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S1566253526001648?dgcid=rss_sd_all</link>
@@ -18,13 +144,6 @@
       <description><![CDATA[面部匿名化对于隐私保护至关重要，但现有的生成模型往往表现出人口统计偏见，导致亚洲人等代表性不足的群体的质量下降。这种偏见源于文本嵌入空间内的语义纠缠，其中人口统计学概念没有与默认的（通常以高加索人为中心的）表示充分分离。为了解决这个问题，我们提出了FairAnon，这是一个通过有原则的两阶段优化过程从源头上解决人口偏见的框架。首先，我们引入了垂直语义指导（OSG），这是一种新颖的损失，通过强制人口指导载体之间的垂直性来重新结构语义空间，从而确保基本的公平性。其次，基于这种内在规则化消除了对外部参考模型的需要的认识，我们采用简单偏好优化（SimPO）来高效且有效地将模型与人类的审美偏好对齐。我们的框架允许通过空间掩蔽和文本提示进行灵活的多模式控制。对普通和医学面部数据集的广泛实验验证了FairAnon实现了最先进的匿名性能、稳健的人口公平性和高质量的图像生成。这项工作通过建立公平生成建模的新范式，有助于公平隐私保护技术的发展。代码：https://github.com/dusrb37/FairAnon]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001612?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 19 Mar 2026 16:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[社论：现代能源系统中的数据融合]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S1566253526001454?dgcid=rss_sd_all</link>
-      <description><![CDATA[现代能源系统的特点越来越多地体现在大规模可再生能源集成、深度数字化以及物理基础设施和网络智能之间的紧密耦合。这些趋势显着放大了能源生产、输电、分配和消费过程中产生的数据的数量、多样性和复杂性。因此，集成多模式、多源和多规模信息的数据融合已成为现代能源系统预测、优化、安全和弹性的基础使能。本期特刊题为“现代能源系统中的数据融合”，汇集了十篇原创研究文章，共同推进了聚变驱动能源智能的最新发展水平。已接受的贡献分为三个主要研究方向：（i）通过时空和多模式数据融合的预测智能，（ii）融合驱动的优化和运营决策，（iii）通过跨领域数据融合的值得信赖和有弹性的能源系统。这些作品共同说明了数据融合如何从支持数据处理技术演变为智能、安全和弹性能源系统的核心范式。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1566253526001454?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 19 Mar 2026 16:49:26 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[分治：基于预算的分布学习用于多模式情绪分析]]></title>

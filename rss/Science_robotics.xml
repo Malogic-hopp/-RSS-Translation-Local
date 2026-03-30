@@ -3,8 +3,36 @@
   <channel>
     <title>AAAS：科学机器人学：目录</title>
     <link>https://www.science.org/loi/scirobotics?af=R</link>
-    <description>科学机器人学目录。最新和印刷版之前的文章列表。</description>
-    <lastBuildDate>Thu, 19 Mar 2026 17:06:36 GMT</lastBuildDate>
+    <description>None</description>
+    <lastBuildDate>Mon, 30 Mar 2026 12:41:29 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[兆瓦超声波用于手掌大小的空中机器人在视觉退化的环境中导航]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adz9609?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adz9609?af=R</guid>
+      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[自动驾驶系统的驾驶执照]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aed1926?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aed1926?af=R</guid>
+      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[被遗忘的频谱：复兴超声波以实现强大的自主性]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aef8847?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aef8847?af=R</guid>
+      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[电流体纤维肌]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.ady6438?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.ady6438?af=R</guid>
+      <pubDate>Mon, 30 Mar 2026 12:41:28 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[受Origami启发的抓紧器，可安全地操作组织]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeh1283?af=R</link>
@@ -27,17 +55,17 @@
       <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[飞行运动视觉最大化机械输入和传感器输出之间的信号能量传递]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
-    </item>
-    <item>
       <title><![CDATA[通过意图对齐的跨机器人行为适应]]></title>
       <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv2250?af=R</link>
       <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
       <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv2250?af=R</guid>
+      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[飞行运动视觉最大化机械输入和传感器输出之间的信号能量传递]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</guid>
       <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
     </item>
     <item>

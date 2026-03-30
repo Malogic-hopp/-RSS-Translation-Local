@@ -4,40 +4,47 @@
     <title>自然机器智能</title>
     <link>http://feeds.nature.com/natmachintell/rss/current</link>
     <description>Nature Machine Intelligence将发表机器学习、机器人和人工智能领域广泛主题的高质量原创研究和评论。该杂志还将探索和讨论这些领域开始对其他科学学科以及社会和工业的许多方面产生的重大影响。机器智能可以在科学发现、医疗保健、医疗诊断以及安全和可持续的城市、交通和农业等领域增强人类的能力和知识。与此同时，出现了许多关于伦理，社会和法律问题的重要问题，特别是考虑到发展的快速步伐，自然机器智能将提供一个平台来讨论这些广泛的影响-鼓励跨学科的对话-评论，新闻特写，新闻观点文章以及通信。</description>
-    <lastBuildDate>Thu, 19 Mar 2026 16:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:31:00 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[从大规模自然驾驶数据中主动学习碰撞风险]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01189-w</link>
-      <description><![CDATA[Jao等人为自动驾驶系统引入了一种通用安全措施，可以从没有标签的日常驾驶中了解碰撞风险。它实时准确地警告崩溃和濒临崩溃，并确保有时间做出早期反应。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01189-w</guid>
-      <pubDate>Thu, 19 Mar 2026 16:55:17 GMT</pubDate>
+      <title><![CDATA[预测和塑造闭环协同适应神经界面中人机交互的计算框架]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01194-z</link>
+      <description><![CDATA[Madduri等人引入了一个基于控制和博弈论的计算框架，来建模神经接口中用户和解码器之间的协同适应。该框架实现了闭环系统的原则性设计，提高了可用性和个性化。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01194-z</guid>
+      <pubDate>Mon, 30 Mar 2026 12:31:00 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[用于在嵌入式人工智能中使用大型语言模型的机器人操作系统框架]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01186-z</link>
-      <description><![CDATA[Mower、Wan等人推出了ROS-LLM，这是一个开源系统，可让非专家使用自然语言控制机器人，从演示和反馈中学习新技能，并自动调整动作以在现实世界任务中实现可靠的性能。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01186-z</guid>
-      <pubDate>Thu, 19 Mar 2026 16:55:16 GMT</pubDate>
+      <title><![CDATA[具有欧几里得快速注意力的机器学习全局原子表示]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01195-y</link>
+      <description><![CDATA[Frank等人介绍了Euclidean Fast Attention，一种用于3D数据的线性缩放框架。通过利用欧几里得旋转编码，该方法克服了标准注意力的二次成本，以准确捕获物理系统中的远程效应。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01195-y</guid>
+      <pubDate>Mon, 30 Mar 2026 12:30:59 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[体现神经形态因子的基准框架]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01197-w</link>
-      <description><![CDATA[将软机器人技术与神经形态工程相结合是实现具身智能的一种很有前途的方法。Giulia d&#39;Angelo等人通过开发用于在软机器人平台上对神经形态控制器进行基准测试的框架来促进该领域的进展。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01197-w</guid>
-      <pubDate>Thu, 19 Mar 2026 16:55:16 GMT</pubDate>
+      <title><![CDATA[神经网络和生物大脑双向比较的反向预测性]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01204-0</link>
+      <description><![CDATA[Muzellec和Kar使用反向预测性来表明，只有人工神经网络（NN）单元的一个子集与灵长类动物的大脑反应一致。与两个灵长类动物大脑之间观察到的强烈双向对齐相比，这揭示了人工神经网络和大脑之间存在严重的失调。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01204-0</guid>
+      <pubDate>Mon, 30 Mar 2026 12:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[生物医学和深度学习中的可解释性和隐式模型语义]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01177-0</link>
+      <description><![CDATA[我们通过借鉴科学哲学中的模型语义的形式概念，引入了一个分析深度学习中可解释性的框架。我们认为可解释性只是模型语义的一个方面，并通过生物医学的例子来说明我们的框架。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01177-0</guid>
+      <pubDate>Mon, 30 Mar 2026 12:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[认识到快速科学时代的可重复性和可重复性]]></title>
+      <link>https://www.nature.com/articles/s42256-026-01219-7</link>
+      <description><![CDATA[几年前，我们引入了一种名为“可重用性报告”的文章格式，以强调代码共享和报告方面的良好实践。随着大型语言模型的广泛采用，研究成果加速了，重新关注代码报告的可重复性和透明度似乎是有道理的。]]></description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01219-7</guid>
+      <pubDate>Mon, 30 Mar 2026 12:30:58 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[自动语音识别中利益相关者驱动的人工智能审计案例]]></title>
       <link>https://www.nature.com/articles/s42256-026-01207-x</link>
       <description><![CDATA[自动语音识别中利益相关者驱动的人工智能审计案例]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01207-x</guid>
-      <pubDate>Thu, 19 Mar 2026 16:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[使用归纳先验在小数据体系中预测和解释细胞类型特定的药物反应]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01202-2</link>
-      <description><![CDATA[Alsulami等人提出了PrePR-CT，这是一种计算方法，可以使用有限的数据预测不同细胞类型如何对药物样化合物做出反应。通过将生物网络与机器学习集成，它提高了早期药物发现的准确性、可解释性和效率。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01202-2</guid>
       <pubDate>Thu, 19 Mar 2026 16:55:15 GMT</pubDate>
     </item>
     <item>
@@ -53,13 +60,6 @@
       <description><![CDATA[Guo等人训练了一种基于Mamba的语言模型用于分子生成，并发现数据增强和经验重放可以有效生成性能优化的小分子。]]></description>
       <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01200-4</guid>
       <pubDate>Thu, 19 Mar 2026 16:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[针对SequenTX不断变化的肿瘤格局的基于强化学习的序贯药物治疗设计]]></title>
-      <link>https://www.nature.com/articles/s42256-026-01192-1</link>
-      <description><![CDATA[Chen等人介绍了SequenTX，这是一个受虚拟细胞启发的框架，用于合理设计序贯治疗。它提供了一种计算策略，通过建模动态细胞状态转变来导航治疗诱导的肿瘤演变。]]></description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s42256-026-01192-1</guid>
-      <pubDate>Sun, 08 Mar 2026 20:28:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

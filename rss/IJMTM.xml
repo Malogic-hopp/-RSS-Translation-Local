@@ -4,7 +4,14 @@
     <title>ScienceDirect出版物：国际机械工具与制造杂志</title>
     <link>https://www.sciencedirect.com/journal/international-journal-of-machine-tools-and-manufacture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 19 Mar 2026 16:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 22:35:48 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[反应性媒体辅助激光烧蚀热活性材料的机制：以氧化铝薄膜辅助激光加工微通道阵列为例]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0890695526000258?dgcid=rss_sd_all</link>
+      <description><![CDATA[氮铝高温共烧陶瓷（AIN HTCC）是一种很有前途的电子封装基片材料，在其背面制作微通道阵列可以显着提高其散热性能。然而，AIN的高硬度和脆性给微结构的加工带来了相当大的挑战。因此，本研究提出了一种氢氯薄膜辅助激光加工（HFALA）技术。首先对激光束的多因素能量衰减机制进行了系统分析。在此基础上，建立了能够准确预测线腐蚀形态的温度分布模型。此外，本研究通过不同液相下的瞬时观测、流场模拟和比较实验，首次揭示了空泡动力学行为与激光和液层之间的内在关系。这导致了“激光反应性媒介热活性材料”三元系统内多机制协同作用引发的两种材料去除机制：隧道通道烧蚀和气穴烧蚀。最后，通过两种烧蚀机制的耦合，成功在AIN上制备了长宽比为8.6：1的窄微凹槽。与激光化学铣削相比，HFALA的加工深度、轮廓平均偏差和加工效率分别提高了41.24%、30.11%和3845.2%，实现了微通道阵列结构的稳定制造，轮廓偏差仅为0.1%。本研究不仅为AIN的热管理应用提供了可靠的工艺，而且通过在其他反应材料上的成功验证，为“反应性媒体辅助激光加工”建立了通用的理论框架。这为各种热活性材料的高效和高质量加工提供了可重复使用的技术途径和机械支持。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0890695526000258?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 30 Mar 2026 12:27:06 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[非导电材料的锯齿掩模电解放电加工：放电层的工艺机制和空间调节]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0890695526000234?dgcid=rss_sd_all</link>
