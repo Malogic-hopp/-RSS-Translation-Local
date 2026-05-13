@@ -3,77 +3,84 @@
   <channel>
     <title>AAAS：科学机器人学：目录</title>
     <link>https://www.science.org/loi/scirobotics?af=R</link>
-    <description>None</description>
-    <lastBuildDate>Mon, 30 Mar 2026 12:41:29 GMT</lastBuildDate>
+    <description>科学机器人学目录。最新和印刷版之前的文章列表。</description>
+    <lastBuildDate>Wed, 13 May 2026 16:28:30 GMT</lastBuildDate>
     <item>
-      <title><![CDATA[兆瓦超声波用于手掌大小的空中机器人在视觉退化的环境中导航]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adz9609?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adz9609?af=R</guid>
-      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+      <title><![CDATA[机器人技术中的迁移学习：从承诺到实践，通过基础模型的新兴角色]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeh4374?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeh4374?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:28:29 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[自动驾驶系统的驾驶执照]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aed1926?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aed1926?af=R</guid>
-      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+      <title><![CDATA[基础模型将如何彻底改变机器人群]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adz1543?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adz1543?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[被遗忘的频谱：复兴超声波以实现强大的自主性]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aef8847?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aef8847?af=R</guid>
-      <pubDate>Mon, 30 Mar 2026 12:41:29 GMT</pubDate>
+      <title><![CDATA[超越对齐：为什么机器人基础模型需要上下文感知的安全性]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aef2191?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aef2191?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[电流体纤维肌]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.ady6438?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.ady6438?af=R</guid>
-      <pubDate>Mon, 30 Mar 2026 12:41:28 GMT</pubDate>
+      <title><![CDATA[从自主到联盟：机器人基础模型必须与我们一起学习，而不仅仅是为了我们]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea1822?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea1822?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[受Origami启发的抓紧器，可安全地操作组织]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeh1283?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeh1283?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:36 GMT</pubDate>
+      <title><![CDATA[设计具有具体物理智能的微型机器人]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aei0811?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aei0811?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[神经机器人可能会让机器人变得更聪明，但不会更快乐]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeg2324?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeg2324?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:36 GMT</pubDate>
+      <title><![CDATA[手掌活跃，灵巧地抓取]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aei2046?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aei2046?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:19 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[机器人介导的触觉反馈在小提琴二人组协调中优于视觉]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeb1901?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeb1901?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
+      <title><![CDATA[多任务灵巧操作的大行为模型的仔细检查]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea6201?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea6201?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[通过意图对齐的跨机器人行为适应]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adv2250?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adv2250?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
+      <title><![CDATA[使用扩散方向场的以对象为中心的任务表示和转移]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea1762?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea1762?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[飞行运动视觉最大化机械输入和传感器输出之间的信号能量传递]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.adx7524?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
+      <title><![CDATA[一个检索增强框架，使VLM空间意识的对象为中心的机器人操作]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea2092?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea2092?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:18 GMT</pubDate>
     </item>
     <item>
-      <title><![CDATA[振动触觉反馈有助于假肢的可用性]]></title>
-      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeg9510?af=R</link>
-      <description><![CDATA[科学机器人学，第11卷，第112期，2026年3月。]]></description>
-      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeg9510?af=R</guid>
-      <pubDate>Thu, 19 Mar 2026 17:06:35 GMT</pubDate>
+      <title><![CDATA[机器人农场挽歌]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aeh3279?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aeh3279?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[演示一次，执行多次：跨机器人技能转移的运动学智能]]></title>
+      <link>https://www.science.org/doi/abs/10.1126/scirobotics.aea1995?af=R</link>
+      <description><![CDATA[科学机器人学，第11卷，第113期，2026年4月。]]></description>
+      <guid isPermaLink="false">https://www.science.org/doi/abs/10.1126/scirobotics.aea1995?af=R</guid>
+      <pubDate>Wed, 13 May 2026 16:23:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

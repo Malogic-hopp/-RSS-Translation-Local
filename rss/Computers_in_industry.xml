@@ -4,13 +4,69 @@
     <title>ScienceDirect出版物：工业中的计算机</title>
     <link>https://www.sciencedirect.com/journal/computers-in-industry</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Mon, 30 Mar 2026 22:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 16:28:13 GMT</lastBuildDate>
     <item>
       <title><![CDATA[编辑委员会]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000382?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2026年5月资料来源：工业计算机，第177卷作者：]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000382?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 19 Mar 2026 16:57:06 GMT</pubDate>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000539?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2026年7月资料来源：工业计算机，第178卷作者：]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000539?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于时空特征融合和跨模式对比交互的桥梁维护多模式路段预测方法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152600045X?dgcid=rss_sd_all</link>
+      <description><![CDATA[知识图（KG）已广泛应用于桥梁维护数据的集成和管理。然而，现有的桥梁维护幼儿园主要由结构化的短文本构建，其他模式（例如图像和详细的长文本描述）的集成有限。这种限制阻碍了它们支持复杂推理任务的能力，例如缺陷检测和维护决策支持。为了解决这个问题，我们首先构建了特定领域的多模式知识图，并提出了桥梁维护多模式链接预测（BM 3LP）模型来支持多模式缺陷理解和维护决策。具体来说，结构编码器利用深度优先搜索和关系图注意力网络来捕获多跳关系和分层关联。与此同时，该模型通过跨模式联合嵌入的对比语言-图像预训练、处理缺失图像模式的虚拟嵌入机制以及捕捉时间和空间特征的时空图注意力网络，集成了图像和文本的时空语义信息。引入了一种渐进的跨模式对比交互策略，以增强模式内特征保留和模式间语义对齐，从而提高联合实体关系预测性能。我们构建了一个特定领域的多模式链接预测数据集BriM，并通过大量实验在BriM和其他两个数据集上评估我们的模型。实验结果表明，BM 3LP在多通道预测任务中取得了卓越的性能，为桥梁缺陷诊断和维护决策提供了细粒度的知识推理支持。拟议模型的代码可访问：https://github.com/yang-xxia/BM3LP。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600045X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[支持理解自动化生产线中的异常现象的时空异常检测系统]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000485?dgcid=rss_sd_all</link>
+      <description><![CDATA[自动化生产线执行重复性循环，其中连续操作增加了异常行为的可能性。然而，了解这些异常仍然是一个重大挑战，因为专家工作人员必须手动观察和比较正常和异常周期以识别偏差。受这一挑战的启发，我们提出了一种视频异常检测系统，该系统通过比较自动化生产线中的正常和异常循环来识别发生异常操作的空间和时间位置。我们的方法首先提取时空运动斑点以捕获单个对象活动。然后，它应用抽样策略来考虑过程中的变异性来选择可比的正常周期。使用动态时间扭曲来对齐时间变化，从而能够构建有效捕获典型周期性模式的码本。这使我们能够高精度地定位空间和时间异常，即使在有限的数据条件下也是如此。我们根据两个现实案例研究评估了拟议的系统：（1）吸盘和托盘之间的干涉以及（2）多个零件组装的延迟。在这两种情况下，与制造业和计算机科学领域的最先进方法相比，我们的方法都证明了对时空异常的更精确定位。具体来说，它的AUC评分为0.92，优于在时间异常情况下达到0.61和0.69的基线。这些结果凸显了我们的系统对周期级变异性的鲁棒性及其实际适用性，支持对复杂工业环境中异常现象的实际理解和诊断。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000485?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:27 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[小可行区域约束多目标优化指标驱动进化算法]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000473?dgcid=rss_sd_all</link>
+      <description><![CDATA[不可行解信息的使用对于解决有约束的多目标优化问题至关重要。然而，大多数现有的约束多目标进化算法都未能有效利用这些解决方案。这导致在可行区域较小的问题上性能不佳。为了解决这个问题，我们提出了一种指标驱动的进化算法。该算法包括指标驱动档案（IDA）和两阶段双群体框架。这两个种群在受约束和不受约束的条件下独立进化。他们分别探索了受约束的帕累托前沿和不受约束的帕累托前沿。在探索阶段，我们引入了指标驱动的人口合作策略。IDA通过平衡可行性、趋同性和多样性指标来引导人口跨越不可行的地区。在开发阶段，算法将重点转向多样性优化。多样性指标驱动的策略增强了对解决方案多样性的评估。IDA有效地探索了小的可行区域。此外，我们提出了一个区域限制机制的IDA。这一机制优先清除主要群体中占主导地位的个体。它确保IDA保持在有效的勘探区域内。我们在包含47个实例和6个现实问题的四个基准套件上评估了该算法。实验结果验证了该算法的有效性。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000473?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[SAG：一种用于查询中命名实体识别的会话增强的基于异类图的模型]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000448?dgcid=rss_sd_all</link>
+      <description><![CDATA[搜索查询中的命名实体识别（NER）对于各种Web应用程序来说都是不可或缺的，因为它能够更精确地识别用户意图并促进增强的推荐系统。然而，由于上下文有限和标签数据稀疏，理解此类简短且非正式的文本仍然具有挑战性，这是传统NER方法的关键瓶颈。为了解决这些挑战，我们为查询中的NER提出了一种Session-一种基于Heterogenous G SYS（SAG）的模型。在现实场景中，会话很容易访问，并且包含用于文本理解的宝贵信息。我们的方法利用会话信息并构建一个对会话数据的分层性质进行显式建模的异类图。该设计捕捉不同粒度的交互关系，并集成多层次信息以增强实体识别。实验结果表明，我们的方法在多个具有挑战性的基准测试上优于最先进的方法，同时提供了实现精确实体提取的实用解决方案，从而增强个性化推荐并改善用户体验。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000448?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[通过具有可靠性支持的检索增强一代聊天机器人在砂带研磨中提供智能知识帮助]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000461?dgcid=rss_sd_all</link>
+      <description><![CDATA[砂带研磨是一个知识密集型的加工过程，参数耦合复杂，严重依赖隐性经验。随着智能制造的发展，碎片化和隐性的领域知识对有效学习和任务适应提出了挑战。为了解决这些问题，本研究开发了一种通过检索增强生成（RAG）和轻量级冲突过滤增强的智能知识辅助聊天机器人。构建涵盖五种问题类型的特定领域评估集，对七种主流大型语言模型的性能进行基准测试，其中DeepSeek-R1表现出最高的准确性和稳定性，平均得分比其他模型高出约15.13%。在此基础上，实现了一个可本地部署的基于RAG的系统，集成了双语语义检索、交叉编码器重排序和结构化提示，并通过语义冲突过滤模块来提高可靠性。实验结果表明，提出的本地系统BelGrindGPT在当前评估设置下实现了全参数API模型96.67%的性能，同时使用了约2%的参数，与DeepSeek-R1的基础模型相比，平均响应质量提高了9.98%，在分析推理、行业背景和研究前沿问题方面取得了最大的进步。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000461?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[频率感知可移植性分析，用于不同机器之间的剩余寿命预测中的少量深度领域对抗回归适应]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000497?dgcid=rss_sd_all</link>
+      <description><![CDATA[尽管迁移学习技术在剩余使用寿命（RUL）预测方面取得了巨大成功，但它们严重依赖源域中足够的全寿命退化数据来提取退化知识。然而，在实际工程中，全寿命退化数据并不容易积累。当源域数据有限或不足时，即几次迁移学习，RUL预测性能将无法得到保证。必须提取关键的退化知识，同时用少量数据有效地传输它。基于子波散射变换在特征空间扩展方面的优点，本文提出了一种具有频率感知可移植性分析的深度域对抗回归自适应方法。首先，使用跨多尺度和方向的子波散射网络（NSO）提取时频特征。实现特征扩展，并通过方向优先的特征选择策略识别不同频率通道中的最佳特征。接下来，通过评估降级数据的几何相似性，设计新的频率贡献指标（FCI）来量化传输过程中源域每个频率通道的贡献。最后，构建深子域对抗回归自适应网络，每个子域对应一个频率通道。每个子领域的领域分配由FCI加权，从而实现有针对性且有效的知识转移。此外，还推导出了基于无线传感器网络的特征扩展中潜在信息损失的上限，为少镜头预测任务提供了理论支持。滚动轴承跨条件和跨机器预测任务的实验结果，包括中国一家大型钢铁厂的宽度测量机的现实任务，证明了所提出方法的准确性和可靠性，同时通过强调不同频率通道的支持作用，为少数镜头场景中的传递过程提供了清晰的见解。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000497?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[基于相似引导重叠配准的航空发动机压气机整体叶盘叶片线激光测量]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016636152600059X?dgcid=rss_sd_all</link>
+      <description><![CDATA[线激光技术为刀片制造提供了灵活、高效且经济的测量策略。在这个过程中的一个关键步骤是缝合的局部点云从不同的意见，通过粗到精注册。对于新一代航空发动机，压气机叶片正在向整体叶盘结构发展，导致相邻视图局部点云之间的重叠非常低。此外，叶片具有薄壁自由形状、高反射表面和可变弯曲轮廓，导致捕获的局部点云特征微不足道、噪音和密度不一致。这些因素加上叶片加工误差的影响，对精配准构成了重大挑战。为了解决这些问题，一种相似性引导的重叠配准方法，即，提出了规模比较和双向互动（SCBI）。这种方法通过利用相邻观点云的重叠区域本质上相同的事实来指导配准。通过增强重叠区域的规模和形状相似性，实现了局部点云的鲁棒配准。此外，还开发了叶片模拟数据集，系统评估了六种主流配准方法和SCBI，其中后者取得了最佳结果。最后，建立了基于线激光的在机测量（LLOMM）系统来测量压缩机整体盘叶片，平均偏差小于0. 030 mm。设计了实际测量实验，详细阐述了其测量偏差、加工误差评估和测量效率。通过与四种先进测量技术的详细比较，LLOMM系统在上述方面展示了潜在的优势。该研究为整体叶盘几何误差评定及其自适应加工开发提供了一种新的解决方案。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600059X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[复杂金属零件多轴混合制造的属性可控工艺规划]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000606?dgcid=rss_sd_all</link>
+      <description><![CDATA[虽然集成了增材制造（AM）和减材制造（SM）工艺的混合制造（HM）有助于创建具有高表面质量的复杂腔体，但优化多轴HM系统中AM和SM操作的顺序带来了重大挑战，特别是对于定向能量沉积（DED）。现有方法缺乏对DED在物理和几何因素上的多轴特殊性的有效处理，灵活性仅限于特征级或层级的序列规划。本研究重点关注基于多轴DED的HM，并通过将优化描述为序列排序问题，在无冲突和物理性质相关约束下优化路径级加减法（A-S）交替序列。首先，输入模型被分成一组层，通过这些层构造AM和SM依赖有向图来捕获优先约束。其次，评估每个AM层的多轴可印刷性以结合无碰撞约束，从而能够优化纯AM序列。接下来，在每个切削路径上的每个刀具位置点处，提出了刀具轴可达性热图的概念，以促进刀具轴的优化，从而增强可加工性和运动平滑性。最后，综合考虑可印刷性和可加工性，构建一个综合的A-S依赖有向图，优化A-S交替，其有向边反映碰撞约束，边权值可调，实现属性可控的序列规划.对示例性零件的模拟和实验表明，与传统纯加工相比，提出的HM方法实现了50%以上的材料浪费减少。此外，提出的路径级HM序列规划方法比层级方法减少了多达30%的加工片段。]]></description>
+      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000606?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 13 May 2026 16:10:12 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[循环经济的物质护照实体]]></title>
@@ -25,69 +81,6 @@
       <description><![CDATA[基于图像重建的方法广泛用于无监督异常检测。这些方法的有效性取决于它们准确重建正常区域的能力。然而，概括能力有限的模型往往无法在异常区域中重现细粒度的细节，从而导致误报。具有强大重建能力的模型也可能无意中有效重建异常区域，从而使异常定位变得复杂。鉴于在异常检测任务中识别受损区域比复制图像细节的重要性，我们通过多准则语义距离和约束图像重建（MSDS CIR-AD）提出了一种新型的无监督异常检测框架，该框架在两个关键方面表现出色。首先，我们提出了一个具有潜在约束的无异常重建模型，通过潜在字典、变化约束和位置编码控制其概括边界，以确保测试图像重建到正常状态。随后，我们引入了多标准异常测量，该测量可以比较测试图像和重建图像之间的颜色、纹理和深层语义特征，从而实现精确的异常定位。三个不同数据集和现实世界的工件检测应用程序的实验结果凸显了MSDS CIR-AD在检测各种现实世界异常方面的有效性，超越了现有的异常检测和定位方法。]]></description>
       <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000345?dgcid=rss_sd_all</guid>
       <pubDate>Thu, 19 Mar 2026 16:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[世界模型驱动的流程行业运营：基于条件扩散的线下强化学习解决方案]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000096?dgcid=rss_sd_all</link>
-      <description><![CDATA[流程工业的生产控制优化通常受到难以数学建模的复杂物理化学过程的挑战。作为一种无模型方法，强化学习（RL）提供了一个有前途的解决方案。然而，通过试错法进行在线行动探索可能会损害设备的安全性和效率，而离线培训由于数据集有限且不平衡，特别是错误操作数据的稀缺而受到抽样偏差的影响。为了解决这些问题，本研究提出了一个世界模型驱动的运营框架，将条件扩散与离线RL集成在一起。通过利用扩散模型的分布逼近能力，我们引入了受操作参数和历史状态转变约束的条件轨迹生成机制。这使得扩散模型能够产生近乎现实的状态轨迹和奖励信号，从而构建交互式的虚拟状态-动作-奖励空间。我们进一步采用想象轨迹的自回归生成来支持RL代理训练。在世界模型训练过程中，结合了时空Transformer架构来捕获沿着状态动作轨迹的依赖性。对于离线代理训练，采用了通过行为克隆进行规范化的双延迟深度确定性政策梯度的RL模型。在烟草加工线上的实验表明，提出的基于条件扩散的离线RL方法准确地构建了均方误差为1.27e-4的虚拟样本空间，显着降低了策略获取成本。与其他最先进的离线RL算法相比，由此产生的RL驱动参数调整使产品合格率提高了约12%。我们的算法实现和评估数据集可以在此处找到：https://github.com/sizizuo0076/WM-PIO-ORL。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000096?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[推进流程监控：运营流程的无分布控制框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000163?dgcid=rss_sd_all</link>
-      <description><![CDATA[统计过程控制和控制图是监控和控制各个行业（包括医疗保健、金融、软件开发和教育）生产过程的重要工具。尽管运营流程（OP）在所有经济领域都很普遍，但没有专门的控制图来监控它们。本文提出了一种新的OP控制图及其相关的匹配过程。使用现实生活中的OP来说明所提出的方法。还研究了非正态情况下控制图的性能，并比较了几种无分布图统计量以确定最有效的设计。提供实用建议来指导决策者为OP选择适当的控制图。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000163?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[防止人类-人工智能交互中数据驱动的风险传播：场景安全架构]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000254?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着数据驱动人工智能（AI），特别是体现人工智能的出现，人与人工智能双向交互在广泛的数字和智能场景中迅速扩展。在此背景下，数据已成为跨系统风险传播的主要媒介。一旦输入数据受到损害，业务流程和控制循环的风险可能会被放大，从而危及系统及其运营环境。为了应对这一挑战，本文提出了一种人机交互的安全架构，该架构围绕“数据流”作为中心线程进行结构化。该架构采用场景建模来构建参考元模型，将安全控制映射到六个方面：性能、业务、数据、算法、应用程序和基础设施。在这种场景建模方法的基础上，我们设计了一个参考元模型，并将其应用于铝电解的工业案例。通过开发工业监控系统，我们探索针对阳极效应的静态和动态保护措施。在此过程中，我们不仅验证了拟议架构的有效性，还旨在提供针对工业场景量身定制的安全解决方案。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000254?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[SyntheITS：具有先验知识和深度生成模型的合成工业时间序列数据，用于小样本下的设备异常检测]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000278?dgcid=rss_sd_all</link>
-      <description><![CDATA[人工智能（AI）的快速发展和工业时间序列（ITS）数据的指数增长已经改变了智能制造研究。然而，在获取高质量数据方面仍然存在挑战，特别是在多变量、小批量生产中。来自智能设备（I-Equip）的传感器数据通常具有稀疏性和有限的多样性，这使得数据收集成本高且耗时。为了解决这些限制，我们提出了合成ITS，这是一种生成ITS数据的新型方法，将先验知识与深度生成模型集成在一起。首先，我们通过分析产品加工来确定I-Equip的关键加工阶段。结合专家知识的多阶段数据表示方法将时间序列数据分解为基本特征元素。这些元素通过反向融合和迭代优化构建稳健的ITS模板。SynthiITS的核心采用混合架构，该架构结合了TimeDistance和Time Generative Adversarial Network来生成样本数据的潜在空间表示。这种双重方法确保了合成数据的真实性和多样性，为工业异常检测（IAD）模型创建全面的初始数据集。我们通过针对新能源汽车关键电池组收紧过程的大量实验来验证我们的方法，以不同比例集成合成数据和真实数据以进行模型评估。结果表明，ITS数据IAD模型的准确性和稳健性得到了显着提高。为了进一步验证有效性，我们使用两个不同的时间序列数据集进行了额外的实验。研究结果表明，合成ITS将人类专业知识和机器智能联系起来，生成现实的大规模数据，可以补充或替代现实世界的数据。这一突破使得能够在零数据环境中进行初始模型训练，无需大量辅助数据集，实现与在精确匹配的真实数据上训练的模型相当的性能。合成ITS加速了IAD智能系统的开发和评估，为将人工智能技术集成到制造业提供了从理论到应用的全面解决方案。所有数据和代码均可在https://github.com/xluckywang/SyntheITS上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000278?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[医疗保健和职业福祉领域的人类数字双胞胎：启用技术、应用程序、数据集和未来趋势]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000308?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着慢性病、职业健康挑战和人口老龄化加剧，传统的被动医疗服务模式越来越不充分，导致数据管理碎片化、资源分配不均衡和个性化有限。人类数字双胞胎（HDT）已成为一种变革性的解决方案，能够通过捕捉生理、心理、认知和行为状态来动态模拟、监测和分析人类健康状况。虽然HDT可以使医疗保健从“碎片化的应急响应”过渡到“系统性生态管理”，但目前的局限性包括概念边界不明确、框架不标准化以及对职业福祉作为整体健康重要组成部分的关注不够。为了解决这些差距，本研究进行了最先进的审查，系统地研究了挑战，使能技术和HDT在全球健康中的应用潜力。提出了一个统一的HDT框架，以集成人工智能（AI），物联网（IoT）和区块链技术，以克服高保真人体建模，数据隐私和人机一体化的技术瓶颈。该综述进一步探讨了工业应用和开源数据集，以加强未来研究的可行性和可扩展性，并为推进HDT在医疗保健和职业健康方面的开发和应用提供了实用指南。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000308?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[LightDefectNet：用于冷轧钢多尺度缺陷和复杂背景的轻量级端到端模型]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016636152600031X?dgcid=rss_sd_all</link>
-      <description><![CDATA[工业冷轧过程中准确、快速的缺陷检测对深度学习模型提出了严格的要求，特别是由于缺陷的多尺度性质和制造环境的复杂性。为了应对这些挑战，本研究引入了LightDefectNet，这是一个轻量级的端到端缺陷检测框架，针对实时工业部署进行了优化。所提出的架构结合了一个多尺度自适应和更快的块来增强多尺度缺陷的检测，以及一个高效的动态特征提取器来强调显着特征同时抑制背景噪音。此外，还采用基于深度可分离卷积的模块来最大限度地降低计算复杂性，使模型能够以低资源消耗保持高检测准确性。对两个基准冷轧钢缺陷数据集CR 7-DET和GC 10-DET的实验评估证明了LightDefectNet的卓越性能，在50%相交处分别实现了最先进的平均精度分数0.888和0.804。该模型仅拥有189万个参数和每秒5.72千兆浮点运算，非常适合实时应用。对钢铁缺陷混合数据集的进一步验证证实了其稳健性。在现实生产线中的部署产生了高精度（0.802）和召回率（0.831），凸显了LightDefectNet在复杂工业环境中检测多规模缺陷的有效性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600031X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[VAVFormer：基于变分融合和自适应波动性关注的通用可解释故障诊断框架]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000266?dgcid=rss_sd_all</link>
-      <description><![CDATA[随着深度学习和传感技术的快速发展，多源信息驱动的Transformer模型在旋转机械故障诊断研究中受到了广泛关注。然而，现有方法通常在信号融合期间平等地对待所有传感器信号，忽略了它们对故障诊断的贡献的差异，从而导致存在故障传感器的概括性能下降。此外，不透明的决策逻辑限制了基于Transformer的故障诊断结果的可信度。因此，本文提出了一种名为VAVFormer的通用可解释故障诊断框架来解决上述挑战。首先，考虑传感器数据的不确定性和变异性，设计了多源信息变分融合机制来动态估计传感器权重。其次，构建自适应波动性注意力块来量化信号波动性并调整注意力边界，重点关注对准确故障诊断至关重要的高波动性区域。VAVFormer的有效性通过地铁列车转向架变速箱和风力涡轮机系统的实验得到了验证。比较结果表明，所提出的VAVFormer优于先进的变压器为基础的方法在多个诊断任务，表现出良好的鲁棒性和跨域泛化能力。此外，传感器权重和注意力热图的可视化为模型的决策过程提供了清晰的见解，增强了其透明度和可解释性。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000266?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[学会在专业文件中提问和回答：通过模块化集成建筑监管文件进行示例]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0166361526000291?dgcid=rss_sd_all</link>
-      <description><![CDATA[大型语言模型在一般问答任务中表现良好，但由于特定领域的数据集策展成本高和模型性能不稳定，在专业领域内的本地上下文问答中面临挑战。为了解决这些问题，本文提出了一个两阶段框架。在第一阶段，“学习提问”，经过微调的LLM在上下文相关性的指导下，根据上下文生成问答对（即，问题-上下文对齐）和答案保真度（即，答案的准确性和忠实性）。第二阶段“学习回答”系统地比较不同的CQA范式，包括微调、检索增强生成和专有LLM。该框架使用模块化集成施工监管文件进行演示。广泛的实验产生了三个主要见解：（1）合成数据生成通常反映训练分布，因此需要有效的过滤;（2）尽管存在固有偏差，合成数据仍保留了原始数据和适当模型所实现的90-100%的性能，证明了其实际用途;和（3）特定领域的微调模型可实现最佳性能，凸显了量身定制适应的重要性。这项工作弥合了合成数据质量保证和领域感知语言模型定制方面的差距，为低资源、专业知识驱动和隐私敏感领域的应用程序提供了实用指南。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0166361526000291?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[基于改进可学习Gabor滤波卷积的带钢缺陷纹理识别网络]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016636152600028X?dgcid=rss_sd_all</link>
-      <description><![CDATA[虽然自动视觉检测被广泛应用于带钢缺陷检测，但传统的卷积神经网络存在有限的接收域和频率混叠，这阻碍了准确的缺陷纹理识别。钢铁缺陷纹理的多样性和复杂性使得在推理精度与速度之间取得平衡具有挑战性。为了解决这些问题，我们提出了轻量级的Gabor纹理识别网络（LGTR-Net），它提高了缺陷纹理推断的准确性和效率。我们的贡献包括用于构建轻量级卷积结构的新型可学习Gabor过滤器、用于进一步精简模型的幽灵图方法以及受约束的可学习过滤器参数。我们还引入了一种基于统计纹理和位置增强的新注意力机制。LGTR-Net是在新提出的条带表面缺陷分类数据集和三个额外的公共数据集上进行评估的。大量实验表明LGTR-Net实现了最先进的推理准确性和速度。该代码可在https://github.com/EtsuHuang/LGTR-Net上获取。]]></description>
-      <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S016636152600028X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 08 Mar 2026 20:33:27 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[可解释人工智能用于增强数字碰撞模拟的系统理解和可解释性]]></title>
