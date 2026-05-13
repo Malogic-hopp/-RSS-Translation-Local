@@ -4,26 +4,27 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 核心命令
 
-- **运行应用**: `python main.py`
+- **运行应用**: `.\start.ps1`
 - **安装依赖**: `pip install -r requirements.txt`
 
-注意：此项目目前没有配置构建、测试或代码检查命令，是一个直接运行的 Python 脚本。
+注意：此项目目前没有配置构建、测试或代码检查命令，是一个直接运行的 Python 脚本，但需要先创建本地虚拟环境 `.venv`。
 
 ## 架构概览
 
-本项目采用 5 层模块化架构，需要阅读多个文件才能完全理解：
+本项目采用 6 层模块化架构，需要阅读多个文件才能完全理解：
 
-1. **指挥层** (`main.py`): 入口点，协调整个处理流程，包括环境配置、RSS 源遍历、MD5 变化检测和 README 更新
-2. **核心处理层** (`src/core/`): RSS 解析、翻译流水线、XML 生成
-3. **翻译层** (`src/translators/`): 服务抽象与工厂模式
-4. **获取层** (`src/fetchers/`): 第三方 API 集成（如 Elsevier API 获取完整摘要）
-5. **工具层** (`src/utils/`): 配置管理、状态管理、缓存
+1. **启动层** (`start.ps1`): PowerShell 启动入口，负责检查 `.venv` 是否存在并切换到仓库根目录
+2. **指挥层** (`main.py`): 入口点，协调整个处理流程，包括环境配置、RSS 源遍历、哈希变化检测和 README 更新
+3. **核心处理层** (`src/core/`): RSS 解析、翻译流水线、XML 生成
+4. **翻译层** (`src/translators/`): 服务抽象与工厂模式
+5. **获取层** (`src/fetchers/`): 第三方 API 集成（如 Elsevier API 获取完整摘要）
+6. **工具层** (`src/utils/`): 配置管理、状态管理、缓存
 
 ## 关键架构模式
 
 ### 两级缓存系统
 
-- **Feed 级别**: [StateManager](src/utils/state.py) 使用 `data/rss_state.json` 中的 SHA256 哈希检测源变化，避免处理未变更的 feed
+- **Feed 级别**: [StateManager](src/utils/state.py) 使用 `data/rss_state.json` 中的哈希检测源变化，避免处理未变更的 feed。代码里字段名仍叫 `md5`，但实际计算的是 SHA256。
 - **Item 级别**: [ItemStore](src/utils/item_store.py) 使用 `data/items_cache.json` 存储完整翻译缓存，带状态跟踪：
   - `success`: 完全处理，直接使用缓存
   - `partial`: 不完整（如 Elsevier API 失败），冷却期后重试
@@ -41,7 +42,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ### 增量处理
 
 [main.py:87-100](main.py#L87-L100) 实现增量更新逻辑：
-- SHA256 哈希匹配且无 partial 条目时跳过处理
+- 哈希匹配且无 partial 条目时跳过处理
 - 只处理新增或变更的条目，避免冗余 API 调用
 
 ## 关键配置文件
@@ -52,6 +53,11 @@ API 密钥（不提交到 git）：
 - `TENCENT_SECRET_ID`, `TENCENT_SECRET_KEY`
 - `BAIDU_APP_ID`, `BAIDU_SECRET_KEY`
 - `ELSEVIER_API_KEY`（用于 ScienceDirect 期刊的增强摘要获取）
+
+### 本地虚拟环境
+- 项目根目录下必须存在 `.venv`
+- `start.ps1` 会优先使用 `.venv\Scripts\python.exe`
+- 如果 `.venv` 缺失，脚本会直接退出并提示先创建虚拟环境
 
 ### `config/config.ini`
 RSS 源定义和全局设置：
@@ -94,6 +100,22 @@ action = "auto"        # 翻译语言: auto (= auto->zh) 或 en->zh, zh->en 等
 - 翻译后的 RSS 文件写入 `rss/` 目录
 - [readme_updater.py](src/core/readme_updater.py) 自动更新 README.md，添加最新文章列表
 - 调试日志（如 Elsevier API 调用详情）保存到 `data/debug/` 目录
+
+## 启动方式
+
+1. 在项目根目录创建虚拟环境并安装依赖：
+   ```powershell
+   python -m venv .venv
+   .\.venv\Scripts\pip install -r requirements.txt
+   ```
+2. 直接运行：
+   ```powershell
+   .\start.ps1
+   ```
+3. 如果已经把 `rss` 加到 PowerShell profile，也可以直接输入：
+   ```powershell
+   rss
+   ```
 
 ## 添加新的翻译服务
 

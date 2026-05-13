@@ -1,20 +1,22 @@
 # RSS-Translation-Local 架构说明文档
 
-本文件详细记录了项目重构后的架构设计、组件职能及运行流程。
+本文件记录项目的当前架构设计、组件职能及运行流程。
 
 ## 1. 项目整体架构
 
-项目采用模块化设计，将原本单一的脚本拆分为：**指挥层**、**核心处理层**、**翻译层**、**第三方获取层**和**后勤工具层**。
+项目采用模块化设计，将原本单一的脚本拆分为：**启动层**、**指挥层**、**核心处理层**、**翻译层**、**第三方获取层**和**后勤工具层**。
 
 ### 目录结构预览
 ```text
 .
+├── start.ps1              # PowerShell 启动脚本（优先使用 .venv）
 ├── main.py                # 项目启动入口 (总指挥)
+├── .venv/                 # 本地虚拟环境（必须存在）
 ├── .env                   # 环境变量配置 (敏感信息，不提交)
 ├── config/
 │   └── config.ini         # RSS 源配置文件 (Git 提交)
 ├── data/
-│   ├── rss_state.json     # RSS 状态记录 (SHA256/时间，自动更新，Git 忽略)
+│   ├── rss_state.json     # RSS 状态记录 (字段名沿用 md5，实际为 SHA256/时间，Git 忽略)
 │   ├── items_cache.json   # 条目级增量缓存 (本地数据库，Git 忽略)
 │   └── debug/             # 调试用的原始 XML 文件和日志 (Git 忽略)
 ├── rss/                   # 生成的翻译 RSS 文件输出目录
@@ -40,16 +42,21 @@
 
 ## 2. 组件职能详解
 
-### A. 总指挥 (`main.py`)
+### A. 启动层 (`start.ps1`)
+负责在 Windows PowerShell 中启动项目：
+*   **环境检查**: 仅允许使用项目根目录下的 `.venv`，缺失时直接退出并提示先创建虚拟环境。
+*   **工作目录切换**: 自动切到仓库根目录后再启动 `main.py`。
+
+### B. 总指挥 (`main.py`)
 负责调度和协调各模块工作：
 *   **环境配置**: 从 `.env` 文件加载敏感信息（百度 API、腾讯云 API、DeepSeek API、Elsevier API 密钥）。
 *   **配置读取**: 通过 `ConfigManager` 读取 `config.ini` 中的 RSS 源配置，包括全局翻译服务选择。
 *   **翻译器初始化**: 根据配置（`service` 参数）和环境变量自动选择或手动指定翻译服务。
-*   **哈希过滤**: 利用 `rss_state.json` 的 SHA256 哈希值进行**第一道防线**检查（源文件是否变化）。
+*   **哈希过滤**: 利用 `rss_state.json` 中的哈希值进行**第一道防线**检查（函数名保留 `get_md5_value`，但实际使用 SHA256）。
 *   **容错机制**: 当 RSS 获取失败时，自动降级使用本地已生成的 XML 文件，确保 README 更新不中断。
 *   **README 更新**: 所有 RSS 处理完成后，调用 `readme_updater` 自动更新 README.md。
 
-### B. 核心处理流水线 (`src/core/processor.py`)
+### C. 核心处理流水线 (`src/core/processor.py`)
 系统的核心，具备**增量处理**、**深度清洗**和**智能容错**能力：
 
 1.  **增量检查**: 遍历 RSS 条目，查询 `Item Store`。
@@ -72,7 +79,7 @@
 
 5.  **调试日志**: 自动记录 Elsevier API 调用详情到 `data/debug/elsevier_debug.log`。
 
-### C. 翻译专员 (`src/translators/`)
+### D. 翻译专员 (`src/translators/`)
 *   **`base.py`**: 定义翻译器抽象基类。
 *   **`baidu.py`**: 百度翻译 API 实现，包含 QPS 限流重试机制。
 *   **`tencent.py`**: 腾讯云 TMT 翻译实现，使用 `tencentcloud-sdk-python`。
@@ -81,12 +88,12 @@
     *   **手动模式**: 若 `config.ini` 中指定了 `service`，则强制使用该服务。
     *   **自动模式**: 若设为 `auto`，则按 `DeepSeek -> Tencent -> Baidu` 的优先级自动检测可用密钥。
 
-### D. 第三方获取层 (`src/fetchers/`)
+### E. 第三方获取层 (`src/fetchers/`)
 *   **`elsevier.py`**: Elsevier API 摘要获取器。
 
-### E. 数据持久化 (`src/utils/`)
+### F. 数据持久化 (`src/utils/`)
 *   **`item_store.py`**: 管理文章级别的缓存，实现增量更新。
-*   **`state.py`**: 管理 Feed 级别的状态（MD5）。
+*   **`state.py`**: 管理 Feed 级别的状态（字段名沿用 `md5`，实际保存 SHA256 哈希）。
 *   **`config.py`**: 配置文件管理器。
 *   **`helpers.py`**: 工具函数集合。
 
@@ -101,7 +108,7 @@
 
 2.  **源级过滤**:
     *   遍历配置中的所有 RSS 源。
-    *   下载 RSS 内容并计算 SHA256 哈希。
+    *   下载 RSS 内容并计算哈希值（实际为 SHA256）。
     *   对比哈希值，跳过无变化的源。
 
 3.  **条目级过滤**:
@@ -120,6 +127,22 @@
     *   所有 RSS 处理完成后，统一更新 README.md。
 
 ---
+
+## 5. 运行方式
+
+1.  先创建并安装项目虚拟环境：
+    ```powershell
+    python -m venv .venv
+    .\.venv\Scripts\pip install -r requirements.txt
+    ```
+2.  之后直接运行：
+    ```powershell
+    .\start.ps1
+    ```
+3.  如果在 PowerShell profile 中配置了 `rss`，也可以直接输入：
+    ```powershell
+    rss
+    ```
 
 ## 6. 配置说明
 
@@ -152,7 +175,7 @@ action = "auto"        # 翻译语言: auto (= auto->zh) 或 en->zh, zh->en 等
 ## 更新日志 (Changelog)
 
 ### 2026-03-13
-*   **文档更新**: 修正文档中的哈希算法描述（MD5 -> SHA256）。
+*   **文档更新**: 修正文档中的哈希算法描述（字段名仍叫 md5，但实际计算为 SHA256）。
 *   **文档更新**: 更新 cooldown_hours 默认值描述（实际为 0，而非文档中所述的 24）。
 *   **文档更新**: 完善目录结构说明，确保所有文件都被正确列出。
 
