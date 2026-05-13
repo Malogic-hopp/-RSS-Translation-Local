@@ -8,30 +8,18 @@ if (-not (Test-Path ".\main.py")) {
     throw "Cannot find main.py in $scriptDir"
 }
 
-function Get-PythonCommand {
-    foreach ($name in @("python", "python3", "py")) {
-        try {
-            $cmd = Get-Command $name -ErrorAction Stop
-            if ($cmd.CommandType -eq "Application" -or $cmd.CommandType -eq "ExternalScript") {
-                return $cmd.Source
-            }
-            return $cmd.Name
-        } catch {
-        }
-    }
-
-    throw "Python is not available in PATH. Please install Python or add it to PATH."
-}
-
 $venvPython = Join-Path $scriptDir ".venv\Scripts\python.exe"
-if (Test-Path $venvPython) {
-    $python = $venvPython
-} else {
-    $python = Get-PythonCommand
+if (-not (Test-Path $venvPython)) {
+    throw @"
+找不到项目虚拟环境 `.venv`。
+请先在项目根目录创建并安装依赖：
+  python -m venv .venv
+  .\.venv\Scripts\pip install -r requirements.txt
+"@
 }
 
 Write-Host "Starting RSS Translation..." -ForegroundColor Cyan
 Write-Host "Working directory: $scriptDir" -ForegroundColor DarkGray
-Write-Host "Python: $python" -ForegroundColor DarkGray
+Write-Host "Python: $venvPython" -ForegroundColor DarkGray
 
-& $python main.py
+& $venvPython main.py
